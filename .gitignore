@@ -175,3 +175,6 @@ products_vectorstore/
 # ignore gradio private files
 .gradio
 /.gradio
+
+
+*.db

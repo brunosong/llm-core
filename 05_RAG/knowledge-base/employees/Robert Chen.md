@@ -1,67 +1,67 @@
-# HR Record
+# HR 기록
 
 # Robert Chen
 
-## Summary
-- **Date of Birth:** February 28, 1983
-- **Job Title:** Senior Full Stack Engineer
-- **Location:** San Francisco, California
-- **Current Salary:** $152,000
+## 요약
+- **생년월일:** 1983년 2월 28일
+- **직책:** Senior Full Stack Engineer
+- **근무지:** 캘리포니아주 샌프란시스코
+- **현재 연봉:** $152,000
 
-## Insurellm Career Progression
-- **January 2016 - Present:** Senior Full Stack Engineer
-  - Technical lead for Homellm home insurance portal
-  - Architects full-stack solutions using React, Node.js, and PostgreSQL
-  - Mentors team of 6 engineers
-  - Led 3 major platform releases
+## Insurellm 경력 진행
+- **2016년 1월 - 현재:** Senior Full Stack Engineer
+  - 홈 보험 포털인 Homellm의 기술 리드
+  - React, Node.js, PostgreSQL을 사용한 풀스택 솔루션 설계
+  - 엔지니어 6명으로 구성된 팀을 멘토링
+  - 3건의 주요 플랫폼 릴리스를 주도
 
-- **June 2012 - December 2015:** Full Stack Developer at WebSolutions Inc.
-  - Built web applications for enterprise clients
-  - Worked with various JavaScript frameworks and backend technologies
+- **2012년 6월 - 2015년 12월:** WebSolutions Inc., Full Stack Developer
+  - 엔터프라이즈 고객을 위한 웹 애플리케이션 구축
+  - 다양한 JavaScript 프레임워크 및 백엔드 기술 활용
 
-- **August 2008 - May 2012:** Software Engineer at TechStartup
-  - Developed features for SaaS platform
-  - Gained experience across full technology stack
+- **2008년 8월 - 2012년 5월:** TechStartup, Software Engineer
+  - SaaS 플랫폼을 위한 기능 개발
+  - 풀스택 기술 전반에 걸친 경험 축적
 
-## Annual Performance History
-- **2023:** Rating: 4.8/5
-  *Exceptional performance. Led critical platform modernization project. Outstanding technical leadership and mentorship.*
+## 연간 성과 이력
+- **2023년:** 평점 4.8/5
+  *탁월한 성과. 핵심 플랫폼 현대화 프로젝트를 이끔. 뛰어난 기술 리더십과 멘토링.*
 
-- **2022:** Rating: 4.6/5
-  *Exceeded expectations. Delivered major features ahead of schedule with high quality. Strong team collaboration.*
+- **2022년:** 평점 4.6/5
+  *기대치 초과 달성. 주요 기능을 일정보다 앞당겨 높은 품질로 전달함. 강력한 팀 협업.*
 
-- **2021:** Rating: 4.4/5
-  *Strong performance with successful migration to microservices architecture. Effective technical decision-making.*
+- **2021년:** 평점 4.4/5
+  *마이크로서비스 아키텍처로의 성공적인 마이그레이션과 함께 우수한 성과. 효과적인 기술적 의사결정.*
 
-- **2020:** Rating: 4.2/5
-  *Good performance maintaining productivity during remote transition. Supported team well through change.*
+- **2020년:** 평점 4.2/5
+  *원격 전환 기간에도 생산성을 유지한 양호한 성과. 변화하는 상황에서도 팀을 잘 지원함.*
 
-- **2019:** Rating: 4.5/5
-  *Excellent year with successful Homellm rewrite. Strong architectural contributions.*
+- **2019년:** 평점 4.5/5
+  *Homellm 재구축을 성공적으로 완료한 훌륭한 한 해. 뛰어난 아키텍처 기여.*
 
-- **2018:** Rating: 4.3/5
-  *Solid performance with consistent high-quality delivery. Growing into technical leadership role.*
+- **2018년:** 평점 4.3/5
+  *일관되게 높은 품질의 결과물을 전달한 우수한 성과. 기술 리더십 역할로 성장 중.*
 
-- **2017:** Rating: 4.1/5
-  *Good performance. Expanding expertise across full stack and taking on more complex features.*
+- **2017년:** 평점 4.1/5
+  *양호한 성과. 풀스택 전반의 전문성을 확장하며 더 복잡한 기능을 맡음.*
 
-- **2016:** Rating: 4.0/5
-  *Strong start at Insurellm. Quick to learn domain and contribute effectively.*
+- **2016년:** 평점 4.0/5
+  *Insurellm에서의 견실한 출발. 도메인을 빠르게 습득하고 효과적으로 기여함.*
 
-## Compensation History
-- **2023:** Base Salary: $152,000 + Bonus: $28,000
-- **2022:** Base Salary: $145,000 + Bonus: $25,000
-- **2021:** Base Salary: $138,000 + Bonus: $22,000
-- **2020:** Base Salary: $132,000 + Bonus: $20,000
-- **2019:** Base Salary: $125,000 + Bonus: $18,000
-- **2018:** Base Salary: $118,000 + Bonus: $15,000
-- **2017:** Base Salary: $112,000 + Bonus: $12,000
-- **2016:** Base Salary: $105,000 + Bonus: $10,000
+## 보상 이력
+- **2023년:** 기본급 $152,000 + 보너스 $28,000
+- **2022년:** 기본급 $145,000 + 보너스 $25,000
+- **2021년:** 기본급 $138,000 + 보너스 $22,000
+- **2020년:** 기본급 $132,000 + 보너스 $20,000
+- **2019년:** 기본급 $125,000 + 보너스 $18,000
+- **2018년:** 기본급 $118,000 + 보너스 $15,000
+- **2017년:** 기본급 $112,000 + 보너스 $12,000
+- **2016년:** 기본급 $105,000 + 보너스 $10,000
 
-## Other HR Notes
-- **Education:** MS in Computer Science from Stanford University, BS in Computer Engineering from MIT
-- **Technical Expertise:** Expert in React, Node.js, TypeScript, PostgreSQL, AWS, microservices architecture
-- **Recognition:** Engineering Excellence Award 2023, Technical Leadership Award 2021
-- **Mentorship:** Mentored 12 engineers during tenure. Known for developing junior talent into strong contributors.
-- **Patents:** Co-inventor on 1 patent for insurance processing optimization
-- **Feedback:** World-class engineer with exceptional technical and leadership skills. Trusted advisor to engineering leadership. Critical to company's technical success.
+## 기타 HR 메모
+- **학력:** Stanford University 컴퓨터공학 석사(MS), MIT 컴퓨터공학 학사(BS)
+- **기술 전문성:** React, Node.js, TypeScript, PostgreSQL, AWS, 마이크로서비스 아키텍처에 전문성 보유
+- **수상:** 2023년 Engineering Excellence Award, 2021년 Technical Leadership Award
+- **멘토링:** 재직 기간 동안 엔지니어 12명을 멘토링. 주니어 인재를 뛰어난 기여자로 성장시키는 것으로 정평이 남.
+- **특허:** 보험 처리 최적화 관련 특허 1건의 공동 발명자
+- **피드백:** 탁월한 기술력과 리더십을 겸비한 세계적 수준의 엔지니어. 엔지니어링 리더십의 신뢰받는 조언자. 회사의 기술적 성공에 핵심적인 인물.

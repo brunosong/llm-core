@@ -1,60 +1,60 @@
-# Product Summary
+# 제품 요약
 
-# Rellm: AI-Powered Enterprise Reinsurance Solution
+# Rellm: AI 기반 엔터프라이즈 재보험 솔루션
 
-## Summary
+## 요약
 
-Rellm is an innovative enterprise reinsurance product developed by Insurellm, designed to transform the way reinsurance companies operate. Harnessing the power of artificial intelligence, Rellm offers an advanced platform that redefines risk management, enhances decision-making processes, and optimizes operational efficiencies within the reinsurance industry. With seamless integrations and robust analytics, Rellm enables insurers to proactively manage their portfolios and respond to market dynamics with agility.
+Rellm은 재보험사의 운영 방식을 혁신하기 위해 Insurellm이 개발한 혁신적인 엔터프라이즈 재보험 상품입니다. 인공지능의 힘을 활용하여, Rellm은 리스크 관리를 재정의하고, 의사결정 프로세스를 강화하며, 재보험 산업 내 운영 효율성을 최적화하는 고급 플랫폼을 제공합니다. 매끄러운 통합과 견고한 분석 기능을 갖춘 Rellm을 통해 보험사는 포트폴리오를 선제적으로 관리하고 시장 역학에 민첩하게 대응할 수 있습니다.
 
-## Features
+## 기능
 
-### AI-Driven Analytics
-Rellm utilizes cutting-edge AI algorithms to provide predictive insights into risk exposures, enabling users to forecast trends and make informed decisions. Its real-time data analysis empowers reinsurance professionals with actionable intelligence.
+### AI 기반 분석
+Rellm은 최첨단 AI 알고리즘을 활용하여 리스크 노출에 대한 예측 인사이트를 제공함으로써 사용자가 트렌드를 예측하고 정보에 기반한 의사결정을 내릴 수 있도록 지원합니다. 실시간 데이터 분석은 재보험 전문가에게 실행 가능한 인텔리전스를 제공합니다.
 
-### Seamless Integrations
-Rellm's architecture is designed for effortless integration with existing systems. Whether it's policy management, claims processing, or financial reporting, Rellm connects seamlessly with diverse data sources to create a unified ecosystem.
+### 매끄러운 통합
+Rellm의 아키텍처는 기존 시스템과의 손쉬운 통합을 위해 설계되었습니다. 계약 관리, 청구 처리, 재무 보고 등 무엇이든 Rellm은 다양한 데이터 소스와 매끄럽게 연결되어 통합된 생태계를 구축합니다.
 
-### Risk Assessment Module
-The comprehensive risk assessment module within Rellm allows insurers to evaluate risk profiles accurately. By leveraging historical data and advanced modeling techniques, Rellm provides a clear picture of potential liabilities and expected outcomes.
+### 리스크 평가 모듈
+Rellm에 내장된 종합 리스크 평가 모듈을 통해 보험사는 리스크 프로필을 정확하게 평가할 수 있습니다. 과거 데이터와 고급 모델링 기법을 활용함으로써 Rellm은 잠재적 부채와 예상 결과에 대한 명확한 그림을 제공합니다.
 
-### Customizable Dashboard
-Rellm features a customizable dashboard that presents key metrics and performance indicators in an intuitive interface. Users can tailor their view to focus on what matters most to their business, enhancing user experience and productivity.
+### 맞춤형 대시보드
+Rellm은 직관적인 인터페이스로 핵심 지표와 성과 지표를 보여주는 맞춤형 대시보드를 제공합니다. 사용자는 자신의 사업에서 가장 중요한 부분에 초점을 맞추도록 화면을 조정할 수 있어 사용자 경험과 생산성이 향상됩니다.
 
-### Regulatory Compliance Tools
-Rellm includes built-in compliance tracking features to help organizations meet local and international regulatory standards. This ensures that reinsurance practices remain transparent and accountable.
+### 규제 준수 도구
+Rellm에는 조직이 국내 및 국제 규제 기준을 충족할 수 있도록 지원하는 내장형 규정 준수 추적 기능이 포함되어 있습니다. 이를 통해 재보험 관행이 투명하고 책임감 있게 유지됩니다.
 
-### Client and Broker Portals
-Rellm offers dedicated portals for both clients and brokers, facilitating real-time communication and documentation sharing. This strengthens partnerships and drives operational excellence across the board.
+### 고객 및 브로커 포털
+Rellm은 고객과 브로커 모두를 위한 전용 포털을 제공하여 실시간 커뮤니케이션과 문서 공유를 지원합니다. 이는 파트너십을 강화하고 전반적인 운영 우수성을 촉진합니다.
 
-## Pricing
+## 가격
 
-Insurellm offers flexible pricing plans for Rellm to cater to various business needs:
+Insurellm은 다양한 비즈니스 요구를 충족하기 위해 Rellm에 대해 유연한 가격 플랜을 제공합니다.
 
-- **Basic Plan**: $5,000/month
-  - Includes access to core features and standard integrations.
-  
-- **Professional Plan**: $10,000/month
-  - Includes all features, advanced integrations, and priority customer support.
-  
-- **Enterprise Plan**: Custom pricing
-  - Tailored solutions with personalized features, extensive integrations, and dedicated account management.
+- **베이직 플랜**: 월 $5,000
+  - 핵심 기능과 표준 통합에 대한 접근을 포함합니다.
 
-Join the growing number of organizations leveraging Rellm to enhance their reinsurance processes while driving profitability and compliance. 
+- **프로페셔널 플랜**: 월 $10,000
+  - 모든 기능, 고급 통합, 우선 고객 지원을 포함합니다.
 
-## 2025-2026 Roadmap
+- **엔터프라이즈 플랜**: 맞춤형 가격
+  - 개인화된 기능, 광범위한 통합, 전담 계정 관리를 갖춘 맞춤형 솔루션입니다.
 
-At Insurellm, we are committed to the continuous improvement of Rellm. Our roadmap for 2025-2026 includes:
+Rellm을 활용하여 재보험 프로세스를 개선하는 동시에 수익성과 규정 준수를 이끌어내는 점점 늘어나는 조직들에 합류하세요.
 
-- **Q3 2025**: 
-  - Launch of the Rellm Mobile App for on-the-go insights and management.
-  - Introduction of augmented reality (AR) features for interactive risk assessments.
+## 2025-2026 로드맵
 
-- **Q1 2026**: 
-  - Deployment of advanced machine learning models for even more accurate risk predictions.
-  - Expansion of integration capabilities to support emerging technologies in the insurance sector.
+Insurellm은 Rellm의 지속적인 개선에 전념하고 있습니다. 2025-2026년 로드맵은 다음과 같습니다.
 
-- **Q3 2026**: 
-  - Release of a community platform for Rellm users to exchange insights, tips, and best practices.
-  - Launch of Rellm 2.0, featuring enhanced user interface and premium features based on user feedback.
+- **2025년 3분기**:
+  - 이동 중 인사이트와 관리를 위한 Rellm 모바일 앱 출시.
+  - 인터랙티브 리스크 평가를 위한 증강현실(AR) 기능 도입.
 
-Experience the future of reinsurance with Rellm, where innovation meets reliability. Let Insurellm help you navigate the complexities of the reinsurance market smarter and faster.
+- **2026년 1분기**:
+  - 더욱 정확한 리스크 예측을 위한 고급 머신러닝 모델 배포.
+  - 보험 산업의 신흥 기술을 지원하기 위한 통합 기능 확장.
+
+- **2026년 3분기**:
+  - Rellm 사용자들이 인사이트, 팁, 모범 사례를 교류할 수 있는 커뮤니티 플랫폼 출시.
+  - 사용자 피드백을 기반으로 한 향상된 사용자 인터페이스와 프리미엄 기능을 갖춘 Rellm 2.0 출시.
+
+혁신이 신뢰성을 만나는 곳, Rellm과 함께 재보험의 미래를 경험하세요. Insurellm이 여러분이 재보험 시장의 복잡성을 더 스마트하고 빠르게 헤쳐나갈 수 있도록 돕겠습니다.

@@ -1,41 +1,41 @@
-# HR Record
+# HR 기록
 
 # Tyler Brooks
 
-## Summary
-- **Date of Birth:** September 9, 1998
-- **Job Title:** Junior Backend Developer
-- **Location:** Austin, Texas
-- **Current Salary:** $75,000
+## 요약
+- **생년월일:** 1998년 9월 9일
+- **직책:** Junior Backend Developer
+- **근무지:** 텍사스주 오스틴
+- **현재 연봉:** $75,000
 
-## Insurellm Career Progression
-- **August 2022 - Present:** Junior Backend Developer
-  - Develops backend services for Carllm auto insurance portal
-  - Works with Python, Django, and PostgreSQL
-  - Participates in code reviews and learns from senior engineers
-  - Fixed 45+ bugs and implemented 12 minor features
+## Insurellm 경력 진행
+- **2022년 8월 - 현재:** Junior Backend Developer
+  - 자동차 보험 포털인 Carllm의 백엔드 서비스 개발
+  - Python, Django, PostgreSQL을 활용
+  - 코드 리뷰에 참여하며 시니어 엔지니어로부터 학습
+  - 버그 45건 이상 수정 및 소규모 기능 12건 구현
 
-- **June 2021 - July 2022:** Software Engineering Intern
-  - Completed 14-month internship program at Insurellm
-  - Worked on various backend tasks and learned company tech stack
-  - Contributed to internal tools development
+- **2021년 6월 - 2022년 7월:** Software Engineering Intern
+  - Insurellm에서 14개월 인턴십 프로그램 수료
+  - 다양한 백엔드 업무를 수행하며 회사의 기술 스택을 습득
+  - 사내 도구 개발에 기여
 
-## Annual Performance History
-- **2023:** Rating: 3.2/5
-  *Meets basic expectations. Shows potential but needs to improve code quality and take more initiative. Sometimes requires excessive guidance on tasks.*
+## 연간 성과 이력
+- **2023년:** 평점 3.2/5
+  *기본적인 기대치는 충족함. 잠재력은 보이나 코드 품질을 개선하고 더 많은 주도성을 발휘할 필요가 있음. 때때로 업무에 과도한 지도가 필요함.*
 
-- **2022:** Rating: 3.5/5
-  *Adequate performance for a junior developer. Good learning attitude but needs to develop stronger problem-solving skills.*
+- **2022년:** 평점 3.5/5
+  *주니어 개발자로서 적절한 성과. 학습 태도는 좋으나 더 강한 문제 해결 능력을 개발할 필요가 있음.*
 
-## Compensation History
-- **2023:** Base Salary: $75,000 + Bonus: $2,000
-- **2022:** Base Salary: $72,000 + Bonus: $1,500
-- **2021:** Intern Stipend: $30/hour
+## 보상 이력
+- **2023년:** 기본급 $75,000 + 보너스 $2,000
+- **2022년:** 기본급 $72,000 + 보너스 $1,500
+- **2021년:** 인턴 급여 시급 $30
 
-## Other HR Notes
-- **Education:** BS in Computer Science from University of Texas at Austin (graduated 2021)
-- **Skills:** Proficient in Python and SQL. Learning system design and API development best practices.
-- **Development Areas:** Needs to improve debugging skills, code documentation, and independent problem-solving. Working with mentor on technical growth.
-- **Training:** Enrolled in advanced Python course and backend architecture fundamentals program
-- **Feedback:** Eager to learn but sometimes lacks confidence. Needs encouragement to ask questions earlier rather than struggling alone. Shows promise with continued mentorship and experience.
-- **Career Goals:** Aspires to become a mid-level backend engineer within 2 years
+## 기타 HR 메모
+- **학력:** University of Texas at Austin 컴퓨터공학 학사(BS) (2021년 졸업)
+- **역량:** Python과 SQL에 능숙함. 시스템 설계 및 API 개발 모범 사례를 학습 중.
+- **개선 영역:** 디버깅 능력, 코드 문서화, 독립적인 문제 해결 능력의 개선이 필요함. 멘토와 함께 기술적 성장을 도모 중.
+- **교육 이수:** 고급 Python 과정 및 백엔드 아키텍처 기초 프로그램에 등록함
+- **피드백:** 배우려는 의욕은 있으나 때때로 자신감이 부족함. 혼자 고민하기보다 더 일찍 질문할 수 있도록 격려가 필요함. 지속적인 멘토링과 경험을 통해 성장 가능성을 보임.
+- **경력 목표:** 2년 이내에 미드레벨 백엔드 엔지니어가 되는 것을 목표로 함

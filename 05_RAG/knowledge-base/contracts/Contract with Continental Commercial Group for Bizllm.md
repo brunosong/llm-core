@@ -1,131 +1,131 @@
-# Contract with Continental Commercial Group for Bizllm
+# Continental Commercial Group과 Bizllm 계약
 
-**Contract Date:** April 12, 2025
-**Contract Number:** BZ-2025-E-0147
-**Parties:**
+**계약일:** 2025년 4월 12일
+**계약 번호:** BZ-2025-E-0147
+**계약 당사자:**
 - Insurellm, Inc.
 - Continental Commercial Group, Inc.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide Continental Commercial Group with comprehensive access to the Bizllm Enterprise platform, including white-label capabilities, dedicated infrastructure, and full API access for commercial insurance operations across all 50 US states.
+1. **적용 범위:** Insurellm은 Continental Commercial Group에 미국 전체 50개 주에서의 상업보험 운영을 위한 화이트라벨 기능, 전용 인프라, 전체 API 접근 권한을 포함하여 Bizllm Enterprise 플랫폼에 대한 포괄적인 이용 권한을 제공하기로 합의합니다.
 
-2. **Duration:** This agreement is effective for a period of 36 months from the contract date, with provisions for early renewal discussions at the 24-month mark.
+2. **기간:** 본 계약은 계약일로부터 36개월간 유효하며, 24개월 시점에 조기 갱신 논의를 위한 조항을 포함합니다.
 
-3. **Payment:** Continental Commercial Group shall pay custom Enterprise pricing of $42,000 per month for the first 12 months, with pricing review and adjustment for years 2-3 based on usage metrics and expanded feature adoption.
+3. **결제:** Continental Commercial Group은 최초 12개월간 월 $42,000의 맞춤형 Enterprise 가격을 지불하며, 2~3년차 가격은 사용량 지표 및 확장된 기능 도입 현황을 바탕으로 검토 및 조정됩니다.
 
-4. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding proprietary algorithms, trade secrets, customer data, and business strategies disclosed during this partnership.
+4. **기밀 유지:** 양 당사자는 본 파트너십 과정에서 공개되는 독점 알고리즘, 영업비밀, 고객 데이터, 사업 전략에 관해 최고 수준의 기밀을 유지하기로 합의합니다.
 
-5. **Liability:** Insurellm's liability is limited to direct damages not exceeding the annual contract value. Continental Commercial Group maintains $25 million in cybersecurity insurance covering data breaches.
+5. **책임:** Insurellm의 책임은 연간 계약 금액을 초과하지 않는 직접 손해로 제한됩니다. Continental Commercial Group은 데이터 유출을 보장하는 2,500만 달러 규모의 사이버보안 보험을 유지합니다.
 
-6. **Service Level Agreement (SLA):** Insurellm guarantees 99.9% platform uptime, measured monthly. For each 0.1% below target, Continental receives a 5% monthly fee credit, up to a maximum of 25% monthly credit.
+6. **서비스 수준 계약(SLA):** Insurellm은 월 단위로 측정되는 99.9%의 플랫폼 가동률을 보장합니다. 목표치를 0.1% 하회할 때마다 Continental은 월 요금의 5%를 크레딧으로 받으며, 최대 월 25%까지 크레딧을 받을 수 있습니다.
 
-7. **Exclusivity:** Continental Commercial Group receives exclusive use of Bizllm in the specialty construction insurance vertical for the contract duration within North America.
-
----
-
-## Renewal
-
-This agreement includes a mutual 90-day renewal notice period. Continental Commercial Group receives right of first refusal on any new Bizllm features or modules developed for the commercial insurance sector. Renewal terms will be negotiated based on platform evolution, competitive landscape, and business performance metrics.
+7. **독점권:** Continental Commercial Group은 계약 기간 동안 북미 지역 내 특수 건설보험 부문에서 Bizllm을 독점적으로 사용할 권리를 갖습니다.
 
 ---
 
-## Features
+## 갱신
 
-Continental Commercial Group will receive the complete Bizllm Enterprise suite:
+본 계약은 90일의 상호 갱신 통지 기간을 포함합니다. Continental Commercial Group은 상업보험 부문을 위해 개발되는 모든 신규 Bizllm 기능 또는 모듈에 대해 최우선 협상권을 갖습니다. 갱신 조건은 플랫폼 발전 상황, 경쟁 환경, 사업 성과 지표를 바탕으로 협의됩니다.
 
-1. **White-Label Customization:** Full platform branding with Continental's logos, color schemes, and custom domain names for client-facing portals.
+---
 
-2. **Dedicated Cloud Infrastructure:** Private cloud deployment with dedicated servers, ensuring data isolation and optimized performance for Continental's 200+ concurrent users.
+## 기능
 
-3. **Unlimited API Access:** Full API integration capabilities with no call volume limits, enabling seamless connection to Continental's existing tech stack including:
-   - Duck Creek policy administration system
+Continental Commercial Group은 다음과 같은 완전한 Bizllm Enterprise 스위트를 이용하게 됩니다:
+
+1. **화이트라벨 맞춤화:** Continental의 로고, 색상 구성, 고객 대상 포털용 맞춤 도메인을 포함한 완전한 플랫폼 브랜딩.
+
+2. **전용 클라우드 인프라:** Continental의 200명 이상의 동시 사용자를 위해 데이터 격리와 최적화된 성능을 보장하는 전용 서버를 갖춘 프라이빗 클라우드 구축.
+
+3. **무제한 API 접근:** 호출 횟수 제한 없이 다음을 포함한 Continental의 기존 기술 스택과의 원활한 연동을 가능하게 하는 완전한 API 연동 기능:
+   - Duck Creek 계약 관리 시스템
    - Guidewire ClaimCenter
-   - Custom data warehouse and business intelligence platforms
-   - Third-party data providers (Verisk, ISO, Dun & Bradstreet)
+   - 맞춤형 데이터 웨어하우스 및 비즈니스 인텔리전스 플랫폼
+   - 제3자 데이터 제공업체(Verisk, ISO, Dun & Bradstreet)
 
-4. **Advanced Cyber Risk Module:** Comprehensive cyber insurance underwriting tools including:
-   - Automated security posture assessment
-   - Breach history analysis and dark web monitoring
-   - IT infrastructure vulnerability scanning
-   - Ransomware risk scoring
+4. **고급 사이버 리스크 모듈:** 다음을 포함하는 포괄적인 사이버보험 인수심사 도구:
+   - 자동 보안 태세 평가
+   - 유출 이력 분석 및 다크웹 모니터링
+   - IT 인프라 취약점 스캐닝
+   - 랜섬웨어 위험 스코어링
 
-5. **Custom Product Configuration:** Ability to configure and deploy unlimited custom commercial insurance products, including specialty lines such as:
-   - Construction surety and wrap-up programs
-   - Environmental liability
-   - Directors and officers (D&O) coverage
-   - Employment practices liability (EPLI)
+5. **맞춤형 상품 구성:** 다음과 같은 특수 종목을 포함하여 무제한의 맞춤형 상업보험 상품을 구성 및 배포할 수 있는 기능:
+   - 건설 보증 및 마무리(wrap-up) 프로그램
+   - 환경배상책임보험
+   - 임원배상책임보험(D&O)
+   - 고용관행배상책임보험(EPLI)
 
-6. **Predictive Analytics Engine:** Machine learning models for:
-   - Loss forecasting and reserve adequacy
-   - Optimal pricing recommendations
-   - Renewal probability scoring
-   - Cross-sell and upsell opportunity identification
+6. **예측 분석 엔진:** 다음을 위한 머신러닝 모델:
+   - 손실 예측 및 준비금 적정성 평가
+   - 최적 가격 추천
+   - 갱신 가능성 스코어링
+   - 교차 판매 및 상향 판매 기회 발굴
 
-7. **Agent Network Management:** Enterprise-grade agent portal supporting Continental's 3,500+ independent agents with hierarchical permissions, customizable commission structures, and real-time policy binding.
+7. **에이전트 네트워크 관리:** 계층별 권한, 맞춤형 수수료 구조, 실시간 계약 체결 기능을 갖춘 Continental의 3,500개 이상의 독립 대리점을 지원하는 엔터프라이즈급 에이전트 포털.
 
-8. **Regulatory Compliance Suite:** Automated compliance monitoring for all 50 states including form filing, rate approval tracking, and surplus lines requirements.
-
----
-
-## Support
-
-Insurellm commits to comprehensive Enterprise-level support:
-
-1. **Dedicated Success Team:**
-   - Named Chief Customer Officer oversight
-   - Dedicated Technical Account Manager (TAM)
-   - Solutions architect for ongoing optimization
-   - Quarterly executive business reviews with C-suite participation
-
-2. **24/7/365 Support:**
-   - Guaranteed 15-minute response time for critical issues
-   - 1-hour response for high-priority issues
-   - Dedicated Slack channel for real-time communication
-   - Monthly system health reports and optimization recommendations
-
-3. **Implementation and Onboarding:**
-   - 6-month implementation program with dedicated project manager
-   - Comprehensive training for up to 150 Continental staff members
-   - Custom training materials and certification program
-   - On-site support during first 90 days of production operation
-
-4. **Development and Customization:**
-   - 500 hours annually of custom development included
-   - Priority feature requests with guaranteed evaluation
-   - Beta access to all new features 60 days before general release
-   - Input into product roadmap and strategic direction
-
-5. **Data Services:**
-   - Quarterly data quality audits
-   - Annual data migration support for system upgrades
-   - Dedicated data warehouse with 7-year retention
-   - Custom reporting and analytics dashboard development
-
-6. **Performance Optimization:**
-   - Monthly platform performance reviews
-   - Proactive capacity planning and scaling recommendations
-   - Load testing before major product launches
-   - Dedicated infrastructure monitoring with real-time alerts
+8. **규제 준수 스위트:** 양식 신고, 요율 승인 추적, 초과보상선(surplus lines) 요건을 포함하여 50개 주 전체에 대한 자동 컴플라이언스 모니터링.
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 포괄적인 Enterprise 수준의 지원을 약속합니다:
+
+1. **전담 성공팀:**
+   - 지정된 Chief Customer Officer의 총괄 관리
+   - 전담 기술 계정 매니저(TAM)
+   - 지속적인 최적화를 위한 솔루션 아키텍트
+   - C레벨 임원이 참여하는 분기별 임원 비즈니스 리뷰
+
+2. **24/7/365 지원:**
+   - 긴급 문제에 대한 15분 응답 시간 보장
+   - 우선순위 높은 문제에 대한 1시간 응답
+   - 실시간 소통을 위한 전용 Slack 채널
+   - 월간 시스템 상태 보고서 및 최적화 권고사항
+
+3. **구축 및 온보딩:**
+   - 전담 프로젝트 매니저를 둔 6개월 구축 프로그램
+   - 최대 150명의 Continental 직원 대상 포괄적인 교육
+   - 맞춤형 교육 자료 및 인증 프로그램
+   - 프로덕션 운영 최초 90일간 현장 지원
+
+4. **개발 및 맞춤화:**
+   - 연간 500시간의 맞춤 개발 포함
+   - 우선순위 기능 요청에 대한 평가 보장
+   - 정식 출시 60일 전 모든 신규 기능에 대한 베타 접근권
+   - 제품 로드맵 및 전략 방향에 대한 의견 반영
+
+5. **데이터 서비스:**
+   - 분기별 데이터 품질 감사
+   - 시스템 업그레이드를 위한 연간 데이터 마이그레이션 지원
+   - 7년 보존 기간을 갖춘 전용 데이터 웨어하우스
+   - 맞춤형 리포팅 및 분석 대시보드 개발
+
+6. **성능 최적화:**
+   - 월간 플랫폼 성능 리뷰
+   - 선제적 용량 계획 및 확장 권고
+   - 주요 상품 출시 전 부하 테스트
+   - 실시간 알림을 갖춘 전용 인프라 모니터링
+
+---
+
+**서명:**
 
 _________________________________
 **Jennifer Rodriguez**
-**Title**: Chief Executive Officer
+**직책**: Chief Executive Officer
 **Insurellm, Inc.**
-**Date**: April 12, 2025
+**날짜**: 2025년 4월 12일
 
 _________________________________
 **Thomas Wellington**
-**Title**: President & Chief Operating Officer
+**직책**: President & Chief Operating Officer
 **Continental Commercial Group, Inc.**
-**Date**: April 12, 2025
+**날짜**: 2025년 4월 12일
 
 ---
 
-This agreement represents a strategic partnership between Insurellm and Continental Commercial Group to transform commercial insurance operations through cutting-edge technology and innovation. This contract supersedes all prior agreements and represents the complete understanding between both parties.
+본 계약은 최첨단 기술과 혁신을 통해 상업보험 운영을 혁신하기 위한 Insurellm과 Continental Commercial Group 간의 전략적 파트너십을 나타냅니다. 본 계약은 이전의 모든 계약을 대체하며, 양 당사자 간의 완전한 합의를 나타냅니다.

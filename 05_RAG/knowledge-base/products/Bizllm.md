@@ -1,59 +1,59 @@
-# Product Summary
+# 제품 요약
 
 # Bizllm
 
-## Summary
+## 요약
 
-Bizllm is Insurellm's enterprise-grade commercial insurance platform designed to revolutionize how insurers serve business customers. From small businesses to large corporations, Bizllm provides comprehensive tools for underwriting, policy administration, and risk management across multiple commercial lines including general liability, professional liability, property, workers' compensation, and cyber insurance. By leveraging AI and industry-specific data analytics, Bizllm enables commercial insurers to assess complex risks accurately, price policies competitively, and deliver exceptional service to business clients.
+Bizllm은 보험사가 기업 고객에게 서비스를 제공하는 방식을 혁신하기 위해 설계된 Insurellm의 엔터프라이즈급 상업보험 플랫폼입니다. 소규모 사업체부터 대기업에 이르기까지, Bizllm은 일반배상책임보험, 전문직배상책임보험, 재산보험, 산재보상보험, 사이버보험을 포함한 여러 상업보험 분야에서 언더라이팅, 계약 관리, 리스크 관리를 위한 포괄적인 도구를 제공합니다. AI와 산업별 데이터 분석을 활용함으로써 Bizllm은 상업보험사가 복잡한 리스크를 정확하게 평가하고, 경쟁력 있는 가격으로 상품을 설계하며, 기업 고객에게 뛰어난 서비스를 제공할 수 있게 합니다.
 
-## Features
+## 기능
 
-### 1. Multi-Line Underwriting Engine
-Bizllm's sophisticated underwriting platform handles diverse commercial insurance products within a single unified system. AI-powered risk assessment evaluates business operations, industry-specific exposures, and financial stability to generate accurate quotes across multiple coverage types.
+### 1. 다종목 언더라이팅 엔진
+Bizllm의 정교한 언더라이팅 플랫폼은 하나의 통합 시스템 안에서 다양한 상업보험 상품을 처리합니다. AI 기반 리스크 평가는 사업 운영, 산업별 노출 요인, 재무 안정성을 평가하여 여러 보장 유형에 걸쳐 정확한 견적을 산출합니다.
 
-### 2. Business Intelligence Integration
-The platform automatically gathers and analyzes data from business registries, financial databases, industry reports, and third-party risk intelligence sources to provide comprehensive underwriting insights without manual research.
+### 2. 비즈니스 인텔리전스 통합
+플랫폼은 사업자 등록 데이터베이스, 재무 데이터베이스, 산업 보고서, 제3자 리스크 인텔리전스 소스로부터 데이터를 자동으로 수집·분석하여 수작업 조사 없이 포괄적인 언더라이팅 인사이트를 제공합니다.
 
-### 3. Cyber Risk Assessment
-Specialized cyber insurance capabilities include automated evaluation of digital security postures, breach history analysis, and IT infrastructure assessment. The platform identifies vulnerabilities and recommends risk mitigation measures to reduce exposure.
+### 3. 사이버 리스크 평가
+특화된 사이버보험 기능에는 디지털 보안 태세에 대한 자동 평가, 침해 이력 분석, IT 인프라 평가가 포함됩니다. 플랫폼은 취약점을 식별하고 노출을 줄이기 위한 리스크 완화 조치를 제안합니다.
 
-### 4. Workers' Compensation Optimization
-Integrated workers' comp tools analyze payroll data, industry classifications, claims history, and safety programs to accurately price coverage and identify opportunities for premium credits through loss control initiatives.
+### 4. 산재보상보험 최적화
+통합된 산재보상 도구는 급여 데이터, 산업 분류, 청구 이력, 안전 프로그램을 분석하여 보장을 정확하게 산정하고 손실 관리 이니셔티브를 통한 보험료 크레딧 기회를 파악합니다.
 
-### 5. Commercial Property Evaluation
-Advanced property risk modeling incorporates location data, building characteristics, catastrophe modeling, and environmental hazards to assess property risks accurately. Integration with aerial imagery and IoT sensors provides real-time property condition monitoring.
+### 5. 상업용 재산 평가
+고도화된 재산 리스크 모델링은 위치 데이터, 건물 특성, 재해 모델링, 환경적 위험 요인을 결합하여 재산 리스크를 정확하게 평가합니다. 항공 이미지 및 IoT 센서와의 통합을 통해 실시간 재산 상태 모니터링을 제공합니다.
 
-### 6. Professional Liability Specialization
-Industry-specific professional liability underwriting for sectors including healthcare, legal, accounting, technology, and consulting. The platform evaluates professional credentials, claims history, and industry-specific risk factors.
+### 6. 전문직배상책임보험 특화
+의료, 법률, 회계, 기술, 컨설팅 등 업종별로 특화된 전문직배상책임 언더라이팅을 제공합니다. 플랫폼은 전문 자격, 청구 이력, 업종별 리스크 요인을 평가합니다.
 
-### 7. Portfolio Management Dashboard
-Comprehensive analytics provide insurers with portfolio-level insights including line-of-business performance, loss ratios, renewal rates, and geographic concentrations. Predictive analytics identify profitable growth opportunities and emerging risks.
+### 7. 포트폴리오 관리 대시보드
+종합적인 분석을 통해 보험사에 사업 라인별 성과, 손해율, 갱신율, 지역별 집중도 등 포트폴리오 수준의 인사이트를 제공합니다. 예측 분석은 수익성 있는 성장 기회와 신흥 리스크를 식별합니다.
 
-### 8. Agent and Broker Portal
-Dedicated portals enable distribution partners to quote, bind, and service commercial policies efficiently. Real-time commission tracking, marketing materials, and training resources support productive agency relationships.
+### 8. 대리점 및 중개인 포털
+전용 포털을 통해 유통 파트너가 상업보험 상품을 효율적으로 견적, 체결, 관리할 수 있습니다. 실시간 수수료 추적, 마케팅 자료, 교육 자료가 생산적인 대리점 관계를 뒷받침합니다.
 
-### 9. Claims Management Integration
-Seamless connection with claims systems enables fast incident reporting, reserve establishment, and loss tracking. AI-powered tools identify subrogation opportunities and predict claim severity for better reserves.
+### 9. 보험금 청구 관리 통합
+청구 시스템과의 매끄러운 연동을 통해 신속한 사고 접수, 준비금 설정, 손실 추적이 가능합니다. AI 기반 도구는 구상권 청구 기회를 파악하고 더 나은 준비금 산정을 위해 청구 심각도를 예측합니다.
 
-## Pricing
+## 가격
 
-Bizllm's pricing structure reflects the complexity and value of commercial insurance operations:
+Bizllm의 가격 체계는 상업보험 운영의 복잡성과 가치를 반영합니다.
 
-- **Business Tier:** $6,000/month for regional commercial insurers writing select lines of business, including core underwriting and policy administration.
-- **Professional Tier:** $12,000/month for multi-line carriers, adding cyber risk tools, advanced analytics, and expanded integration capabilities.
-- **Enterprise Tier:** Custom pricing for national and specialty commercial insurers requiring full customization, API access, dedicated environments, and white-label options.
+- **비즈니스 티어:** 특정 종목을 취급하는 지역 상업보험사를 위한 월 $6,000 요금제로, 핵심 언더라이팅과 계약 관리 기능을 포함합니다.
+- **프로페셔널 티어:** 다종목 보험사를 위한 월 $12,000 요금제로, 사이버 리스크 도구, 고급 분석, 확장된 통합 기능이 추가됩니다.
+- **엔터프라이즈 티어:** 완전한 맞춤화, API 접근, 전용 환경, 화이트라벨 옵션이 필요한 전국 규모 및 특화 상업보험사를 위한 맞춤형 가격입니다.
 
-All tiers include implementation services, staff training, and continuous platform updates.
+모든 티어에는 구축 서비스, 직원 교육, 지속적인 플랫폼 업데이트가 포함됩니다.
 
-## Roadmap
+## 로드맵
 
-Bizllm's forward-looking development roadmap includes:
+Bizllm의 향후 개발 로드맵은 다음과 같습니다.
 
-- **Q2 2025:** Launch of Bizllm version 1.0 with core multi-line underwriting, quoting, and policy administration.
-- **Q4 2025:** Introduction of enhanced cyber insurance capabilities including active threat monitoring and breach response coordination.
-- **Q2 2026:** Release of embedded IoT integration for real-time risk monitoring in property and workers' comp lines.
-- **Q4 2026:** Launch of parametric insurance module enabling rapid payout triggers for weather events and business interruption.
-- **Q2 2027:** Introduction of climate risk modeling tools incorporating forward-looking environmental data and transition risk analysis.
-- **Q4 2027:** Expansion into international markets with country-specific commercial insurance products and regulatory compliance.
+- **2025년 2분기:** 핵심 다종목 언더라이팅, 견적, 계약 관리 기능을 갖춘 Bizllm 버전 1.0 출시.
+- **2025년 4분기:** 능동적 위협 모니터링과 침해 대응 조율을 포함한 강화된 사이버보험 기능 도입.
+- **2026년 2분기:** 재산 및 산재보상 분야의 실시간 리스크 모니터링을 위한 내장형 IoT 통합 출시.
+- **2026년 4분기:** 기상 이변 및 사업 중단에 대한 신속한 지급 트리거를 지원하는 파라메트릭 보험 모듈 출시.
+- **2027년 2분기:** 미래지향적 환경 데이터와 전환 리스크 분석을 결합한 기후 리스크 모델링 도구 도입.
+- **2027년 4분기:** 국가별 맞춤 상업보험 상품과 규제 준수 기능을 갖추고 해외 시장으로 확장.
 
-Bizllm empowers commercial insurers to compete effectively in complex markets while delivering the digital experiences today's business customers demand. Transform your commercial insurance operations with Bizllm!
+Bizllm은 상업보험사가 복잡한 시장에서 효과적으로 경쟁하는 동시에 오늘날 기업 고객이 요구하는 디지털 경험을 제공할 수 있도록 지원합니다. Bizllm과 함께 여러분의 상업보험 운영을 혁신하세요!

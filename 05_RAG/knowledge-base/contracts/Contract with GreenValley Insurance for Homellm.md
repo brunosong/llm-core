@@ -1,77 +1,77 @@
-# Contract with GreenValley Insurance for Homellm
+# GreenValley Insurance와 Homellm 계약
 
-**Contract Date:** October 6, 2023  
-**Contract Number:** HV-2023-0458  
-**Parties:**  
+**계약일:** 2023년 10월 6일  
+**계약 번호:** HV-2023-0458  
+**계약 당사자:**  
 - Insurellm, Inc.  
 - GreenValley Insurance, LLC  
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide GreenValley Insurance with access to the Homellm product, allowing for personalized home insurance offerings tailored to customers.
+1. **보장 범위:** Insurellm은 GreenValley Insurance에게 Homellm 제품 이용 권한을 제공하기로 하며, 이를 통해 고객 맞춤형 주택보험 상품을 제공할 수 있도록 합니다.
    
-2. **Duration:** This agreement is effective for a period of 12 months from the contract date, after which it will automatically renew unless terminated by either party with a written 30-day notice.
+2. **계약 기간:** 본 계약은 계약일로부터 12개월간 유효하며, 이후 어느 한쪽 당사자가 30일 서면 통지로 해지하지 않는 한 자동으로 갱신됩니다.
 
-3. **Payment:** GreenValley Insurance shall pay a monthly fee of $10,000, due by the 5th of every month for the Standard Tier package. 
+3. **결제:** GreenValley Insurance는 Standard Tier 패키지에 대해 매월 5일까지 납부해야 하는 월 $10,000의 수수료를 지불합니다. 
 
-4. **Confidentiality:** Both parties agree to maintain the confidentiality of proprietary information disclosed during the execution of this contract.
+4. **기밀유지:** 양 당사자는 본 계약의 이행 과정에서 공개된 독점 정보의 기밀을 유지하는 데 동의합니다.
 
-5. **Liability:** Insurellm's liability under this agreement shall be limited to direct damages and shall not exceed the total fees paid by GreenValley Insurance in the last 12 months prior to the date of the claim.
-
----
-
-## Renewal
-
-Unless either party provides a written notice of termination at least 30 days prior to the expiration of the contract term, this agreement will automatically renew for an additional one-year term under the same terms and conditions.
+5. **책임 한도:** 본 계약에 따른 Insurellm의 책임은 직접 손해로 한정되며, 청구일 이전 최근 12개월간 GreenValley Insurance가 지불한 총 수수료를 초과하지 않습니다.
 
 ---
 
-## Features
+## 갱신
 
-GreenValley Insurance will receive the following features with Homellm:
+어느 한쪽 당사자가 계약 기간 만료 최소 30일 전에 해지에 대한 서면 통지를 하지 않는 한, 본 계약은 동일한 조건으로 추가 1년 기간 동안 자동으로 갱신됩니다.
 
-1. **AI-Powered Risk Assessment:** Access to advanced AI algorithms for real-time risk evaluations.
+---
+
+## 기능
+
+GreenValley Insurance는 Homellm과 함께 다음 기능을 제공받습니다.
+
+1. **AI 기반 리스크 평가:** 실시간 리스크 평가를 위한 고급 AI 알고리즘 이용.
    
-2. **Dynamic Pricing Model:** Flexible premium adjustments based on ongoing risk analysis.
+2. **동적 가격 책정 모델:** 지속적인 리스크 분석에 기반한 유연한 보험료 조정.
 
-3. **Instant Claim Processing:** Automated claim management to accelerate processing times significantly.
+3. **즉시 청구 처리:** 처리 시간을 대폭 단축하는 자동화된 청구 관리.
 
-4. **Predictive Maintenance Alerts:** Alerts for potential maintenance needs to mitigate risks.
+4. **예측 유지보수 알림:** 리스크 완화를 위한 잠재적 유지보수 필요사항 알림.
 
-5. **Multi-Channel Integration:** Capability to integrate seamlessly with existing systems for unified customer management.
+5. **다채널 통합:** 통합된 고객 관리를 위해 기존 시스템과 원활하게 연동할 수 있는 기능.
 
-6. **Customer Portal:** A user-friendly portal for their customers for policy and claims management.
+6. **고객 포털:** 고객사의 클라이언트를 위한 보험증권 및 청구 관리용 사용자 친화적 포털.
 
 ---
 
-## Support
+## 지원
 
-Insurellm commits to providing comprehensive support to GreenValley Insurance, which includes:
+Insurellm은 GreenValley Insurance에게 다음을 포함한 종합적인 지원을 제공하기로 합니다.
 
-1. **Onboarding:** An extensive training program for the GreenValley staff to ensure effective use of Homellm.
+1. **온보딩:** GreenValley 직원이 Homellm을 효과적으로 사용할 수 있도록 하는 광범위한 교육 프로그램.
    
-2. **Dedicated Support Team:** A dedicated support team available 24/7 to address any technical issues or inquiries.
+2. **전담 지원팀:** 기술적 문제나 문의사항을 해결하기 위해 연중무휴 24시간 이용 가능한 전담 지원팀.
 
-3. **Regular Updates:** Insurellm will offer ongoing updates and enhancements to the Homellm platform, including new features and security improvements.
+3. **정기 업데이트:** 신규 기능 및 보안 개선 사항을 포함하여 Homellm 플랫폼에 대한 지속적인 업데이트 및 개선 제공.
 
-4. **Feedback Implementation:** Insurellm will actively solicit feedback from GreenValley Insurance to ensure Homellm continues to meet their evolving needs.
+4. **피드백 반영:** Insurellm은 Homellm이 계속해서 GreenValley Insurance의 변화하는 요구를 충족할 수 있도록 적극적으로 피드백을 수렴합니다.
 
 ---
 
-**Signatures:**
+**서명:**
 
 _________________________________  
-**[Name]**  
-**Title**: CEO  
+**[성명]**  
+**직위**: CEO  
 **Insurellm, Inc.**
 
 _________________________________  
-**[Name]**  
-**Title**: COO  
+**[성명]**  
+**직위**: COO  
 **GreenValley Insurance, LLC**  
 
 ---
 
-This agreement represents the complete understanding of both parties regarding the use of the Homellm product and supersedes any prior agreements or communications.
+본 계약은 Homellm 제품 이용에 관한 양 당사자의 완전한 합의를 나타내며, 이전의 모든 계약 또는 협의를 대체합니다.

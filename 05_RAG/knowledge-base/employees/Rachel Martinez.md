@@ -1,53 +1,53 @@
-# HR Record
+# HR 기록
 
 # Rachel Martinez
 
-## Summary
-- **Date of Birth:** June 8, 1987
-- **Job Title:** Product Manager
-- **Location:** San Francisco, California
-- **Current Salary:** $135,000
+## 요약
+- **생년월일:** 1987년 6월 8일
+- **직책:** Product Manager
+- **근무지:** 캘리포니아주 샌프란시스코
+- **현재 연봉:** $135,000
 
-## Insurellm Career Progression
-- **March 2019 - Present:** Product Manager
-  - Leads product strategy for Carllm, the auto insurance portal
-  - Successfully launched three major feature releases that increased user engagement by 45%
-  - Manages cross-functional teams including engineering, design, and sales
+## Insurellm 경력 진행
+- **2019년 3월 - 현재:** Product Manager
+  - 자동차 보험 포털인 Carllm의 제품 전략을 이끔
+  - 사용자 참여도를 45% 높인 3건의 주요 기능 출시를 성공적으로 완료
+  - 엔지니어링, 디자인, 영업을 포함한 부서 간 팀을 관리
 
-- **January 2017 - February 2019:** Associate Product Manager
-  - Supported product development for Marketllm marketplace
-  - Conducted user research and competitive analysis
-  - Collaborated with engineering teams on feature prioritization
+- **2017년 1월 - 2019년 2월:** Associate Product Manager
+  - Marketllm 마켓플레이스의 제품 개발 지원
+  - 사용자 리서치 및 경쟁사 분석 수행
+  - 기능 우선순위 결정에서 엔지니어링 팀과 협업
 
-- **June 2015 - December 2016:** Business Analyst at TechInsure Corp
-  - Analyzed market trends and customer behavior in insurance tech sector
-  - Created business requirements documents for new product initiatives
+- **2015년 6월 - 2016년 12월:** TechInsure Corp, Business Analyst
+  - 보험 기술 부문의 시장 동향과 고객 행동 분석
+  - 신규 제품 이니셔티브를 위한 비즈니스 요구사항 문서 작성
 
-## Annual Performance History
-- **2023:** Rating: 4.6/5
-  *Exceptional year with successful launch of AI-powered claims prediction feature. Strong leadership and stakeholder management.*
+## 연간 성과 이력
+- **2023년:** 평점 4.6/5
+  *AI 기반 청구 예측 기능의 성공적인 출시로 뛰어난 한 해를 보냄. 강력한 리더십과 이해관계자 관리.*
 
-- **2022:** Rating: 4.2/5
-  *Met all product milestones but faced challenges with team alignment during Q3. Improved communication strategies by year end.*
+- **2022년:** 평점 4.2/5
+  *모든 제품 마일스톤을 달성했으나 3분기 팀 정렬 과제에 직면. 연말까지 커뮤니케이션 전략을 개선함.*
 
-- **2021:** Rating: 4.8/5
-  *Outstanding performance. Led product redesign that reduced customer churn by 20%. Received Product Excellence Award.*
+- **2021년:** 평점 4.8/5
+  *뛰어난 성과. 고객 이탈을 20% 줄인 제품 리디자인을 주도. Product Excellence Award 수상.*
 
-- **2020:** Rating: 3.8/5
-  *Solid performance but struggled with remote team coordination during pandemic transition. Adapted well by Q4.*
+- **2020년:** 평점 3.8/5
+  *우수한 성과이나 팬데믹 전환 기간 동안 원격 팀 조율에 어려움을 겪음. 4분기에는 잘 적응함.*
 
-- **2019:** Rating: 4.0/5
-  *Strong start as Product Manager. Successfully transitioned from APM role with minimal friction.*
+- **2019년:** 평점 4.0/5
+  *Product Manager로서 견실한 출발. APM 역할에서 마찰 없이 성공적으로 전환함.*
 
-## Compensation History
-- **2023:** Base Salary: $135,000 + Bonus: $20,000
-- **2022:** Base Salary: $128,000 + Bonus: $15,000
-- **2021:** Base Salary: $120,000 + Bonus: $18,000
-- **2020:** Base Salary: $110,000 + Bonus: $8,000
-- **2019:** Base Salary: $105,000 + Bonus: $10,000
+## 보상 이력
+- **2023년:** 기본급 $135,000 + 보너스 $20,000
+- **2022년:** 기본급 $128,000 + 보너스 $15,000
+- **2021년:** 기본급 $120,000 + 보너스 $18,000
+- **2020년:** 기본급 $110,000 + 보너스 $8,000
+- **2019년:** 기본급 $105,000 + 보너스 $10,000
 
-## Other HR Notes
-- **Professional Development:** Completed Product Leadership Certification from Pragmatic Institute (2021). Regular attendee at ProductCon and InsurTech conferences.
-- **Mentorship:** Currently mentors two Associate Product Managers and actively participates in the Women in Tech initiative at Insurellm.
-- **Skills:** Expert in Agile/Scrum methodologies, JIRA, Figma, SQL, and product analytics tools.
-- **Feedback:** Known for her strategic thinking and ability to balance customer needs with business objectives. Strong communicator who bridges technical and business stakeholders effectively.
+## 기타 HR 메모
+- **전문성 개발:** Pragmatic Institute의 Product Leadership 인증 과정 이수(2021). ProductCon 및 InsurTech 컨퍼런스 정기 참석.
+- **멘토링:** 현재 Associate Product Manager 2명을 멘토링하고 있으며 Insurellm의 Women in Tech 이니셔티브에 적극 참여.
+- **역량:** Agile/Scrum 방법론, JIRA, Figma, SQL, 제품 분석 도구에 전문성 보유.
+- **피드백:** 전략적 사고와 고객 요구 및 비즈니스 목표 간 균형을 맞추는 능력으로 정평이 남. 기술 및 비즈니스 이해관계자를 효과적으로 연결하는 뛰어난 커뮤니케이터.

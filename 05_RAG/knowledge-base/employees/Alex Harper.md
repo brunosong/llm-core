@@ -1,58 +1,58 @@
-# HR Record
+# 인사 기록
 
 # Alex Harper
 
-## Summary
-- **Date of Birth**: March 15, 1993
-- **Job Title**: Sales Development Representative (SDR)
-- **Location**: Denver, Colorado
-- **Current Salary**: $75,000  
+## 요약
+- **생년월일**: 1993년 3월 15일
+- **직책**: 영업 개발 담당자 (Sales Development Representative, SDR)
+- **근무지**: 콜로라도 주 덴버
+- **현재 연봉**: $75,000  
 
-## Insurellm Career Progression
-- **July 2021**: Joined Insurellm as a Sales Development Representative, focusing on lead generation and nurturing B2B relationships.  
-- **January 2022**: Promoted to Senior Sales Development Representative due to exceptional performance in converting leads into clients.  
-- **October 2022**: Completed an Internal Leadership Training Program, enhancing skills in team collaboration and strategic selling. Currently mentoring junior SDRs.  
-- **April 2023**: Became involved in a cross-departmental project to streamline the customer onboarding process, showcasing initiative and leadership.  
+## Insurellm 경력 진행
+- **2021년 7월**: Insurellm에 영업 개발 담당자로 입사, 리드 발굴 및 B2B 관계 육성에 집중.  
+- **2022년 1월**: 리드를 고객으로 전환하는 데 있어 뛰어난 성과를 인정받아 시니어 영업 개발 담당자로 승진.  
+- **2022년 10월**: 사내 리더십 교육 프로그램을 이수하여 팀 협업 및 전략적 영업 역량을 강화함. 현재 주니어 SDR들을 멘토링 중.  
+- **2023년 4월**: 고객 온보딩 프로세스를 간소화하는 부서 간 프로젝트에 참여하여 주도성과 리더십을 발휘함.  
 
-## Annual Performance History  
-- **2021**:  
-  - **Performance Rating**: 4.5/5  
-  - **Key Achievements**: Exceeded lead generation targets by 30%. Introduced a new CRM analytics tool resulting in improved tracking of customer interactions.  
+## 연간 성과 이력  
+- **2021년**:  
+  - **성과 평점**: 4.5/5  
+  - **주요 성과**: 리드 발굴 목표를 30% 초과 달성. 새로운 CRM 분석 도구를 도입하여 고객 상호작용 추적을 개선함.  
 
-- **2022**:  
-  - **Performance Rating**: 4.8/5  
-  - **Key Achievements**: Awarded "SDR of the Year" for outstanding contributions. Instrumental in securing 15 new B2B contracts, surpassing targets by 40%.  
+- **2022년**:  
+  - **성과 평점**: 4.8/5  
+  - **주요 성과**: 뛰어난 기여를 인정받아 "올해의 SDR"상을 수상. 15건의 신규 B2B 계약 체결에 주도적 역할을 하며 목표를 40% 초과 달성.  
 
-- **2023**:  
-  - **Performance Rating**: 4.7/5  
-  - **Key Achievements**: Played a key role in the launch of a new product line with a 25% increase in lead-to-conversion rates. Completed advanced sales negotiation training with high marks.  
+- **2023년**:  
+  - **성과 평점**: 4.7/5  
+  - **주요 성과**: 신규 제품 라인 출시에서 핵심 역할을 수행하여 리드-전환율을 25% 향상시킴. 고급 영업 협상 교육을 우수한 성적으로 이수.  
 
-## Compensation History  
-- **2021**:  
-  - **Base Salary**: $55,000  
-  - **Bonus**: $5,500 (10% of base due to performance)  
+## 보상 이력  
+- **2021년**:  
+  - **기본급**: $55,000  
+  - **보너스**: $5,500 (성과에 따른 기본급의 10%)  
 
-- **2022**:  
-  - **Base Salary**: $65,000 (Promotion to Senior SDR)  
-  - **Bonus**: $13,000 (20% of base due to performance)  
+- **2022년**:  
+  - **기본급**: $65,000 (시니어 SDR 승진)  
+  - **보너스**: $13,000 (성과에 따른 기본급의 20%)  
 
-- **2023**:  
-  - **Base Salary**: $75,000  
-  - **Bonus**: $15,000 (20% of base)  
+- **2023년**:  
+  - **기본급**: $75,000  
+  - **보너스**: $15,000 (기본급의 20%)  
 
-## Other HR Notes  
-- **Training Completed**:  
-  - CRM Analytics & Data Management Workshop (2021)  
-  - Leadership Training Program (2022)  
-  - Advanced Sales Negotiation Course (2023)  
+## 기타 인사 참고사항  
+- **이수한 교육**:  
+  - CRM 분석 및 데이터 관리 워크숍 (2021년)  
+  - 리더십 교육 프로그램 (2022년)  
+  - 고급 영업 협상 과정 (2023년)  
 
-- **Awards**:  
-  - Insurellm "SDR of the Year" Award (2022)  
-  - Monthly MVP Recognition (3 times in 2023)  
+- **수상 내역**:  
+  - Insurellm "올해의 SDR" 상 (2022년)  
+  - 월간 MVP 표창 (2023년 3회)  
 
-- **Interests**:  
-  - In Alex's spare time, they enjoy participating in community volunteer programs, particularly those focused on financial literacy.  
-  - Alex is also an avid runner and has participated in several charity marathons.  
+- **관심사**:  
+  - Alex는 여가 시간에 지역사회 자원봉사 프로그램, 특히 금융 이해력(financial literacy) 관련 활동에 참여하는 것을 즐긴다.  
+  - Alex는 열정적인 러너이기도 하며 여러 자선 마라톤 대회에 참가한 바 있다.  
 
-- **Feedback from HR**:  
-  - Alex Harper is noted for their work ethic, positive attitude, and willingness to go above and beyond for both clients and colleagues. Recognized for fostering a team spirit within the SDR team.  
+- **인사팀 피드백**:  
+  - Alex Harper는 성실한 업무 태도와 긍정적인 자세, 그리고 고객과 동료 모두를 위해 기꺼이 한 걸음 더 나아가는 자세로 인정받고 있다. SDR 팀 내에 팀워크 정신을 조성한 공로를 인정받음.  

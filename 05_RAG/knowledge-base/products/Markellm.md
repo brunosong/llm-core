@@ -1,55 +1,55 @@
-# Product Summary
+# 제품 요약
 
 # Markellm
 
-## Summary
+## 요약
 
-Markellm is an innovative two-sided marketplace designed to seamlessly connect consumers with insurance companies. Powered by advanced matching AI, Markellm transforms the insurance shopping experience, making it more efficient, personalized, and accessible. Whether you're a homeowner searching for the best rates on home insurance or an insurer looking to reach new customers, Markellm acts as the ultimate bridge, delivering tailored solutions for all parties involved. With a user-friendly interface and powerful algorithms, Markellm not only saves time but also enhances decision-making in the often-complex insurance landscape.
+Markellm은 소비자와 보험사를 매끄럽게 연결하기 위해 설계된 혁신적인 양방향 마켓플레이스입니다. 고급 매칭 AI를 기반으로 하는 Markellm은 보험 쇼핑 경험을 더욱 효율적이고, 개인화되고, 접근하기 쉽게 변화시킵니다. 주택 보험 최적의 요율을 찾는 주택 소유자든, 새로운 고객에게 다가가고자 하는 보험사든, Markellm은 관련된 모든 당사자에게 맞춤형 솔루션을 제공하는 궁극의 다리 역할을 합니다. 사용하기 쉬운 인터페이스와 강력한 알고리즘을 갖춘 Markellm은 시간을 절약해줄 뿐만 아니라 종종 복잡한 보험 환경에서 의사결정을 향상시켜 줍니다.
 
-## Features
+## 기능
 
-- **AI-Powered Matching**: Markellm utilizes sophisticated AI algorithms to match consumers with the most suitable insurance products based on their individual needs and preferences. This ensures that both parties get the best possible options.
+- **AI 기반 매칭**: Markellm은 정교한 AI 알고리즘을 활용하여 소비자를 개인의 니즈와 선호에 가장 적합한 보험 상품과 매칭합니다. 이를 통해 양측 모두 최상의 옵션을 확보할 수 있습니다.
 
-- **User-Friendly Interface**: Designed with user experience in mind, Markellm features an intuitive interface that allows consumers to easily browse and compare various insurance offerings from multiple providers.
+- **사용하기 쉬운 인터페이스**: 사용자 경험을 고려하여 설계된 Markellm은 직관적인 인터페이스를 통해 소비자가 여러 보험사의 다양한 상품을 손쉽게 탐색하고 비교할 수 있게 합니다.
 
-- **Real-Time Quotes**: Consumers can receive real-time quotes from different insurance companies, empowering them to make informed decisions quickly without endless back-and-forth communication.
+- **실시간 견적**: 소비자는 여러 보험사로부터 실시간 견적을 받을 수 있어 끝없는 대화를 주고받을 필요 없이 신속하게 정보에 기반한 결정을 내릴 수 있습니다.
 
-- **Customized Recommendations**: Based on user profiles and preferences, Markellm provides personalized insurance recommendations, ensuring consumers find the right coverage at competitive rates.
+- **맞춤형 추천**: 사용자 프로필과 선호도를 기반으로 Markellm은 개인화된 보험 추천을 제공하여 소비자가 경쟁력 있는 요율로 적합한 보장을 찾을 수 있도록 보장합니다.
 
-- **Secure Transactions**: Markellm prioritizes security, employing robust encryption methods to ensure that all transactions and data exchanges are safe and secure.
+- **안전한 거래**: Markellm은 보안을 최우선으로 하며, 견고한 암호화 방식을 채택하여 모든 거래와 데이터 교환이 안전하게 이루어지도록 보장합니다.
 
-- **Customer Support**: Our dedicated support team is always available to assist both consumers and insurers throughout the process, providing guidance and answering any questions that may arise.
+- **고객 지원**: 전담 지원팀이 항상 대기하며 소비자와 보험사 모두에게 프로세스 전반에 걸쳐 안내를 제공하고 발생하는 모든 질문에 답변합니다.
 
-- **Data Insights**: Insurers gain access to valuable data insights through Markellm's analytics dashboard, helping them understand market trends and consumer behavior to refine their offerings.
+- **데이터 인사이트**: 보험사는 Markellm의 분석 대시보드를 통해 귀중한 데이터 인사이트에 접근할 수 있어 시장 트렌드와 소비자 행동을 이해하고 상품을 개선하는 데 도움을 받을 수 있습니다.
 
-## Pricing
+## 가격
 
-At Markellm, we believe in transparency and flexibility. Our pricing structure is designed to accommodate different types of users—whether you're a consumer seeking insurance or an insurance provider seeking customers.
+Markellm은 투명성과 유연성을 신념으로 삼고 있습니다. 우리의 가격 체계는 보험을 찾는 소비자든 고객을 찾는 보험사든, 다양한 유형의 사용자를 수용하도록 설계되었습니다.
 
-### For Consumers:
-- **Free Membership**: Access to the marketplace at no cost, allowing unlimited browsing and comparisons.
-- **Premium Features**: Optional subscription at $9.99/month for advanced analytics on choices, priority customer support, and enhanced customization options.
+### 소비자용:
+- **무료 멤버십**: 마켓플레이스에 무료로 접근하여 무제한 탐색과 비교가 가능합니다.
+- **프리미엄 기능**: 선택별 고급 분석, 우선 고객 지원, 강화된 맞춤화 옵션을 위한 월 $9.99 구독 옵션.
 
-### For Insurance Companies:
-- **Basic Listing Fee**: $199/month for a featured listing on the platform, providing exposure to thousands of potential customers.
-- **Performance-Based Pricing**: Option for variable pricing based on successful customer acquisitions— pay $25 per lead generated through Markellm.
+### 보험사용:
+- **베이직 등록 수수료**: 플랫폼 내 추천 등록을 위한 월 $199 요금제로, 수천 명의 잠재 고객에게 노출될 수 있습니다.
+- **성과 기반 가격**: 성공적인 고객 확보를 기반으로 한 변동 가격 옵션 — Markellm을 통해 생성된 리드 1건당 $25 지불.
 
-## 2025-2026 Roadmap
+## 2025-2026 로드맵
 
-### Q1 2025
-- Launch a mobile app version of Markellm, making it even easier for consumers and insurers to connect on-the-go.
-- Introduce a referral program that rewards users for promoting Markellm to their network.
+### 2025년 1분기
+- 소비자와 보험사가 이동 중에도 더욱 쉽게 연결할 수 있도록 Markellm 모바일 앱 버전 출시.
+- 사용자가 자신의 네트워크에 Markellm을 홍보하면 보상을 받는 추천 프로그램 도입.
 
-### Q2 2025
-- Expand the marketplace to include additional insurance products, such as life and health insurance.
-- Partner with third-party data aggregators to enhance the accuracy of our AI matching capabilities.
+### 2025년 2분기
+- 생명보험 및 건강보험과 같은 추가 보험 상품을 포함하도록 마켓플레이스 확대.
+- AI 매칭 기능의 정확도를 높이기 위해 제3자 데이터 애그리게이터와 파트너십 체결.
 
-### Q3 2025
-- Initiate a comprehensive marketing campaign targeting both consumers and insurers to increase user acquisition and brand awareness.
-- Release user testimonials and case studies showcasing successful matches made through Markellm.
+### 2025년 3분기
+- 소비자와 보험사 확보 및 브랜드 인지도 향상을 위해 양측을 대상으로 한 종합 마케팅 캠페인 시작.
+- Markellm을 통해 성사된 성공적인 매칭 사례를 보여주는 사용자 후기와 사례 연구 공개.
 
-### Q4 2026
-- Implement machine learning enhancements to our AI algorithm, further increasing the precision and personalization of matches.
-- Explore international expansion opportunities, launching in select markets outside the US.
+### 2026년 4분기
+- AI 알고리즘에 머신러닝 개선을 적용하여 매칭의 정밀도와 개인화 수준을 한층 높임.
+- 미국 외 특정 시장 진출을 통한 해외 확장 기회 모색.
 
-Markellm is committed to improving the insurance experience for both consumers and providers. By leveraging technology and user insights, we aim to become the leading platform in the insurance marketplace ecosystem. Join us on this exciting journey towards smarter, more efficient insurance solutions!
+Markellm은 소비자와 보험사 모두를 위한 보험 경험 개선에 전념하고 있습니다. 기술과 사용자 인사이트를 활용하여 우리는 보험 마켓플레이스 생태계에서 선도적인 플랫폼이 되고자 합니다. 더 스마트하고 효율적인 보험 솔루션을 향한 이 흥미진진한 여정에 함께해 주세요!

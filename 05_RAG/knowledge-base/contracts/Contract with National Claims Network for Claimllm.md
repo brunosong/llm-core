@@ -1,182 +1,182 @@
-# Contract with National Claims Network for Claimllm
+# National Claims Network와 Claimllm 계약
 
-**Contract Date:** April 20, 2025
-**Contract Number:** CL-2025-E-0198
-**Parties:**
+**계약일:** 2025년 4월 20일
+**계약 번호:** CL-2025-E-0198
+**계약 당사자:**
 - Insurellm, Inc.
 - National Claims Network Corp.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide National Claims Network with enterprise access to the Claimllm platform, including white-label capabilities, unlimited claims capacity, advanced fraud analytics, and dedicated infrastructure to support their nationwide claims operations processing over 100,000 claims annually.
+1. **보장 범위:** Insurellm은 National Claims Network에게 화이트라벨 기능, 무제한 청구 처리 용량, 고급 사기 분석, 그리고 연간 10만 건 이상의 청구를 처리하는 전국 청구 운영을 지원하는 전용 인프라를 포함한 Claimllm 플랫폼 엔터프라이즈 이용 권한을 제공하기로 합니다.
 
-2. **Duration:** This agreement is effective for a period of 36 months from the contract date, representing Insurellm's longest-term contract commitment to date.
+2. **계약 기간:** 본 계약은 계약일로부터 36개월간 유효하며, 이는 현재까지 Insurellm이 체결한 최장기 계약에 해당합니다.
 
-3. **Payment:** National Claims Network shall pay custom Enterprise Tier pricing of $35,000 per month for months 1-12, $38,000 per month for months 13-24, and $41,000 per month for months 25-36, totaling $1,368,000 over the contract term.
+3. **결제:** National Claims Network는 맞춤형 Enterprise Tier 가격을 지불하며, 1~12개월차에는 월 $35,000, 13~24개월차에는 월 $38,000, 25~36개월차에는 월 $41,000을 지불하여 계약 기간 총액은 $1,368,000입니다.
 
-4. **Service Level Agreement:** Insurellm guarantees 99.95% uptime with financial credits for downtime: 5% monthly credit for each hour of unplanned downtime, maximum 50% monthly credit.
+4. **서비스 수준 계약:** Insurellm은 99.95%의 가동률을 보장하며, 다운타임에 대해 재정적 크레딧을 제공합니다. 계획되지 않은 다운타임 1시간당 5%의 월간 크레딧을 제공하되 최대 월간 크레딧은 50%입니다.
 
-5. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding proprietary AI models, fraud detection algorithms, claimant PII, and business strategies.
+5. **기밀유지:** 양 당사자는 독점 AI 모델, 사기 탐지 알고리즘, 청구인 개인식별정보(PII), 사업 전략에 관하여 최고 수준의 기밀을 유지하기로 합니다.
 
-6. **Data Security:** Insurellm commits to maintaining SOC 2 Type II compliance, annual penetration testing, and end-to-end encryption for all data at rest and in transit.
+6. **데이터 보안:** Insurellm은 SOC 2 Type II 준수, 연례 침투 테스트, 저장 및 전송 중인 모든 데이터에 대한 종단간 암호화를 유지하기로 합니다.
 
-7. **Business Continuity:** Insurellm provides disaster recovery with 4-hour RTO (Recovery Time Objective) and 1-hour RPO (Recovery Point Objective).
-
----
-
-## Renewal
-
-This agreement includes a mutual 120-day renewal notice period. National Claims Network receives guaranteed enterprise pricing for renewal equal to or better than new enterprise customers at renewal time. Contract may be extended in 12-month increments with mutual written agreement.
+7. **비즈니스 연속성:** Insurellm은 4시간의 RTO(복구 목표 시간)와 1시간의 RPO(복구 목표 시점)를 갖춘 재해 복구를 제공합니다.
 
 ---
 
-## Features
+## 갱신
 
-National Claims Network will receive the complete Claimllm Enterprise suite:
-
-1. **Unlimited Claims Processing:** No volume restrictions, supporting National's processing of 100,000+ claims annually with scalability to 500,000+ claims as business grows.
-
-2. **White-Label Platform:** Complete branding customization including:
-   - Custom domain names (claims.nationalclaimsnetwork.com)
-   - Branded mobile apps (iOS and Android)
-   - Customized email templates and communications
-   - Co-branded claimant portals
-
-3. **Advanced Computer Vision:** State-of-the-art damage assessment:
-   - Auto damage analysis with 95%+ accuracy on repair estimates
-   - Property damage evaluation (roofs, siding, interiors, water damage)
-   - Medical imaging analysis for injury claims
-   - 3D reconstruction from photo sets
-   - Integration with all major estimating platforms
-
-4. **Enterprise Fraud Analytics:**
-   - Real-time fraud scoring on all claims
-   - Social network analysis across 10+ years of historical data
-   - Dark web monitoring for organized fraud rings
-   - Predictive models trained on 5M+ historical claims
-   - Link analysis connecting related parties, addresses, and claims patterns
-   - Integration with third-party fraud databases (NICB, ISO ClaimSearch)
-
-5. **Complete API Access:** Unlimited API calls supporting:
-   - Real-time integrations with 50+ carrier policy systems
-   - Bi-directional data sync with National's data warehouse
-   - Third-party integrations (repair networks, medical providers, legal vendors)
-   - Custom automation workflows
-
-6. **AI-Powered Litigation Prediction:** Predictive analytics identifying claims with high litigation probability:
-   - Attorney involvement prediction (85%+ accuracy)
-   - Recommended settlement ranges based on jurisdiction and case law
-   - Early intervention recommendations
-   - Litigation cost estimation
-
-7. **Catastrophe Claims Management:** Specialized tools for major events:
-   - Rapid deployment playbooks for natural disasters
-   - Geographic clustering and resource allocation
-   - Emergency vendor network activation
-   - Real-time damage assessment using satellite imagery
-   - Mobile claims units with offline capability
-
-8. **Advanced Vendor Management:**
-   - Network of 5,000+ preferred vendors nationwide
-   - AI-powered vendor matching and assignment
-   - Real-time capacity management and scheduling
-   - Quality scoring and performance analytics
-   - Automated vendor payments and 1099 management
-
-9. **Predictive Analytics Suite:**
-   - Claim outcome prediction and reserve optimization
-   - Subrogation opportunity identification
-   - Salvage value estimation
-   - Customer satisfaction prediction and intervention triggers
-   - Cycle time optimization recommendations
+본 계약에는 상호 120일의 갱신 통지 기간이 포함됩니다. National Claims Network는 갱신 시점의 신규 엔터프라이즈 고객과 동등하거나 그보다 유리한 엔터프라이즈 가격을 갱신 시에도 보장받습니다. 계약은 양 당사자의 서면 합의에 따라 12개월 단위로 연장될 수 있습니다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to comprehensive Enterprise-level support for National Claims Network:
+National Claims Network는 완전한 Claimllm Enterprise 스위트를 제공받습니다.
 
-1. **Dedicated Success Team:**
-   - Executive sponsor (VP level) with monthly strategic reviews
-   - Dedicated Customer Success Manager with daily availability
-   - Technical Account Manager for system optimization
-   - Solutions Architect for ongoing innovation
-   - Quarterly executive business reviews with CEO participation
+1. **무제한 청구 처리:** 물량 제한이 없으며, National의 연간 10만 건 이상의 청구 처리를 지원하고 사업 성장에 따라 50만 건 이상까지 확장 가능합니다.
 
-2. **24/7/365 Premium Support:**
-   - Guaranteed 10-minute response time for P1 critical issues
-   - 30-minute response for P2 high-priority issues
-   - 2-hour response for P3 standard issues
-   - Dedicated support hotline with no phone tree
-   - Private Slack channel with engineering team access
-   - Annual on-site support visits (minimum 4 per year)
+2. **화이트라벨 플랫폼:** 다음을 포함한 완전한 브랜딩 커스터마이징:
+   - 맞춤형 도메인명(claims.nationalclaimsnetwork.com)
+   - 브랜디드 모바일 앱(iOS 및 Android)
+   - 맞춤형 이메일 템플릿 및 커뮤니케이션
+   - 공동 브랜드 청구인 포털
 
-3. **Comprehensive Implementation:**
-   - 9-month phased implementation program
-   - Dedicated project management office (PMO)
-   - Executive steering committee with monthly meetings
-   - Migration of 3 years of historical claims data
-   - Training for 200+ National Claims Network staff
-   - Parallel processing period with legacy system
-   - Go-live support with on-site Insurellm team (4 weeks)
+3. **고급 컴퓨터 비전:** 최첨단 손해 평가:
+   - 수리 견적에 대해 95% 이상의 정확도를 갖춘 자동차 손해 분석
+   - 재산 손해 평가(지붕, 외장재, 실내, 수해)
+   - 상해 청구를 위한 의료 영상 분석
+   - 사진 세트로부터의 3D 재구성
+   - 모든 주요 견적 플랫폼과의 통합
 
-4. **Training and Enablement:**
-   - Role-based training programs (adjusters, supervisors, fraud investigators, IT, executives)
-   - Train-the-trainer program for National's learning team
-   - Certification programs with continuing education credits
-   - Annual user conference attendance (3 attendees)
-   - Quarterly advanced training sessions
-   - Unlimited access to online learning platform
+4. **엔터프라이즈 사기 분석:**
+   - 모든 청구에 대한 실시간 사기 점수 산정
+   - 10년 이상의 이력 데이터에 걸친 소셜 네트워크 분석
+   - 조직적 사기단을 위한 다크웹 모니터링
+   - 500만 건 이상의 이력 청구로 훈련된 예측 모델
+   - 관련 당사자, 주소, 청구 패턴을 연결하는 링크 분석
+   - 제3자 사기 데이터베이스(NICB, ISO ClaimSearch)와의 통합
 
-5. **Custom Development:**
-   - 1,000 hours annually of custom development included
-   - Dedicated development team for National-specific features
-   - Priority feature requests with guaranteed roadmap inclusion
-   - Beta program participation for all new features
-   - Input into product strategy and direction
+5. **완전한 API 접근:** 다음을 지원하는 무제한 API 호출:
+   - 50개 이상의 보험사 계약관리시스템과의 실시간 통합
+   - National의 데이터 웨어하우스와의 양방향 데이터 동기화
+   - 제3자 통합(수리 네트워크, 의료 제공자, 법률 벤더)
+   - 맞춤형 자동화 워크플로우
 
-6. **Integration Services:**
-   - Enterprise integration with National's systems:
-     - Policy administration systems (multiple carriers)
-     - Data warehouse and business intelligence platforms
-     - Financial systems (SAP, Oracle)
-     - Document management (SharePoint, M-Files)
-     - Communication platforms (Twilio, SendGrid)
-   - Ongoing integration support with 4-hour response SLA
-   - Quarterly integration health assessments
+6. **AI 기반 소송 예측:** 소송 가능성이 높은 청구를 식별하는 예측 분석:
+   - 변호사 개입 예측(85% 이상 정확도)
+   - 관할권 및 판례를 기반으로 한 권장 합의 범위
+   - 조기 개입 권고
+   - 소송 비용 추정
 
-7. **Analytics and Reporting:**
-   - Custom executive dashboard development
-   - Real-time operational dashboards
-   - Automated daily, weekly, and monthly reporting
-   - Ad-hoc analytics support (up to 20 requests/month)
-   - Industry benchmarking and competitive analysis
-   - Predictive modeling consultation
+7. **재해 청구 관리:** 대형 재해를 위한 특화 도구:
+   - 자연재해를 위한 신속 배치 플레이북
+   - 지역별 클러스터링 및 자원 배분
+   - 긴급 벤더 네트워크 가동
+   - 위성 이미지를 활용한 실시간 손해 평가
+   - 오프라인 기능을 갖춘 모바일 청구 처리 유닛
 
-8. **Continuous Improvement:**
-   - Quarterly process optimization workshops
-   - Annual efficiency audits with recommendations
-   - Best practice sharing from across Insurellm customer base
-   - Innovation labs to pilot emerging technologies (AI, blockchain, IoT)
+8. **고급 벤더 관리:**
+   - 전국 5,000개 이상의 우수 벤더 네트워크
+   - AI 기반 벤더 매칭 및 배정
+   - 실시간 용량 관리 및 일정 조율
+   - 품질 점수 산정 및 성과 분석
+   - 자동화된 벤더 결제 및 1099 관리
+
+9. **예측 분석 스위트:**
+   - 청구 결과 예측 및 준비금 최적화
+   - 구상권 기회 식별
+   - 잔존물 가치 추정
+   - 고객 만족도 예측 및 개입 트리거
+   - 처리 소요시간 최적화 권고
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 National Claims Network에 대해 종합적인 Enterprise 수준의 지원을 제공하기로 합니다.
+
+1. **전담 고객성공팀:**
+   - 월간 전략 검토를 진행하는 임원 스폰서(VP급)
+   - 매일 이용 가능한 전담 고객성공 관리자(CSM)
+   - 시스템 최적화를 담당하는 기술 계정 관리자(TAM)
+   - 지속적인 혁신을 위한 솔루션 아키텍트
+   - CEO가 참여하는 분기별 경영진 비즈니스 리뷰
+
+2. **연중무휴 24시간 프리미엄 지원:**
+   - P1 긴급 사안에 대해 10분 이내 응답 보장
+   - P2 고우선순위 사안에 대해 30분 이내 응답
+   - P3 표준 사안에 대해 2시간 이내 응답
+   - 전화 자동응답 없는 전담 지원 핫라인
+   - 엔지니어링 팀 접근이 가능한 비공개 Slack 채널
+   - 연간 현장 지원 방문(연 최소 4회)
+
+3. **종합적인 구축 지원:**
+   - 9개월 단계적 구축 프로그램
+   - 전담 프로젝트 관리 사무국(PMO)
+   - 월간 회의를 진행하는 경영진 운영위원회
+   - 3년치 이력 청구 데이터 마이그레이션
+   - National Claims Network 직원 200명 이상 교육
+   - 레거시 시스템과의 병행 처리 기간
+   - Insurellm 현장 팀 상주(4주)를 통한 오픈 지원
+
+4. **교육 및 역량 강화:**
+   - 역할별 교육 프로그램(손해사정사, 관리자, 사기조사관, IT, 경영진)
+   - National의 교육팀을 위한 트레이너 양성 프로그램
+   - 평생교육 학점이 포함된 인증 프로그램
+   - 연례 사용자 컨퍼런스 참석(3명)
+   - 분기별 고급 교육 세션
+   - 온라인 학습 플랫폼 무제한 이용
+
+5. **맞춤형 개발:**
+   - 연간 1,000시간의 맞춤형 개발 포함
+   - National 전용 기능을 위한 전담 개발팀
+   - 로드맵 반영을 보장하는 우선 기능 요청
+   - 모든 신규 기능에 대한 베타 프로그램 참여
+   - 제품 전략 및 방향성에 대한 의견 반영
+
+6. **통합 서비스:**
+   - National의 시스템과의 엔터프라이즈 통합:
+     - 계약관리시스템(복수의 보험사)
+     - 데이터 웨어하우스 및 비즈니스 인텔리전스 플랫폼
+     - 재무 시스템(SAP, Oracle)
+     - 문서 관리(SharePoint, M-Files)
+     - 커뮤니케이션 플랫폼(Twilio, SendGrid)
+   - 4시간 응답 SLA를 갖춘 지속적인 통합 지원
+   - 분기별 통합 상태 점검
+
+7. **분석 및 보고:**
+   - 맞춤형 경영진 대시보드 개발
+   - 실시간 운영 대시보드
+   - 자동화된 일간, 주간, 월간 보고
+   - 임시 분석 지원(월 최대 20건)
+   - 업계 벤치마킹 및 경쟁 분석
+   - 예측 모델링 컨설팅
+
+8. **지속적 개선:**
+   - 분기별 프로세스 최적화 워크숍
+   - 권고사항이 포함된 연례 효율성 감사
+   - Insurellm 전체 고객 기반의 모범 사례 공유
+   - 신흥 기술(AI, 블록체인, IoT) 시범 도입을 위한 혁신 랩
+
+---
+
+**서명:**
 
 _________________________________
 **Jennifer Rodriguez**
-**Title**: Chief Executive Officer
+**직위**: Chief Executive Officer
 **Insurellm, Inc.**
-**Date**: April 20, 2025
+**날짜**: 2025년 4월 20일
 
 _________________________________
 **Amanda Richardson**
-**Title**: President & Chief Operating Officer
+**직위**: President & Chief Operating Officer
 **National Claims Network Corp.**
-**Date**: April 20, 2025
+**날짜**: 2025년 4월 20일
 
 ---
 
-This agreement represents a strategic partnership between Insurellm and National Claims Network, establishing National Claims Network as Insurellm's flagship enterprise claims processing partner. This contract supersedes all prior agreements and communications.
+본 계약은 Insurellm과 National Claims Network 간의 전략적 파트너십을 나타내며, National Claims Network를 Insurellm의 대표 엔터프라이즈 청구 처리 파트너로 확립합니다. 본 계약은 이전의 모든 계약 및 협의를 대체합니다.

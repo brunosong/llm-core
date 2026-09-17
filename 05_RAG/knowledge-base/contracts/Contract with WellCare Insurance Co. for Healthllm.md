@@ -1,166 +1,166 @@
-# Contract with WellCare Insurance Co. for Healthllm
+# WellCare Insurance Co.와 Healthllm에 관한 계약
 
-**Contract Date:** March 8, 2025
-**Contract Number:** HL-2025-0021
-**Parties:**
+**계약일:** 2025년 3월 8일
+**계약 번호:** HL-2025-0021
+**계약 당사자:**
 - Insurellm, Inc.
 - WellCare Insurance Co.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide WellCare Insurance Co. with access to the Healthllm platform, enabling comprehensive health insurance operations including plan design, eligibility verification, claims adjudication, and member engagement.
+1. **제공 범위:** Insurellm은 WellCare Insurance Co.에 Healthllm 플랫폼 이용 권한을 제공하기로 합의하며, 이를 통해 플랜 설계, 자격 확인, 청구 심사, 회원 참여를 포함한 종합적인 건강보험 운영이 가능해진다.
 
-2. **Duration:** This agreement is effective for a period of 12 months from the contract date, with automatic renewal unless terminated with 30-day written notice.
+2. **기간:** 본 계약은 계약일로부터 12개월간 유효하며, 30일 전 서면 통지에 의한 해지가 없는 한 자동 갱신된다.
 
-3. **Payment:** WellCare Insurance Co. shall pay a monthly fee of $8,000, due by the 1st of every month for the Essential Tier package.
+3. **결제:** WellCare Insurance Co.는 Essential Tier 패키지에 대해 매월 1일까지 $8,000의 월 요금을 납부해야 한다.
 
-4. **Member Coverage**: Essential Tier supports health insurance administration for up to 15,000 covered members. Current enrollment: 11,000 members.
+4. **회원 규모**: Essential Tier는 최대 15,000명의 가입 회원을 대상으로 한 건강보험 운영을 지원한다. 현재 가입자 수는 11,000명이다.
 
-5. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary information, protected health information (PHI), and member data in compliance with HIPAA regulations.
+5. **비밀유지:** 양 당사자는 HIPAA 규정을 준수하여 독점 정보, 보호대상 건강정보(PHI), 회원 데이터에 대해 엄격한 기밀을 유지하는 데 동의한다.
 
-6. **HIPAA Compliance:** Insurellm operates as a Business Associate and maintains full HIPAA compliance including Business Associate Agreement (BAA).
+6. **HIPAA 준수:** Insurellm은 Business Associate(업무 제휴자)로서 활동하며, Business Associate Agreement(BAA)를 포함한 완전한 HIPAA 준수를 유지한다.
 
-7. **Liability:** Insurellm's liability is limited to direct damages not exceeding the total fees paid in the preceding 12 months.
-
----
-
-## Renewal
-
-Unless either party provides written notice of termination at least 30 days prior to contract expiration, this agreement automatically renews for successive 12-month terms. Pricing may be adjusted annually with 60 days' advance notice, capped at 10% increase per year.
+7. **책임:** Insurellm의 책임은 직전 12개월간 지급된 총 수수료를 초과하지 않는 직접 손해로 제한된다.
 
 ---
 
-## Features
+## 갱신
 
-WellCare Insurance Co. will receive the following Essential Tier features:
-
-1. **Intelligent Plan Design:** AI-powered tools for creating competitive health plans:
-   - Market trend analysis and competitive benchmarking
-   - Member demographic analysis
-   - Healthcare utilization pattern analysis
-   - Benefit structure optimization
-   - Deductible and copay modeling
-   - Network configuration recommendations
-
-2. **Real-Time Eligibility Verification:** Instant coverage verification:
-   - Provider network integration for real-time checking
-   - Member status validation
-   - Coverage level confirmation
-   - Dependent eligibility verification
-   - Prior authorization status
-   - Reduces claim denials due to eligibility issues
-
-3. **AI-Driven Claims Adjudication:** Automated claims processing:
-   - Machine learning-based claims review
-   - Fraud detection and prevention
-   - Payment accuracy verification
-   - Auto-adjudication for clean claims
-   - Denial management and appeals tracking
-   - Learning from historical claim patterns
-
-4. **Provider Network Management:** Comprehensive network administration:
-   - Provider contract management
-   - Credentialing and re-credentialing workflows
-   - Network adequacy monitoring
-   - Provider performance metrics
-   - Contract negotiation analytics
-   - Cost savings opportunity identification
-
-5. **Member Engagement Platform:** Mobile-first member portal:
-   - Digital ID cards
-   - Claims status tracking
-   - Provider directory search
-   - Coverage information access
-   - Telehealth service integration
-   - Push notifications for preventive care
-
-6. **Basic Medication Management:**
-   - Formulary management tools
-   - Prior authorization workflows
-   - Generic substitution recommendations
-   - Drug interaction checking
-   - Medication adherence tracking
-
-7. **Regulatory Compliance Engine:**
-   - ACA (Affordable Care Act) compliance monitoring
-   - State mandate tracking
-   - HIPAA privacy and security compliance
-   - Automated regulatory reporting
-   - Form filing and approval tracking
-
-8. **Standard Analytics:** Dashboards tracking:
-   - Claims volume and processing time
-   - Medical loss ratio (MLR)
-   - Member satisfaction scores
-   - Provider network utilization
-   - Cost per member per month (PMPM)
+어느 한쪽 당사자가 계약 만료 최소 30일 전에 해지 서면 통지를 하지 않는 한, 본 계약은 연속되는 12개월 단위로 자동 갱신된다. 가격은 60일 전 사전 통지를 통해 매년 조정될 수 있으며, 연간 인상률은 최대 10%로 제한된다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to providing comprehensive support to WellCare Insurance Co.:
+WellCare Insurance Co.는 다음과 같은 Essential Tier 기능을 제공받는다.
 
-1. **Onboarding:** 4-week implementation program including:
-   - System configuration for WellCare's plan designs
-   - Training for up to 15 staff members (30 hours total)
-   - Integration with existing systems (policy admin, provider network)
-   - Data migration for current 11,000 members
-   - Provider network data import and validation
+1. **지능형 플랜 설계:** 경쟁력 있는 건강보험 플랜 설계를 위한 AI 기반 도구:
+   - 시장 동향 분석 및 경쟁 벤치마킹
+   - 회원 인구통계 분석
+   - 의료 이용 패턴 분석
+   - 보장 구조 최적화
+   - 공제금 및 본인부담금 모델링
+   - 네트워크 구성 권고
 
-2. **Technical Support:**
-   - Email and phone support Monday-Friday 7 AM - 7 PM EST
-   - Response time: 8 hours for critical issues, 24 hours for standard
-   - Online ticketing system with status tracking
-   - Knowledge base and FAQ library
-   - Video tutorials and user guides
+2. **실시간 자격 확인:** 즉시 보장 확인:
+   - 실시간 확인을 위한 제공자 네트워크 연동
+   - 회원 상태 검증
+   - 보장 수준 확인
+   - 피부양자 자격 확인
+   - 사전 승인 상태 확인
+   - 자격 관련 문제로 인한 청구 거부 감소
 
-3. **Platform Updates:**
-   - Quarterly feature releases with new capabilities
-   - Monthly security patches and bug fixes
-   - Regulatory compliance updates as laws change
-   - Release notes and upgrade documentation
-   - Advance notice of updates (minimum 21 days)
+3. **AI 기반 청구 심사:** 자동화된 청구 처리:
+   - 머신러닝 기반 청구 검토
+   - 사기 탐지 및 예방
+   - 결제 정확성 검증
+   - 정상 청구 자동 심사
+   - 거부 처리 및 이의신청 추적
+   - 과거 청구 패턴으로부터의 학습
 
-4. **Account Management:**
-   - Named customer success manager
-   - Quarterly business review meetings
-   - Usage analytics and optimization recommendations
-   - Industry trends and best practices sharing
-   - Assistance with tier upgrade evaluation
+4. **제공자 네트워크 관리:** 종합적인 네트워크 관리:
+   - 제공자 계약 관리
+   - 자격 인증 및 재인증 워크플로
+   - 네트워크 적정성 모니터링
+   - 제공자 성과 지표
+   - 계약 협상 분석
+   - 비용 절감 기회 식별
 
-5. **Compliance Support:**
-   - Annual HIPAA compliance review
-   - Regulatory update notifications
-   - State insurance department filing assistance
-   - ACA reporting support (1095 forms)
-   - Audit preparation assistance
+5. **회원 참여 플랫폼:** 모바일 우선 회원 포털:
+   - 디지털 신분증
+   - 청구 상태 추적
+   - 제공자 디렉터리 검색
+   - 보장 정보 조회
+   - 원격의료 서비스 연동
+   - 예방 관리를 위한 푸시 알림
 
-6. **Integration Support:** Technical assistance connecting Healthllm with:
-   - Existing policy administration systems
-   - Provider credentialing systems
-   - Pharmacy benefit managers (PBMs)
-   - Clearinghouses for EDI transactions
-   - Member portal and mobile apps
+6. **기본 의약품 관리:**
+   - 처방 목록(포뮬러리) 관리 도구
+   - 사전 승인 워크플로
+   - 제네릭 대체 권고
+   - 약물 상호작용 확인
+   - 복약 순응도 추적
+
+7. **규제 준수 엔진:**
+   - ACA(적정부담보험법) 준수 모니터링
+   - 주별 의무 사항 추적
+   - HIPAA 개인정보보호 및 보안 준수
+   - 자동화된 규제 보고
+   - 서식 신고 및 승인 추적
+
+8. **표준 분석:** 다음을 추적하는 대시보드:
+   - 청구 건수 및 처리 시간
+   - 의료손해율(MLR)
+   - 회원 만족도 점수
+   - 제공자 네트워크 이용률
+   - 회원 1인당 월 비용(PMPM)
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 WellCare Insurance Co.에 다음과 같은 종합적인 지원을 제공하기로 약속한다.
+
+1. **온보딩:** 다음을 포함한 4주간의 도입 프로그램:
+   - WellCare 플랜 설계에 맞춘 시스템 구성
+   - 최대 15명의 직원 대상 교육(총 30시간)
+   - 기존 시스템(계약 관리, 제공자 네트워크)과의 연동
+   - 현재 11,000명 회원에 대한 데이터 이전
+   - 제공자 네트워크 데이터 가져오기 및 검증
+
+2. **기술 지원:**
+   - 월~금요일 오전 7시~오후 7시(미 동부 시간) 이메일 및 전화 지원
+   - 응답 시간: 긴급 사안 8시간, 표준 사안 24시간
+   - 상태 추적이 가능한 온라인 티켓 시스템
+   - 지식 베이스 및 FAQ 라이브러리
+   - 동영상 튜토리얼 및 사용자 가이드
+
+3. **플랫폼 업데이트:**
+   - 새로운 기능이 포함된 분기별 업데이트
+   - 월간 보안 패치 및 버그 수정
+   - 법률 변경에 따른 규제 준수 업데이트
+   - 릴리스 노트 및 업그레이드 문서 제공
+   - 업데이트 사전 통지(최소 21일 전)
+
+4. **계정 관리:**
+   - 전담 고객 성공 관리자 배정
+   - 분기별 비즈니스 리뷰 미팅
+   - 사용 현황 분석 및 최적화 권고
+   - 업계 동향 및 모범 사례 공유
+   - 등급 상향 검토 지원
+
+5. **규제 준수 지원:**
+   - 연간 HIPAA 준수 검토
+   - 규제 업데이트 알림
+   - 주 보험 감독 기관 신고 지원
+   - ACA 보고 지원(1095 서식)
+   - 감사 준비 지원
+
+6. **연동 지원:** Healthllm과 다음 시스템 간 연결을 위한 기술 지원:
+   - 기존 계약 관리 시스템
+   - 제공자 자격 인증 시스템
+   - 약제급여관리업체(PBM)
+   - EDI 거래를 위한 청구 중계소
+   - 회원 포털 및 모바일 앱
+
+---
+
+**서명:**
 
 _________________________________
 **Sarah Chen**
-**Title**: Vice President of Sales
+**직책**: Vice President of Sales
 **Insurellm, Inc.**
-**Date**: March 8, 2025
+**날짜**: 2025년 3월 8일
 
 _________________________________
 **Dr. Raymond Foster**
-**Title**: Chief Medical Officer & COO
+**직책**: Chief Medical Officer & COO
 **WellCare Insurance Co.**
-**Date**: March 8, 2025
+**날짜**: 2025년 3월 8일
 
 ---
 
-This agreement enables WellCare Insurance Co. to modernize their health insurance operations with AI-powered technology while ensuring regulatory compliance and improved member outcomes.
+본 계약을 통해 WellCare Insurance Co.는 규제 준수와 회원 성과 개선을 보장하는 동시에 AI 기반 기술로 건강보험 운영을 현대화할 수 있다.

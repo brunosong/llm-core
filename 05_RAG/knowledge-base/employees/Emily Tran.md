@@ -1,73 +1,73 @@
-# HR Record
+# 인사 기록
 
 # Emily Tran
 
-## Summary
-- **Date of Birth:** March 18, 1991
-- **Job Title:** Digital Marketing Specialist
-- **Location:** San Francisco, CA
-- **Current Salary:** $75,000  
+## 요약
+- **생년월일:** 1991년 3월 18일
+- **직책:** 디지털 마케팅 전문가 (Digital Marketing Specialist)
+- **근무지:** 캘리포니아 주 샌프란시스코
+- **현재 연봉:** $75,000  
 
 ---
 
-## Insurellm Career Progression
-- **February 2020 - Present**: Digital Marketing Specialist  
-   - Emily Tran has been pivotal in enhancing Insurellm's online presence through targeted social media campaigns and SEO strategies.
-   - Successfully managed a team of interns for the 'Spring Into Safety' initiative, increasing customer engagement by 35%.
+## Insurellm 경력 진행
+- **2020년 2월 - 현재**: 디지털 마케팅 전문가  
+   - Emily Tran은 타겟 소셜 미디어 캠페인과 SEO 전략을 통해 Insurellm의 온라인 입지를 강화하는 데 핵심적인 역할을 해왔다.
+   - 'Spring Into Safety' 이니셔티브를 위한 인턴 팀을 성공적으로 관리하여 고객 참여도를 35% 향상시킴.
 
-- **June 2018 - January 2020**: Marketing Coordinator  
-  - Assisted in the development and execution of marketing campaigns to promote Insurellm's products.
-  - Collected and analyzed data on customer demographics to inform Insurellm’s marketing strategies.
+- **2018년 6월 - 2020년 1월**: 마케팅 코디네이터  
+  - Insurellm 제품 홍보를 위한 마케팅 캠페인의 기획 및 실행을 지원.
+  - 고객 인구통계 데이터를 수집·분석하여 Insurellm의 마케팅 전략에 반영함.
 
-- **January 2017 - May 2018**: Marketing Intern  
-  - Supported the Marketing team by collaborating on content creation and digital advertising projects.
-  - Gained hands-on experience with marketing automation tools, enriching her skillset for her role in Insurellm.
-
----
-
-## Annual Performance History
-- **2023**:  
-  - Performance Rating: Exceeds Expectations  
-  - Key Achievements: Led the "Tech the Halls" campaign that resulted in a 50% increase in leads during the holiday season. 
-  - Emily Tran's innovative strategies and attention to detail have made her stand out among her peers.
-
-- **2022**:  
-  - Performance Rating: Meets Expectations  
-  - Key Achievements: Enhanced Insurellm's email marketing strategy, achieving a 25% open rate increase.
-
-- **2021**:  
-  - Performance Rating: Meets Expectations  
-  - Key Achievements: Contributed to the launch of a customer referral program that resulted in a 15% growth in B2C customers.
+- **2017년 1월 - 2018년 5월**: 마케팅 인턴  
+  - 콘텐츠 제작 및 디지털 광고 프로젝트에서 협업하며 마케팅팀을 지원.
+  - 마케팅 자동화 도구에 대한 실무 경험을 쌓아 Insurellm에서의 역할 수행에 필요한 역량을 키움.
 
 ---
 
-## Compensation History
-- **2023**:  
-  - Base Salary: $75,000  
-  - Bonus: $10,000 for exceeding annual targets.
+## 연간 성과 이력
+- **2023년**:  
+  - 성과 평점: 기대치 초과(Exceeds Expectations)  
+  - 주요 성과: 연휴 시즌 리드를 50% 증가시킨 "Tech the Halls" 캠페인을 주도함. 
+  - Emily Tran의 혁신적인 전략과 세심함은 동료들 사이에서 그녀를 돋보이게 만듦.
 
-- **2022**:  
-  - Base Salary: $70,000  
-  - Bonus: $5,000 for achieving marketing milestones.
+- **2022년**:  
+  - 성과 평점: 기대치 충족(Meets Expectations)  
+  - 주요 성과: Insurellm의 이메일 마케팅 전략을 개선하여 오픈율을 25% 향상시킴.
 
-- **2021**:  
-  - Base Salary: $67,500  
-  - No bonus due to reallocation of marketing funds during the pandemic.
-
----
-
-## Other HR Notes
-- **Training Completed**:  
-  - Advanced Digital Marketing Workshop (2021)  
-  - Analytics and Reporting in Digital Advertising (2022)
-
-- **Professional Development Goals**:  
-  - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.
-
-- **Hobbies**:  
-  - Emily enjoys photography and regularly contributes to Insurellm's social media content with her own high-quality images.
-  - She is also passionate about sustainability and organizes monthly team volunteer events for environmental awareness. 
+- **2021년**:  
+  - 성과 평점: 기대치 충족(Meets Expectations)  
+  - 주요 성과: 고객 추천 프로그램 출시에 기여하여 B2C 고객을 15% 성장시킴.
 
 ---
 
-Emily Tran continues to be a valuable asset to Insurellm, driving innovative marketing strategies that resonate with a diverse customer base. Her contributions have significantly enhanced the company's branding and customer outreach efforts.
+## 보상 이력
+- **2023년**:  
+  - 기본급: $75,000  
+  - 보너스: 연간 목표 초과 달성에 대해 $10,000.
+
+- **2022년**:  
+  - 기본급: $70,000  
+  - 보너스: 마케팅 마일스톤 달성에 대해 $5,000.
+
+- **2021년**:  
+  - 기본급: $67,500  
+  - 팬데믹 기간 마케팅 예산 재배분으로 인해 보너스 없음.
+
+---
+
+## 기타 인사 참고사항
+- **이수한 교육**:  
+  - 고급 디지털 마케팅 워크숍 (2021년)  
+  - 디지털 광고 분석 및 리포팅 (2022년)
+
+- **전문성 개발 목표**:  
+  - Emily Tran은 향후 2년 내 마케팅 매니저가 되는 것을 목표로 하며, 대규모 캠페인을 이끌고 주니어 팀원을 육성하는 데 집중하고자 한다.
+
+- **취미**:  
+  - Emily는 사진 촬영을 즐기며 자신이 찍은 고품질 이미지로 Insurellm의 소셜 미디어 콘텐츠에 정기적으로 기여하고 있다.
+  - 지속가능성(sustainability)에도 열정을 가지고 있으며, 환경 인식 제고를 위한 월간 팀 자원봉사 행사를 조직하고 있다. 
+
+---
+
+Emily Tran은 다양한 고객층에 반향을 일으키는 혁신적인 마케팅 전략을 이끌며 Insurellm에 계속해서 소중한 자산이 되고 있다. 그녀의 기여는 회사의 브랜딩과 고객 아웃리치 활동을 크게 향상시켰다.

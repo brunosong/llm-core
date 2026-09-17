@@ -1,67 +1,67 @@
-# HR Record
+# 인사 기록
 
 # Amanda Foster
 
-## Summary
-- **Date of Birth:** August 14, 1982
-- **Job Title:** HR Business Partner
-- **Location:** San Francisco, California
-- **Current Salary:** $115,000
+## 요약
+- **생년월일:** 1982년 8월 14일
+- **직책:** HR 비즈니스 파트너 (HR Business Partner)
+- **근무지:** 캘리포니아 주 샌프란시스코
+- **현재 연봉:** $115,000
 
-## Insurellm Career Progression
-- **September 2016 - Present:** HR Business Partner
-  - Partners with engineering and product leadership teams
-  - Supports 85 employees across multiple departments
-  - Leads talent acquisition strategy for technical roles
-  - Drives performance management and organizational development initiatives
+## Insurellm 경력 진행
+- **2016년 9월 - 현재:** HR 비즈니스 파트너
+  - 엔지니어링 및 제품 리더십 팀과 협력
+  - 여러 부서에 걸쳐 85명의 직원을 지원
+  - 기술직 채용 전략을 주도
+  - 성과 관리 및 조직 개발 이니셔티브를 추진
 
-- **March 2013 - August 2016:** Senior HR Generalist at TechVentures Inc.
-  - Managed full-cycle HR operations for 150-person startup
-  - Led benefits administration and employee relations
+- **2013년 3월 - 2016년 8월:** TechVentures Inc. 시니어 HR 제너럴리스트
+  - 150명 규모 스타트업의 전방위 HR 운영을 관리
+  - 복리후생 관리 및 직원 관계 업무를 주도
 
-- **June 2009 - February 2013:** HR Coordinator at Enterprise Corp.
-  - Supported recruiting and onboarding processes
-  - Assisted with HR compliance and policy implementation
+- **2009년 6월 - 2013년 2월:** Enterprise Corp. HR 코디네이터
+  - 채용 및 온보딩 프로세스를 지원
+  - HR 규정 준수 및 정책 시행을 보조
 
-## Annual Performance History
-- **2023:** Rating: 4.5/5
-  *Strong performance. Successfully led diversity hiring initiative resulting in 40% increase in underrepresented candidates. Effective partner to leadership.*
+## 연간 성과 이력
+- **2023년:** 평점: 4.5/5
+  *뛰어난 성과. 다양성 채용 이니셔티브를 성공적으로 주도하여 소외 계층 지원자를 40% 증가시킴. 리더십의 효과적인 파트너.*
 
-- **2022:** Rating: 4.3/5
-  *Exceeded expectations. Implemented new performance review system well-received by employees. Strong employee relations skills.*
+- **2022년:** 평점: 4.3/5
+  *기대치 초과. 직원들에게 좋은 반응을 얻은 새로운 성과 평가 시스템을 도입함. 뛰어난 직원 관계 역량.*
 
-- **2021:** Rating: 4.0/5
-  *Good performance. Managed challenging employee situations effectively. Supported smooth remote-to-hybrid transition.*
+- **2021년:** 평점: 4.0/5
+  *양호한 성과. 까다로운 직원 상황을 효과적으로 관리함. 원격-하이브리드 전환을 원활하게 지원.*
 
-- **2020:** Rating: 3.7/5
-  *Solid performance during unprecedented pandemic challenges. Helped navigate layoffs and policy changes with empathy.*
+- **2020년:** 평점: 3.7/5
+  *전례 없는 팬데믹 상황에서도 견실한 성과를 보임. 공감을 바탕으로 정리해고와 정책 변화를 헤쳐나가는 데 기여.*
 
-- **2019:** Rating: 4.2/5
-  *Strong year. Improved hiring velocity for engineering roles by 35%. Built strong relationships with department heads.*
+- **2019년:** 평점: 4.2/5
+  *뛰어난 한 해. 엔지니어링 직군의 채용 속도를 35% 개선함. 부서장들과 강한 신뢰 관계를 구축.*
 
-- **2018:** Rating: 4.1/5
-  *Good performance. Successfully scaled HR support as company grew rapidly.*
+- **2018년:** 평점: 4.1/5
+  *양호한 성과. 회사가 빠르게 성장하는 가운데 HR 지원을 성공적으로 확장함.*
 
-- **2017:** Rating: 3.9/5
-  *Solid first full year. Learning Insurellm culture and building credibility with leadership.*
+- **2017년:** 평점: 3.9/5
+  *견실한 첫 온전한 한 해. Insurellm의 문화를 익히고 리더십과의 신뢰를 쌓아감.*
 
-- **2016:** Rating: 3.8/5
-  *Good onboarding. Quick to understand business needs and HR priorities.*
+- **2016년:** 평점: 3.8/5
+  *양호한 온보딩. 비즈니스 요구와 HR 우선순위를 빠르게 파악함.*
 
-## Compensation History
-- **2023:** Base Salary: $115,000 + Bonus: $12,000
-- **2022:** Base Salary: $110,000 + Bonus: $10,000
-- **2021:** Base Salary: $105,000 + Bonus: $8,000
-- **2020:** Base Salary: $100,000 + Bonus: $5,000
-- **2019:** Base Salary: $96,000 + Bonus: $8,000
-- **2018:** Base Salary: $92,000 + Bonus: $7,000
-- **2017:** Base Salary: $88,000 + Bonus: $6,000
-- **2016:** Base Salary: $85,000
+## 보상 이력
+- **2023년:** 기본급: $115,000 + 보너스: $12,000
+- **2022년:** 기본급: $110,000 + 보너스: $10,000
+- **2021년:** 기본급: $105,000 + 보너스: $8,000
+- **2020년:** 기본급: $100,000 + 보너스: $5,000
+- **2019년:** 기본급: $96,000 + 보너스: $8,000
+- **2018년:** 기본급: $92,000 + 보너스: $7,000
+- **2017년:** 기본급: $88,000 + 보너스: $6,000
+- **2016년:** 기본급: $85,000
 
-## Other HR Notes
-- **Education:** MS in Human Resources Management from Cornell University, BA in Psychology from UCLA
-- **Certifications:** SHRM-SCP, Certified Diversity Professional
-- **Recognition:** HR Excellence Award 2023 for diversity initiatives
-- **Leadership:** Chairs Insurellm's Diversity & Inclusion committee
-- **Skills:** Expert in talent acquisition, performance management, employee relations, and organizational development. Strong coach and advisor to leadership.
-- **Feedback:** Trusted HR partner with excellent judgment and discretion. Strategic thinker who balances employee advocacy with business needs. Strong emotional intelligence.
+## 기타 인사 참고사항
+- **학력:** 코넬 대학교(Cornell University) 인적자원관리학 석사, UCLA 심리학 학사
+- **자격증:** SHRM-SCP, Certified Diversity Professional
+- **수상:** 다양성 이니셔티브 관련 2023 HR 우수상(HR Excellence Award)
+- **리더십:** Insurellm 다양성 및 포용성(Diversity & Inclusion) 위원회 위원장
+- **역량:** 채용, 성과 관리, 직원 관계, 조직 개발 분야의 전문가. 리더십에 대한 뛰어난 코치이자 조언자.
+- **피드백:** 뛰어난 판단력과 신중함을 갖춘 신뢰받는 HR 파트너. 직원 옹호와 비즈니스 필요 사이의 균형을 잡는 전략적 사고자. 강한 정서 지능을 보유.

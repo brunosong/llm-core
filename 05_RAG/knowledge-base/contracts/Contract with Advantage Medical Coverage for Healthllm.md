@@ -1,93 +1,93 @@
-# Contract with Advantage Medical Coverage for Healthllm
+# Advantage Medical Coverage와 Healthllm 계약
 
-**Contract Date:** April 18, 2025
-**Contract Number:** HL-2025-0124
+**계약일:** 2025년 4월 18일
+**계약 번호:** HL-2025-0124
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and Advantage Medical Coverage ("Client").
+1. **계약 당사자**: 본 계약은 Insurellm, Inc.("공급자")와 Advantage Medical Coverage("고객") 간에 체결됩니다.
 
-2. **License Grant**: Insurellm grants Advantage Medical Coverage a non-exclusive, non-transferable license to use the Healthllm Professional Tier platform.
+2. **라이선스 부여**: Insurellm은 Advantage Medical Coverage에게 Healthllm Professional Tier 플랫폼을 사용할 수 있는 비독점적이고 양도 불가능한 라이선스를 부여합니다.
 
-3. **Payment Terms**: Advantage Medical Coverage agrees to make monthly payments of $15,000 for the duration of this 18-month contract, totaling $270,000. Payments due on the 10th of each month via wire transfer.
+3. **결제 조건**: Advantage Medical Coverage는 본 18개월 계약 기간 동안 매월 $15,000를 지불하며, 총 지불 금액은 $270,000입니다. 결제는 매월 10일까지 전신 송금으로 이루어집니다.
 
-4. **Member Coverage**: Professional Tier supports up to 50,000 covered members. Advantage currently covers 32,000 members in 2 states.
+4. **가입 회원 규모**: Professional Tier는 최대 50,000명의 가입 회원을 지원합니다. Advantage는 현재 2개 주에서 32,000명의 회원을 보유하고 있습니다.
 
-5. **Confidentiality**: Both parties shall maintain confidentiality regarding proprietary information, member PHI, and business strategies throughout the contract duration and for 7 years post-termination, in compliance with HIPAA retention requirements.
+5. **기밀 유지**: 양 당사자는 계약 기간 동안 및 계약 종료 후 HIPAA 보존 요건에 따라 7년간 독점 정보, 회원 개인건강정보(PHI), 사업 전략에 관한 기밀을 유지해야 합니다.
 
-## Renewal
+## 갱신
 
-1. **Automatic Renewal**: This contract automatically renews for successive 18-month terms unless either party provides written notice of non-renewal at least 60 days prior to expiration.
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 만료일 최소 60일 전에 서면으로 갱신 거절을 통지하지 않는 한 18개월 단위로 자동 갱신됩니다.
 
-2. **Pricing Review**: Renewal pricing will be discussed 75 days prior to term end and mutually agreed upon in writing. Price increases limited to 7% annually.
+2. **가격 검토**: 갱신 가격은 계약 종료 75일 전에 논의되며 서면으로 상호 합의됩니다. 가격 인상은 연간 7%로 제한됩니다.
 
-## Features
+## 기능
 
-1. **Included Features**: Advantage Medical Coverage will have access to Healthllm Professional Tier features:
-   - Intelligent Plan Design with competitive benchmarking
-   - Real-Time Eligibility Verification with provider integration
-   - AI-Driven Claims Adjudication with auto-processing
-   - Predictive Healthcare Analytics for population health
-   - Provider Network Management with 8,000+ providers
-   - Member Engagement Platform with mobile app
-   - Advanced Medication Management with PBM integration
-   - Regulatory Compliance Engine (ACA, state mandates, HIPAA)
-   - Enhanced Analytics and predictive modeling
-   - Care management tools and workflows
+1. **포함된 기능**: Advantage Medical Coverage는 다음과 같은 Healthllm Professional Tier 기능을 이용할 수 있습니다:
+   - 경쟁사 벤치마킹을 포함한 지능형 플랜 설계
+   - 제공자 연동을 통한 실시간 자격 확인
+   - 자동 처리가 가능한 AI 기반 청구 심사
+   - 인구 집단 건강관리를 위한 예측 헬스케어 분석
+   - 8,000개 이상의 제공자 네트워크 관리
+   - 모바일 앱을 갖춘 회원 참여 플랫폼
+   - PBM 연동을 포함한 고급 약제 관리
+   - 규제 준수 엔진(ACA, 주 정부 의무 규정, HIPAA)
+   - 향상된 분석 및 예측 모델링
+   - 케어 관리 도구 및 업무 흐름
 
-2. **Value-Based Care Support:**
-   - ACO performance tracking and shared savings calculation
-   - HEDIS measure calculation for quality reporting
-   - Provider pay-for-performance scorecards
-   - Risk adjustment and HCC coding support
-   - Medicare STAR ratings optimization
+2. **가치 기반 진료(Value-Based Care) 지원:**
+   - ACO 성과 추적 및 공동 절감액 산정
+   - 품질 보고를 위한 HEDIS 지표 산출
+   - 제공자 성과 연동 보상(P4P) 스코어카드
+   - 위험 조정 및 HCC 코딩 지원
+   - 메디케어 STAR 등급 최적화
 
-3. **Telehealth Integration**: Built-in telehealth platform supporting:
-   - Video visits with in-network providers
-   - E-consults and asynchronous care
-   - Behavioral health virtual visits
-   - Member scheduling and appointment management
+3. **원격의료 연동**: 다음을 지원하는 내장형 원격의료 플랫폼:
+   - 네트워크 내 제공자와의 화상 진료
+   - 전자 상담 및 비동기 진료
+   - 행동건강 화상 진료
+   - 회원 예약 및 일정 관리
 
-## Support
+## 지원
 
-1. **Customer Support**: Insurellm will provide priority support to Advantage Medical Coverage:
-   - Dedicated support team Monday-Friday 6 AM - 9 PM EST
-   - Emergency support 24/7 for critical system issues
-   - Response time: 6 hours for critical, 12 hours for high priority, 24 hours for standard
-   - Private support portal with ticket tracking
+1. **고객 지원**: Insurellm은 Advantage Medical Coverage에 다음과 같은 우선 지원을 제공합니다:
+   - 월-금 오전 6시~오후 9시(동부표준시) 전담 지원팀 운영
+   - 중대한 시스템 문제 발생 시 24시간 연중무휴 긴급 지원
+   - 응답 시간: 긴급 6시간, 우선순위 높음 12시간, 표준 24시간
+   - 티켓 추적 기능을 갖춘 전용 지원 포털
 
-2. **Training**: Comprehensive training program:
-   - 5-week implementation with project manager
-   - Training for up to 30 staff members (45 hours total)
-   - Role-specific training tracks
-   - Quarterly webinars on new features
-   - Online training library with 75+ courses
+2. **교육**: 포괄적인 교육 프로그램:
+   - 프로젝트 매니저와 함께하는 5주간의 도입 과정
+   - 최대 30명의 직원 대상 교육(총 45시간)
+   - 직무별 맞춤 교육 트랙
+   - 신규 기능에 관한 분기별 웨비나
+   - 75개 이상의 강좌를 갖춘 온라인 교육 라이브러리
 
-3. **System Updates**: Monthly platform enhancements and bi-weekly security patches. Maintenance windows on Saturday 11 PM - Sunday 2 AM EST with 72-hour advance notice.
+3. **시스템 업데이트**: 월간 플랫폼 개선 및 격주 보안 패치가 제공됩니다. 유지보수 시간은 토요일 오후 11시부터 일요일 오전 2시(동부표준시)까지이며, 72시간 전 사전 통지됩니다.
 
-4. **Account Management**: Named senior customer success manager with quarterly business reviews and annual strategic planning session.
+4. **계정 관리**: 분기별 비즈니스 리뷰와 연간 전략 기획 세션을 담당하는 지정 시니어 고객성공 매니저가 배정됩니다.
 
-5. **Integration Support**: Technical assistance for integrating with:
-   - Advantage's HealthRules policy admin system
+5. **연동 지원**: 다음 시스템과의 연동을 위한 기술 지원:
+   - Advantage의 HealthRules 보험 계약 관리 시스템
    - Optum PBM
-   - Availity clearinghouse
-   - Provider credentialing platforms
-   - Member portal and mobile apps
+   - Availity 클리어링하우스
+   - 제공자 자격 인증 플랫폼
+   - 회원 포털 및 모바일 앱
 
 ---
 
-**Signatures:**
+**서명:**
 
 **Insurellm, Inc.**
 Sarah Chen, VP of Sales
-Date: April 18, 2025
+날짜: 2025년 4월 18일
 
 **Advantage Medical Coverage**
 Dr. Michael Ramirez, Chief Medical Officer
-Date: April 18, 2025
+날짜: 2025년 4월 18일
 
 ---
 
-This contract enables Advantage Medical Coverage to leverage advanced AI and predictive analytics for improved member health outcomes and operational efficiency.
+본 계약은 Advantage Medical Coverage가 회원 건강 성과 개선과 운영 효율성을 위해 첨단 AI 및 예측 분석 기술을 활용할 수 있도록 지원합니다.

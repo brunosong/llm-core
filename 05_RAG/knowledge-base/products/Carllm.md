@@ -1,67 +1,67 @@
-# Product Summary
+# 제품 요약
 
 # Carllm
 
-## Summary
+## 요약
 
-Carllm is an innovative auto insurance product developed by Insurellm, designed to streamline the way insurance companies offer coverage to their customers. Powered by cutting-edge artificial intelligence, Carllm utilizes advanced algorithms to deliver personalized auto insurance solutions, ensuring optimal coverage while minimizing costs. With a robust infrastructure that supports both B2B and B2C customers, Carllm redefines the auto insurance landscape and empowers insurance providers to enhance customer satisfaction and retention.
+Carllm은 보험사가 고객에게 보장을 제공하는 방식을 간소화하기 위해 Insurellm이 개발한 혁신적인 자동차 보험 상품입니다. 최첨단 인공지능을 기반으로 한 Carllm은 고급 알고리즘을 활용하여 맞춤형 자동차 보험 솔루션을 제공함으로써 최적의 보장과 비용 최소화를 동시에 실현합니다. B2B와 B2C 고객을 모두 지원하는 견고한 인프라를 갖춘 Carllm은 자동차 보험 산업의 판도를 새롭게 정의하며 보험사가 고객 만족도와 유지율을 높일 수 있도록 지원합니다.
 
-## Features
+## 기능
 
-- **AI-Powered Risk Assessment**: Carllm leverages artificial intelligence to analyze driver behavior, vehicle conditions, and historical claims data. This enables insurers to make informed decisions and set competitive premiums that reflect true risk profiles.
+- **AI 기반 리스크 평가**: Carllm은 인공지능을 활용하여 운전자 행동, 차량 상태, 과거 청구 데이터를 분석합니다. 이를 통해 보험사는 정보에 기반한 의사결정을 내리고 실제 리스크 프로필을 반영한 경쟁력 있는 보험료를 책정할 수 있습니다.
 
-- **Instant Quoting**: With Carllm, insurance companies can offer near-instant quotes to customers, enhancing the customer experience. The AI engine processes data in real-time, drastically reducing the time it takes to generate quotes.
+- **즉시 견적**: Carllm을 통해 보험사는 고객에게 거의 즉각적인 견적을 제공할 수 있어 고객 경험이 향상됩니다. AI 엔진은 데이터를 실시간으로 처리하여 견적 생성 시간을 대폭 단축합니다.
 
-- **Customizable Coverage Plans**: Carllm allows insurers to create flexible and tailored insurance packages based on individual customer needs. This customization improves customer engagement and retention.
+- **맞춤형 보장 플랜**: Carllm을 통해 보험사는 개별 고객의 니즈에 맞춘 유연한 보험 상품을 설계할 수 있습니다. 이러한 맞춤화는 고객 참여도와 유지율을 향상시킵니다.
 
-- **Fraud Detection**: The product incorporates advanced analytics to identify potentially fraudulent claims, significantly reducing the risk of losses for insurance providers.
+- **부정 청구 탐지**: 이 제품은 고급 분석 기술을 통합하여 잠재적인 부정 청구를 식별함으로써 보험사의 손실 위험을 크게 줄입니다.
 
-- **Customer Insights Dashboard**: Carllm provides insurers with a powerful dashboard that offers deep insights into customer behavior, claims patterns, and market trends, enabling informed decision-making and strategic planning.
+- **고객 인사이트 대시보드**: Carllm은 보험사에 고객 행동, 청구 패턴, 시장 트렌드에 대한 심층적인 인사이트를 제공하는 강력한 대시보드를 제공하여 정보에 기반한 의사결정과 전략 수립을 지원합니다.
 
-- **Mobile Integration**: Carllm is designed to work seamlessly with mobile applications, providing both insurers and end-users access to policy management and claims reporting on the go.
+- **모바일 통합**: Carllm은 모바일 애플리케이션과 매끄럽게 연동되도록 설계되어 보험사와 최종 사용자 모두 이동 중에도 계약 관리와 청구 신고에 접근할 수 있습니다.
 
-- **Automated Customer Support**: Leveraging AI chatbots, Carllm offers 24/7 customer support, helping to resolve inquiries quickly and efficiently, thus improving customer satisfaction.
+- **자동화된 고객 지원**: AI 챗봇을 활용하는 Carllm은 24시간 연중무휴 고객 지원을 제공하여 문의를 신속하고 효율적으로 해결함으로써 고객 만족도를 향상시킵니다.
 
-## Pricing
+## 가격
 
-Carllm is offered under a subscription-based pricing model tailored to meet the needs of insurance companies of all sizes. Our pricing tiers are designed to provide maximum flexibility and value:
+Carllm은 모든 규모의 보험사의 니즈를 충족하도록 설계된 구독 기반 가격 모델로 제공됩니다. 최대한의 유연성과 가치를 제공하기 위해 다음과 같은 가격 티어를 마련했습니다.
 
-- **Basic Tier**: $1,000/month
-  - Ideal for small insurance firms.
-  - Access to core features and standard reporting.
+- **베이직 티어**: 월 $1,000
+  - 소규모 보험사에 적합합니다.
+  - 핵심 기능과 표준 리포팅에 접근할 수 있습니다.
 
-- **Professional Tier**: $2,500/month
-  - For medium-sized companies.
-  - All Basic Tier features plus advanced analytics and fraud detection.
+- **프로페셔널 티어**: 월 $2,500
+  - 중견 규모 기업을 위한 티어입니다.
+  - 베이직 티어의 모든 기능에 더해 고급 분석 및 부정 청구 탐지 기능이 포함됩니다.
 
-- **Enterprise Tier**: $5,000/month
-  - Customized solutions for large insurance firms.
-  - Comprehensive support, full feature access, and integration with existing systems.
+- **엔터프라이즈 티어**: 월 $5,000
+  - 대형 보험사를 위한 맞춤형 솔루션입니다.
+  - 종합 지원, 전체 기능 접근, 기존 시스템과의 통합을 제공합니다.
 
-Contact our sales team for a personalized quote and discover how Carllm can transform your auto insurance offerings!
+맞춤형 견적을 원하시면 영업팀에 문의하시고 Carllm이 여러분의 자동차 보험 상품을 어떻게 혁신할 수 있는지 확인해 보세요!
 
-## 2025-2026 Roadmap
+## 2025-2026 로드맵
 
-In our commitment to continuous improvement and innovation, Insurellm has outlined the following roadmap for Carllm:
+지속적인 개선과 혁신에 대한 다짐으로, Insurellm은 Carllm에 대해 다음과 같은 로드맵을 수립했습니다.
 
-### Q1 2025: Launch Feature Enhancements
-- **Expanded data integrations** for better risk assessment.
-- **Enhanced fraud detection algorithms** to reduce losses.
+### 2025년 1분기: 출시 기능 강화
+- 더 나은 리스크 평가를 위한 **데이터 통합 확대**.
+- 손실을 줄이기 위한 **향상된 부정 청구 탐지 알고리즘**.
 
-### Q2 2025: Customer Experience Improvements
-- Launch of a new **mobile app** for end-users.
-- Introduction of **telematics-based pricing** to provide even more tailored coverage options.
+### 2025년 2분기: 고객 경험 개선
+- 최종 사용자를 위한 새로운 **모바일 앱** 출시.
+- 더욱 맞춤화된 보장 옵션을 제공하기 위한 **텔레매틱스 기반 가격 책정** 도입.
 
-### Q3 2025: Global Expansion
-- Begin pilot programs for international insurance markets.
-- Collaborate with local insurers to offer compliant, localized versions of Carllm.
+### 2025년 3분기: 글로벌 확장
+- 해외 보험 시장을 위한 파일럿 프로그램 시작.
+- 규정을 준수하는 현지화된 Carllm 버전을 제공하기 위해 현지 보험사와 협력.
 
-### Q4 2025: AI and Machine Learning Upgrades
-- Implement next-gen machine learning models for predictive analysis.
-- Roll out customer insights dashboard updates based on user feedback.
+### 2025년 4분기: AI 및 머신러닝 업그레이드
+- 예측 분석을 위한 차세대 머신러닝 모델 도입.
+- 사용자 피드백을 반영한 고객 인사이트 대시보드 업데이트 배포.
 
-### 2026: Scaling and Partnerships
-- Increase partnerships with automakers for integrated insurance solutions.
-- Enhance the **AI customer support system** to include multi-language support.
+### 2026년: 확장 및 파트너십
+- 통합 보험 솔루션을 위한 자동차 제조사와의 파트너십 확대.
+- 다국어 지원을 포함하도록 **AI 고객 지원 시스템** 강화.
 
-Carllm is not just an auto insurance product; it is a transformative tool for the insurance industry. Join us on this exciting journey as we redefine the future of auto insurance with technology and customer-centric solutions.
+Carllm은 단순한 자동차 보험 상품이 아니라 보험 산업을 위한 혁신적인 도구입니다. 기술과 고객 중심의 솔루션으로 자동차 보험의 미래를 새롭게 정의하는 이 흥미진진한 여정에 함께해 주세요.

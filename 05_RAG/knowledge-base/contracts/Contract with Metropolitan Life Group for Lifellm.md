@@ -1,199 +1,199 @@
-# Contract with Metropolitan Life Group for Lifellm
+# Metropolitan Life Group과 Lifellm 계약
 
-**Contract Date:** April 5, 2025
-**Contract Number:** LF-2025-E-0087
-**Parties:**
+**계약일:** 2025년 4월 5일
+**계약 번호:** LF-2025-E-0087
+**계약 당사자:**
 - Insurellm, Inc.
 - Metropolitan Life Group, Inc.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide Metropolitan Life Group with enterprise access to the Lifellm platform, including white-label capabilities, full customization, dedicated support, and enterprise-grade security for their nationwide life insurance operations managing 50,000+ active policies.
+1. **보장 범위:** Insurellm은 Metropolitan Life Group에게 화이트라벨 기능, 완전한 커스터마이징, 전담 지원, 그리고 5만 건 이상의 활성 보험증권을 관리하는 전국 생명보험 운영을 위한 엔터프라이즈급 보안을 포함한 Lifellm 플랫폼 엔터프라이즈 이용 권한을 제공하기로 합니다.
 
-2. **Duration:** This agreement is effective for a period of 36 months from the contract date, representing a strategic long-term partnership.
+2. **계약 기간:** 본 계약은 계약일로부터 36개월간 유효하며, 이는 전략적 장기 파트너십에 해당합니다.
 
-3. **Payment:** Metropolitan Life Group shall pay custom Enterprise Tier pricing of $28,000 per month for months 1-12, $30,500 per month for months 13-24, and $33,000 per month for months 25-36, totaling $1,098,000 over the contract term.
+3. **결제:** Metropolitan Life Group은 맞춤형 Enterprise Tier 가격을 지불하며, 1~12개월차에는 월 $28,000, 13~24개월차에는 월 $30,500, 25~36개월차에는 월 $33,000을 지불하여 계약 기간 총액은 $1,098,000입니다.
 
-4. **Service Level Agreement:** Insurellm guarantees 99.9% uptime measured monthly, with 10% monthly credit for each 0.1% below target, maximum 30% credit.
+4. **서비스 수준 계약:** Insurellm은 월 단위로 측정하여 99.9%의 가동률을 보장하며, 목표치에서 0.1% 미달할 때마다 10%의 월간 크레딧을 제공하되 최대 크레딧은 30%입니다.
 
-5. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding AI algorithms, underwriting models, policyholder data, and strategic initiatives.
+5. **기밀유지:** 양 당사자는 AI 알고리즘, 언더라이팅 모델, 보험계약자 데이터, 전략적 이니셔티브에 관하여 최고 수준의 기밀을 유지하기로 합니다.
 
-6. **Data Security:** Insurellm commits to maintaining HIPAA compliance, SOC 2 Type II certification, and annual third-party security audits.
+6. **데이터 보안:** Insurellm은 HIPAA 준수, SOC 2 Type II 인증, 연례 제3자 보안 감사를 유지하기로 합니다.
 
-7. **Disaster Recovery:** 4-hour recovery time objective (RTO) and 30-minute recovery point objective (RPO).
-
----
-
-## Renewal
-
-This agreement includes a mutual 90-day renewal notice period. Metropolitan Life Group receives guaranteed enterprise pricing at or below market rates for renewal. Contract may be extended in 12 or 24-month increments with mutual agreement.
+7. **재해 복구:** 4시간의 복구 목표 시간(RTO)과 30분의 복구 목표 시점(RPO).
 
 ---
 
-## Features
+## 갱신
 
-Metropolitan Life Group will receive the complete Lifellm Enterprise suite:
-
-1. **Unlimited Policy Administration:** No capacity restrictions, supporting Metropolitan's 50,000+ active policies with scalability to 200,000+ as business expands.
-
-2. **White-Label Platform:** Complete branding customization:
-   - Custom domains (life.metropolitanlifegroup.com)
-   - Branded mobile apps (iOS and Android) with custom UI/UX
-   - Customized email templates and policyholder communications
-   - Co-branded agent portals and marketing materials
-
-3. **Advanced AI Underwriting:** State-of-the-art underwriting capabilities:
-   - Instant decisioning for 75% of applications up to $1M face amount
-   - Predictive mortality models trained on 50M+ data points
-   - Genetic risk assessment integration (when legally permitted)
-   - Accelerated underwriting with no medical exam for qualified applicants
-   - Alternative data sources (social media, financial, education)
-
-4. **Comprehensive Digital Health Integration:**
-   - Wearable integrations: Apple Watch, Fitbit, Garmin, Oura Ring, Whoop
-   - Health app integrations: Apple Health, Google Fit, MyFitnessPal
-   - Biometric screening integration with Quest Diagnostics, LabCorp
-   - Wellness program platform with challenges, rewards, gamification
-   - Premium discount automation based on verified health behaviors
-   - Long-term health trajectory modeling
-
-5. **Complete API Access:** Unlimited API calls supporting:
-   - Real-time integration with Metropolitan's core policy admin system
-   - Agent management system synchronization
-   - Third-party data provider integrations (MIB, IntelliScript, ExamOne, Clareto, Lifescore)
-   - Custom workflow automation
-   - Data warehouse bidirectional sync
-
-6. **Predictive Analytics Suite:**
-   - Lapse and persistency prediction modeling
-   - Cross-sell and upsell opportunity identification
-   - Agent productivity analytics and optimization
-   - Competitive positioning and market share analysis
-   - Lifetime value prediction for policyholders
-
-7. **Advanced Policy Management:**
-   - Automatic premium loan processing
-   - Policy conversion and exchange support
-   - Dividend calculation and distribution (whole life)
-   - Non-forfeiture options automation
-   - Reinstatement processing with re-underwriting
-   - Settlement options administration
-
-8. **Agent Network Platform:**
-   - Support for 5,000+ independent agents and career agents
-   - Hierarchical permissions and agency structures
-   - Real-time commission calculation and reporting
-   - Advanced quoting engine with need analysis tools
-   - Automated licensing and appointment tracking
-   - Agent recruiting and onboarding workflows
-
-9. **Regulatory and Compliance:**
-   - 50-state compliance monitoring and form filing
-   - Automated NAIC reporting
-   - AML (Anti-Money Laundering) screening integration
-   - OFAC (Office of Foreign Assets Control) checking
-   - Escheatment and unclaimed property tracking
-   - Audit trail and compliance reporting
-
-10. **Blockchain Policy Verification:**
-   - Immutable policy records on private blockchain
-   - Fraud prevention through distributed ledger
-   - Beneficiary verification and claims authentication
-   - Regulatory audit transparency
+본 계약에는 상호 90일의 갱신 통지 기간이 포함됩니다. Metropolitan Life Group은 갱신 시 시장 요율 이하의 엔터프라이즈 가격을 보장받습니다. 계약은 상호 합의에 따라 12개월 또는 24개월 단위로 연장될 수 있습니다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to comprehensive Enterprise-level support for Metropolitan Life Group:
+Metropolitan Life Group은 완전한 Lifellm Enterprise 스위트를 제공받습니다.
 
-1. **Dedicated Success Team:**
-   - Executive sponsor (C-suite level) with quarterly strategic reviews
-   - Dedicated Customer Success Director with weekly touchpoints
-   - Technical Account Manager for system optimization
-   - Solutions Architect for ongoing innovation projects
-   - Quarterly executive business reviews with CEO participation
+1. **무제한 보험증권 관리:** 용량 제한이 없으며, Metropolitan의 5만 건 이상의 활성 보험증권을 지원하고 사업 확장에 따라 20만 건 이상까지 확장 가능합니다.
 
-2. **24/7/365 Premium Support:**
-   - Guaranteed 15-minute response for P1 critical issues
-   - 1-hour response for P2 high-priority issues
-   - 4-hour response for P3 standard issues
-   - Named support team familiar with Metropolitan's environment
-   - Private Slack channel with engineering team access
-   - Annual on-site support visits (minimum 6 per year)
+2. **화이트라벨 플랫폼:** 완전한 브랜딩 커스터마이징:
+   - 맞춤형 도메인(life.metropolitanlifegroup.com)
+   - 맞춤형 UI/UX를 적용한 브랜디드 모바일 앱(iOS 및 Android)
+   - 맞춤형 이메일 템플릿 및 보험계약자 커뮤니케이션
+   - 공동 브랜드 대리인 포털 및 마케팅 자료
 
-3. **Comprehensive Implementation:**
-   - 12-month phased implementation program with 3 major releases
-   - Dedicated project management office (PMO) with weekly steering committee
-   - Migration of 50,000+ existing policies from legacy system
-   - Training for 150+ Metropolitan staff and 500+ top-producing agents
-   - Parallel processing with legacy system for 90 days
-   - Go-live support with 8-week on-site Insurellm team presence
+3. **고급 AI 언더라이팅:** 최첨단 언더라이팅 기능:
+   - 최대 $100만 보장금액까지 신청 건의 75%에 대한 즉시 의사결정
+   - 5,000만 건 이상의 데이터 포인트로 훈련된 예측 사망률 모델
+   - 유전적 리스크 평가 연동(법적으로 허용되는 경우)
+   - 자격을 갖춘 신청자를 위한 무진단 가속화 언더라이팅
+   - 대체 데이터 소스(소셜미디어, 금융, 학력) 활용
 
-4. **Training and Enablement:**
-   - Comprehensive training programs for all roles
-   - Executive briefings on AI and technology trends
-   - Train-the-trainer certification program
-   - Annual user conference attendance (5 attendees, all expenses paid)
-   - Quarterly advanced training sessions
-   - Unlimited online learning platform access
-   - Custom training content development
+4. **종합적인 디지털 건강 통합:**
+   - 웨어러블 연동: Apple Watch, Fitbit, Garmin, Oura Ring, Whoop
+   - 건강 앱 연동: Apple Health, Google Fit, MyFitnessPal
+   - Quest Diagnostics, LabCorp를 통한 생체 측정 검사 연동
+   - 챌린지, 리워드, 게임화를 갖춘 웰니스 프로그램 플랫폼
+   - 검증된 건강 행동에 기반한 보험료 할인 자동화
+   - 장기 건강 궤적 모델링
 
-5. **Custom Development:**
-   - 2,000 hours annually of custom development included
-   - Dedicated development team for Metropolitan-specific features
-   - Priority feature requests with guaranteed roadmap inclusion
-   - Early access to beta features (90 days before general release)
-   - Joint innovation projects and co-development opportunities
-   - Input into product strategy and 3-year roadmap
+5. **완전한 API 접근:** 다음을 지원하는 무제한 API 호출:
+   - Metropolitan의 핵심 계약관리시스템과의 실시간 통합
+   - 대리인 관리 시스템 동기화
+   - 제3자 데이터 제공업체 연동(MIB, IntelliScript, ExamOne, Clareto, Lifescore)
+   - 맞춤형 워크플로우 자동화
+   - 데이터 웨어하우스 양방향 동기화
 
-6. **Integration Services:**
-   - Enterprise integration with Metropolitan's systems:
-     - iPipeline policy administration
-     - Salesforce CRM and agent management
-     - DocuSign for digital signatures
-     - Multiple payment processors
-     - Data warehouse (Snowflake)
-     - BI platforms (Tableau, PowerBI)
-   - Dedicated integration engineer (50% FTE)
-   - Quarterly integration health assessments
-   - Performance optimization and load testing
+6. **예측 분석 스위트:**
+   - 실효 및 유지율 예측 모델링
+   - 교차판매 및 상향판매 기회 식별
+   - 대리인 생산성 분석 및 최적화
+   - 경쟁 포지셔닝 및 시장 점유율 분석
+   - 보험계약자 생애가치 예측
 
-7. **Analytics and Reporting:**
-   - Custom executive dashboard development (unlimited)
-   - Real-time operational dashboards
-   - Automated reporting suite (daily, weekly, monthly, quarterly, annual)
-   - Ad-hoc analytics support (unlimited requests)
-   - Industry benchmarking against top 50 life insurers
-   - Predictive modeling consultation (quarterly sessions)
-   - Data science partnership for advanced analytics projects
+7. **고급 보험증권 관리:**
+   - 자동 보험료 대출 처리
+   - 보험증권 전환 및 교환 지원
+   - 배당금 산정 및 지급(종신보험)
+   - 무해지환급 옵션 자동화
+   - 재언더라이팅을 통한 부활 처리
+   - 지급 방식 옵션 관리
 
-8. **Continuous Improvement:**
-   - Monthly process optimization reviews
-   - Semi-annual efficiency audits with ROI analysis
-   - Best practice sharing and peer learning opportunities
-   - Innovation lab access for emerging technologies (AI, blockchain, quantum computing)
-   - Joint whitepapers and case studies
-   - Speaking opportunities at industry conferences
+8. **대리인 네트워크 플랫폼:**
+   - 5,000명 이상의 독립 대리인 및 전속 대리인 지원
+   - 계층적 권한 및 대리점 구조
+   - 실시간 수수료 산정 및 보고
+   - 니즈 분석 도구를 갖춘 고급 견적 엔진
+   - 자동화된 자격증 및 임명 추적
+   - 대리인 모집 및 온보딩 워크플로우
+
+9. **규제 및 컴플라이언스:**
+   - 50개 주 컴플라이언스 모니터링 및 서식 신고
+   - 자동화된 NAIC 보고
+   - 자금세탁방지(AML) 심사 연동
+   - OFAC(해외자산관리국) 확인
+   - 무주물(escheatment) 및 미청구 재산 추적
+   - 감사 추적 및 컴플라이언스 보고
+
+10. **블록체인 보험증권 검증:**
+    - 프라이빗 블록체인 상의 변경 불가능한 보험증권 기록
+    - 분산원장을 통한 사기 방지
+    - 수익자 검증 및 보험금 청구 인증
+    - 규제 감사 투명성
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 Metropolitan Life Group에 대해 종합적인 Enterprise 수준의 지원을 제공하기로 합니다.
+
+1. **전담 고객성공팀:**
+   - 분기별 전략 검토를 진행하는 임원 스폰서(C레벨)
+   - 주간 접점을 담당하는 전담 고객성공 이사(Director)
+   - 시스템 최적화를 담당하는 기술 계정 관리자(TAM)
+   - 지속적인 혁신 프로젝트를 위한 솔루션 아키텍트
+   - CEO가 참여하는 분기별 경영진 비즈니스 리뷰
+
+2. **연중무휴 24시간 프리미엄 지원:**
+   - P1 긴급 사안에 대해 15분 이내 응답 보장
+   - P2 고우선순위 사안에 대해 1시간 이내 응답
+   - P3 표준 사안에 대해 4시간 이내 응답
+   - Metropolitan의 환경에 정통한 지정 지원팀
+   - 엔지니어링 팀 접근이 가능한 비공개 Slack 채널
+   - 연간 현장 지원 방문(연 최소 6회)
+
+3. **종합적인 구축 지원:**
+   - 3회의 주요 릴리스로 구성된 12개월 단계적 구축 프로그램
+   - 주간 운영위원회를 진행하는 전담 프로젝트 관리 사무국(PMO)
+   - 레거시 시스템으로부터 5만 건 이상의 기존 보험증권 마이그레이션
+   - Metropolitan 직원 150명 이상 및 상위 실적 대리인 500명 이상 교육
+   - 90일간 레거시 시스템과의 병행 처리
+   - 8주간 Insurellm 현장 팀 상주를 통한 오픈 지원
+
+4. **교육 및 역량 강화:**
+   - 모든 직무를 위한 종합 교육 프로그램
+   - AI 및 기술 트렌드에 관한 임원 브리핑
+   - 트레이너 양성 인증 프로그램
+   - 연례 사용자 컨퍼런스 참석(5명, 모든 비용 지원)
+   - 분기별 고급 교육 세션
+   - 온라인 학습 플랫폼 무제한 이용
+   - 맞춤형 교육 콘텐츠 개발
+
+5. **맞춤형 개발:**
+   - 연간 2,000시간의 맞춤형 개발 포함
+   - Metropolitan 전용 기능을 위한 전담 개발팀
+   - 로드맵 반영을 보장하는 우선 기능 요청
+   - 베타 기능 우선 이용(정식 출시 90일 전)
+   - 공동 혁신 프로젝트 및 공동 개발 기회
+   - 제품 전략 및 3개년 로드맵에 대한 의견 반영
+
+6. **통합 서비스:**
+   - Metropolitan의 시스템과의 엔터프라이즈 통합:
+     - iPipeline 계약관리
+     - Salesforce CRM 및 대리인 관리
+     - 전자서명을 위한 DocuSign
+     - 다수의 결제 처리업체
+     - 데이터 웨어하우스(Snowflake)
+     - BI 플랫폼(Tableau, PowerBI)
+   - 전담 통합 엔지니어(정규직 환산 50%)
+   - 분기별 통합 상태 점검
+   - 성능 최적화 및 부하 테스트
+
+7. **분석 및 보고:**
+   - 맞춤형 경영진 대시보드 개발(무제한)
+   - 실시간 운영 대시보드
+   - 자동화된 보고 스위트(일간, 주간, 월간, 분기, 연간)
+   - 임시 분석 지원(무제한 요청)
+   - 세계 상위 50대 생명보험사 대비 업계 벤치마킹
+   - 예측 모델링 컨설팅(분기별 세션)
+   - 고급 분석 프로젝트를 위한 데이터 사이언스 파트너십
+
+8. **지속적 개선:**
+   - 월간 프로세스 최적화 검토
+   - ROI 분석이 포함된 반기별 효율성 감사
+   - 모범 사례 공유 및 동료 학습 기회
+   - 신흥 기술(AI, 블록체인, 양자컴퓨팅)을 위한 혁신 랩 접근
+   - 공동 백서 및 사례 연구
+   - 업계 컨퍼런스 발표 기회
+
+---
+
+**서명:**
 
 _________________________________
 **Jennifer Rodriguez**
-**Title**: Chief Executive Officer
+**직위**: Chief Executive Officer
 **Insurellm, Inc.**
-**Date**: April 5, 2025
+**날짜**: 2025년 4월 5일
 
 _________________________________
 **Richard Thompson**
-**Title**: Chairman & Chief Executive Officer
+**직위**: Chairman & Chief Executive Officer
 **Metropolitan Life Group, Inc.**
-**Date**: April 5, 2025
+**날짜**: 2025년 4월 5일
 
 ---
 
-This agreement establishes Metropolitan Life Group as Insurellm's flagship enterprise life insurance partner, representing a strategic partnership to transform life insurance through cutting-edge AI technology and innovation. This contract supersedes all prior agreements and communications.
+본 계약은 Metropolitan Life Group을 Insurellm의 대표 엔터프라이즈 생명보험 파트너로 확립하며, 최첨단 AI 기술과 혁신을 통해 생명보험을 혁신하기 위한 전략적 파트너십에 해당합니다. 본 계약은 이전의 모든 계약 및 협의를 대체합니다.

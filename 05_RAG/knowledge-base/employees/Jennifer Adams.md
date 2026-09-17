@@ -1,41 +1,41 @@
-# HR Record
+# HR 기록
 
 # Jennifer Adams
 
-## Summary
-- **Date of Birth:** July 7, 1997
-- **Job Title:** Sales Development Representative
-- **Location:** Remote (Based in Denver, Colorado)
-- **Current Salary:** $58,000
+## 요약
+- **생년월일:** 1997년 7월 7일
+- **직책:** 영업개발담당자 (Sales Development Representative)
+- **근무지:** 원격 근무 (콜로라도주 덴버 소재)
+- **현재 연봉:** $58,000
 
-## Insurellm Career Progression
-- **March 2023 - Present:** Sales Development Representative
-  - Generates qualified leads for enterprise sales team
-  - Conducts outbound prospecting via phone, email, and LinkedIn
-  - Researches target accounts in insurance industry
-  - Books discovery meetings for account executives
+## Insurellm 경력 이력
+- **2023년 3월 - 현재:** 영업개발담당자
+  - 엔터프라이즈 영업팀을 위한 자격을 갖춘 리드 발굴
+  - 전화, 이메일, LinkedIn을 통한 아웃바운드 잠재고객 발굴 수행
+  - 보험 업계 타겟 계정 리서치
+  - 어카운트 이그제큐티브를 위한 디스커버리 미팅 예약
 
-- **June 2022 - February 2023:** SDR Intern
-  - Completed 9-month internship program
-  - Learned sales processes and CRM tools
-  - Shadowed senior SDRs and participated in training
+- **2022년 6월 - 2023년 2월:** SDR 인턴
+  - 9개월간의 인턴십 프로그램 수료
+  - 영업 프로세스 및 CRM 도구 학습
+  - 선임 SDR들을 관찰하며 트레이닝에 참여
 
-- **August 2019 - May 2022:** Customer Service Representative at RetailCo
-  - Handled customer inquiries and resolved issues
-  - Developed communication and problem-solving skills
+- **2019년 8월 - 2022년 5월:** RetailCo 고객서비스 담당자 (Customer Service Representative)
+  - 고객 문의 처리 및 이슈 해결
+  - 커뮤니케이션 및 문제 해결 역량 개발
 
-## Annual Performance History
-- **2023:** Rating: 3.0/5
-  *Meets basic expectations. Achieved 78% of lead generation quota. Shows effort but struggles with conversion rates. Needs improvement in discovery call quality.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 3.0/5
+  *기본 기대치 충족. 리드 발굴 목표의 78% 달성. 노력하는 모습을 보이나 전환율에서 어려움을 겪음. 디스커버리 콜 품질 개선 필요.*
 
-## Compensation History
-- **2023:** Base Salary: $58,000 + Commission: $4,200
-- **2022:** Intern Stipend: $22/hour
+## 보상 이력
+- **2023년:** 기본급: $58,000 + 커미션: $4,200
+- **2022년:** 인턴 급여: 시간당 $22
 
-## Other HR Notes
-- **Education:** BA in Business Administration from University of Denver (graduated 2022)
-- **Skills:** Learning Salesforce, LinkedIn Sales Navigator, and sales prospecting techniques
-- **Development Plan:** Enrolled in sales skills training program. Manager providing weekly coaching on objection handling and qualification techniques.
-- **Challenges:** Struggles with phone confidence and needs to improve research quality before outreach. Working on building pipeline consistency.
-- **Feedback:** Enthusiastic and coachable. Shows potential but needs more experience and skill development. Sometimes gives up too easily when facing rejection. Improving gradually with support.
-- **Goals:** Aiming to hit 100% of quota in Q4 2024 and qualify for SDR of the Quarter recognition
+## 기타 인사 노트
+- **학력:** 덴버 대학교 경영학 학사 (2022년 졸업)
+- **역량:** Salesforce, LinkedIn Sales Navigator 및 영업 잠재고객 발굴 기법 학습 중
+- **개발 계획:** 영업 스킬 트레이닝 프로그램에 등록. 매니저가 반대 응대 및 자격 심사 기법에 대해 주간 코칭 제공
+- **과제:** 전화 통화 자신감이 부족하며 아웃리치 전 리서치 품질 개선 필요. 파이프라인 일관성 구축을 위해 노력 중
+- **피드백:** 열정적이고 코칭 수용도가 높음. 잠재력을 보이나 더 많은 경험과 스킬 개발이 필요. 때때로 거절에 직면하면 너무 쉽게 포기하는 경향. 지원을 받으며 점진적으로 개선 중
+- **목표:** 2024년 4분기 목표 100% 달성 및 SDR of the Quarter 수상 목표

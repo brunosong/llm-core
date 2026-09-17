@@ -1,47 +1,47 @@
-# HR Record
+# 인사 기록
 
 # Brandon Walker
 
-## Summary
-- **Date of Birth:** December 5, 1993
-- **Job Title:** Technical Support Specialist
-- **Location:** Remote (Based in Phoenix, Arizona)
-- **Current Salary:** $62,000
+## 요약
+- **생년월일:** 1993년 12월 5일
+- **직책:** 기술 지원 전문가 (Technical Support Specialist)
+- **근무지:** 원격 근무 (애리조나 주 피닉스 기반)
+- **현재 연봉:** $62,000
 
-## Insurellm Career Progression
-- **October 2021 - Present:** Technical Support Specialist
-  - Provides tier 2/3 technical support for all Insurellm products
-  - Troubleshoots complex technical issues for enterprise clients
-  - Creates knowledge base articles and internal documentation
-  - Maintains 4.8/5 customer satisfaction rating
+## Insurellm 경력 진행
+- **2021년 10월 - 현재:** 기술 지원 전문가
+  - 모든 Insurellm 제품에 대해 2/3단계(tier 2/3) 기술 지원을 제공
+  - 엔터프라이즈 고객의 복잡한 기술 문제를 해결
+  - 지식 베이스 문서 및 내부 문서를 작성
+  - 4.8/5의 고객 만족도를 유지
 
-- **May 2019 - September 2021:** Support Specialist at TechHelp Inc.
-  - Handled tier 1 technical support for SaaS products
-  - Resolved customer issues via phone, email, and chat
+- **2019년 5월 - 2021년 9월:** TechHelp Inc. 지원 전문가
+  - SaaS 제품에 대한 1단계(tier 1) 기술 지원을 담당
+  - 전화, 이메일, 채팅을 통해 고객 문제를 해결
 
-- **January 2018 - April 2019:** IT Help Desk Technician at Regional Bank
-  - Provided internal IT support for bank employees
-  - Managed ticket queue and resolved hardware/software issues
+- **2018년 1월 - 2019년 4월:** Regional Bank IT 헬프데스크 기술자
+  - 은행 직원을 위한 내부 IT 지원을 제공
+  - 티켓 큐를 관리하고 하드웨어/소프트웨어 문제를 해결
 
-## Annual Performance History
-- **2023:** Rating: 3.3/5
-  *Meets basic expectations. Good technical knowledge but customer satisfaction scores declined slightly. Needs to improve empathy in customer interactions.*
+## 연간 성과 이력
+- **2023년:** 평점: 3.3/5
+  *기본 기대치는 충족함. 기술 지식은 양호하나 고객 만족도 점수가 다소 하락함. 고객 응대 시 공감 능력 개선이 필요함.*
 
-- **2022:** Rating: 2.9/5
-  *Below expectations. Struggled with increased ticket volume and complex escalations. Response times often exceeded SLA targets. Enrolled in customer service training.*
+- **2022년:** 평점: 2.9/5
+  *기대치 미달. 티켓 물량 증가와 복잡한 에스컬레이션 처리에 어려움을 겪음. 응답 시간이 SLA 목표를 자주 초과함. 고객 서비스 교육에 등록함.*
 
-- **2021:** Rating: 3.6/5
-  *Adequate performance for a new hire. Good technical skills but needs to develop better troubleshooting methodology.*
+- **2021년:** 평점: 3.6/5
+  *신입 직원으로서 적절한 성과. 기술적 역량은 양호하나 더 나은 문제 해결 방법론 개발이 필요함.*
 
-## Compensation History
-- **2023:** Base Salary: $62,000 + Bonus: $1,500
-- **2022:** Base Salary: $60,000 + Bonus: $0 (no bonus due to performance)
-- **2021:** Base Salary: $58,000 (started mid-year)
+## 보상 이력
+- **2023년:** 기본급: $62,000 + 보너스: $1,500
+- **2022년:** 기본급: $60,000 + 보너스: $0 (성과 부진으로 보너스 없음)
+- **2021년:** 기본급: $58,000 (연중 입사)
 
-## Other HR Notes
-- **Education:** Associate Degree in Information Technology from Phoenix Community College
-- **Certifications:** CompTIA A+, working toward Network+ certification
-- **Performance Improvement Plan:** Currently on 90-day PIP (started August 2023) focusing on response time improvements and customer communication skills
-- **Skills:** Strong in system troubleshooting, SQL basics, and API debugging. Needs improvement in soft skills and time management.
-- **Development:** Working with manager on structured troubleshooting approach and empathetic customer communication
-- **Feedback:** Technically competent but struggles under pressure. Tends to focus on technical details rather than customer experience. Improving but needs consistent focus.
+## 기타 인사 참고사항
+- **학력:** 피닉스 커뮤니티 칼리지(Phoenix Community College) 정보기술 준학사
+- **자격증:** CompTIA A+, Network+ 자격증 취득 준비 중
+- **성과개선계획(PIP):** 현재 90일 PIP 진행 중 (2023년 8월 시작), 응답 시간 개선 및 고객 커뮤니케이션 역량 강화에 초점
+- **역량:** 시스템 문제 해결, SQL 기초, API 디버깅에 강점. 소프트 스킬과 시간 관리 부문에서 개선이 필요함.
+- **개발 계획:** 체계적인 문제 해결 접근법과 공감적인 고객 커뮤니케이션에 대해 매니저와 함께 노력 중
+- **피드백:** 기술적으로는 능숙하나 압박감 속에서 어려움을 겪는 편. 고객 경험보다 기술적 세부사항에 집중하는 경향이 있음. 개선되고 있으나 일관된 노력이 필요함.

@@ -1,49 +1,49 @@
-# HR Record
+# 인사 기록
 
 # Emily Carter
 
-## Summary
-- **Date of Birth:** August 12, 1990
-- **Job Title:** Account Executive
-- **Location:** Austin, Texas
-- **Current Salary:** $70,000  
+## 요약
+- **생년월일:** 1990년 8월 12일
+- **직책:** 어카운트 이그제큐티브 (Account Executive)
+- **근무지:** 텍사스 주 오스틴
+- **현재 연봉:** $70,000  
 
-## Insurellm Career Progression
-- **2021-Present:** Account Executive  
-  - Responsibilities include managing a portfolio of B2B clients, conducting sales presentations, and ensuring customer satisfaction.  
-  - Achievements: 
-    - Exceeded annual sales target by 30% in 2022.
-    - Instrumental in acquiring 15 new corporate clients in half a year.
+## Insurellm 경력 진행
+- **2021년-현재:** 어카운트 이그제큐티브  
+  - B2B 고객 포트폴리오 관리, 영업 프레젠테이션 진행, 고객 만족도 관리를 담당.  
+  - 주요 성과: 
+    - 2022년 연간 영업 목표를 30% 초과 달성.
+    - 반년 만에 15개의 신규 법인 고객을 유치하는 데 핵심적인 역할을 함.
   
-- **2019-2021:** Sales Coordinator  
-  - Supported the sales team with administrative tasks, lead generation, and customer follow-ups.
-  - Achievements:
-    - Implemented a new lead tracking system that improved workflow efficiency by 25%.  
-    - Received "Employee of the Month" award twice for outstanding contribution to team goals.  
+- **2019년-2021년:** 영업 코디네이터  
+  - 행정 업무, 리드 발굴, 고객 후속 관리 등으로 영업팀을 지원.
+  - 주요 성과:
+    - 새로운 리드 추적 시스템을 도입하여 업무 효율성을 25% 개선함.  
+    - 팀 목표에 대한 뛰어난 기여를 인정받아 "이달의 직원(Employee of the Month)" 상을 두 차례 수상.  
 
-- **2017-2019:** Marketing Intern  
-  - Assisted with market research and campaign development for social media outreach.  
-  - Achievements:  
-    - Contributed ideas for a social media campaign that increased brand awareness by 40% within 6 months.  
+- **2017년-2019년:** 마케팅 인턴  
+  - 소셜 미디어 아웃리치를 위한 시장 조사와 캠페인 개발을 지원.  
+  - 주요 성과:  
+    - 6개월 만에 브랜드 인지도를 40% 높인 소셜 미디어 캠페인에 아이디어로 기여함.  
 
-## Annual Performance History
-| Year | Performance Rating | Key Highlights |
+## 연간 성과 이력
+| 연도 | 성과 평점 | 주요 하이라이트 |
 |------|--------------------|----------------|
-| 2023 | 4.8/5              | Recognized for exceptional client feedback and teamwork during product launches. |
-| 2022 | 4.5/5              | Led a successful cross-selling initiative that boosted revenue in existing accounts. |
-| 2021 | 4.2/5              | Successfully onboarded new clients and established strong relationships that resulted in renewals. |
+| 2023 | 4.8/5              | 제품 출시 기간 동안 뛰어난 고객 피드백과 팀워크를 인정받음. |
+| 2022 | 4.5/5              | 기존 계정의 매출을 끌어올린 성공적인 교차 판매(cross-selling) 이니셔티브를 주도함. |
+| 2021 | 4.2/5              | 신규 고객을 성공적으로 온보딩하고 갱신으로 이어진 강한 관계를 구축함. |
 
-## Compensation History
-| Year | Base Salary | Bonus         | Total Compensation |
+## 보상 이력
+| 연도 | 기본급 | 보너스         | 총 보상 |
 |------|-------------|---------------|--------------------|
 | 2023 | $70,000     | $10,000       | $80,000            |
 | 2022 | $65,000     | $8,000        | $73,000            |
 | 2021 | $60,000     | $5,000        | $65,000            |
 
-## Other HR Notes
-- **Professional Development:** Emily is currently enrolled in a leadership training program to enhance her management skills and aims to move into a senior account role within the next 2 years.  
-- **Volunteer Work:** Actively participates in community outreach programs, representing Insurellm in charity events to promote corporate social responsibility.  
-- **Interests:** In her spare time, Emily enjoys hiking, photography, and volunteering at local animal shelters.  
-- **Team Feedback:** Colleagues describe Emily as a highly motivated team player who consistently uplifts everyone around her.  
+## 기타 인사 참고사항
+- **전문성 개발:** Emily는 현재 관리 역량을 강화하기 위한 리더십 교육 프로그램에 참여 중이며, 향후 2년 내에 시니어 어카운트 직책으로 이동하는 것을 목표로 하고 있다.  
+- **자원봉사 활동:** 지역사회 아웃리치 프로그램에 적극적으로 참여하며, 기업의 사회적 책임을 알리기 위한 자선 행사에서 Insurellm을 대표하고 있다.  
+- **관심사:** 여가 시간에는 하이킹, 사진, 지역 동물 보호소에서의 자원봉사를 즐긴다.  
+- **팀 피드백:** 동료들은 Emily를 주변 사람들에게 항상 긍정적인 영향을 주는, 매우 의욕적인 팀 플레이어로 평가한다.  
 
-Emily Carter exemplifies the kind of talent that drives Insurellm's success and is an invaluable asset to the company.
+Emily Carter는 Insurellm의 성공을 이끄는 인재의 표본이며 회사에 없어서는 안 될 자산이다.

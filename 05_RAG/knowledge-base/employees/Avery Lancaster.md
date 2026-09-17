@@ -1,64 +1,64 @@
 # Avery Lancaster
 
-## Summary
-- **Date of Birth**: March 15, 1985
-- **Job Title**: Co-Founder & Chief Executive Officer (CEO)
-- **Location**: San Francisco, California
-- **Current Salary**: $225,000  
+## 요약
+- **생년월일**: 1985년 3월 15일
+- **직책**: 공동 창업자 & 최고경영자 (Co-Founder & Chief Executive Officer, CEO)
+- **근무지**: 캘리포니아 주 샌프란시스코
+- **현재 연봉**: $225,000  
 
-## Insurellm Career Progression
-- **2015 - Present**: Co-Founder & CEO  
-  Avery Lancaster co-founded Insurellm in 2015 and has since guided the company to its current position as a leading Insurance Tech provider. Avery is known for her innovative leadership strategies and risk management expertise that have catapulted the company into the mainstream insurance market.  
+## Insurellm 경력 진행
+- **2015년 - 현재**: 공동 창업자 & CEO  
+  Avery Lancaster는 2015년 Insurellm을 공동 창업한 이래 회사를 선도적인 보험 기술(Insurance Tech) 기업으로 성장시켰다. Avery는 혁신적인 리더십 전략과 리스크 관리 전문성으로 회사를 주류 보험 시장으로 도약시킨 것으로 잘 알려져 있다.  
 
-- **2013 - 2015**: Senior Product Manager at Innovate Insurance Solutions  
-  Before launching Insurellm, Avery was a leading Senior Product Manager at Innovate Insurance Solutions, where she developed groundbreaking insurance products aimed at the tech sector.  
+- **2013년 - 2015년**: Innovate Insurance Solutions 시니어 제품 매니저  
+  Insurellm을 창업하기 전, Avery는 Innovate Insurance Solutions에서 선도적인 시니어 제품 매니저로 근무하며 기술 업계를 겨냥한 획기적인 보험 상품을 개발했다.  
 
-- **2010 - 2013**: Business Analyst at Edge Analytics  
-  Prior to joining Innovate, Avery worked as a Business Analyst, focusing on market trends and consumer preferences in the insurance space. This position laid the groundwork for Avery’s future entrepreneurial endeavors.
+- **2010년 - 2013년**: Edge Analytics 비즈니스 애널리스트  
+  Innovate에 합류하기 전, Avery는 비즈니스 애널리스트로서 보험 분야의 시장 동향과 소비자 선호도를 분석하는 업무를 담당했다. 이 경험은 Avery가 이후 창업가로 나아가는 토대가 되었다.
 
-## Annual Performance History
-- **2015**: **Exceeds Expectations**  
-  Avery’s leadership during Insurellm's foundational year led to successful product launches and securing initial funding.  
+## 연간 성과 이력
+- **2015년**: **기대치 초과(Exceeds Expectations)**  
+  Insurellm의 창립 원년에 보여준 Avery의 리더십은 성공적인 제품 출시와 초기 투자 유치로 이어짐.  
 
-- **2016**: **Meets Expectations**  
-  Growth continued, though challenges arose in operational efficiency that required Avery's attention.  
+- **2016년**: **기대치 충족(Meets Expectations)**  
+  성장세는 이어졌으나, Avery의 관심이 필요한 운영 효율성 관련 과제들이 발생함.  
 
-- **2017**: **Developing**  
-  Market competition intensified, and monthly sales metrics were below targets. Avery implemented new strategies which required a steep learning curve.  
+- **2017년**: **성장 중(Developing)**  
+  시장 경쟁이 심화되었고 월간 매출 지표가 목표에 미달함. Avery는 가파른 학습 곡선이 필요한 새로운 전략을 도입함.  
 
-- **2018**: **Exceeds Expectations**  
-  Under Avery’s pivoted vision, Insurellm launched two new successful products that significantly increased market share.  
+- **2018년**: **기대치 초과(Exceeds Expectations)**  
+  Avery가 방향을 전환한 비전 아래, Insurellm은 두 개의 신제품을 성공적으로 출시하며 시장 점유율을 크게 끌어올림.  
 
-- **2019**: **Meets Expectations**  
-  Steady growth, however, some team tensions led to a minor drop in employee morale. Avery recognized the need to enhance company culture.  
+- **2019년**: **기대치 충족(Meets Expectations)**  
+  꾸준한 성장을 이루었으나, 일부 팀 내 갈등으로 직원 사기가 소폭 하락함. Avery는 조직 문화 개선의 필요성을 인식함.  
 
-- **2020**: **Below Expectations**  
-  The COVID-19 pandemic posed unforeseen operational difficulties. Avery faced criticism for delayed strategy shifts, although efforts were eventually made to stabilize the company.  
+- **2020년**: **기대치 미달(Below Expectations)**  
+  코로나19 팬데믹으로 예기치 못한 운영상의 어려움이 발생함. Avery는 지연된 전략 전환에 대해 비판을 받았으나, 결국 회사를 안정화하기 위한 노력을 기울임.  
 
-- **2021**: **Exceptional**  
-  Avery's decisive transition to remote work and rapid adoption of digital tools led to record-high customer satisfaction levels and increased sales.  
+- **2021년**: **탁월함(Exceptional)**  
+  Avery의 과감한 원격근무 전환과 디지털 도구의 신속한 도입으로 사상 최고 수준의 고객 만족도와 매출 증가를 달성함.  
 
-- **2022**: **Satisfactory**  
-  Avery focused on rebuilding team dynamics and addressing employee concerns, leading to overall improvement despite a saturated market.  
+- **2022년**: **만족스러움(Satisfactory)**  
+  Avery는 팀 역학 재건과 직원 우려 해소에 집중했으며, 포화 상태의 시장 상황에도 불구하고 전반적인 개선을 이끌어냄.  
 
-- **2023**: **Exceeds Expectations**  
-  Market leadership was regained with innovative approaches to personalized insurance solutions. Avery is now recognized in industry publications as a leading voice in Insurance Tech innovation.
+- **2023년**: **기대치 초과(Exceeds Expectations)**  
+  맞춤형 보험 솔루션에 대한 혁신적인 접근으로 시장 리더십을 되찾음. Avery는 이제 업계 간행물에서 보험 기술 혁신을 이끄는 주요 인물로 인정받고 있음.
 
-## Compensation History
-- **2015**: $150,000 base salary + Significant equity stake  
-- **2016**: $160,000 base salary + Equity increase  
-- **2017**: $150,000 base salary + Decrease in bonus due to performance  
-- **2018**: $180,000 base salary + performance bonus of $30,000  
-- **2019**: $185,000 base salary + market adjustment + $5,000 bonus  
-- **2020**: $170,000 base salary (temporary reduction due to COVID-19)  
-- **2021**: $200,000 base salary + performance bonus of $50,000  
-- **2022**: $210,000 base salary + retention bonus  
-- **2023**: $225,000 base salary + $75,000 performance bonus  
+## 보상 이력
+- **2015년**: 기본급 $150,000 + 상당한 지분(equity) 보유  
+- **2016년**: 기본급 $160,000 + 지분 증가  
+- **2017년**: 기본급 $150,000 + 성과 저조로 보너스 감소  
+- **2018년**: 기본급 $180,000 + 성과 보너스 $30,000  
+- **2019년**: 기본급 $185,000 + 시장 조정 + 보너스 $5,000  
+- **2020년**: 기본급 $170,000 (코로나19로 인한 일시적 삭감)  
+- **2021년**: 기본급 $200,000 + 성과 보너스 $50,000  
+- **2022년**: 기본급 $210,000 + 리텐션 보너스  
+- **2023년**: 기본급 $225,000 + 성과 보너스 $75,000  
 
-## Other HR Notes
-- **Professional Development**: Avery has actively participated in leadership training programs and industry conferences, representing Insurellm and fostering partnerships.  
-- **Diversity & Inclusion Initiatives**: Avery has championed a commitment to diversity in hiring practices, seeing visible improvements in team representation since 2021.  
-- **Work-Life Balance**: Feedback revealed concerns regarding work-life balance, which Avery has approached by implementing flexible working conditions and ensuring regular check-ins with the team.
-- **Community Engagement**: Avery led community outreach efforts, focusing on financial literacy programs, particularly aimed at underserved populations, improving Insurellm's corporate social responsibility image.  
+## 기타 인사 참고사항
+- **전문성 개발**: Avery는 Insurellm을 대표하여 파트너십을 구축하며 리더십 교육 프로그램과 업계 콘퍼런스에 적극적으로 참여해 왔다.  
+- **다양성 및 포용성 이니셔티브**: Avery는 채용 관행에서 다양성 확보를 위해 앞장서 왔으며, 2021년 이후 팀 구성의 대표성에서 가시적인 개선을 이루어냈다.  
+- **일과 삶의 균형**: 일과 삶의 균형에 대한 우려가 피드백으로 제기되었고, 이에 Avery는 유연 근무 제도를 도입하고 팀과의 정기적인 체크인을 실시하는 방식으로 대응함.
+- **지역사회 참여**: Avery는 특히 소외 계층을 대상으로 한 금융 이해력(financial literacy) 프로그램에 초점을 맞춘 지역사회 아웃리치 활동을 주도하여 Insurellm의 기업의 사회적 책임(CSR) 이미지를 향상시킴.  
 
-Avery Lancaster has demonstrated resilience and adaptability throughout her career at Insurellm, positioning the company as a key player in the insurance technology landscape.
+Avery Lancaster는 Insurellm 재직 기간 내내 회복력과 적응력을 발휘하며, 회사를 보험 기술 업계의 핵심 플레이어로 자리매김시켰다.

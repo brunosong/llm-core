@@ -1,37 +1,37 @@
-# HR Record
+# 인사 기록
 
 # Alex Thomson
 
-## Summary
-- **Date of Birth:** March 15, 1995
-- **Job Title:** Sales Development Representative (SDR)
-- **Location:** Austin, Texas
-- **Current Salary:** $65,000  
+## 요약
+- **생년월일:** 1995년 3월 15일
+- **직책:** 영업 개발 담당자 (Sales Development Representative, SDR)
+- **근무지:** 텍사스 주 오스틴
+- **현재 연봉:** $65,000  
 
-## Insurellm Career Progression
-- **November 2022** - Joined Insurellm as a Sales Development Representative. Alex Thomson quickly adapted to the team, demonstrating exceptional communication and rapport-building skills.
-- **January 2023** - Promoted to Team Lead for special projects due to Alex's initiative in driving B2B customer outreach programs.  
-- **August 2023** - Developed a training module for new SDRs at Insurellm, enhancing onboarding processes based on feedback and strategies that Alex Thomson pioneered.  
-- **Current** - Continues to excel in the role, leading a small team of 5 SDRs while collaborating closely with the marketing department to identify new lead-generation strategies.  
+## Insurellm 경력 진행
+- **2022년 11월** - Insurellm에 영업 개발 담당자로 입사. Alex Thomson은 뛰어난 커뮤니케이션 능력과 관계 형성 능력을 보이며 빠르게 팀에 적응함.
+- **2023년 1월** - B2B 고객 아웃리치 프로그램을 주도적으로 추진한 공로를 인정받아 특별 프로젝트 팀 리드로 승진.  
+- **2023년 8월** - Alex Thomson이 개척한 피드백과 전략을 바탕으로 신입 SDR을 위한 교육 모듈을 개발하여 온보딩 프로세스를 개선함.  
+- **현재** - 5명의 소규모 SDR 팀을 이끌며 마케팅 부서와 긴밀히 협력해 새로운 리드 발굴 전략을 모색하는 등 계속해서 뛰어난 역량을 발휘하고 있음.  
 
-## Annual Performance History  
-- **2022** - Rated as "Exceeds Expectations." Alex Thomson achieved 150% of the sales target within the first three months.  
-- **2023** - Rated "Outstanding." Recognized for innovative lead-generation tactics which contributed to a 30% increase in qualified leads for the sales team.  
+## 연간 성과 이력  
+- **2022년** - "기대치 초과(Exceeds Expectations)"로 평가됨. Alex Thomson은 입사 첫 3개월 만에 영업 목표의 150%를 달성함.  
+- **2023년** - "우수(Outstanding)"로 평가됨. 혁신적인 리드 발굴 전략으로 영업팀의 유효 리드를 30% 증가시킨 공로를 인정받음.  
 
-### Highlights:
-- Consistently maintained a 30-minute response time to inbound leads.
-- Successfully coordinated webinars for product launches, which attracted over 2,000 potential customers.
+### 주요 성과:
+- 인바운드 리드에 대한 응답 시간을 지속적으로 30분 이내로 유지함.
+- 제품 출시 웨비나를 성공적으로 조율하여 2,000명이 넘는 잠재 고객을 유치함.
 
-## Compensation History
-- **2022**: Base Salary - $55,000 | Bonus - $5,000  
-- **2023**: Base Salary - $65,000 | Bonus - $10,000 (for exceeding sales targets and exceptional teamwork)  
-- **Projected for 2024**: Anticipated salary increase due to Alex Thomson's significant contributions and successful completion of leadership training.
+## 보상 이력
+- **2022년**: 기본급 - $55,000 | 보너스 - $5,000  
+- **2023년**: 기본급 - $65,000 | 보너스 - $10,000 (영업 목표 초과 달성 및 뛰어난 팀워크에 대한 보상)  
+- **2024년 예상**: Alex Thomson의 상당한 기여와 리더십 교육 이수 완료에 따라 연봉 인상이 예상됨.
 
-## Other HR Notes
-- Alex Thomson is an active member of the Diversity and Inclusion committee at Insurellm and has participated in various community outreach programs.  
-- Alex has received external training on advanced CRM usage, which has subsequently improved team efficiency and productivity.
-- Continuous professional development through attending sales conventions and workshops, with plans to pursue certification in Sales Enablement in 2024.
-- Recognized by peers for promoting a supportive and high-energy team environment, often organizing team-building activities to enhance camaraderie within the SDR department. 
+## 기타 인사 참고사항
+- Alex Thomson은 Insurellm 다양성 및 포용성(Diversity and Inclusion) 위원회의 활발한 구성원이며, 다양한 지역사회 아웃리치 프로그램에 참여해 왔다.  
+- Alex는 고급 CRM 활용에 대한 외부 교육을 이수했으며, 이를 통해 팀의 효율성과 생산성을 향상시켰다.
+- 영업 컨벤션과 워크숍 참석을 통해 지속적으로 전문성을 개발하고 있으며, 2024년에는 영업 인에이블먼트(Sales Enablement) 자격증 취득을 계획하고 있다.
+- 지원적이고 활기찬 팀 분위기를 조성한 공로로 동료들의 인정을 받고 있으며, SDR 부서 내 유대감을 높이기 위해 종종 팀 빌딩 활동을 조직한다. 
 
 --- 
-**Comment:** Alex Thomson is considered a cornerstone of Insurellm’s sales team and has a bright future within the organization.
+**코멘트:** Alex Thomson은 Insurellm 영업팀의 핵심 인재로 여겨지며 조직 내에서 밝은 미래를 갖고 있다.

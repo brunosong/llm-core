@@ -1,51 +1,51 @@
-# HR Record
+# 인사 기록
 
 # Daniel Park
 
-## Summary
-- **Date of Birth:** October 3, 1991
-- **Job Title:** QA Engineer
-- **Location:** Austin, Texas
-- **Current Salary:** $88,000
+## 요약
+- **생년월일:** 1991년 10월 3일
+- **직책:** QA 엔지니어 (QA Engineer)
+- **근무지:** 텍사스 주 오스틴
+- **현재 연봉:** $88,000
 
-## Insurellm Career Progression
-- **September 2020 - Present:** QA Engineer
-  - Develops and executes test plans for all Insurellm products
-  - Builds automated test suites using Selenium and Cypress
-  - Manages bug tracking and quality metrics
-  - Collaborates with development teams on quality standards
+## Insurellm 경력 진행
+- **2020년 9월 - 현재:** QA 엔지니어
+  - 모든 Insurellm 제품에 대한 테스트 계획을 수립하고 실행
+  - Selenium과 Cypress를 활용한 자동화 테스트 스위트를 구축
+  - 버그 트래킹 및 품질 지표를 관리
+  - 개발팀과 협력하여 품질 기준을 수립
 
-- **May 2018 - August 2020:** QA Analyst at SoftwareTest Inc.
-  - Performed manual and automated testing for web applications
-  - Created test documentation and test cases
+- **2018년 5월 - 2020년 8월:** SoftwareTest Inc. QA 애널리스트
+  - 웹 애플리케이션에 대한 수동 및 자동화 테스트를 수행
+  - 테스트 문서 및 테스트 케이스를 작성
 
-- **July 2016 - April 2018:** Junior QA Tester at AppQuality Corp.
-  - Conducted manual testing and regression testing
-  - Learned QA fundamentals and testing methodologies
+- **2016년 7월 - 2018년 4월:** AppQuality Corp. 주니어 QA 테스터
+  - 수동 테스트 및 회귀 테스트를 수행
+  - QA 기본 원칙과 테스트 방법론을 습득
 
-## Annual Performance History
-- **2023:** Rating: 4.2/5
-  *Strong performance. Expanded test automation coverage to 65%. Found critical bugs preventing major production issues.*
+## 연간 성과 이력
+- **2023년:** 평점: 4.2/5
+  *뛰어난 성과. 테스트 자동화 커버리지를 65%까지 확대함. 주요 프로덕션 이슈를 예방한 치명적 버그를 발견함.*
 
-- **2022:** Rating: 3.9/5
-  *Good performance. Improved automated testing but missed some edge cases in major release. Learning from experience.*
+- **2022년:** 평점: 3.9/5
+  *양호한 성과. 자동화 테스트를 개선했으나 주요 릴리스에서 일부 엣지 케이스를 놓침. 경험을 통해 학습 중.*
 
-- **2021:** Rating: 4.0/5
-  *Solid year. Successfully implemented new test framework. Good collaboration with engineering teams.*
+- **2021년:** 평점: 4.0/5
+  *견실한 한 해. 새로운 테스트 프레임워크를 성공적으로 도입함. 엔지니어링 팀과의 협업이 우수함.*
 
-- **2020:** Rating: 3.7/5
-  *Adequate performance in first year. Building knowledge of products and establishing testing processes.*
+- **2020년:** 평점: 3.7/5
+  *입사 첫 해로서 적절한 성과. 제품에 대한 지식을 쌓고 테스트 프로세스를 확립하는 중.*
 
-## Compensation History
-- **2023:** Base Salary: $88,000 + Bonus: $7,000
-- **2022:** Base Salary: $82,000 + Bonus: $5,000
-- **2021:** Base Salary: $76,000 + Bonus: $6,000
-- **2020:** Base Salary: $72,000 + Bonus: $3,000
+## 보상 이력
+- **2023년:** 기본급: $88,000 + 보너스: $7,000
+- **2022년:** 기본급: $82,000 + 보너스: $5,000
+- **2021년:** 기본급: $76,000 + 보너스: $6,000
+- **2020년:** 기본급: $72,000 + 보너스: $3,000
 
-## Other HR Notes
-- **Education:** BS in Computer Science from Texas State University
-- **Certifications:** ISTQB Certified Tester, Selenium WebDriver Certified
-- **Skills:** Expert in test automation (Selenium, Cypress, Jest), API testing, performance testing, CI/CD integration
-- **Professional Development:** Completed Advanced Test Automation workshop (2023). Learning performance testing tools.
-- **Recognition:** Quality Champion Award 2023 for preventing critical production bug
-- **Feedback:** Detail-oriented QA professional with strong technical skills. Proactive in identifying quality risks. Good advocate for quality throughout development process.
+## 기타 인사 참고사항
+- **학력:** 텍사스 주립대학교(Texas State University) 컴퓨터공학 학사
+- **자격증:** ISTQB Certified Tester, Selenium WebDriver Certified
+- **역량:** 테스트 자동화(Selenium, Cypress, Jest), API 테스트, 성능 테스트, CI/CD 통합 분야의 전문가
+- **전문성 개발:** 고급 테스트 자동화 워크숍 이수 (2023년). 성능 테스트 도구를 학습 중.
+- **수상:** 치명적인 프로덕션 버그를 예방한 공로로 2023년 품질 챔피언상(Quality Champion Award) 수상
+- **피드백:** 강한 기술 역량을 갖춘 꼼꼼한 QA 전문가. 품질 리스크 식별에 적극적. 개발 프로세스 전반에서 품질을 옹호하는 좋은 자세를 보임.

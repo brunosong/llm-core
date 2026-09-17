@@ -1,250 +1,250 @@
-# Contract with SafeHaven Property Insurance for Homellm
+# SafeHaven Property Insurance와 Homellm에 관한 계약
 
-**Contract Date:** May 3, 2025
-**Contract Number:** HM-2025-E-0112
-**Parties:**
+**계약일:** 2025년 5월 3일
+**계약 번호:** HM-2025-E-0112
+**계약 당사자:**
 - Insurellm, Inc.
 - SafeHaven Property Insurance, Inc.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide SafeHaven Property Insurance with enterprise access to the Homellm platform, including white-label capabilities, unlimited policies, dedicated infrastructure, and comprehensive IoT integration for their property insurance operations.
+1. **제공 범위:** Insurellm은 SafeHaven Property Insurance에 Homellm 플랫폼에 대한 엔터프라이즈 이용 권한을 제공하기로 합의하며, 화이트라벨 기능, 무제한 계약건 처리, 전용 인프라, 그리고 재산 보험 운영을 위한 종합적인 IoT 연동을 포함한다.
 
-2. **Duration:** This agreement is effective for a period of 36 months from the contract date.
+2. **기간:** 본 계약은 계약일로부터 36개월간 유효하다.
 
-3. **Payment:** SafeHaven Property Insurance shall pay custom Enterprise Tier pricing of $22,000 per month for months 1-12, $24,000 per month for months 13-24, and $26,000 per month for months 25-36, totaling $864,000 over the contract term.
+3. **결제:** SafeHaven Property Insurance는 맞춤형 Enterprise Tier 가격으로 1~12개월 차에는 월 $22,000, 13~24개월 차에는 월 $24,000, 25~36개월 차에는 월 $26,000을 납부하며, 계약 기간 전체 총액은 $864,000이다.
 
-4. **Policy Volume**: Enterprise Tier supports unlimited policies. SafeHaven currently has 45,000 active homeowners policies across 6 states.
+4. **계약건 규모**: Enterprise Tier는 무제한 계약건을 지원한다. SafeHaven은 현재 6개 주에 걸쳐 45,000건의 활성 주택 소유자 보험 계약을 보유하고 있다.
 
-5. **Service Level Agreement:** Insurellm guarantees 99.9% platform uptime measured monthly, with 7% monthly credit for each 0.1% below target, maximum 35% monthly credit.
+5. **서비스 수준 계약(SLA):** Insurellm은 월 단위로 측정하여 99.9%의 플랫폼 가동률을 보증하며, 목표치에서 0.1% 미달할 때마다 7%의 월간 크레딧이 제공되고, 최대 월간 크레딧은 35%이다.
 
-6. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary algorithms, property data, pricing models, and business strategies.
+6. **비밀유지:** 양 당사자는 독점 알고리즘, 재산 데이터, 가격 모델, 사업 전략에 대해 엄격한 기밀을 유지하는 데 동의한다.
 
-7. **Data Security:** Insurellm maintains SOC 2 Type II compliance, ISO 27001 certification, and annual third-party security audits.
-
----
-
-## Renewal
-
-This agreement includes a 90-day mutual renewal notice period. SafeHaven receives most-favored-customer pricing and priority access to new features including climate risk modeling and IoT innovations.
+7. **데이터 보안:** Insurellm은 SOC 2 Type II 준수, ISO 27001 인증, 그리고 연간 제3자 보안 감사를 유지한다.
 
 ---
 
-## Features
+## 갱신
 
-SafeHaven Property Insurance will receive the complete Homellm Enterprise suite:
-
-1. **Unlimited Policy Administration:** Full support for SafeHaven's 45,000+ policies with scalability to 200,000+ policies as business expands.
-
-2. **White-Label Platform:** Complete branding customization:
-   - Custom domains (quote.safehavenproperty.com, myhome.safehavenproperty.com)
-   - Branded mobile apps for iOS and Android with custom UI
-   - Customized policyholder communications
-   - Co-branded agent and broker portals
-
-3. **Advanced AI Risk Assessment:** Enterprise-grade property risk analysis:
-   - Aerial imagery analysis for roof condition, vegetation, and hazards
-   - Property characteristic assessment (age, construction, square footage)
-   - Location-based risk scoring (wildfire, flood, hail, wind, earthquake)
-   - Catastrophe modeling integration (RMS, AIR, CoreLogic)
-   - Replacement cost estimation with inflation trending
-   - Neighborhood risk assessment
-   - Claims history analysis across all carriers
-   - Credit-based insurance scoring
-
-4. **Dynamic Pricing Model:** Sophisticated pricing engine:
-   - Real-time rate optimization across 200+ rating variables
-   - Competitive intelligence and market positioning
-   - Capacity-based dynamic pricing
-   - Multi-policy bundling discounts
-   - Loyalty and tenure credits
-   - Loss-free discount automation
-   - Telematics and IoT-based discounts
-
-5. **Instant Claims Processing:** Advanced claims automation:
-   - AI-driven FNOL with photo/video upload
-   - Computer vision damage assessment
-   - Automated repair cost estimation
-   - Contractor network integration with 2,000+ vendors
-   - Claims routing and assignment
-   - Payment automation with multi-party splits
-   - Fraud detection with pattern analysis
-   - Subrogation opportunity identification
-
-6. **Predictive Maintenance Alerts:** IoT-powered risk prevention:
-   - Integration with smart home devices (water leak sensors, smoke detectors, security systems)
-   - Weather alert system with pre-storm notifications
-   - Freeze warning and pipe burst prevention
-   - Roof deterioration monitoring
-   - HVAC and appliance failure prediction
-   - Wildfire proximity alerts
-   - Proactive policyholder communication to prevent losses
-
-7. **Multi-Channel Integration:** Unified platform:
-   - Agent portal for 1,500+ independent agents
-   - Direct-to-consumer quoting engine
-   - Broker portal with co-branding
-   - Call center integration
-   - Web and mobile app quoting
-   - Smart home device connectivity
-
-8. **Customer Portal:** Comprehensive self-service:
-   - 24/7 policy access and document retrieval
-   - Coverage modification requests
-   - Digital insurance cards
-   - Claims submission and tracking
-   - Payment processing and billing history
-   - Smart home device management
-   - Maintenance reminders and home care tips
-   - Disaster preparedness resources
-
-9. **IoT Device Integration:** Smart home platform:
-   - Water leak detection systems (Flo by Moen, Phyn, LeakSmart)
-   - Smart smoke and CO detectors (Nest Protect, First Alert)
-   - Security systems (Ring, SimpliSafe, ADT)
-   - Smart thermostats (Nest, Ecobee)
-   - Weather stations
-   - Roof monitoring sensors
-   - Premium discounts for IoT adoption (up to 20%)
-   - Real-time alerts and intervention protocols
-
-10. **Complete API Access:** Unlimited API calls:
-    - Integration with SafeHaven's core systems
-    - Third-party data providers (CoreLogic, Verisk, LexisNexis)
-    - Catastrophe modeling systems
-    - Agent management platforms
-    - Payment processors
-    - Document management systems
-    - Marketing automation
-
-11. **Multi-State Operations:** Comprehensive support:
-    - State-specific forms and endorsements for all 6 states
-    - Regulatory compliance monitoring
-    - Rate and form filing management
-    - Multi-state licensing tracking
-    - Catastrophe response protocols by state
-
-12. **Catastrophe Management:** Disaster response tools:
-    - Pre-CAT modeling and exposure management
-    - Real-time storm tracking and impact assessment
-    - CAT claims triage and routing
-    - Mobile claims team dispatch
-    - Vendor surge capacity activation
-    - Policyholder communication campaigns
-    - Emergency payment processing
+본 계약은 상호 90일 사전 갱신 통지 기간을 포함한다. SafeHaven은 최혜 고객 가격을 적용받으며, 기후 위험 모델링 및 IoT 혁신 기능을 포함한 신규 기능에 대한 우선 접근권을 갖는다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to comprehensive Enterprise-level support for SafeHaven Property Insurance:
+SafeHaven Property Insurance는 완전한 Homellm Enterprise 제품군을 제공받는다.
 
-1. **Dedicated Success Team:**
-   - VP-level executive sponsor with quarterly strategic reviews
-   - Senior Customer Success Manager with bi-weekly check-ins
-   - Technical Account Manager for system optimization
-   - Solutions Architect for IoT and innovation projects
-   - Quarterly executive business reviews with detailed metrics
+1. **무제한 계약건 관리:** SafeHaven의 45,000건 이상 계약을 완전히 지원하며, 사업 확장에 따라 200,000건 이상으로 확장 가능하다.
 
-2. **24/7/365 Premium Support:**
-   - 20-minute response time for P1 critical issues
-   - 1-hour response for P2 high-priority issues
-   - 4-hour response for P3 standard issues
-   - Dedicated support team familiar with SafeHaven's operations
-   - Private Slack channel with engineering access
-   - Emergency CAT response team (15-minute response during disasters)
-   - Quarterly on-site visits (minimum 4 per year)
+2. **화이트라벨 플랫폼:** 완전한 브랜딩 맞춤화:
+   - 맞춤형 도메인(quote.safehavenproperty.com, myhome.safehavenproperty.com)
+   - 맞춤형 UI를 갖춘 iOS 및 Android용 브랜디드 모바일 앱
+   - 맞춤형 계약자 커뮤니케이션
+   - 공동 브랜드 대리점 및 브로커 포털
 
-3. **Comprehensive Implementation:**
-   - 8-month phased implementation program
-   - Dedicated project manager and PMO
-   - Migration of 45,000 policies from legacy system
-   - Training for 60+ staff members
-   - Agent training program for 200+ top-producing agents
-   - Parallel processing for 90 days
-   - Go-live support with 6-week on-site presence
+3. **고급 AI 위험 평가:** 엔터프라이즈급 재산 위험 분석:
+   - 지붕 상태, 식생, 위험요소 파악을 위한 항공 이미지 분석
+   - 재산 특성 평가(건축 연한, 구조, 면적)
+   - 위치 기반 위험 점수화(산불, 홍수, 우박, 강풍, 지진)
+   - 재해 모델링 연동(RMS, AIR, CoreLogic)
+   - 인플레이션 추세를 반영한 재건축 비용 산정
+   - 인근 지역 위험 평가
+   - 전체 보험사 대상 청구 이력 분석
+   - 신용 기반 보험 점수화
 
-4. **Training and Enablement:**
-   - Comprehensive role-based training programs
-   - Underwriter certification on AI risk assessment
-   - Claims adjuster training on computer vision tools
-   - IoT device training for customer service reps
-   - Train-the-trainer program for SafeHaven's team
-   - Annual user conference attendance (5 attendees, all expenses)
-   - Monthly advanced training webinars
-   - Unlimited online learning platform access
+4. **동적 가격 모델:** 정교한 가격 산정 엔진:
+   - 200개 이상의 요율 변수에 걸친 실시간 요율 최적화
+   - 경쟁 정보 분석 및 시장 포지셔닝
+   - 처리 능력 기반 동적 가격 책정
+   - 복수 계약 결합 할인
+   - 충성도 및 가입 기간 크레딧
+   - 무사고 할인 자동화
+   - 텔레매틱스 및 IoT 기반 할인
 
-5. **Custom Development:**
-   - 1,200 hours annually of custom development
-   - Dedicated development resources for SafeHaven-specific features
-   - Priority feature requests with roadmap inclusion
-   - Beta access to new features 60 days before general release
-   - Joint innovation projects for smart home and IoT
-   - Climate risk modeling enhancements
+5. **즉시 청구 처리:** 고급 청구 자동화:
+   - 사진/영상 업로드를 활용한 AI 기반 FNOL
+   - 컴퓨터 비전 손상 평가
+   - 자동 수리 비용 산정
+   - 2,000개 이상의 벤더로 구성된 계약업체 네트워크 연동
+   - 청구 배정 및 라우팅
+   - 다자간 분할 결제 자동화
+   - 패턴 분석 기반 사기 탐지
+   - 구상권 행사 기회 식별
 
-6. **Integration Services:**
-   - Enterprise integration with SafeHaven's systems:
-     - Duck Creek policy administration
-     - Applied Epic agency management
+6. **예측 유지보수 알림:** IoT 기반 위험 예방:
+   - 스마트홈 기기(누수 감지 센서, 화재 감지기, 보안 시스템) 연동
+   - 폭풍 전 알림을 포함한 기상 경보 시스템
+   - 결빙 경보 및 배관 동파 예방
+   - 지붕 노후화 모니터링
+   - 냉난방기 및 가전제품 고장 예측
+   - 산불 근접 경보
+   - 손실 예방을 위한 선제적 계약자 커뮤니케이션
+
+7. **다중 채널 연동:** 통합 플랫폼:
+   - 1,500명 이상의 독립 대리점을 위한 대리점 포털
+   - 소비자 직접 견적 엔진
+   - 공동 브랜드 브로커 포털
+   - 콜센터 연동
+   - 웹 및 모바일 앱 견적
+   - 스마트홈 기기 연결
+
+8. **고객 포털:** 종합적인 셀프서비스:
+   - 24/7 계약 조회 및 문서 열람
+   - 보장 내용 변경 요청
+   - 디지털 보험증
+   - 청구 접수 및 추적
+   - 결제 처리 및 청구 이력
+   - 스마트홈 기기 관리
+   - 유지보수 알림 및 주택 관리 팁
+   - 재난 대비 자료
+
+9. **IoT 기기 연동:** 스마트홈 플랫폼:
+   - 누수 감지 시스템(Flo by Moen, Phyn, LeakSmart)
+   - 스마트 화재/일산화탄소 감지기(Nest Protect, First Alert)
+   - 보안 시스템(Ring, SimpliSafe, ADT)
+   - 스마트 온도 조절기(Nest, Ecobee)
+   - 기상 관측 장비
+   - 지붕 모니터링 센서
+   - IoT 도입에 대한 보험료 할인(최대 20%)
+   - 실시간 경보 및 개입 절차
+
+10. **완전한 API 접근:** 무제한 API 호출:
+    - SafeHaven 핵심 시스템과의 연동
+    - 제3자 데이터 제공업체(CoreLogic, Verisk, LexisNexis)
+    - 재해 모델링 시스템
+    - 대리점 관리 플랫폼
+    - 결제 처리업체
+    - 문서 관리 시스템
+    - 마케팅 자동화
+
+11. **다주(多州) 운영:** 종합적인 지원:
+    - 6개 주 전체에 대한 주별 맞춤 서식 및 배서
+    - 규제 준수 모니터링
+    - 요율 및 서식 신고 관리
+    - 다주 라이선스 추적
+    - 주별 재해 대응 절차
+
+12. **재해 관리:** 재난 대응 도구:
+    - 재해 발생 전 모델링 및 노출 관리
+    - 실시간 폭풍 추적 및 영향 평가
+    - 재해 청구 분류 및 배정
+    - 이동 청구 처리팀 파견
+    - 벤더 급증 대응 역량 활성화
+    - 계약자 커뮤니케이션 캠페인
+    - 긴급 결제 처리
+
+---
+
+## 지원
+
+Insurellm은 SafeHaven Property Insurance에 종합적인 엔터프라이즈급 지원을 제공하기로 약속한다.
+
+1. **전담 성공팀:**
+   - 분기별 전략 리뷰를 진행하는 VP급 임원 스폰서
+   - 격주 점검을 진행하는 선임 고객 성공 관리자
+   - 시스템 최적화를 위한 기술 계정 관리자
+   - IoT 및 혁신 프로젝트를 위한 솔루션 아키텍트
+   - 상세 지표 분석이 포함된 분기별 경영진 비즈니스 리뷰
+
+2. **24/7/365 프리미엄 지원:**
+   - P1(긴급) 문제에 대한 20분 응답 시간
+   - P2(우선) 문제에 대한 1시간 응답
+   - P3(표준) 문제에 대한 4시간 응답
+   - SafeHaven의 운영 방식을 숙지한 전담 지원팀
+   - 엔지니어링 접근 권한을 가진 전용 Slack 채널
+   - 긴급 재해 대응팀(재난 발생 시 15분 응답)
+   - 분기별 현장 방문(연간 최소 4회)
+
+3. **종합적인 구축 지원:**
+   - 8개월간의 단계적 구축 프로그램
+   - 전담 프로젝트 매니저 및 PMO
+   - 기존 시스템으로부터 45,000건의 계약 이관
+   - 60명 이상의 직원 교육
+   - 200명 이상의 우수 실적 대리점을 위한 대리점 교육 프로그램
+   - 90일간의 병행 처리
+   - 6주간 현장 상주를 포함한 오픈 지원
+
+4. **교육 및 역량 강화:**
+   - 종합적인 역할별 교육 프로그램
+   - AI 위험 평가에 관한 언더라이터 인증
+   - 컴퓨터 비전 도구에 관한 손해사정사 교육
+   - 고객 서비스 담당자를 위한 IoT 기기 교육
+   - SafeHaven 팀을 위한 강사 양성 프로그램
+   - 연례 사용자 컨퍼런스 참가(5명, 전 비용 지원)
+   - 월간 고급 교육 웨비나
+   - 무제한 온라인 학습 플랫폼 이용
+
+5. **맞춤형 개발:**
+   - 연간 1,200시간의 맞춤형 개발
+   - SafeHaven 전용 기능을 위한 전담 개발 리소스
+   - 로드맵에 반영되는 우선 기능 요청
+   - 정식 출시 60일 전 신규 기능 베타 이용
+   - 스마트홈 및 IoT 관련 공동 혁신 프로젝트
+   - 기후 위험 모델링 개선
+
+6. **연동 서비스:**
+   - SafeHaven 시스템과의 엔터프라이즈 연동:
+     - Duck Creek 계약 관리
+     - Applied Epic 대리점 관리
      - Guidewire ClaimCenter
-     - IoT platforms (Nationwide Canopy, Ting, others)
-     - Catastrophe modeling (RMS RiskLink)
-     - Payment processors
+     - IoT 플랫폼(Nationwide Canopy, Ting 등)
+     - 재해 모델링(RMS RiskLink)
+     - 결제 처리업체
      - Salesforce CRM
-   - Dedicated integration engineer (40% FTE)
-   - Quarterly integration health assessments
-   - Load testing before peak seasons (hurricane, wildfire)
+   - 전담 연동 엔지니어(40% FTE)
+   - 분기별 연동 상태 점검
+   - 성수기(허리케인, 산불) 전 부하 테스트
 
-7. **Analytics and Reporting:**
-   - Custom dashboard development (up to 20 dashboards)
-   - Real-time operational dashboards for underwriting and claims
-   - Executive dashboards with drill-down analytics
-   - Automated reporting suite (daily, weekly, monthly, quarterly)
-   - Ad-hoc analytics support (25 requests/month)
-   - Industry benchmarking against top property insurers
-   - Catastrophe exposure and aggregation reporting
-   - IoT adoption and loss prevention analytics
+7. **분석 및 보고:**
+   - 맞춤형 대시보드 개발(최대 20개)
+   - 언더라이팅 및 청구를 위한 실시간 운영 대시보드
+   - 드릴다운 분석이 가능한 경영진 대시보드
+   - 자동화된 보고 체계(일간, 주간, 월간, 분기별)
+   - 임시 분석 지원(월 25건)
+   - 상위 재산 보험사 대비 업계 벤치마킹
+   - 재해 노출 및 집계 보고
+   - IoT 도입 및 손실 예방 분석
 
-8. **IoT and Innovation Support:**
-   - Quarterly IoT strategy sessions
-   - New smart home device evaluation and integration
-   - Pilot programs for emerging technologies
-   - Consumer education materials for IoT programs
-   - Marketing campaign support for smart home initiatives
+8. **IoT 및 혁신 지원:**
+   - 분기별 IoT 전략 세션
+   - 신규 스마트홈 기기 평가 및 연동
+   - 신기술 파일럿 프로그램
+   - IoT 프로그램을 위한 소비자 교육 자료
+   - 스마트홈 이니셔티브를 위한 마케팅 캠페인 지원
 
-9. **Catastrophe Response:**
-   - Dedicated CAT support during disaster events
-   - Pre-CAT system preparation and testing
-   - Real-time claims surge capacity support
-   - Post-CAT analysis and lessons learned
-   - Annual CAT preparedness drills
+9. **재해 대응:**
+   - 재난 발생 시 전담 재해 지원
+   - 재해 발생 전 시스템 준비 및 테스트
+   - 실시간 청구 급증 대응 지원
+   - 재해 발생 후 분석 및 교훈 정리
+   - 연례 재해 대비 훈련
 
-10. **Continuous Improvement:**
-    - Quarterly process optimization workshops
-    - Annual efficiency audits with ROI documentation
-    - Best practice sharing from insurance industry
-    - Innovation lab for climate risk, AI, and IoT
-    - Joint whitepapers and case studies
-    - Speaking opportunities at industry events
+10. **지속적 개선:**
+    - 분기별 프로세스 최적화 워크숍
+    - ROI 문서화를 포함한 연간 효율성 감사
+    - 보험 업계의 모범 사례 공유
+    - 기후 위험, AI, IoT를 위한 혁신 랩
+    - 공동 백서 및 사례 연구
+    - 업계 행사에서의 발표 기회
 
 ---
 
-**Signatures:**
+**서명:**
 
 _________________________________
 **Jennifer Rodriguez**
-**Title**: Chief Executive Officer
+**직책**: Chief Executive Officer
 **Insurellm, Inc.**
-**Date**: May 3, 2025
+**날짜**: 2025년 5월 3일
 
 _________________________________
 **Laura Mitchell**
-**Title**: President & Chief Executive Officer
+**직책**: President & Chief Executive Officer
 **SafeHaven Property Insurance, Inc.**
-**Date**: May 3, 2025
+**날짜**: 2025년 5월 3일
 
 ---
 
-This agreement establishes SafeHaven Property Insurance as a leading enterprise partner in property insurance innovation, leveraging Homellm's AI, IoT integration, and catastrophe management capabilities. This contract supersedes all prior agreements.
+본 계약은 SafeHaven Property Insurance를 재산 보험 혁신 분야의 선도적인 엔터프라이즈 파트너로 확립하며, Homellm의 AI, IoT 연동, 재해 관리 역량을 활용한다. 본 계약은 이전의 모든 계약을 대체한다.

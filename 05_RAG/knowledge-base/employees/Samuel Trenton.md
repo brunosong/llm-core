@@ -1,54 +1,54 @@
-# HR Record
+# HR 기록
 
 # Samuel Trenton
 
-## Summary
-- **Date of Birth:** April 12, 1989
-- **Job Title:** Senior Data Scientist
-- **Location:** Austin, Texas
-- **Current Salary:** $115,000  
+## 요약
+- **생년월일:** 1989년 4월 12일
+- **직책:** Senior Data Scientist
+- **근무지:** 텍사스주 오스틴
+- **현재 연봉:** $115,000
 
-## Insurellm Career Progression
-- **January 2020 - Present:** Senior Data Scientist  
-  *Promoted for demonstrating exceptional analytical skills and leadership potential. Led several projects that improved customer segmentation strategies, resulting in a 15% increase in customer retention.*
+## Insurellm 경력 진행
+- **2020년 1월 - 현재:** Senior Data Scientist
+  *뛰어난 분석 능력과 리더십 잠재력을 보여 승진. 고객 세분화 전략을 개선하는 여러 프로젝트를 이끌어 고객 유지율을 15% 향상시킴.*
 
-- **June 2018 - December 2019:** Data Scientist  
-  *Joined the Insurellm team and worked on developing predictive modeling techniques to assess risk for both B2B and B2C customers. Received recognition for the success of the "Risk Assessment Model" project.*
+- **2018년 6월 - 2019년 12월:** Data Scientist
+  *Insurellm 팀에 합류하여 B2B 및 B2C 고객의 리스크를 평가하는 예측 모델링 기법 개발에 참여. "Risk Assessment Model" 프로젝트의 성공으로 인정받음.*
 
-- **August 2016 - May 2018:** Junior Data Analyst  
-  *Started at Insurellm as a Junior Data Analyst, focusing on data cleaning and preliminary analysis of customer data. Received training in various data visualization techniques, which aided in the transition to a Data Scientist role.*
+- **2016년 8월 - 2018년 5월:** Junior Data Analyst
+  *데이터 정제 및 고객 데이터의 초기 분석을 중심으로 Insurellm에서 Junior Data Analyst로 시작. 다양한 데이터 시각화 기법 관련 교육을 받았으며, 이는 Data Scientist 역할로의 전환에 도움이 됨.*
 
-## Annual Performance History
-- **2023:** Rating: 4.5/5  
-  *Samuel exceeded expectations, successfully leading a cross-departmental project on AI-driven underwriting processes.*
+## 연간 성과 이력
+- **2023년:** 평점 4.5/5
+  *Samuel은 기대치를 뛰어넘어 AI 기반 언더라이팅 프로세스에 관한 부서 간 프로젝트를 성공적으로 이끔.*
 
-- **2022:** Rating: 3.0/5  
-  *Some challenges in meeting deadlines and collaboration with the engineering team. Received constructive feedback and participated in a team communication workshop.*
+- **2022년:** 평점 3.0/5
+  *마감 준수와 엔지니어링 팀과의 협업에서 일부 어려움을 겪음. 건설적인 피드백을 받고 팀 커뮤니케이션 워크숍에 참여함.*
 
-- **2021:** Rating: 4.0/5  
-  *There was notable improvement in performance. Worked to enhance model accuracy, leading to improved risk assessment outcomes for B2C customers.*
+- **2021년:** 평점 4.0/5
+  *성과에서 뚜렷한 개선이 있었음. 모델 정확도 향상에 힘써 B2C 고객에 대한 리스크 평가 결과를 개선함.*
 
-- **2020:** Rating: 3.5/5  
-  *Exhibited a solid performance during the initial year as a Senior Data Scientist but had struggles adapting to new leadership expectations.*
+- **2020년:** 평점 3.5/5
+  *Senior Data Scientist로서의 첫해 동안 견실한 성과를 보였으나 새로운 리더십 기대치에 적응하는 데 어려움을 겪음.*
 
-## Compensation History
-- **2023:** Base Salary: $115,000 + Bonus: $15,000  
-  *Annual bonus based on successful project completions and performance metrics.*
+## 보상 이력
+- **2023년:** 기본급 $115,000 + 보너스 $15,000
+  *성공적인 프로젝트 완료 및 성과 지표를 기반으로 한 연간 보너스.*
 
-- **2022:** Base Salary: $110,000 + Bonus: $10,000  
-  *Slight decrease in bonus due to performance challenges during the year.*
+- **2022년:** 기본급 $110,000 + 보너스 $10,000
+  *해당 연도의 성과 문제로 인해 보너스가 소폭 감소.*
 
-- **2021:** Base Salary: $105,000 + Bonus: $12,000  
-  *Merit-based increase, reflecting consistent contributions to the data science team.*
+- **2021년:** 기본급 $105,000 + 보너스 $12,000
+  *데이터 과학 팀에 대한 지속적인 기여를 반영한 성과 기반 인상.*
 
-- **2020:** Base Salary: $100,000 + Bonus: $8,000  
-  *Initial compensation as Senior Data Scientist, with a focus on building rapport with cross-functional teams.*
+- **2020년:** 기본급 $100,000 + 보너스 $8,000
+  *Senior Data Scientist로서의 초기 보상. 부서 간 팀과의 신뢰 구축에 중점을 둠.*
 
-## Other HR Notes
-- **Professional Development:** Completed several workshops on machine learning and AI applications in insurance. Currently pursuing an online certification in deep learning.
+## 기타 HR 메모
+- **전문성 개발:** 머신러닝 및 보험 분야 AI 응용에 관한 여러 워크숍을 이수함. 현재 딥러닝 온라인 자격증 과정을 밟고 있음.
 
-- **Engagement in Company Culture:** Regularly participates in team-building events and contributes to the internal newsletter, sharing insights on data science trends.
+- **회사 문화 참여:** 팀 빌딩 행사에 정기적으로 참여하며 데이터 과학 트렌드에 관한 인사이트를 공유하는 사내 뉴스레터에 기여함.
 
-- **Areas for Improvement:** Collaboration with engineering teams has been noted as an area needing focus. Samuel has expressed a desire to work closely with tech teams to align data initiatives better.
+- **개선 영역:** 엔지니어링 팀과의 협업이 개선이 필요한 영역으로 지적됨. Samuel은 데이터 이니셔티브를 더 잘 정렬하기 위해 기술 팀과 긴밀히 협력하고자 하는 의지를 표명함.
 
-- **Personal Interests:** Has a keen interest in hiking and photography, often sharing his photography from weekend hikes with colleagues, fostering positive team relationships.
+- **개인 관심사:** 하이킹과 사진 촬영에 큰 관심이 있으며, 주말 하이킹에서 찍은 사진을 동료들과 자주 공유하여 긍정적인 팀 관계를 조성함.

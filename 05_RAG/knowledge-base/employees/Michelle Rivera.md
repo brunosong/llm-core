@@ -1,55 +1,55 @@
-# HR Record
+# HR 기록
 
 # Michelle Rivera
 
-## Summary
-- **Date of Birth:** December 16, 1988
-- **Job Title:** Product Designer
-- **Location:** New York, New York
-- **Current Salary:** $118,000
+## 요약
+- **생년월일:** 1988년 12월 16일
+- **직책:** Product Designer
+- **근무지:** 뉴욕주 뉴욕
+- **현재 연봉:** $118,000
 
-## Insurellm Career Progression
-- **February 2019 - Present:** Product Designer
-  - Leads design for Rellm reinsurance platform
-  - Creates user experiences for complex B2B workflows
-  - Collaborates with product managers and engineers
-  - Conducts user research with enterprise clients
+## Insurellm 경력 진행
+- **2019년 2월 - 현재:** Product Designer
+  - Rellm 재보험 플랫폼의 디자인을 총괄
+  - 복잡한 B2B 워크플로우를 위한 사용자 경험을 설계
+  - 프로덕트 매니저 및 엔지니어와 협업
+  - 엔터프라이즈 고객을 대상으로 사용자 리서치 수행
 
-- **August 2016 - January 2019:** Senior UX/UI Designer at DesignStudio NYC
-  - Designed digital products for various clients
-  - Specialized in enterprise software and complex workflows
+- **2016년 8월 - 2019년 1월:** DesignStudio NYC, Senior UX/UI Designer
+  - 다양한 클라이언트를 위한 디지털 제품 디자인
+  - 엔터프라이즈 소프트웨어 및 복잡한 워크플로우 전문
 
-- **May 2013 - July 2016:** UX Designer at CreativeAgency
-  - Created user interfaces for consumer and business applications
-  - Developed skills in user research and interaction design
+- **2013년 5월 - 2016년 7월:** CreativeAgency, UX Designer
+  - 소비자용 및 비즈니스용 애플리케이션의 사용자 인터페이스 제작
+  - 사용자 리서치 및 인터랙션 디자인 역량 개발
 
-## Annual Performance History
-- **2023:** Rating: 4.8/5
-  *Outstanding performance. Led major Rellm redesign that improved user efficiency by 40%. Exceptional user research and design execution.*
+## 연간 성과 이력
+- **2023년:** 평점 4.8/5
+  *뛰어난 성과. Rellm의 대규모 리디자인을 주도하여 사용자 효율성을 40% 향상시킴. 탁월한 사용자 리서치와 디자인 실행력.*
 
-- **2022:** Rating: 4.5/5
-  *Exceeded expectations. Strong design leadership and excellent collaboration with engineering team.*
+- **2022년:** 평점 4.5/5
+  *기대 이상 달성. 강력한 디자인 리더십과 엔지니어링 팀과의 우수한 협업.*
 
-- **2021:** Rating: 4.3/5
-  *Strong performance. Successfully balanced multiple design projects and maintained high quality standards.*
+- **2021년:** 평점 4.3/5
+  *우수한 성과. 여러 디자인 프로젝트를 성공적으로 병행하며 높은 품질 기준을 유지.*
 
-- **2020:** Rating: 4.1/5
-  *Good performance adapting to remote design collaboration. Maintained design quality during challenging year.*
+- **2020년:** 평점 4.1/5
+  *원격 디자인 협업에 잘 적응한 양호한 성과. 어려운 한 해 동안에도 디자인 품질 유지.*
 
-- **2019:** Rating: 4.0/5
-  *Solid first year at Insurellm. Quick to learn complex insurance domain and establish design process.*
+- **2019년:** 평점 4.0/5
+  *Insurellm에서의 견실한 첫해. 복잡한 보험 도메인을 빠르게 습득하고 디자인 프로세스를 정립함.*
 
-## Compensation History
-- **2023:** Base Salary: $118,000 + Bonus: $16,000
-- **2022:** Base Salary: $112,000 + Bonus: $14,000
-- **2021:** Base Salary: $105,000 + Bonus: $12,000
-- **2020:** Base Salary: $98,000 + Bonus: $10,000
-- **2019:** Base Salary: $92,000 + Bonus: $8,000
+## 보상 이력
+- **2023년:** 기본급 $118,000 + 보너스 $16,000
+- **2022년:** 기본급 $112,000 + 보너스 $14,000
+- **2021년:** 기본급 $105,000 + 보너스 $12,000
+- **2020년:** 기본급 $98,000 + 보너스 $10,000
+- **2019년:** 기본급 $92,000 + 보너스 $8,000
 
-## Other HR Notes
-- **Education:** MFA in Interaction Design from School of Visual Arts, BFA in Graphic Design from Parsons
-- **Skills:** Expert in Figma, Sketch, prototyping, user research methodologies, information architecture, design systems
-- **Recognition:** Design Excellence Award 2023, featured in UX Design Magazine for Rellm case study
-- **Speaking:** Presented at UX Week 2023 on "Designing for Complex Enterprise Workflows"
-- **Mentorship:** Mentors junior designers and leads design critique sessions
-- **Feedback:** Exceptional designer with rare ability to simplify complex problems. Strong strategic thinker who balances user needs with business goals. Trusted design leader.
+## 기타 HR 메모
+- **학력:** School of Visual Arts 인터랙션 디자인 석사(MFA), Parsons 그래픽 디자인 학사(BFA)
+- **역량:** Figma, Sketch, 프로토타이핑, 사용자 리서치 방법론, 정보 구조 설계, 디자인 시스템에 전문성 보유
+- **수상:** 2023년 Design Excellence Award 수상, Rellm 사례 연구로 UX Design Magazine에 소개됨
+- **강연:** 2023년 UX Week에서 "Designing for Complex Enterprise Workflows"를 주제로 발표
+- **멘토링:** 주니어 디자이너를 멘토링하며 디자인 크리틱 세션을 주도
+- **피드백:** 복잡한 문제를 단순화하는 보기 드문 능력을 가진 탁월한 디자이너. 사용자 요구와 비즈니스 목표의 균형을 잡는 전략적 사고력이 뛰어남. 신뢰받는 디자인 리더.

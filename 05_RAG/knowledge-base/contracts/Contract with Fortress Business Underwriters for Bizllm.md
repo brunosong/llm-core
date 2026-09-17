@@ -1,87 +1,87 @@
-# Contract with Fortress Business Underwriters for Bizllm
+# Fortress Business Underwriters와 Bizllm 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Agreement Effective Date**: This contract is effective as of February 1, 2025.
-2. **Duration**: This agreement will remain in effect for a term of 24 months, concluding on January 31, 2027.
-3. **Subscription Type**: Fortress Business Underwriters agrees to subscribe to the **Professional Tier** of Bizllm, at a cost of $12,000/month, totaling $288,000 for the duration of this contract.
-4. **Payment Terms**: Payments are due on the 5th of each month. Late payments will incur a penalty of 2% per month.
-5. **Scope of Use**: License covers up to 50 named users within Fortress Business Underwriters' organization, with additional user licenses available at $150/month per user.
-6. **Termination Clause**: Either party may terminate this agreement with 60 days' written notice prior to the end of the term. If terminated early, a termination fee equal to 25% of remaining contract value will apply.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement will automatically renew for an additional 24-month term unless either party provides written notice of non-renewal at least 60 days before the expiration date.
-2. **Price Adjustments**: Subscription fees may be adjusted for the renewal term based on Consumer Price Index (CPI) changes or enhanced feature availability, with 90 days' prior notice provided to Fortress Business Underwriters.
-3. **Upgrade Options**: Client may upgrade to Enterprise Tier at any time with 30 days' notice and prorated pricing adjustment.
+1. **계약 발효일**: 본 계약은 2025년 2월 1일부로 발효됩니다.
+2. **계약 기간**: 본 계약은 24개월간 유효하며, 2027년 1월 31일에 종료됩니다.
+3. **구독 유형**: Fortress Business Underwriters는 Bizllm의 **Professional Tier**를 구독하는 데 동의하며, 비용은 월 $12,000이고 계약 기간 전체 총액은 $288,000입니다.
+4. **결제 조건**: 결제는 매월 5일에 이루어져야 합니다. 연체 시 월 2%의 연체료가 부과됩니다.
+5. **이용 범위**: 라이선스는 Fortress Business Underwriters 조직 내 최대 50명의 지정 사용자를 대상으로 하며, 추가 사용자 라이선스는 사용자당 월 $150에 이용할 수 있습니다.
+6. **해지 조항**: 양 당사자는 계약 종료 60일 전에 서면 통지함으로써 본 계약을 해지할 수 있습니다. 조기 해지 시 잔여 계약 가치의 25%에 해당하는 해지 수수료가 부과됩니다.
 
 ---
 
-## Features
+## 갱신
 
-1. **Access to Professional Tier Features**: Fortress Business Underwriters will have access to all Professional Tier features, including:
-   - Multi-Line Underwriting Engine for general liability, professional liability, property, workers' comp, and cyber insurance
-   - Business Intelligence Integration with automated data gathering
-   - Cyber Risk Assessment with digital security posture evaluation
-   - Workers' Compensation Optimization tools
-   - Commercial Property Evaluation with catastrophe modeling
-   - Professional Liability Specialization for multiple industry sectors
-   - Portfolio Management Dashboard with predictive analytics
-   - Agent and Broker Portal with commission tracking
-   - Claims Management Integration with AI-powered subrogation identification
-
-2. **Advanced Analytics**: Access to enhanced reporting capabilities including loss ratio analysis, geographic heat maps, and competitive benchmarking tools.
-
-3. **API Access**: Limited API access for integrating Bizllm with existing underwriting workbenches and agency management systems (up to 100,000 API calls/month).
-
-4. **Custom Workflows**: Ability to configure up to 10 custom underwriting workflows tailored to Fortress's specific business lines and risk appetites.
+1. **자동 갱신**: 본 계약은 만료일 최소 60일 전에 어느 한쪽 당사자가 갱신 거부에 대한 서면 통지를 하지 않는 한 추가 24개월 기간으로 자동 갱신됩니다.
+2. **가격 조정**: 구독료는 소비자물가지수(CPI) 변동 또는 향상된 기능 제공 여부에 따라 갱신 기간에 대해 조정될 수 있으며, Fortress Business Underwriters에게 90일 사전 통지가 제공됩니다.
+3. **업그레이드 옵션**: 고객은 30일 사전 통지와 함께 일할 계산된 가격 조정을 통해 언제든지 Enterprise Tier로 업그레이드할 수 있습니다.
 
 ---
 
-## Support
+## 기능
 
-1. **Technical Support**: Fortress Business Underwriters will receive priority technical support from Insurellm, including:
-   - Dedicated account manager with monthly check-ins
-   - 24/7 emergency technical support hotline
-   - Response time guarantee: 2 hours for critical issues, 8 hours for standard issues
+1. **Professional Tier 기능 이용**: Fortress Business Underwriters는 다음을 포함한 모든 Professional Tier 기능을 이용할 수 있습니다.
+   - 일반 배상책임, 전문직 배상책임, 재산, 산재보상, 사이버보험을 위한 다중 라인 언더라이팅 엔진
+   - 자동화된 데이터 수집 기능을 갖춘 비즈니스 인텔리전스 통합
+   - 디지털 보안 상태 평가를 포함한 사이버 리스크 평가
+   - 산재보상 최적화 도구
+   - 재해 모델링을 포함한 상업용 부동산 평가
+   - 다양한 산업 부문을 위한 전문직 배상책임 전문화
+   - 예측 분석 기능을 갖춘 포트폴리오 관리 대시보드
+   - 수수료 추적 기능을 갖춘 대리점 및 중개인 포털
+   - AI 기반 구상권 식별 기능을 갖춘 청구 관리 통합
 
-2. **Training**: Insurellm will provide:
-   - Initial comprehensive onboarding (40 hours) for up to 20 staff members
-   - Quarterly advanced training sessions on new features and best practices
-   - Access to online learning portal with video tutorials and documentation
-   - Annual certification program for power users
+2. **고급 분석**: 손해율 분석, 지역별 히트맵, 경쟁사 벤치마킹 도구 등 향상된 보고 기능을 이용할 수 있습니다.
 
-3. **Updates and Maintenance**:
-   - Monthly platform updates with new features and enhancements
-   - Scheduled maintenance windows: Saturday 11 PM - Sunday 3 AM EST
-   - Minimum 72 hours advance notice for all planned maintenance
-   - Zero-downtime updates for non-critical improvements
+3. **API 접근**: 기존 언더라이팅 워크벤치 및 대리점 관리 시스템과 Bizllm을 통합하기 위한 제한적 API 접근(월 최대 100,000회 호출)이 제공됩니다.
 
-4. **Integration Support**: Dedicated integration specialist to assist with:
-   - Connection to policy administration systems (Duck Creek, Guidewire, etc.)
-   - Data migration from legacy underwriting platforms
-   - Third-party data provider integrations (Verisk, LexisNexis, CoreLogic)
+4. **맞춤형 워크플로우**: Fortress의 특정 비즈니스 라인과 리스크 성향에 맞춘 최대 10개의 맞춤형 언더라이팅 워크플로우를 구성할 수 있습니다.
 
 ---
 
-**Signatures:**
+## 지원
+
+1. **기술 지원**: Fortress Business Underwriters는 Insurellm으로부터 다음을 포함한 우선 기술 지원을 받습니다.
+   - 매월 정기 점검을 진행하는 전담 계정 관리자
+   - 24시간 연중무휴 긴급 기술 지원 핫라인
+   - 응답 시간 보장: 긴급 사안 2시간, 표준 사안 8시간
+
+2. **교육**: Insurellm은 다음을 제공합니다.
+   - 최대 20명의 직원을 대상으로 하는 초기 종합 온보딩(40시간)
+   - 신규 기능 및 모범 사례에 관한 분기별 고급 교육 세션
+   - 동영상 튜토리얼 및 문서가 포함된 온라인 학습 포털 이용
+   - 파워 유저를 위한 연간 인증 프로그램
+
+3. **업데이트 및 유지보수**:
+   - 신규 기능 및 개선 사항이 포함된 월간 플랫폼 업데이트
+   - 예정된 유지보수 시간: 토요일 오후 11시 ~ 일요일 오전 3시(미 동부시간)
+   - 모든 예정된 유지보수에 대해 최소 72시간 사전 통지
+   - 비긴급 개선 사항에 대한 무중단 업데이트
+
+4. **통합 지원**: 다음을 지원하는 전담 통합 전문가 배정:
+   - 계약관리시스템(Duck Creek, Guidewire 등)과의 연동
+   - 레거시 언더라이팅 플랫폼으로부터의 데이터 마이그레이션
+   - 제3자 데이터 제공업체(Verisk, LexisNexis, CoreLogic) 연동
+
+---
+
+**서명:**
 
 _________________________________
 **Michael Torres**
-**Title**: Chief Revenue Officer
+**직위**: Chief Revenue Officer
 **Insurellm, Inc.**
-**Date**: February 1, 2025
+**날짜**: 2025년 2월 1일
 
 _________________________________
 **Robert Chen**
-**Title**: Chief Underwriting Officer
+**직위**: Chief Underwriting Officer
 **Fortress Business Underwriters**
-**Date**: February 1, 2025
+**날짜**: 2025년 2월 1일
 
 ---
 
-*This contract outlines the terms of the relationship between Insurellm and Fortress Business Underwriters for the Bizllm product, establishing a partnership to transform commercial insurance underwriting operations.*
+*본 계약은 상업보험 언더라이팅 업무 혁신을 위한 파트너십을 수립하는 Insurellm과 Fortress Business Underwriters 간 Bizllm 제품에 관한 관계의 조건을 규정합니다.*

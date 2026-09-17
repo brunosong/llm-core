@@ -1,52 +1,52 @@
-# HR Record
+# HR 기록
 
 # Marcus Johnson
 
-## Summary
-- **Date of Birth:** February 17, 1988
-- **Job Title:** Customer Success Manager
-- **Location:** New York, New York
-- **Current Salary:** $98,000
+## 요약
+- **생년월일:** 1988년 2월 17일
+- **직책:** 고객성공 매니저 (Customer Success Manager)
+- **근무지:** 뉴욕주 뉴욕
+- **현재 연봉:** $98,000
 
-## Insurellm Career Progression
-- **April 2020 - Present:** Customer Success Manager
-  - Manages portfolio of 25 enterprise clients generating $5M in annual revenue
-  - Achieved 95% client retention rate over past three years
-  - Leads quarterly business reviews and strategic planning sessions with clients
+## Insurellm 경력 이력
+- **2020년 4월 - 현재:** 고객성공 매니저
+  - 연간 $5M의 매출을 창출하는 25개 엔터프라이즈 고객 포트폴리오 관리
+  - 지난 3년간 95%의 고객 유지율 달성
+  - 고객과의 분기별 비즈니스 리뷰 및 전략 기획 세션 주도
 
-- **September 2018 - March 2020:** Customer Success Associate
-  - Supported senior CSMs with client onboarding and training
-  - Managed day-to-day communication with mid-market clients
-  - Created customer success playbooks and best practices documentation
+- **2018년 9월 - 2020년 3월:** 고객성공 어소시에이트 (Customer Success Associate)
+  - 선임 CSM의 고객 온보딩 및 교육 지원
+  - 중견 기업 고객과의 일상적인 커뮤니케이션 관리
+  - 고객성공 플레이북 및 모범 사례 문서 작성
 
-- **January 2016 - August 2018:** Account Manager at SaaS Solutions Inc.
-  - Managed B2B client relationships in software sector
-  - Focused on upselling and customer retention
+- **2016년 1월 - 2018년 8월:** SaaS Solutions Inc. 어카운트 매니저 (Account Manager)
+  - 소프트웨어 업계에서 B2B 고객 관계 관리
+  - 업셀링과 고객 유지에 주력
 
-## Annual Performance History
-- **2023:** Rating: 4.7/5
-  *Exceptional performance with highest client satisfaction scores in the team. Successfully expanded three key accounts.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 4.7/5
+  *팀 내 최고 수준의 고객 만족도 점수를 기록한 뛰어난 성과. 주요 계정 3곳을 성공적으로 확장.*
 
-- **2022:** Rating: 4.3/5
-  *Strong performance with good retention numbers. Faced challenges with one difficult client but resolved successfully.*
+- **2022년:** 평가 등급: 4.3/5
+  *양호한 유지율 수치를 보인 우수한 성과. 까다로운 고객 한 곳과 어려움을 겪었으나 성공적으로 해결.*
 
-- **2021:** Rating: 3.8/5
-  *Solid year but missed expansion revenue targets in Q2 and Q3. Improved significantly in Q4.*
+- **2021년:** 평가 등급: 3.8/5
+  *견고한 한 해였으나 2, 3분기 확장 매출 목표를 놓침. 4분기에 크게 개선.*
 
-- **2020:** Rating: 4.0/5
-  *Good transition to CSM role. Quickly built rapport with enterprise clients and demonstrated strategic thinking.*
+- **2020년:** 평가 등급: 4.0/5
+  *CSM 역할로의 좋은 전환. 엔터프라이즈 고객과 빠르게 신뢰를 쌓고 전략적 사고를 입증.*
 
-## Compensation History
-- **2023:** Base Salary: $98,000 + Bonus: $15,000
-- **2022:** Base Salary: $92,000 + Bonus: $12,000
-- **2021:** Base Salary: $85,000 + Bonus: $8,000
-- **2020:** Base Salary: $78,000 + Bonus: $10,000
-- **2019:** Base Salary: $68,000 + Bonus: $5,000
-- **2018:** Base Salary: $65,000
+## 보상 이력
+- **2023년:** 기본급: $98,000 + 보너스: $15,000
+- **2022년:** 기본급: $92,000 + 보너스: $12,000
+- **2021년:** 기본급: $85,000 + 보너스: $8,000
+- **2020년:** 기본급: $78,000 + 보너스: $10,000
+- **2019년:** 기본급: $68,000 + 보너스: $5,000
+- **2018년:** 기본급: $65,000
 
-## Other HR Notes
-- **Education:** BA in Business Administration from NYU Stern School of Business
-- **Certifications:** Certified Customer Success Manager (CCSM), Salesforce Administrator
-- **Recognition:** Customer Champion Award 2023 for highest NPS scores
-- **Mentorship:** Actively mentors new Customer Success Associates
-- **Feedback:** Excellent relationship builder with deep product knowledge. Strong strategic advisor to clients. Known for going above and beyond to ensure client success.
+## 기타 인사 노트
+- **학력:** NYU 스턴 경영대학원 경영학 학사
+- **자격증:** Certified Customer Success Manager (CCSM), Salesforce Administrator
+- **수상:** 최고 NPS 점수로 2023년 Customer Champion Award 수상
+- **멘토십:** 신입 고객성공 어소시에이트를 적극적으로 멘토링
+- **피드백:** 깊은 제품 지식을 갖춘 뛰어난 관계 구축자. 고객에게 강력한 전략적 조언자 역할 수행. 고객의 성공을 위해 헌신적으로 노력하는 것으로 정평이 나 있음

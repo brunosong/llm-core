@@ -1,52 +1,52 @@
-# Product Summary
+# 제품 요약
 
 # Lifellm
 
-## Summary
+## 요약
 
-Lifellm is an advanced life insurance platform developed by Insurellm that revolutionizes how insurance providers offer life coverage to their customers. Leveraging cutting-edge AI and predictive analytics, Lifellm enables insurers to provide personalized life insurance policies with streamlined underwriting, accurate risk assessment, and exceptional customer experiences. Designed for both B2B and B2C markets, Lifellm helps insurance companies modernize their life insurance operations while reducing costs and improving customer satisfaction.
+Lifellm은 보험사가 고객에게 생명보험 보장을 제공하는 방식을 혁신하는 Insurellm이 개발한 고급 생명보험 플랫폼입니다. 최첨단 AI와 예측 분석을 활용하여, Lifellm은 보험사가 간소화된 언더라이팅, 정확한 리스크 평가, 뛰어난 고객 경험을 갖춘 개인 맞춤형 생명보험 상품을 제공할 수 있도록 지원합니다. B2B와 B2C 시장 모두를 위해 설계된 Lifellm은 보험사가 비용을 절감하고 고객 만족도를 높이면서 생명보험 운영을 현대화할 수 있도록 돕습니다.
 
-## Features
+## 기능
 
-### 1. AI-Powered Underwriting
-Lifellm's sophisticated AI engine analyzes health records, lifestyle data, and demographic information to accelerate the underwriting process. What traditionally took weeks can now be completed in hours or even minutes, enabling insurers to issue policies faster while maintaining accuracy.
+### 1. AI 기반 언더라이팅
+Lifellm의 정교한 AI 엔진은 건강 기록, 라이프스타일 데이터, 인구통계 정보를 분석하여 언더라이팅 프로세스를 가속화합니다. 전통적으로 몇 주가 걸리던 작업이 이제 몇 시간, 심지어 몇 분 만에 완료될 수 있어 보험사가 정확성을 유지하면서도 더 빠르게 증권을 발급할 수 있습니다.
 
-### 2. Predictive Risk Modeling
-Advanced machine learning algorithms assess mortality risk by analyzing vast datasets including medical histories, genetic markers, and lifestyle factors. This enables insurers to price policies more accurately and identify opportunities for coverage expansion.
+### 2. 예측형 리스크 모델링
+고급 머신러닝 알고리즘이 의료 이력, 유전적 마커, 라이프스타일 요인을 포함한 방대한 데이터셋을 분석하여 사망률 리스크를 평가합니다. 이를 통해 보험사는 상품 가격을 더 정확하게 책정하고 보장 확대 기회를 식별할 수 있습니다.
 
-### 3. Digital Health Integration
-Lifellm seamlessly integrates with wearables and health tracking apps, allowing insurers to offer dynamic policies that reward healthy behaviors. This creates win-win scenarios where customers maintain better health while enjoying premium discounts.
+### 3. 디지털 건강 통합
+Lifellm은 웨어러블 기기 및 건강 관리 앱과 매끄럽게 통합되어 보험사가 건강한 행동에 보상을 제공하는 동적 상품을 제공할 수 있도록 지원합니다. 이는 고객이 건강을 유지하는 동시에 보험료 할인 혜택을 누릴 수 있는 상생 시나리오를 만들어냅니다.
 
-### 4. Automated Policy Management
-The platform provides a comprehensive suite of tools for policy administration, including beneficiary management, premium calculations, coverage adjustments, and policy renewals. Automation reduces administrative burden and minimizes errors.
+### 4. 자동화된 계약 관리
+플랫폼은 수익자 관리, 보험료 계산, 보장 조정, 계약 갱신을 포함한 계약 관리를 위한 종합 도구 모음을 제공합니다. 자동화는 관리 부담을 줄이고 오류를 최소화합니다.
 
-### 5. Smart Document Processing
-Lifellm utilizes natural language processing and optical character recognition to automatically extract and validate information from medical records, applications, and supporting documentation, significantly reducing manual data entry.
+### 5. 스마트 문서 처리
+Lifellm은 자연어 처리와 광학 문자 인식 기술을 활용하여 의료 기록, 신청서, 관련 증빙 서류에서 정보를 자동으로 추출하고 검증함으로써 수작업 데이터 입력을 크게 줄입니다.
 
-### 6. Customer Portal
-A user-friendly portal enables policyholders to manage their coverage, update beneficiaries, access policy documents, and track wellness incentives 24/7. Mobile app integration ensures customers can manage their life insurance anywhere.
+### 6. 고객 포털
+사용하기 쉬운 포털을 통해 계약자는 24시간 언제든지 보장을 관리하고, 수익자 정보를 업데이트하며, 계약 문서에 접근하고, 웰니스 인센티브를 추적할 수 있습니다. 모바일 앱 연동을 통해 고객은 언제 어디서든 생명보험을 관리할 수 있습니다.
 
-### 7. Compliance Automation
-Built-in regulatory compliance tools ensure that policies meet state and federal requirements, with automatic updates as regulations change. This reduces compliance risk for insurers operating across multiple jurisdictions.
+### 7. 규정 준수 자동화
+내장된 규제 준수 도구는 규정이 변경될 때마다 자동으로 업데이트되며 상품이 주 및 연방 요건을 충족하도록 보장합니다. 이를 통해 여러 관할 지역에서 운영하는 보험사의 규정 준수 리스크가 줄어듭니다.
 
-## Pricing
+## 가격
 
-Lifellm's flexible pricing structure accommodates insurance providers of all sizes:
+Lifellm의 유연한 가격 체계는 모든 규모의 보험사를 수용합니다.
 
-- **Starter Tier:** $3,500/month for small insurers, including core underwriting features and basic integrations.
-- **Growth Tier:** $7,500/month for mid-sized companies, adding predictive analytics, digital health integration, and advanced reporting.
-- **Enterprise Tier:** Custom pricing for large insurance providers requiring full customization, white-label options, dedicated support, and enterprise-grade security.
+- **스타터 티어:** 소규모 보험사를 위한 월 $3,500 요금제로, 핵심 언더라이팅 기능과 기본 통합을 포함합니다.
+- **그로스 티어:** 중견 기업을 위한 월 $7,500 요금제로, 예측 분석, 디지털 건강 통합, 고급 리포팅이 추가됩니다.
+- **엔터프라이즈 티어:** 완전한 맞춤화, 화이트라벨 옵션, 전담 지원, 엔터프라이즈급 보안이 필요한 대형 보험사를 위한 맞춤형 가격입니다.
 
-All tiers include comprehensive onboarding, training programs, and regular platform updates.
+모든 티어에는 종합적인 온보딩, 교육 프로그램, 정기적인 플랫폼 업데이트가 포함됩니다.
 
-## Roadmap
+## 로드맵
 
-The development roadmap for Lifellm includes these strategic milestones:
+Lifellm의 개발 로드맵에는 다음과 같은 전략적 마일스톤이 포함됩니다.
 
-- **Q2 2025:** Launch of Lifellm version 1.0 with core AI underwriting and policy management capabilities.
-- **Q4 2025:** Introduction of digital health platform integrations with major wearable device manufacturers and health app providers.
-- **Q2 2026:** Release of Lifellm version 2.0 featuring enhanced predictive modeling, genetic risk assessment capabilities, and blockchain-based policy verification.
-- **Q4 2026:** Launch of embedded life insurance API allowing partners to offer life coverage within their own platforms and applications.
-- **Q2 2027:** Expansion into international markets with localized regulatory compliance features and multi-currency support.
+- **2025년 2분기:** 핵심 AI 언더라이팅 및 계약 관리 기능을 갖춘 Lifellm 버전 1.0 출시.
+- **2025년 4분기:** 주요 웨어러블 기기 제조사 및 건강 앱 제공업체와의 디지털 건강 플랫폼 통합 도입.
+- **2026년 2분기:** 강화된 예측 모델링, 유전적 리스크 평가 기능, 블록체인 기반 계약 검증을 갖춘 Lifellm 버전 2.0 출시.
+- **2026년 4분기:** 파트너사가 자사 플랫폼과 애플리케이션 내에서 생명보험 보장을 제공할 수 있는 임베디드 생명보험 API 출시.
+- **2027년 2분기:** 현지화된 규제 준수 기능과 다중 통화 지원을 갖추고 해외 시장으로 확장.
 
-With Lifellm, Insurellm is transforming life insurance into a modern, customer-centric experience that benefits both insurers and policyholders. Experience the future of life insurance technology today!
+Lifellm과 함께 Insurellm은 생명보험을 보험사와 계약자 모두에게 이익이 되는 현대적이고 고객 중심적인 경험으로 변화시키고 있습니다. 오늘 생명보험 기술의 미래를 경험해 보세요!

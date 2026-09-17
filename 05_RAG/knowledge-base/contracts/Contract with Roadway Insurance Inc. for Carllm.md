@@ -1,44 +1,44 @@
-# Contract with Roadway Insurance Inc. for Carllm
+# Roadway Insurance Inc.와 Carllm에 관한 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Agreement Effective Date**: This contract is effective as of January 1, 2025.
-2. **Duration**: This agreement will remain in effect for a term of 12 months, concluding on December 31, 2025.
-3. **Subscription Type**: Roadway Insurance Inc. agrees to subscribe to the **Professional Tier** of Carllm, at a cost of $2,500/month, totaling $30,000 for the duration of this contract.
-4. **Payment Terms**: Payments are due on the first of each month. Late payments will incur a penalty of 1.5% per month.
-5. **Termination Clause**: Either party may terminate this agreement with 30 days' written notice prior to the end of the term. If terminated early, fees will be calculated on a pro-rata basis.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement will automatically renew for an additional 12-month term unless either party provides written notice of non-renewal at least 30 days before the expiration date.
-2. **Price Adjustments**: Subscription fees may be adjusted for the renewal term in accordance with market conditions and the company's pricing policies, with 60 days' prior notice provided to Roadway Insurance Inc.
+1. **계약 발효일**: 본 계약은 2025년 1월 1일부터 효력을 갖는다.
+2. **기간**: 본 계약은 12개월간 유효하며, 2025년 12월 31일에 종료된다.
+3. **구독 유형**: Roadway Insurance Inc.는 Carllm의 **Professional Tier**를 구독하는 데 동의하며, 월 $2,500의 비용으로 계약 기간 전체 총 $30,000이 청구된다.
+4. **결제 조건**: 결제는 매월 1일까지 이루어져야 한다. 연체 시 월 1.5%의 위약금이 부과된다.
+5. **해지 조항**: 양 당사자는 계약 기간 종료 전 30일 서면 통지를 통해 본 계약을 해지할 수 있다. 조기 해지 시 수수료는 일할 계산으로 산정된다.
 
 ---
 
-## Features
+## 갱신
 
-1. **Access to Core Features**: Roadway Insurance Inc. will have access to all Professional Tier features, including:
-   - AI-Powered Risk Assessment
-   - Advanced Analytics & Fraud Detection
-   - Instant Quoting System
-   - Customizable Coverage Plans
-   - Customer Insights Dashboard
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 만료일 최소 30일 전에 서면으로 갱신하지 않겠다는 통지를 하지 않는 한, 추가 12개월 기간으로 자동 갱신된다.
+2. **가격 조정**: 구독 요금은 시장 상황 및 회사의 가격 정책에 따라 갱신 기간에 맞추어 조정될 수 있으며, Roadway Insurance Inc.에는 60일 전 사전 통지가 제공된다.
+
+---
+
+## 기능
+
+1. **핵심 기능 이용**: Roadway Insurance Inc.는 다음을 포함한 모든 Professional Tier 기능을 이용할 수 있다.
+   - AI 기반 위험 평가
+   - 고급 분석 및 사기 탐지
+   - 즉시 견적 시스템
+   - 맞춤형 보장 플랜
+   - 고객 인사이트 대시보드
    
-2. **Mobile Integration**: All features will be accessible through a mobile application that Insurellm will provide.
-3. **Customer Support**: Includes 24/7 automated customer support via AI chatbots and access to dedicated account management support during business hours.
+2. **모바일 연동**: 모든 기능은 Insurellm이 제공하는 모바일 애플리케이션을 통해 이용할 수 있다.
+3. **고객 지원**: AI 챗봇을 통한 24/7 자동 고객 지원 및 영업시간 중 전담 계정 관리 지원 이용이 포함된다.
 
 ---
 
-## Support
+## 지원
 
-1. **Technical Support**: Roadway Insurance Inc. will receive priority technical support from Insurellm for any issues arising from the Carllm product.
-2. **Training**: Insurellm will provide up to 5 training sessions for Roadway Insurance Inc. staff on the effective use of the Carllm platform, scheduled at mutual convenience.
-3. **Updates and Maintenance**: Regular updates to the Carllm platform will be conducted quarterly, and any maintenance outages will be communicated at least 48 hours in advance.
+1. **기술 지원**: Roadway Insurance Inc.는 Carllm 제품과 관련하여 발생하는 모든 문제에 대해 Insurellm으로부터 우선적인 기술 지원을 받는다.
+2. **교육**: Insurellm은 Carllm 플랫폼의 효과적인 활용을 위해 Roadway Insurance Inc. 직원을 대상으로 최대 5회의 교육 세션을 상호 협의된 일정에 따라 제공한다.
+3. **업데이트 및 유지보수**: Carllm 플랫폼의 정기 업데이트는 분기별로 실시되며, 유지보수로 인한 서비스 중단은 최소 48시간 전에 공지된다.
 
 ---
 
-*This contract outlines the terms of the relationship between Insurellm and Roadway Insurance Inc. for the Carllm product, emphasizing the collaborative spirit aimed at transforming the auto insurance landscape.*
+*본 계약은 자동차 보험 시장의 혁신을 목표로 하는 협력 정신을 강조하며, Carllm 제품과 관련한 Insurellm과 Roadway Insurance Inc. 간의 관계 조건을 규정한다.*

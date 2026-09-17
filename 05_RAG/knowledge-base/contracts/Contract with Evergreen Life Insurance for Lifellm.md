@@ -1,137 +1,137 @@
-# Contract with Evergreen Life Insurance for Lifellm
+# Evergreen Life Insurance와 Lifellm 계약
 
-**Contract Date:** January 20, 2025
-**Contract Number:** LF-2025-0012
-**Parties:**
+**계약일:** 2025년 1월 20일
+**계약 번호:** LF-2025-0012
+**계약 당사자:**
 - Insurellm, Inc.
 - Evergreen Life Insurance Company
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide Evergreen Life Insurance with access to the Lifellm platform, enabling AI-powered life insurance underwriting, policy administration, and risk assessment for individual and group life policies.
+1. **적용 범위:** Insurellm은 Evergreen Life Insurance에게 개인 및 단체 생명보험 상품에 대한 AI 기반 인수심사, 계약 관리, 위험 평가를 지원하는 Lifellm 플랫폼 이용 권한을 제공하기로 합의합니다.
 
-2. **Duration:** This agreement is effective for a period of 12 months from the contract date, with automatic renewal provisions unless terminated with 30-day written notice.
+2. **기간:** 본 계약은 계약일로부터 12개월간 유효하며, 30일 전 서면 통지로 해지되지 않는 한 자동 갱신 조항이 적용됩니다.
 
-3. **Payment:** Evergreen Life Insurance shall pay a monthly fee of $3,500, due by the 5th of every month for the Starter Tier package.
+3. **결제:** Evergreen Life Insurance는 Starter Tier 패키지에 대해 매월 5일까지 월 $3,500를 지불합니다.
 
-4. **Policy Volume:** Starter Tier supports underwriting and administration for up to 2,000 active policies. Current baseline: 1,400 policies.
+4. **계약 물량:** Starter Tier는 최대 2,000건의 활성 계약에 대한 인수심사 및 관리를 지원합니다. 현재 기준 계약 건수는 1,400건입니다.
 
-5. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary underwriting models, policyholder health information (PHI), and business strategies.
+5. **기밀 유지:** 양 당사자는 독점 인수심사 모델, 계약자 건강정보(PHI), 사업 전략에 대해 엄격한 기밀을 유지하기로 합의합니다.
 
-6. **HIPAA Compliance:** Insurellm maintains full HIPAA compliance for all health data processed through the Lifellm platform.
+6. **HIPAA 준수:** Insurellm은 Lifellm 플랫폼을 통해 처리되는 모든 건강 데이터에 대해 완전한 HIPAA 준수를 유지합니다.
 
-7. **Liability:** Insurellm's liability is limited to direct damages not exceeding the total fees paid in the preceding 6 months.
-
----
-
-## Renewal
-
-Unless either party provides written notice of termination at least 30 days prior to contract expiration, this agreement automatically renews for successive 12-month terms under the same terms, subject to pricing adjustments with 60 days' advance notice (capped at 10% annual increase).
+7. **책임:** Insurellm의 책임은 직전 6개월간 지불된 총 수수료를 초과하지 않는 직접 손해로 제한됩니다.
 
 ---
 
-## Features
+## 갱신
 
-Evergreen Life Insurance will receive the following Starter Tier features:
-
-1. **AI-Powered Underwriting:** Accelerated underwriting process analyzing:
-   - Medical histories and prescription databases (Milliman IntelliScript)
-   - Motor vehicle records (MVRs)
-   - Credit-based insurance scores
-   - Lifestyle and occupation risk factors
-   - Automated underwriting decisions for standard risks
-
-2. **Risk Assessment:** AI-driven mortality risk modeling considering:
-   - Age, gender, and family medical history
-   - Current health conditions and lab values
-   - Tobacco and alcohol use
-   - High-risk activities and occupations
-
-3. **Automated Policy Management:**
-   - Digital policy issuance and delivery
-   - Beneficiary management and updates
-   - Premium calculation and billing integration
-   - Coverage adjustments and conversions
-   - Policy reinstatement processing
-
-4. **Smart Document Processing:** OCR and NLP extraction from:
-   - Medical records and attending physician statements (APS)
-   - Lab results and paramedical exams
-   - Application forms
-   - Financial documentation
-
-5. **Customer Portal:** Policyholder self-service portal featuring:
-   - Policy document access
-   - Beneficiary updates
-   - Premium payment processing
-   - Coverage summary and statements
-   - Digital insurance cards
-
-6. **Regulatory Compliance:** Built-in compliance monitoring for:
-   - State insurance regulations
-   - NAIC model laws and regulations
-   - Anti-money laundering (AML) requirements
-   - Policy form approvals
-
-7. **Basic Analytics:** Standard dashboards tracking:
-   - Application submission and approval rates
-   - Average underwriting cycle time
-   - Policy persistency and lapse rates
-   - Face amount in force
+어느 한쪽 당사자가 계약 만료 최소 30일 전에 해지를 서면으로 통지하지 않는 한, 본 계약은 동일한 조건으로 12개월 단위로 자동 갱신되며, 가격 조정 시 60일 전 사전 통지가 이루어집니다(연간 인상률 최대 10%로 제한).
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to providing comprehensive support to Evergreen Life Insurance:
+Evergreen Life Insurance는 다음과 같은 Starter Tier 기능을 이용하게 됩니다:
 
-1. **Onboarding:** 2-week implementation program including:
-   - System configuration and setup
-   - Training for up to 8 underwriters and administrators
-   - Integration with Evergreen's policy administration system
-   - Data migration from legacy system (up to 1,400 policies)
+1. **AI 기반 인수심사:** 다음을 분석하는 가속화된 인수심사 프로세스:
+   - 의료 이력 및 처방 데이터베이스(Milliman IntelliScript)
+   - 자동차 운전 기록(MVR)
+   - 신용 기반 보험 스코어
+   - 생활 습관 및 직업 위험 요인
+   - 표준 위험군에 대한 자동 인수심사 결정
 
-2. **Technical Support:**
-   - Email and phone support Monday-Friday 8 AM - 6 PM EST
-   - Response time: 12 hours for critical issues, 24 hours for standard
-   - Online ticketing system for issue tracking
-   - Knowledge base and FAQ access
+2. **위험 평가:** 다음을 고려하는 AI 기반 사망률 위험 모델링:
+   - 연령, 성별, 가족 병력
+   - 현재 건강 상태 및 검사 수치
+   - 흡연 및 음주 여부
+   - 고위험 활동 및 직업
 
-3. **Platform Updates:**
-   - Quarterly feature releases
-   - Monthly security patches and improvements
-   - Advance notice of updates (minimum 14 days)
-   - Release notes and user documentation
+3. **자동화된 계약 관리:**
+   - 디지털 계약 발행 및 전달
+   - 수익자 관리 및 갱신
+   - 보험료 산정 및 청구 연동
+   - 보장 조정 및 전환
+   - 실효 계약 부활 처리
 
-4. **Account Management:**
-   - Named customer success manager
-   - Semi-annual business review meetings
-   - Usage analytics and optimization recommendations
-   - Assistance with tier upgrade when volume grows
+4. **스마트 문서 처리:** 다음 자료에 대한 OCR 및 NLP 추출:
+   - 진료 기록 및 주치의 소견서(APS)
+   - 검사 결과 및 방문 검진 자료
+   - 신청서
+   - 재무 서류
 
-5. **Compliance Support:**
-   - Annual compliance review and audit support
-   - Regulatory update notifications
-   - State insurance department filing assistance
+5. **고객 포털:** 다음을 포함하는 계약자 셀프서비스 포털:
+   - 계약 서류 열람
+   - 수익자 정보 갱신
+   - 보험료 결제 처리
+   - 보장 요약 및 명세서
+   - 디지털 보험증
+
+6. **규제 준수:** 다음에 대한 내장형 컴플라이언스 모니터링:
+   - 주 보험 규정
+   - NAIC 모델법 및 규정
+   - 자금세탁방지(AML) 요건
+   - 계약 양식 승인
+
+7. **기본 분석:** 다음을 추적하는 표준 대시보드:
+   - 신청서 제출 및 승인율
+   - 평균 인수심사 처리 기간
+   - 계약 유지율 및 실효율
+   - 유효 보장 금액
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 Evergreen Life Insurance에 포괄적인 지원을 제공하기로 합니다:
+
+1. **온보딩:** 다음을 포함하는 2주간의 구축 프로그램:
+   - 시스템 구성 및 설정
+   - 최대 8명의 인수심사자 및 관리자 대상 교육
+   - Evergreen의 계약 관리 시스템과의 연동
+   - 레거시 시스템으로부터의 데이터 마이그레이션(최대 1,400건)
+
+2. **기술 지원:**
+   - 월-금 오전 8시~오후 6시(동부표준시) 이메일 및 전화 지원
+   - 응답 시간: 긴급 문제 12시간, 표준 문제 24시간
+   - 온라인 이슈 추적을 위한 티켓 시스템
+   - 지식베이스 및 FAQ 이용
+
+3. **플랫폼 업데이트:**
+   - 분기별 신규 기능 출시
+   - 월간 보안 패치 및 개선 사항
+   - 업데이트 사전 통지(최소 14일)
+   - 릴리스 노트 및 사용자 문서
+
+4. **계정 관리:**
+   - 지정 고객성공 매니저
+   - 반기별 비즈니스 리뷰 미팅
+   - 사용량 분석 및 최적화 권고
+   - 물량 증가 시 상위 티어 업그레이드 지원
+
+5. **컴플라이언스 지원:**
+   - 연간 컴플라이언스 검토 및 감사 지원
+   - 규제 변경 알림
+   - 주 보험감독국 신고 지원
+
+---
+
+**서명:**
 
 _________________________________
 **Michael Torres**
-**Title**: Chief Revenue Officer
+**직책**: Chief Revenue Officer
 **Insurellm, Inc.**
-**Date**: January 20, 2025
+**날짜**: 2025년 1월 20일
 
 _________________________________
 **Catherine Wu**
-**Title**: Chief Underwriting Officer
+**직책**: Chief Underwriting Officer
 **Evergreen Life Insurance Company**
-**Date**: January 20, 2025
+**날짜**: 2025년 1월 20일
 
 ---
 
-This agreement enables Evergreen Life Insurance to modernize their life insurance operations with AI-powered underwriting and administration technology.
+본 계약은 Evergreen Life Insurance가 AI 기반 인수심사 및 관리 기술로 생명보험 운영을 현대화할 수 있도록 지원합니다.

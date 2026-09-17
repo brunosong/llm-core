@@ -1,39 +1,39 @@
-# Contract with Pinnacle Insurance Co. for Homellm
+# Pinnacle Insurance Co.와 Homellm 계약
 
-## Terms
-This contract ("Contract") is entered into as of this 1st day of January 2024 ("Effective Date") by and between Insurellm ("Provider"), a Delaware corporation with its principal place of business at 1234 Innovation Drive, San Francisco, CA 94105, and Pinnacle Insurance Co. ("Client"), a Texas corporation with its principal place of business at 4567 Protection Plaza, Houston, TX 77001. 
+## 계약 조건
+본 계약("Contract")은 델라웨어주 법인으로 캘리포니아주 샌프란시스코 1234 Innovation Drive, 94105에 본사를 둔 Insurellm("제공자")과, 텍사스주 법인으로 텍사스주 휴스턴 4567 Protection Plaza, 77001에 본사를 둔 Pinnacle Insurance Co.("고객") 간에 2024년 1월 1일("발효일")부로 체결됩니다. 
 
-1. **License Grant**: Insurellm hereby grants the Client a non-exclusive, non-transferable license to use Homellm in accordance with the terms of this Contract.
-2. **Payment Terms**: The Client agrees to pay an initial setup fee of $15,000 and a monthly subscription fee of $10,000 for the duration of the Contract.
-3. **Term**: The initial term of this Contract shall last for a period of two (2) years from the Effective Date.
+1. **라이선스 부여**: Insurellm은 이로써 고객에게 본 계약의 조건에 따라 Homellm을 사용할 수 있는 비독점적이고 양도 불가능한 라이선스를 부여합니다.
+2. **결제 조건**: 고객은 초기 설치 수수료 $15,000과 계약 기간 동안 월 $10,000의 구독료를 지불하는 데 동의합니다.
+3. **기간**: 본 계약의 초기 기간은 발효일로부터 2년간입니다.
 
-## Renewal
-1. **Renewal Terms**: At the end of the initial term, this Contract shall automatically renew for additional one-year terms unless either party provides written notice of termination at least thirty (30) days prior to the expiration of the current term.
-2. **Adjustment of Fees**: Subscription fees may be adjusted annually based on consumer price index changes, not to exceed 5% per year.
+## 갱신
+1. **갱신 조건**: 초기 기간 종료 시, 어느 한쪽 당사자가 현재 기간 만료 최소 30일 전에 해지에 대한 서면 통지를 하지 않는 한 본 계약은 추가 1년 단위로 자동 갱신됩니다.
+2. **수수료 조정**: 구독료는 소비자물가지수 변동에 따라 매년 조정될 수 있으며, 연간 5%를 초과할 수 없습니다.
 
-## Features
-1. **AI-Powered Risk Assessment**: Utilized for tailored underwriting decisions specific to individual homeowner policies.
-2. **Dynamic Pricing Model**: Monthly premiums adjusted based on real-time risk evaluations, ensuring fair pricing for Pinnacle’s customers.
-3. **Instant Claim Processing**: Claims resolved in hours rather than weeks, significantly improving customer satisfaction and operational efficiency.
-4. **Predictive Maintenance Alerts**: Alerts sent to customers advising them of potential risks unique to their property, supporting proactive maintenance.
-5. **Multi-Channel Integration**: Seamless access to customer data through existing systems in Pinnacle Insurance's infrastructure.
-6. **Customer Portal**: A user-friendly interface allowing policy management, claims submission, and coverage updates at any time.
+## 기능
+1. **AI 기반 리스크 평가**: 개별 주택보험 증권에 특화된 맞춤형 언더라이팅 결정을 위해 활용됩니다.
+2. **동적 가격 책정 모델**: 실시간 리스크 평가에 기반하여 월별 보험료가 조정되며, Pinnacle 고객에게 공정한 가격을 보장합니다.
+3. **즉시 청구 처리**: 청구가 수 주가 아닌 수 시간 내에 해결되어 고객 만족도와 운영 효율성을 크게 향상시킵니다.
+4. **예측 유지보수 알림**: 고객에게 자신의 부동산 특유의 잠재적 리스크를 알리는 알림이 전송되어 사전 예방적 유지보수를 지원합니다.
+5. **다채널 통합**: Pinnacle Insurance의 기존 인프라 내 시스템을 통해 고객 데이터에 원활하게 접근할 수 있습니다.
+6. **고객 포털**: 언제든지 보험증권 관리, 청구 제출, 보장 내용 업데이트가 가능한 사용자 친화적 인터페이스입니다.
 
-## Support
-1. **Technical Support**: Insurellm shall provide 24/7 technical support via an email and phone assistance for the duration of this Contract.
-2. **Training**: Insurellm will conduct an onsite training session for Client employees upon implementation, and quarterly training webinars will be made available thereafter.
-3. **Updates and Maintenance**: Insurellm will provide regular system updates and maintenance, ensuring that the software is operating at peak efficiency.
+## 지원
+1. **기술 지원**: Insurellm은 본 계약 기간 동안 이메일 및 전화를 통한 연중무휴 24시간 기술 지원을 제공합니다.
+2. **교육**: Insurellm은 도입 시점에 고객 직원을 위한 현장 교육 세션을 진행하며, 이후 분기별 교육 웨비나를 제공합니다.
+3. **업데이트 및 유지보수**: Insurellm은 소프트웨어가 최고의 효율성으로 운영되도록 정기적인 시스템 업데이트와 유지보수를 제공합니다.
 
-By signing below, both parties agree to the terms set forth in this Contract for the use of the Homellm product.
-
-____  
-**Insurellm Authorized Signature**  
-Name: Sarah Johnson  
-Title: VP of Sales  
-Date: ____________
+아래 서명함으로써 양 당사자는 Homellm 제품 사용에 관한 본 계약에 명시된 조건에 동의합니다.
 
 ____  
-**Pinnacle Insurance Co. Authorized Signature**  
-Name: Tom Anderson  
-Title: Chief Operating Officer  
-Date: ____________
+**Insurellm 공인 서명자**  
+성명: Sarah Johnson  
+직위: VP of Sales  
+날짜: ____________
+
+____  
+**Pinnacle Insurance Co. 공인 서명자**  
+성명: Tom Anderson  
+직위: Chief Operating Officer  
+날짜: ____________

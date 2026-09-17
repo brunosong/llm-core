@@ -1,137 +1,137 @@
-# Contract with Rapid Claims Associates for Claimllm
+# Rapid Claims Associates와 Claimllm에 관한 계약
 
-**Contract Date:** March 1, 2025
-**Contract Number:** CL-2025-0063
-**Parties:**
+**계약일:** 2025년 3월 1일
+**계약 번호:** CL-2025-0063
+**계약 당사자:**
 - Insurellm, Inc.
 - Rapid Claims Associates, LLC
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide Rapid Claims Associates with access to the Claimllm platform, enabling AI-powered claims processing, automated triage, and streamlined claims management across property, casualty, and auto lines.
+1. **제공 범위:** Insurellm은 Rapid Claims Associates에 Claimllm 플랫폼 이용 권한을 제공하기로 합의하며, 이를 통해 재산, 손해배상, 자동차 보험 전 영역에 걸쳐 AI 기반 청구 처리, 자동 분류, 간소화된 청구 관리가 가능해진다.
 
-2. **Duration:** This agreement is effective for a period of 12 months from the contract date, with automatic renewal provisions unless terminated with 30-day written notice.
+2. **기간:** 본 계약은 계약일로부터 12개월간 유효하며, 30일 전 서면 통지에 의한 해지가 없는 한 자동 갱신 조항이 적용된다.
 
-3. **Payment:** Rapid Claims Associates shall pay a monthly fee of $4,500, due by the 1st of every month for the Core Tier package, supporting up to 5,000 claims annually.
+3. **결제:** Rapid Claims Associates는 연간 최대 5,000건의 청구를 지원하는 Core Tier 패키지에 대해 매월 1일까지 $4,500의 월 요금을 납부해야 한다.
 
-4. **Overage Fees:** If claims volume exceeds 5,000 annually, overage fees of $0.90 per claim apply, billed quarterly.
+4. **초과 수수료:** 연간 청구 건수가 5,000건을 초과할 경우, 건당 $0.90의 초과 수수료가 분기별로 청구된다.
 
-5. **Confidentiality:** Both parties agree to maintain confidentiality of proprietary information, claimant data, and processing methodologies disclosed during this contract.
+5. **비밀유지:** 양 당사자는 본 계약 기간 중 공개되는 독점 정보, 청구인 데이터, 처리 방법론의 기밀을 유지하는 데 동의한다.
 
-6. **Data Ownership:** Rapid Claims Associates retains ownership of all claims data. Insurellm may use anonymized, aggregated data for product improvement.
+6. **데이터 소유권:** Rapid Claims Associates는 모든 청구 데이터에 대한 소유권을 보유한다. Insurellm은 제품 개선을 위해 익명화되고 집계된 데이터를 사용할 수 있다.
 
-7. **Liability:** Insurellm's liability is limited to direct damages not exceeding total fees paid in the preceding 6 months.
-
----
-
-## Renewal
-
-Unless either party provides written notice of termination at least 30 days prior to contract expiration, this agreement automatically renews for successive 12-month terms. Pricing may be adjusted annually with 60 days' advance notice, capped at 10% increase per year.
+7. **책임:** Insurellm의 책임은 직전 6개월간 지급된 총 수수료를 초과하지 않는 직접 손해로 제한된다.
 
 ---
 
-## Features
+## 갱신
 
-Rapid Claims Associates will receive the following Core Tier features:
-
-1. **Intelligent FNOL Processing:** Multi-channel first notice of loss intake via:
-   - Mobile app integration
-   - Web portal submission
-   - Email parsing with NLP extraction
-   - Phone system integration with IVR
-   - Chatbot-assisted intake
-
-2. **Automated Triage and Routing:** Machine learning algorithms assess claim severity and complexity to route appropriately:
-   - Low-complexity claims → automated processing
-   - Medium-complexity claims → junior adjuster queue
-   - High-complexity/high-value claims → senior adjuster assignment
-   - Fraud-flagged claims → special investigation unit
-
-3. **Basic Document Processing:** OCR and NLP extraction from:
-   - Police reports
-   - Repair estimates
-   - Medical bills and records
-   - Witness statements
-   - Photo and video evidence
-
-4. **Standard Fraud Detection:** Rule-based fraud screening including:
-   - Duplicate claim detection
-   - Unusual pattern identification
-   - Loss location verification
-   - Claimant history review
-
-5. **Claimant Communication Hub:** Automated status updates via:
-   - SMS text messages
-   - Email notifications
-   - Mobile app push notifications
-   - Scheduled status update intervals
-
-6. **Basic Reporting:** Standard dashboards tracking:
-   - Claims volume and cycle time
-   - Average settlement amounts
-   - Adjuster productivity metrics
-   - Customer satisfaction scores
-
-7. **Payment Processing:** Integration with payment systems for:
-   - Direct deposit (ACH)
-   - Check issuance
-   - Digital wallets (PayPal, Venmo)
-   - Simple multi-party splits
+어느 한쪽 당사자가 계약 만료 최소 30일 전에 해지 서면 통지를 하지 않는 한, 본 계약은 연속되는 12개월 단위로 자동 갱신된다. 가격은 60일 전 사전 통지를 통해 매년 조정될 수 있으며, 연간 인상률은 최대 10%로 제한된다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to providing comprehensive support to Rapid Claims Associates:
+Rapid Claims Associates는 다음과 같은 Core Tier 기능을 제공받는다.
 
-1. **Onboarding:** 2-week implementation program including:
-   - System configuration and data migration
-   - Training for up to 10 claims staff members (12 hours total)
-   - Process workflow mapping and optimization
-   - Integration with existing claims management system
+1. **지능형 FNOL 처리:** 다음 채널을 통한 다중 채널 사고 최초 통지 접수:
+   - 모바일 앱 연동
+   - 웹 포털 제출
+   - NLP 추출을 활용한 이메일 파싱
+   - IVR 연동 전화 시스템
+   - 챗봇 지원 접수
 
-2. **Technical Support:**
-   - Email and phone support Monday-Friday 8 AM - 6 PM EST
-   - Response time: 8 hours for critical issues, 24 hours for standard requests
-   - Online knowledge base and FAQ access
-   - Monthly platform office hours for questions
+2. **자동 분류 및 배정:** 머신러닝 알고리즘이 청구의 심각도와 복잡도를 평가하여 적절히 배정한다.
+   - 낮은 복잡도의 청구 → 자동 처리
+   - 중간 복잡도의 청구 → 주니어 손해사정사 대기열
+   - 높은 복잡도/고액 청구 → 선임 손해사정사 배정
+   - 사기 의심 청구 → 특별 조사 부서
 
-3. **Platform Updates:**
-   - Quarterly feature releases with new capabilities
-   - Monthly security patches and bug fixes
-   - Release notes and changelog documentation
-   - Advance notice of breaking changes (minimum 30 days)
+3. **기본 문서 처리:** 다음 문서에 대한 OCR 및 NLP 추출:
+   - 경찰 보고서
+   - 수리 견적서
+   - 진료비 청구서 및 의료 기록
+   - 목격자 진술서
+   - 사진 및 영상 증거
 
-4. **Account Management:**
-   - Named customer success manager
-   - Semi-annual business review meetings
-   - Usage analytics and optimization recommendations
-   - Assistance with tier upgrade evaluation when volume grows
+4. **표준 사기 탐지:** 다음을 포함한 규칙 기반 사기 심사:
+   - 중복 청구 탐지
+   - 이상 패턴 식별
+   - 사고 장소 검증
+   - 청구인 이력 조회
 
-5. **Integration Support:** Technical assistance connecting Claimllm with:
-   - Existing claims management systems
-   - Policy administration platforms
-   - Vendor management networks (repair shops, medical providers)
-   - Payment processing systems
+5. **청구인 커뮤니케이션 허브:** 다음을 통한 자동 상태 업데이트:
+   - SMS 문자 메시지
+   - 이메일 알림
+   - 모바일 앱 푸시 알림
+   - 예약된 상태 업데이트 주기
+
+6. **기본 보고 기능:** 다음을 추적하는 표준 대시보드:
+   - 청구 건수 및 처리 소요 시간
+   - 평균 정산 금액
+   - 손해사정사 생산성 지표
+   - 고객 만족도 점수
+
+7. **결제 처리:** 다음을 위한 결제 시스템 연동:
+   - 직접 입금(ACH)
+   - 수표 발행
+   - 디지털 지갑(PayPal, Venmo)
+   - 간단한 다자간 분할
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 Rapid Claims Associates에 다음과 같은 종합적인 지원을 제공하기로 약속한다.
+
+1. **온보딩:** 다음을 포함한 2주간의 도입 프로그램:
+   - 시스템 구성 및 데이터 이전
+   - 최대 10명의 청구 담당 직원 대상 교육(총 12시간)
+   - 업무 프로세스 매핑 및 최적화
+   - 기존 청구 관리 시스템과의 연동
+
+2. **기술 지원:**
+   - 월~금요일 오전 8시~오후 6시(미 동부 시간) 이메일 및 전화 지원
+   - 응답 시간: 긴급 사안 8시간, 표준 요청 24시간
+   - 온라인 지식 베이스 및 FAQ 이용
+   - 문의를 위한 월간 플랫폼 오피스 아워
+
+3. **플랫폼 업데이트:**
+   - 새로운 기능이 포함된 분기별 업데이트
+   - 월간 보안 패치 및 버그 수정
+   - 릴리스 노트 및 변경 이력 문서 제공
+   - 주요 변경 사항에 대한 사전 통지(최소 30일 전)
+
+4. **계정 관리:**
+   - 전담 고객 성공 관리자 배정
+   - 반기별 비즈니스 리뷰 미팅
+   - 사용 현황 분석 및 최적화 권고
+   - 물량 증가 시 등급 상향 검토 지원
+
+5. **연동 지원:** Claimllm과 다음 시스템 간 연결을 위한 기술 지원:
+   - 기존 청구 관리 시스템
+   - 계약 관리 플랫폼
+   - 벤더 관리 네트워크(수리 공장, 의료 제공자)
+   - 결제 처리 시스템
+
+---
+
+**서명:**
 
 _________________________________
 **Sarah Chen**
-**Title**: Vice President of Sales
+**직책**: Vice President of Sales
 **Insurellm, Inc.**
-**Date**: March 1, 2025
+**날짜**: 2025년 3월 1일
 
 _________________________________
 **Marcus Johnson**
-**Title**: Chief Claims Officer
+**직책**: Chief Claims Officer
 **Rapid Claims Associates, LLC**
-**Date**: March 1, 2025
+**날짜**: 2025년 3월 1일
 
 ---
 
-This agreement represents the complete understanding between Insurellm and Rapid Claims Associates regarding the Claimllm platform and supersedes any prior communications or agreements.
+본 계약은 Claimllm 플랫폼과 관련하여 Insurellm과 Rapid Claims Associates 간의 완전한 합의 내용을 나타내며, 이전의 모든 통신이나 계약을 대체한다.

@@ -1,51 +1,51 @@
-# Overview of Insurellm
+# Insurellm 개요
 
-Insurellm is an innovative insurance tech firm with 32 employees operating primarily remotely across the US, with offices in San Francisco (HQ), New York, Austin, Chicago, and Denver.
+Insurellm은 32명의 직원이 주로 미국 전역에서 원격으로 근무하는 혁신적인 보험 기술 회사로, 샌프란시스코(본사), 뉴욕, 오스틴, 시카고, 덴버에 사무소를 두고 있습니다.
 
-Founded in 2015, the company has evolved from a high-growth startup to a lean, profitable operation focused on sustainable growth and operational excellence.
+2015년에 설립된 이 회사는 고성장 스타트업에서 지속 가능한 성장과 운영 우수성에 중점을 둔 효율적이고 수익성 있는 조직으로 진화해 왔습니다.
 
-## Products
+## 제품
 
-Insurellm offers 8 insurance software products across multiple insurance lines:
+Insurellm은 여러 보험 분야에 걸쳐 8개의 보험 소프트웨어 제품을 제공합니다.
 
-### Core Insurance Portals
-- **Carllm** - Auto insurance platform for insurers
-- **Homellm** - Home insurance platform for insurers
-- **Lifellm** - Life insurance platform with AI-powered underwriting
-- **Healthllm** - Comprehensive health insurance platform
-- **Bizllm** - Commercial insurance platform for business coverage
+### 핵심 보험 포털
+- **Carllm** - 보험사를 위한 자동차 보험 플랫폼
+- **Homellm** - 보험사를 위한 주택 보험 플랫폼
+- **Lifellm** - AI 기반 언더라이팅을 갖춘 생명보험 플랫폼
+- **Healthllm** - 종합 건강보험 플랫폼
+- **Bizllm** - 기업 보장을 위한 상업보험 플랫폼
 
-### Marketplace & Infrastructure
-- **Markellm** - Marketplace connecting consumers with insurance providers (original flagship product)
-- **Claimllm** - AI-powered claims processing platform across all insurance lines
-- **Rellm** - Enterprise platform for the reinsurance sector
+### 마켓플레이스 및 인프라
+- **Markellm** - 소비자와 보험사를 연결하는 마켓플레이스(최초의 대표 제품)
+- **Claimllm** - 모든 보험 분야를 아우르는 AI 기반 보험금 청구 처리 플랫폼
+- **Rellm** - 재보험 부문을 위한 기업용 플랫폼
 
-## Scale & Impact
+## 규모와 영향력
 
-Despite its compact team size, Insurellm has built an impressive client portfolio with 32 active contracts across all product lines, serving clients ranging from regional insurers to national carriers and global reinsurance partners. The company demonstrates exceptional productivity and leverage through:
-- Highly automated systems and processes
-- Strategic use of AI and machine learning
-- Remote-first culture enabling access to top talent
-- Focus on high-value enterprise clients in multiple insurance verticals
+작은 팀 규모에도 불구하고 Insurellm은 전 제품 라인에 걸쳐 32건의 활성 계약으로 이루어진 인상적인 고객 포트폴리오를 구축했으며, 지역 보험사부터 전국 규모 보험사, 글로벌 재보험 파트너에 이르는 고객에게 서비스를 제공하고 있습니다. 회사는 다음을 통해 뛰어난 생산성과 레버리지를 발휘하고 있습니다.
+- 고도로 자동화된 시스템 및 프로세스
+- AI와 머신러닝의 전략적 활용
+- 최고 수준의 인재 확보를 가능하게 하는 원격 근무 우선 문화
+- 여러 보험 버티컬에서 고부가가치 기업 고객에 대한 집중
 
-## Client Portfolio Breakdown
+## 고객 포트폴리오 세부 현황
 
-Insurellm's 32 active contracts span the full spectrum of insurance technology:
+Insurellm의 32건의 활성 계약은 보험 기술 전 영역을 아우릅니다.
 
-**Commercial Insurance (Bizllm)**: 7 contracts including regional carriers, multi-line insurers, and national commercial insurance groups
+**상업보험(Bizllm)**: 지역 보험사, 다종목 보험사, 전국 규모의 상업보험 그룹을 포함한 7건의 계약
 
-**Claims Processing (Claimllm)**: 7 contracts ranging from independent adjusting firms to enterprise claims networks
+**보험금 청구 처리(Claimllm)**: 독립 손해사정 회사부터 대기업 청구 네트워크에 이르는 7건의 계약
 
-**Life Insurance (Lifellm)**: 6 contracts serving life insurance carriers from small regional providers to major national groups
+**생명보험(Lifellm)**: 소규모 지역 보험사부터 대형 전국 그룹에 이르기까지 생명보험사를 대상으로 하는 6건의 계약
 
-**Health Insurance (Healthllm)**: 6 contracts with health plans from regional insurers to multi-state healthcare alliances
+**건강보험(Healthllm)**: 지역 보험사부터 다주(多州) 의료 얼라이언스에 이르는 건강보험사와의 6건의 계약
 
-**Auto Insurance (Carllm)**: 3 contracts with personal and commercial auto insurers
+**자동차 보험(Carllm)**: 개인 및 상업용 자동차 보험사와의 3건의 계약
 
-**Home Insurance (Homellm)**: 4 contracts including property insurers with advanced IoT and catastrophe management needs
+**주택 보험(Homellm)**: 첨단 IoT 및 재해 관리 요구를 가진 손해보험사를 포함한 4건의 계약
 
-**Insurance Marketplace (Markellm)**: 2 contracts with agencies and brokers leveraging the consumer-insurer matching platform
+**보험 마켓플레이스(Markellm)**: 소비자-보험사 매칭 플랫폼을 활용하는 대리점 및 중개인과의 2건의 계약
 
-**Reinsurance (Rellm)**: 2 contracts with reinsurance companies including global treaty and facultative operations
+**재보험(Rellm)**: 글로벌 특약재보험 및 임의재보험 운영을 포함한 재보험사와의 2건의 계약
 
-This diversified portfolio demonstrates Insurellm's ability to serve the entire insurance value chain, from consumer-facing marketplaces to complex reinsurance operations.
+이처럼 다각화된 포트폴리오는 소비자 대상 마켓플레이스부터 복잡한 재보험 운영에 이르기까지 보험 가치사슬 전체를 아우르는 Insurellm의 역량을 보여줍니다.

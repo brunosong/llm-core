@@ -1,141 +1,141 @@
-# Contract with ConnectInsure Agency for Markellm
+# ConnectInsure Agency와 Markellm 계약
 
-**Contract Date:** February 28, 2025
-**Contract Number:** MK-2025-0056
-
----
-
-## Terms
-
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and ConnectInsure Agency ("Client").
-
-2. **Service Commencement**: Services will commence on March 1, 2025.
-
-3. **Contract Duration**: This Agreement shall remain in effect for 18 months from the commencement date, ending August 31, 2026.
-
-4. **Fee Structure**: ConnectInsure Agency agrees to a hybrid pricing model:
-   - Basic Listing Fee: $199/month for featured placement on the Markellm platform
-   - Performance-Based Pricing: $25 per qualified lead generated through Markellm
-   - Premium Analytics Package (optional): $99/month for enhanced data insights and reporting
-
-5. **Lead Volume Expectations**: Based on ConnectInsure's profile, Markellm projects 80-120 qualified leads per month, resulting in estimated monthly costs of $2,199-$3,199.
-
-6. **Payment Terms**:
-   - Monthly listing fee due on the 1st of each month
-   - Performance-based fees invoiced monthly on the 5th for prior month activity
-   - Payment due within 15 days of invoice via ACH or credit card
-
-7. **Lead Quality Standards**: Qualified leads meet the following criteria:
-   - Valid contact information (verified phone and email)
-   - Active insurance shopping intent (quote request within 7 days)
-   - Geographic coverage within ConnectInsure's operating territories
-   - Products matching ConnectInsure's offerings
-
-8. **Dispute Resolution**: Lead quality disputes must be submitted within 5 business days with documentation. Insurellm will credit for validated low-quality leads.
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement automatically renews for successive 6-month terms unless either party provides written notice of non-renewal at least 30 days before expiration.
-
-2. **Fee Adjustments**: Listing fees and performance fees may be adjusted annually with 60 days' written notice. Historical average: 5-8% annual adjustment.
-
-## Features
-
-1. **AI-Powered Matching**: ConnectInsure Agency will benefit from Markellm's sophisticated matching:
-   - Consumer needs analysis with ML algorithms
-   - Product-to-need matching across auto, home, life, health insurance
-   - Geographic and specialty matching
-   - Price range and coverage preference alignment
-   - Consumer demographic matching to ConnectInsure's sweet spot
-
-2. **Featured Listing**: Premium marketplace placement including:
-   - Enhanced agency profile with logo, photos, testimonials
-   - Badges for specializations (e.g., "High-Risk Auto Specialist", "Multi-Policy Expert")
-   - Priority positioning in search results
-   - Featured placement in relevant consumer matches
-   - Up to 10 agent profiles within agency listing
-
-3. **Real-Time Quote Integration**: Technology enabling:
-   - API integration with ConnectInsure's quoting systems
-   - Real-time rate display to consumers
-   - Competitive positioning insights
-   - Quote abandonment recovery campaigns
-
-4. **Lead Management Portal**: Comprehensive tools for:
-   - Real-time lead notifications (SMS, email, push)
-   - Lead routing to specific agents based on specialty
-   - Follow-up task management and CRM integration
-   - Lead status tracking (contacted, quoted, sold, declined)
-   - Performance analytics by agent and product line
-
-5. **Data Insights**: Analytics dashboard providing:
-   - Lead volume trends and forecasting
-   - Conversion rate analysis
-   - Cost per acquisition metrics
-   - Competitive benchmarking (anonymized)
-   - Consumer behavior insights
-   - Product mix recommendations
-
-6. **Consumer Reviews**: Reputation management:
-   - Consumer rating and review collection
-   - Response management for reviews
-   - Review showcase on agency profile
-   - Negative review mediation support
-
-7. **Marketing Support**: Platform-provided marketing:
-   - Co-branded marketing materials
-   - Email drip campaigns to warm leads
-   - Social media content suggestions
-   - Seasonal campaign participation
-   - Referral program integration
-
-## Support
-
-1. **Technical Support**: ConnectInsure Agency will receive:
-   - Email and phone support Monday-Friday 8 AM - 6 PM EST
-   - Response time: 24 hours for standard inquiries
-   - Online help center and FAQ
-   - Video tutorials for platform features
-
-2. **Onboarding**: Implementation includes:
-   - 2-week onboarding process
-   - Platform training for up to 5 agency staff (3 hours total)
-   - Profile optimization consultation
-   - Quote integration setup (if applicable)
-   - CRM integration assistance
-
-3. **Account Management**:
-   - Named account manager with monthly check-ins
-   - Quarterly performance reviews
-   - Lead quality monitoring and optimization
-   - Competitive positioning recommendations
-   - Best practices sharing from top-performing agencies
-
-4. **Platform Updates**:
-   - Regular feature enhancements
-   - Mobile app updates
-   - Consumer experience improvements
-   - New product line additions
-   - Advance notice of major changes (minimum 14 days)
-
-5. **Marketing Assistance**:
-   - Quarterly marketing strategy consultations
-   - Campaign performance analysis
-   - Consumer trend reports
-   - Co-marketing opportunity identification
+**계약일:** 2025년 2월 28일
+**계약 번호:** MK-2025-0056
 
 ---
 
-**Signatures:**
+## 계약 조건
+
+1. **계약 당사자**: 본 계약은 Insurellm, Inc.("공급자")와 ConnectInsure Agency("고객") 간에 체결됩니다.
+
+2. **서비스 개시**: 서비스는 2025년 3월 1일에 개시됩니다.
+
+3. **계약 기간**: 본 계약은 개시일로부터 18개월간 유효하며, 2026년 8월 31일에 종료됩니다.
+
+4. **수수료 구조**: ConnectInsure Agency는 다음의 혼합형 가격 모델에 합의합니다:
+   - 기본 등록 수수료: Markellm 플랫폼 내 추천 등록을 위해 월 $199
+   - 성과 기반 요금: Markellm을 통해 생성된 적격 리드 1건당 $25
+   - 프리미엄 분석 패키지(선택 사항): 향상된 데이터 인사이트 및 리포팅을 위해 월 $99
+
+5. **예상 리드 물량**: ConnectInsure의 프로필을 기준으로 Markellm은 월 80~120건의 적격 리드를 예상하며, 이에 따른 예상 월 비용은 $2,199~$3,199입니다.
+
+6. **결제 조건**:
+   - 월간 등록 수수료는 매월 1일까지 지불
+   - 성과 기반 요금은 전월 실적을 기준으로 매월 5일에 청구
+   - 청구서 발행 후 15일 이내에 ACH 또는 신용카드로 결제
+
+7. **리드 품질 기준**: 적격 리드는 다음 기준을 충족합니다:
+   - 유효한 연락처 정보(검증된 전화번호 및 이메일)
+   - 활성 보험 쇼핑 의사(7일 이내 견적 요청)
+   - ConnectInsure의 영업 지역 내 지리적 범위
+   - ConnectInsure의 취급 상품과 일치하는 상품
+
+8. **분쟁 해결**: 리드 품질에 대한 이의는 5영업일 이내에 근거 자료와 함께 제출되어야 합니다. Insurellm은 검증된 저품질 리드에 대해 크레딧을 제공합니다.
+
+## 갱신
+
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 만료일 최소 30일 전에 갱신 거절을 서면으로 통지하지 않는 한 6개월 단위로 자동 갱신됩니다.
+
+2. **수수료 조정**: 등록 수수료 및 성과 기반 요금은 60일 전 서면 통지를 통해 매년 조정될 수 있습니다. 과거 평균 조정폭: 연간 5~8%.
+
+## 기능
+
+1. **AI 기반 매칭**: ConnectInsure Agency는 Markellm의 정교한 매칭 기술의 혜택을 받습니다:
+   - 머신러닝 알고리즘을 활용한 소비자 니즈 분석
+   - 자동차, 주택, 생명, 건강보험 전반의 상품-니즈 매칭
+   - 지역 및 전문 분야 매칭
+   - 가격대 및 보장 범위 선호도 정합
+   - ConnectInsure의 핵심 타겟층에 맞춘 소비자 인구통계 매칭
+
+2. **추천 등록**: 다음을 포함하는 프리미엄 마켓플레이스 노출:
+   - 로고, 사진, 후기를 포함한 강화된 대리점 프로필
+   - 전문 분야 배지(예: "고위험 자동차보험 전문", "복수 상품 전문가")
+   - 검색 결과 내 우선 노출
+   - 관련 소비자 매칭 시 추천 노출
+   - 대리점 등록 내 최대 10명의 에이전트 프로필
+
+3. **실시간 견적 연동**: 다음을 가능하게 하는 기술:
+   - ConnectInsure의 견적 시스템과의 API 연동
+   - 소비자 대상 실시간 요율 표시
+   - 경쟁 포지셔닝 인사이트
+   - 견적 이탈 회복 캠페인
+
+4. **리드 관리 포털**: 다음을 위한 종합 도구:
+   - 실시간 리드 알림(SMS, 이메일, 푸시)
+   - 전문 분야에 따른 특정 에이전트로의 리드 라우팅
+   - 후속 조치 업무 관리 및 CRM 연동
+   - 리드 상태 추적(연락함, 견적 제공, 판매 완료, 거절)
+   - 에이전트 및 상품 라인별 성과 분석
+
+5. **데이터 인사이트**: 다음을 제공하는 분석 대시보드:
+   - 리드 물량 추이 및 예측
+   - 전환율 분석
+   - 고객 획득 비용 지표
+   - 경쟁사 벤치마킹(익명 처리)
+   - 소비자 행동 인사이트
+   - 상품 구성 추천
+
+6. **소비자 리뷰**: 평판 관리:
+   - 소비자 평점 및 리뷰 수집
+   - 리뷰 대응 관리
+   - 대리점 프로필 내 리뷰 노출
+   - 부정적 리뷰에 대한 중재 지원
+
+7. **마케팅 지원**: 플랫폼 제공 마케팅:
+   - 공동 브랜드 마케팅 자료
+   - 관심 고객 대상 이메일 드립 캠페인
+   - 소셜 미디어 콘텐츠 제안
+   - 시즌별 캠페인 참여
+   - 추천 프로그램 연동
+
+## 지원
+
+1. **기술 지원**: ConnectInsure Agency는 다음을 제공받습니다:
+   - 월-금 오전 8시~오후 6시(동부표준시) 이메일 및 전화 지원
+   - 응답 시간: 일반 문의 24시간
+   - 온라인 도움말 센터 및 FAQ
+   - 플랫폼 기능에 관한 동영상 튜토리얼
+
+2. **온보딩**: 다음을 포함하는 도입 과정:
+   - 2주간의 온보딩 프로세스
+   - 최대 5명의 대리점 직원 대상 플랫폼 교육(총 3시간)
+   - 프로필 최적화 컨설팅
+   - 견적 연동 설정(해당하는 경우)
+   - CRM 연동 지원
+
+3. **계정 관리**:
+   - 월간 점검 미팅을 진행하는 지정 계정 매니저
+   - 분기별 성과 리뷰
+   - 리드 품질 모니터링 및 최적화
+   - 경쟁 포지셔닝 추천
+   - 우수 실적 대리점의 모범 사례 공유
+
+4. **플랫폼 업데이트**:
+   - 정기적인 기능 개선
+   - 모바일 앱 업데이트
+   - 소비자 경험 개선
+   - 신규 상품 라인 추가
+   - 주요 변경 사항에 대한 사전 통지(최소 14일)
+
+5. **마케팅 지원**:
+   - 분기별 마케팅 전략 컨설팅
+   - 캠페인 성과 분석
+   - 소비자 트렌드 보고서
+   - 공동 마케팅 기회 발굴
+
+---
+
+**서명:**
 
 **Insurellm, Inc.**
 Michael Torres, Chief Revenue Officer
-Date: February 28, 2025
+날짜: 2025년 2월 28일
 
 **ConnectInsure Agency**
 Brian Foster, Agency Principal
-Date: February 28, 2025
+날짜: 2025년 2월 28일
 
 ---
 
-This contract enables ConnectInsure Agency to leverage Markellm's AI-powered marketplace to connect with qualified insurance shoppers and grow their business through data-driven lead generation.
+본 계약은 ConnectInsure Agency가 Markellm의 AI 기반 마켓플레이스를 활용하여 적격 보험 소비자와 연결되고, 데이터 기반 리드 생성을 통해 사업을 성장시킬 수 있도록 합니다.

@@ -1,56 +1,56 @@
-# Product Summary
+# 제품 요약
 
 # Healthllm
 
-## Summary
+## 요약
 
-Healthllm is Insurellm's comprehensive health insurance platform that empowers insurance providers to deliver modern, personalized health coverage. By combining advanced AI technology with healthcare data analytics, Healthllm streamlines every aspect of health insurance operations—from plan design and enrollment to claims processing and member engagement. Built for the complexities of the healthcare industry, Healthllm helps insurers reduce costs, improve member outcomes, and navigate the evolving regulatory landscape with confidence.
+Healthllm은 보험사가 현대적이고 개인 맞춤화된 건강보장을 제공할 수 있도록 지원하는 Insurellm의 종합 건강보험 플랫폼입니다. 고급 AI 기술과 의료 데이터 분석을 결합하여, Healthllm은 상품 설계와 가입부터 청구 처리와 회원 참여에 이르기까지 건강보험 운영의 모든 측면을 간소화합니다. 의료 산업의 복잡성을 고려해 설계된 Healthllm은 보험사가 비용을 절감하고, 회원의 건강 결과를 개선하며, 끊임없이 변화하는 규제 환경을 자신 있게 헤쳐나갈 수 있도록 돕습니다.
 
-## Features
+## 기능
 
-### 1. Intelligent Plan Design
-Healthllm's AI-powered tools help insurers create competitive health plans by analyzing market trends, member demographics, and healthcare utilization patterns. The platform suggests optimal benefit structures, deductibles, and network configurations to maximize both member value and profitability.
+### 1. 지능형 상품 설계
+Healthllm의 AI 기반 도구는 시장 트렌드, 회원 인구통계, 의료 이용 패턴을 분석하여 보험사가 경쟁력 있는 건강보험 상품을 설계할 수 있도록 지원합니다. 플랫폼은 회원 가치와 수익성을 모두 극대화할 수 있는 최적의 보장 구조, 공제금액, 네트워크 구성을 제안합니다.
 
-### 2. Real-Time Eligibility Verification
-Integrated eligibility checking ensures instant verification of coverage status, reducing claim denials and improving provider satisfaction. The system connects with healthcare provider networks for seamless real-time validation.
+### 2. 실시간 자격 확인
+통합된 자격 확인 기능을 통해 보장 상태를 즉시 검증할 수 있어 청구 거절을 줄이고 의료 기관의 만족도를 높입니다. 시스템은 의료 제공자 네트워크와 연결되어 실시간으로 매끄러운 검증을 수행합니다.
 
-### 3. AI-Driven Claims Adjudication
-Automated claims processing uses machine learning to review claims for accuracy, identify potential fraud, and expedite legitimate payments. The system learns from historical data to continuously improve processing accuracy and efficiency.
+### 3. AI 기반 청구 심사
+자동화된 청구 처리는 머신러닝을 활용하여 청구의 정확성을 검토하고, 잠재적 부정 행위를 식별하며, 정당한 지급을 신속히 처리합니다. 시스템은 과거 데이터로부터 학습하여 처리 정확도와 효율성을 지속적으로 개선합니다.
 
-### 4. Predictive Healthcare Analytics
-Advanced analytics identify high-risk members who would benefit from preventive care interventions, enabling insurers to implement proactive wellness programs that reduce long-term costs and improve member health outcomes.
+### 4. 예측형 의료 분석
+고급 분석 기능은 예방적 치료 개입의 혜택을 받을 수 있는 고위험 회원을 식별하여, 보험사가 장기적인 비용을 줄이고 회원의 건강 결과를 개선하는 사전 예방적 웰니스 프로그램을 시행할 수 있도록 지원합니다.
 
-### 5. Provider Network Management
-Comprehensive tools for managing provider relationships, contract negotiations, and network adequacy. The platform tracks provider performance metrics and identifies opportunities for cost savings through strategic partnerships.
+### 5. 의료 제공자 네트워크 관리
+의료 제공자와의 관계, 계약 협상, 네트워크 적정성을 관리하기 위한 종합 도구입니다. 플랫폼은 의료 제공자의 성과 지표를 추적하고 전략적 파트너십을 통한 비용 절감 기회를 식별합니다.
 
-### 6. Member Engagement Platform
-A mobile-first member portal provides easy access to coverage information, digital ID cards, claims status, provider directories, and telehealth services. Push notifications keep members informed about preventive care opportunities and wellness programs.
+### 6. 회원 참여 플랫폼
+모바일 우선 회원 포털은 보장 정보, 디지털 신분증, 청구 현황, 의료 제공자 디렉토리, 원격진료 서비스에 손쉽게 접근할 수 있도록 지원합니다. 푸시 알림을 통해 회원들에게 예방 치료 기회와 웰니스 프로그램에 대한 정보를 제공합니다.
 
-### 7. Medication Management
-Integration with pharmacy benefit managers enables formulary management, prior authorization automation, and medication adherence tracking. AI-powered tools identify cost-saving generic alternatives and flag potential drug interactions.
+### 7. 약제 관리
+약국 급여 관리사(PBM)와의 통합을 통해 처방 목록 관리, 사전 승인 자동화, 복약 순응도 추적이 가능합니다. AI 기반 도구는 비용을 절감할 수 있는 제네릭 대체약을 식별하고 잠재적인 약물 상호작용을 표시합니다.
 
-### 8. Regulatory Compliance Engine
-Built-in compliance monitoring ensures adherence to ACA requirements, state mandates, and HIPAA regulations. Automated reporting simplifies regulatory filings and reduces compliance risk.
+### 8. 규제 준수 엔진
+내장된 규정 준수 모니터링 기능은 ACA(오바마케어) 요건, 주 정부 규정, HIPAA 규정 준수를 보장합니다. 자동화된 리포팅으로 규제 신고를 간소화하고 규정 준수 리스크를 줄입니다.
 
-## Pricing
+## 가격
 
-Healthllm offers tiered pricing to serve health insurers across the spectrum:
+Healthllm은 다양한 규모의 건강보험사를 위한 티어별 가격을 제공합니다.
 
-- **Essential Tier:** $8,000/month for regional health plans, providing core platform capabilities and standard integrations.
-- **Professional Tier:** $15,000/month for larger insurers, including advanced analytics, predictive modeling, and expanded integration options.
-- **Enterprise Tier:** Custom pricing for national carriers and health systems requiring extensive customization, multi-state support, dedicated infrastructure, and premium support services.
+- **에센셜 티어:** 지역 건강보험사를 위한 월 $8,000 요금제로, 핵심 플랫폼 기능과 표준 통합을 제공합니다.
+- **프로페셔널 티어:** 대형 보험사를 위한 월 $15,000 요금제로, 고급 분석, 예측 모델링, 확장된 통합 옵션을 포함합니다.
+- **엔터프라이즈 티어:** 광범위한 맞춤화, 다주(多州) 지원, 전용 인프라, 프리미엄 지원 서비스가 필요한 전국 규모 보험사 및 의료 시스템을 위한 맞춤형 가격입니다.
 
-All plans include implementation support, staff training, and ongoing platform enhancements.
+모든 플랜에는 구축 지원, 직원 교육, 지속적인 플랫폼 개선이 포함됩니다.
 
-## Roadmap
+## 로드맵
 
-Healthllm's strategic development roadmap includes:
+Healthllm의 전략적 개발 로드맵은 다음과 같습니다.
 
-- **Q1 2025:** Launch of Healthllm version 1.0 featuring core claims processing, eligibility verification, and member portal.
-- **Q3 2025:** Introduction of predictive analytics module for population health management and risk stratification.
-- **Q1 2026:** Release of advanced AI claims adjudication with automated fraud detection and payment optimization.
-- **Q3 2026:** Launch of social determinants of health (SDOH) integration, enabling holistic member care and targeted interventions.
-- **Q1 2027:** Introduction of value-based care management tools supporting ACO and bundled payment models.
-- **Q3 2027:** Global expansion with international healthcare system integrations and multi-language support.
+- **2025년 1분기:** 핵심 청구 처리, 자격 확인, 회원 포털을 갖춘 Healthllm 버전 1.0 출시.
+- **2025년 3분기:** 인구 건강 관리 및 리스크 계층화를 위한 예측 분석 모듈 도입.
+- **2026년 1분기:** 자동화된 부정 청구 탐지와 지급 최적화를 갖춘 고급 AI 청구 심사 기능 출시.
+- **2026년 3분기:** 전인적 회원 케어와 맞춤형 개입을 가능하게 하는 건강의 사회적 결정요인(SDOH) 통합 기능 출시.
+- **2027년 1분기:** ACO 및 번들 지급 모델을 지원하는 가치 기반 케어 관리 도구 도입.
+- **2027년 3분기:** 해외 의료 시스템 통합과 다국어 지원을 갖춘 글로벌 확장.
 
-Healthllm represents Insurellm's commitment to transforming health insurance through technology that improves outcomes for insurers, providers, and members alike. Join us in building the future of health insurance!
+Healthllm은 보험사, 의료 제공자, 회원 모두를 위한 결과 개선에 기여하는 기술을 통해 건강보험을 혁신하겠다는 Insurellm의 다짐을 대변합니다. 건강보험의 미래를 함께 만들어 가는 여정에 동참해 주세요!

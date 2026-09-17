@@ -1,63 +1,63 @@
-# Contract with BrightWay Solutions for Markellm
+# BrightWay Solutions와 Markellm 계약
 
-**Contract Date:** October 5, 2023  
-**Contract ID:** INS-2023-0092
+**계약일:** 2023년 10월 5일
+**계약 번호:** INS-2023-0092
 
-### Terms
-This contract (“Contract”) is made between Insurellm, a company incorporated in the United States, and BrightWay Solutions, a technology provider specializing in insurance services.
+### 계약 조건
+본 계약("계약서")은 미국에서 설립된 법인인 Insurellm과 보험 서비스를 전문으로 하는 기술 제공업체인 BrightWay Solutions 간에 체결됩니다.
 
-1. **Scope of Services:**  
-   Insurellm shall provide BrightWay Solutions access to the Markellm platform under the agreed pricing structure for a duration of one year from the effective date.
+1. **서비스 범위:**
+   Insurellm은 발효일로부터 1년간 합의된 가격 구조에 따라 BrightWay Solutions에 Markellm 플랫폼 이용 권한을 제공합니다.
 
-2. **Payment Terms:**  
-   BrightWay Solutions agrees to pay an initial setup fee of $1,000 for integration services, followed by the Basic Listing Fee of $199 per month for featured listing on Markellm. Payment shall be made within 30 days of invoice.
+2. **결제 조건:**
+   BrightWay Solutions는 연동 서비스에 대한 초기 설정 수수료 $1,000를 지불한 뒤, Markellm에서의 추천 등록을 위한 기본 등록 수수료로 월 $199를 지불하기로 합의합니다. 결제는 청구서 발행 후 30일 이내에 이루어져야 합니다.
 
-3. **Service Level Agreement (SLA):**  
-   Insurellm commits to a 99.9% uptime for the platform with dedicated support response times not exceeding 4 business hours.
+3. **서비스 수준 계약(SLA):**
+   Insurellm은 플랫폼에 대해 99.9%의 가동률을 보장하며, 전담 지원 응답 시간은 4영업시간을 초과하지 않도록 합니다.
 
-### Renewal
-1. **Automatic Renewal:**  
-   This Contract will automatically renew for additional one-year terms unless either party provides a written notice of intent to terminate at least 30 days prior to the renewal date.
+### 갱신
+1. **자동 갱신:**
+   본 계약은 어느 한쪽 당사자가 갱신일 최소 30일 전에 종료 의사를 서면으로 통지하지 않는 한 추가 1년 단위로 자동 갱신됩니다.
 
-2. **Review Period:**  
-   Both parties will enter a review period each year, during which they will discuss potential amendments to the pricing or contract terms based on market conditions and performance metrics.
+2. **검토 기간:**
+   양 당사자는 매년 검토 기간을 가지며, 이 기간 동안 시장 상황 및 성과 지표를 바탕으로 가격이나 계약 조건의 잠재적 변경 사항을 논의합니다.
 
-### Features
-1. **Access to AI-Powered Matching:**  
-   BrightWay Solutions will benefit from the AI algorithms for optimal customer matches, helping them connect with consumers looking for their specific insurance offerings.
+### 기능
+1. **AI 기반 매칭 이용:**
+   BrightWay Solutions는 최적의 고객 매칭을 위한 AI 알고리즘의 혜택을 받아, 자사의 특정 보험 상품을 찾는 소비자와 연결될 수 있습니다.
 
-2. **Real-Time Quote Availability:**  
-   Consumers sourced via BrightWay Solutions will receive real-time quotes, allowing for a seamless customer experience.
+2. **실시간 견적 제공:**
+   BrightWay Solutions를 통해 유입된 소비자는 실시간 견적을 받아 원활한 고객 경험을 누릴 수 있습니다.
 
-3. **Analytics Dashboard:**  
-   Access to Markellm’s analytics dashboard will provide BrightWay Solutions with insights into consumer behavior and market trends, assisting them in refining their insurance offerings.
+3. **분석 대시보드:**
+   Markellm의 분석 대시보드 이용을 통해 BrightWay Solutions는 소비자 행동 및 시장 트렌드에 대한 인사이트를 얻어 보험 상품을 개선하는 데 도움을 받을 수 있습니다.
 
-4. **Customization Options:**  
-   BrightWay Solutions may request customizations to their listing page on Markellm, within the capabilities of the platform.
+4. **맞춤화 옵션:**
+   BrightWay Solutions는 플랫폼이 지원하는 범위 내에서 Markellm의 등록 페이지에 대한 맞춤화를 요청할 수 있습니다.
 
-### Support
-1. **Dedicated Customer Support:**  
-   BrightWay Solutions will have access to a dedicated support team from Insurellm during standard business hours (9 AM - 7 PM EST).
+### 지원
+1. **전담 고객 지원:**
+   BrightWay Solutions는 표준 영업시간(오전 9시~오후 7시, 동부표준시) 동안 Insurellm의 전담 지원팀을 이용할 수 있습니다.
 
-2. **Additional Support Services:**  
-   Technical support for integration and maintenance will be available. An optional premium support package can be purchased for $49.99/month, which includes 24/7 support and advanced troubleshooting.
+2. **추가 지원 서비스:**
+   연동 및 유지보수를 위한 기술 지원이 제공됩니다. 24/7 지원과 고급 문제 해결을 포함하는 선택적 프리미엄 지원 패키지를 월 $49.99에 구매할 수 있습니다.
 
-3. **Training and Onboarding:**  
-   Insurellm agrees to provide one free training session on how to utilize the Markellm platform effectively for BrightWay Solutions’ team upon contract signing.
+3. **교육 및 온보딩:**
+   Insurellm은 계약 체결 시 BrightWay Solutions 팀이 Markellm 플랫폼을 효과적으로 활용할 수 있도록 무료 교육 세션 1회를 제공하기로 합의합니다.
 
-### Signatures
-By signing below, both parties agree to the terms and conditions outlined in this Contract.
+### 서명
+아래 서명함으로써, 양 당사자는 본 계약서에 명시된 조건에 동의합니다.
 
-__________________________  
-**[Name], [Title]**  
-**Insurellm**  
-Date: ______________________
+__________________________
+**[이름], [직책]**
+**Insurellm**
+날짜: ______________________
 
-__________________________  
-**[Name], [Title]**  
-**BrightWay Solutions**  
-Date: ______________________
+__________________________
+**[이름], [직책]**
+**BrightWay Solutions**
+날짜: ______________________
 
 ---
 
-This document serves as a formal agreement between Insurellm and BrightWay Solutions, ensuring a successful partnership focused on enhancing the insurance shopping experience for consumers.
+본 문서는 Insurellm과 BrightWay Solutions 간의 공식 계약서로서, 소비자를 위한 보험 쇼핑 경험 향상에 중점을 둔 성공적인 파트너십을 보장합니다.

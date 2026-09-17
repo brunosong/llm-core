@@ -1,55 +1,55 @@
-# HR Record
+# HR 기록
 
 # Lisa Anderson
 
-## Summary
-- **Date of Birth:** November 18, 1985
-- **Job Title:** Marketing Manager
-- **Location:** Austin, Texas
-- **Current Salary:** $105,000
+## 요약
+- **생년월일:** 1985년 11월 18일
+- **직책:** 마케팅 매니저 (Marketing Manager)
+- **근무지:** 텍사스주 오스틴
+- **현재 연봉:** $105,000
 
-## Insurellm Career Progression
-- **April 2019 - Present:** Marketing Manager
-  - Leads demand generation and content marketing teams
-  - Manages $2M annual marketing budget
-  - Oversees digital campaigns, events, and brand initiatives
-  - Increased qualified leads by 65% since 2021
+## Insurellm 경력 이력
+- **2019년 4월 - 현재:** 마케팅 매니저
+  - 수요 창출 및 콘텐츠 마케팅 팀 리드
+  - 연간 $2M 규모의 마케팅 예산 관리
+  - 디지털 캠페인, 이벤트, 브랜드 이니셔티브 총괄
+  - 2021년 이후 자격을 갖춘 리드를 65% 증가시킴
 
-- **January 2016 - March 2019:** Senior Marketing Specialist at GrowthTech
-  - Managed B2B marketing campaigns for SaaS products
-  - Specialized in content marketing and marketing automation
+- **2016년 1월 - 2019년 3월:** GrowthTech 선임 마케팅 스페셜리스트 (Senior Marketing Specialist)
+  - SaaS 제품을 위한 B2B 마케팅 캠페인 관리
+  - 콘텐츠 마케팅 및 마케팅 자동화 전문
 
-- **June 2012 - December 2015:** Marketing Coordinator at Enterprise Solutions
-  - Supported marketing team with campaign execution
-  - Managed social media and email marketing programs
+- **2012년 6월 - 2015년 12월:** Enterprise Solutions 마케팅 코디네이터 (Marketing Coordinator)
+  - 캠페인 실행 관련 마케팅 팀 지원
+  - 소셜 미디어 및 이메일 마케팅 프로그램 관리
 
-## Annual Performance History
-- **2023:** Rating: 4.7/5
-  *Outstanding performance. Led successful rebranding initiative and achieved record lead generation numbers. Excellent team leadership.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 4.7/5
+  *뛰어난 성과. 성공적인 리브랜딩 이니셔티브를 주도하고 사상 최고 수준의 리드 발굴 수치를 달성. 훌륭한 팀 리더십.*
 
-- **2022:** Rating: 4.4/5
-  *Exceeded expectations. Strong campaign performance and improved marketing ROI by 38%.*
+- **2022년:** 평가 등급: 4.4/5
+  *기대치 초과 달성. 강력한 캠페인 성과와 마케팅 ROI 38% 개선.*
 
-- **2021:** Rating: 4.1/5
-  *Solid performance with good lead quality improvements. Successfully navigated shift to digital events.*
+- **2021년:** 평가 등급: 4.1/5
+  *리드 품질 개선을 동반한 견고한 성과. 디지털 이벤트로의 전환을 성공적으로 이끔.*
 
-- **2020:** Rating: 3.8/5
-  *Good performance during challenging pandemic year. Adapted marketing strategy effectively to all-digital approach.*
+- **2020년:** 평가 등급: 3.8/5
+  *팬데믹으로 어려운 한 해 동안의 좋은 성과. 전면 디지털 방식으로 마케팅 전략을 효과적으로 조정.*
 
-- **2019:** Rating: 4.0/5
-  *Strong start as Marketing Manager. Quick to understand insurance tech market and develop effective strategies.*
+- **2019년:** 평가 등급: 4.0/5
+  *마케팅 매니저로서 순조로운 출발. 보험 기술 시장을 빠르게 이해하고 효과적인 전략 수립.*
 
-## Compensation History
-- **2023:** Base Salary: $105,000 + Bonus: $18,000
-- **2022:** Base Salary: $98,000 + Bonus: $15,000
-- **2021:** Base Salary: $92,000 + Bonus: $12,000
-- **2020:** Base Salary: $88,000 + Bonus: $8,000
-- **2019:** Base Salary: $85,000 + Bonus: $10,000
+## 보상 이력
+- **2023년:** 기본급: $105,000 + 보너스: $18,000
+- **2022년:** 기본급: $98,000 + 보너스: $15,000
+- **2021년:** 기본급: $92,000 + 보너스: $12,000
+- **2020년:** 기본급: $88,000 + 보너스: $8,000
+- **2019년:** 기본급: $85,000 + 보너스: $10,000
 
-## Other HR Notes
-- **Education:** MBA in Marketing from University of Texas at Austin, BA in Communications
-- **Certifications:** Google Analytics Certified, HubSpot Marketing Automation Expert
-- **Recognition:** Marketing Excellence Award 2023, led award-winning rebranding campaign
-- **Team Leadership:** Manages team of 5 marketing specialists. Known for developing talent and creating high-performing culture.
-- **Skills:** Expert in demand generation, content marketing, marketing analytics, marketing automation (HubSpot, Marketo), and brand strategy
-- **Feedback:** Strategic marketing leader with strong analytical skills and creative vision. Excellent cross-functional collaborator who drives measurable business results.
+## 기타 인사 노트
+- **학력:** 텍사스 대학교 오스틴 캠퍼스 마케팅 MBA, 커뮤니케이션학 학사
+- **자격증:** Google Analytics 공인 자격증, HubSpot 마케팅 자동화 전문가
+- **수상:** 2023년 Marketing Excellence Award 수상, 수상 경력이 있는 리브랜딩 캠페인 주도
+- **팀 리더십:** 마케팅 스페셜리스트 5명으로 구성된 팀 관리. 인재 육성과 고성과 문화 조성으로 정평이 나 있음
+- **역량:** 수요 창출, 콘텐츠 마케팅, 마케팅 분석, 마케팅 자동화(HubSpot, Marketo), 브랜드 전략에 전문성 보유
+- **피드백:** 강력한 분석력과 창의적 비전을 갖춘 전략적 마케팅 리더. 측정 가능한 비즈니스 성과를 이끌어내는 뛰어난 교차 기능 협업자

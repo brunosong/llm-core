@@ -1,50 +1,50 @@
-# HR Record
+# HR 기록
 
 # Jessica Liu
 
-## Summary
-- **Date of Birth:** April 30, 1996
-- **Job Title:** Frontend Developer
-- **Location:** Remote (Based in Seattle, Washington)
-- **Current Salary:** $92,000
+## 요약
+- **생년월일:** 1996년 4월 30일
+- **직책:** 프론트엔드 개발자 (Frontend Developer)
+- **근무지:** 원격 근무 (워싱턴주 시애틀 소재)
+- **현재 연봉:** $92,000
 
-## Insurellm Career Progression
-- **July 2022 - Present:** Frontend Developer
-  - Develops user interfaces for Rellm reinsurance platform using React
-  - Implements responsive designs and ensures cross-browser compatibility
-  - Collaborates with UX designers and backend engineers
+## Insurellm 경력 이력
+- **2022년 7월 - 현재:** 프론트엔드 개발자
+  - React를 사용하여 Rellm 재보험 플랫폼의 사용자 인터페이스 개발
+  - 반응형 디자인 구현 및 크로스 브라우저 호환성 보장
+  - UX 디자이너 및 백엔드 엔지니어와 협업
 
-- **January 2020 - June 2022:** Junior Frontend Developer
-  - Built UI components for internal tools and customer-facing applications
-  - Fixed bugs and improved performance of existing web applications
-  - Participated in code reviews and learned best practices
+- **2020년 1월 - 2022년 6월:** 주니어 프론트엔드 개발자
+  - 내부 도구 및 고객 대상 애플리케이션의 UI 컴포넌트 개발
+  - 기존 웹 애플리케이션의 버그 수정 및 성능 개선
+  - 코드 리뷰에 참여하며 모범 사례 학습
 
-- **June 2018 - December 2019:** Web Developer Intern at StartupLabs
-  - Created landing pages and marketing websites
-  - Learned HTML, CSS, JavaScript, and React fundamentals
+- **2018년 6월 - 2019년 12월:** StartupLabs 웹 개발자 인턴
+  - 랜딩 페이지 및 마케팅 웹사이트 제작
+  - HTML, CSS, JavaScript, React 기초 학습
 
-## Annual Performance History
-- **2023:** Rating: 4.1/5
-  *Good performance with steady contribution to team goals. Delivered features on time with good code quality.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 4.1/5
+  *팀 목표에 꾸준히 기여하는 우수한 성과. 좋은 코드 품질로 기능을 제때 전달.*
 
-- **2022:** Rating: 3.7/5
-  *Solid transition to Frontend Developer role. Showed improvement in technical skills but needed more guidance on complex features.*
+- **2022년:** 평가 등급: 3.7/5
+  *프론트엔드 개발자 역할로의 견고한 전환. 기술 역량 향상을 보였으나 복잡한 기능에는 더 많은 가이드가 필요.*
 
-- **2021:** Rating: 3.4/5
-  *Adequate performance with some challenges. Struggled with React state management initially but improved after mentoring.*
+- **2021년:** 평가 등급: 3.4/5
+  *일부 어려움이 있었으나 적절한 성과. 처음에는 React 상태 관리에 어려움을 겪었으나 멘토링 후 개선됨.*
 
-- **2020:** Rating: 3.8/5
-  *Good start as Junior Developer. Eager to learn and receptive to feedback.*
+- **2020년:** 평가 등급: 3.8/5
+  *주니어 개발자로서 좋은 출발. 배우려는 의지가 강하고 피드백을 잘 수용함.*
 
-## Compensation History
-- **2023:** Base Salary: $92,000 + Bonus: $6,000
-- **2022:** Base Salary: $85,000 + Bonus: $4,000
-- **2021:** Base Salary: $72,000 + Bonus: $2,000
-- **2020:** Base Salary: $68,000
+## 보상 이력
+- **2023년:** 기본급: $92,000 + 보너스: $6,000
+- **2022년:** 기본급: $85,000 + 보너스: $4,000
+- **2021년:** 기본급: $72,000 + 보너스: $2,000
+- **2020년:** 기본급: $68,000
 
-## Other HR Notes
-- **Education:** BS in Computer Science from University of Manchester
-- **Skills:** Proficient in React, TypeScript, HTML/CSS, Jest for testing. Learning Next.js and GraphQL.
-- **Professional Development:** Completed Advanced React Patterns course (2023). Actively contributes to open-source projects.
-- **Work Style:** Prefers remote work. Strong written communicator. Participates actively in team standups and planning sessions.
-- **Feedback:** Reliable developer with good attention to UI details. Improving technical decision-making skills. Would benefit from more ownership of larger features.
+## 기타 인사 노트
+- **학력:** 맨체스터 대학교 컴퓨터공학 학사
+- **역량:** React, TypeScript, HTML/CSS, 테스트를 위한 Jest에 능숙. Next.js와 GraphQL 학습 중
+- **전문성 개발:** Advanced React Patterns 과정 수료 (2023년). 오픈소스 프로젝트에 적극적으로 기여
+- **업무 스타일:** 원격 근무를 선호함. 뛰어난 문서 커뮤니케이션 능력. 팀 스탠드업과 계획 세션에 적극적으로 참여
+- **피드백:** UI 디테일에 대한 세심함을 갖춘 신뢰할 수 있는 개발자. 기술적 의사결정 역량이 향상되고 있음. 더 큰 규모의 기능을 주도적으로 맡으면 도움이 될 것

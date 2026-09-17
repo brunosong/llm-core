@@ -1,292 +1,292 @@
-# Contract with GlobalRe Partners for Rellm - AI-Powered Enterprise Reinsurance Solution
+# GlobalRe Partners와 Rellm - AI 기반 엔터프라이즈 재보험 솔루션 계약
 
-**Contract Date:** April 28, 2025
-**Contract Number:** RE-2025-E-0203
-**Parties:**
+**계약일:** 2025년 4월 28일
+**계약 번호:** RE-2025-E-0203
+**계약 당사자:**
 - Insurellm, Inc.
 - GlobalRe Partners International, Ltd.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide GlobalRe Partners with enterprise access to the Rellm platform, including white-label capabilities, unlimited treaty and facultative reinsurance administration, dedicated infrastructure, and full API access for their global reinsurance operations.
+1. **보장 범위:** Insurellm은 GlobalRe Partners에게 화이트라벨 기능, 무제한 특약 및 임의 재보험 관리, 전용 인프라, 그리고 전 세계 재보험 운영을 위한 완전한 API 접근을 포함한 Rellm 플랫폼 엔터프라이즈 이용 권한을 제공하기로 합니다.
 
-2. **Duration:** This agreement is effective for a period of 48 months from the contract date, representing Insurellm's most strategic long-term reinsurance partnership.
+2. **계약 기간:** 본 계약은 계약일로부터 48개월간 유효하며, 이는 Insurellm 역사상 가장 전략적인 장기 재보험 파트너십에 해당합니다.
 
-3. **Payment:** GlobalRe Partners shall pay custom Enterprise Tier pricing of $45,000 per month for months 1-12, $48,000 per month for months 13-24, $52,000 per month for months 25-36, and $56,000 per month for months 37-48, totaling $2,412,000 over the contract term.
+3. **결제:** GlobalRe Partners는 맞춤형 Enterprise Tier 가격을 지불하며, 1~12개월차에는 월 $45,000, 13~24개월차에는 월 $48,000, 25~36개월차에는 월 $52,000, 37~48개월차에는 월 $56,000을 지불하여 계약 기간 총액은 $2,412,000입니다.
 
-4. **Reinsurance Volume**: Enterprise Tier supports unlimited treaties and facultative certificates. GlobalRe currently manages 450+ treaty relationships and 8,000+ facultative placements annually.
+4. **재보험 물량**: Enterprise Tier는 무제한 특약 및 임의 재보험 증권을 지원합니다. GlobalRe는 현재 450건 이상의 특약 관계와 연간 8,000건 이상의 임의 재보험 배정을 관리하고 있습니다.
 
-5. **Service Level Agreement:** Insurellm guarantees 99.95% platform uptime measured monthly, with 10% monthly credit for each hour of unplanned downtime, maximum 50% monthly credit.
+5. **서비스 수준 계약:** Insurellm은 월 단위로 측정하여 99.95%의 플랫폼 가동률을 보장하며, 계획되지 않은 다운타임 1시간당 10%의 월간 크레딧을 제공하되 최대 월간 크레딧은 50%입니다.
 
-6. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding proprietary AI algorithms, reinsurance pricing models, cedent data, catastrophe modeling, and strategic initiatives.
+6. **기밀유지:** 양 당사자는 독점 AI 알고리즘, 재보험 가격 책정 모델, 원수사(cedent) 데이터, 재해 모델링, 전략적 이니셔티브에 관하여 최고 수준의 기밀을 유지하기로 합니다.
 
-7. **Data Security:** Insurellm maintains SOC 2 Type II compliance, ISO 27001 certification, and annual third-party security audits with penetration testing.
+7. **데이터 보안:** Insurellm은 SOC 2 Type II 준수, ISO 27001 인증, 침투 테스트를 포함한 연례 제3자 보안 감사를 유지합니다.
 
-8. **Business Continuity:** Guaranteed 2-hour recovery time objective (RTO) and 30-minute recovery point objective (RPO) with geographically diverse data centers.
+8. **비즈니스 연속성:** 지리적으로 분산된 데이터센터를 통해 2시간의 복구 목표 시간(RTO)과 30분의 복구 목표 시점(RPO)을 보장합니다.
 
-9. **Global Operations:** Platform supports multi-currency (35+ currencies), multi-language (12 languages), and multi-jurisdiction regulatory compliance.
-
----
-
-## Renewal
-
-This agreement includes a mutual 120-day renewal notice period. GlobalRe Partners receives most-favored-customer pricing guarantees and priority access to all new reinsurance features. Contract may be extended in 12 or 24-month increments with provisions for joint innovation initiatives in catastrophe modeling and climate risk analytics.
+9. **글로벌 운영:** 플랫폼은 다중 통화(35개 이상 통화), 다국어(12개 언어), 다중 관할권 규제 준수를 지원합니다.
 
 ---
 
-## Features
+## 갱신
 
-GlobalRe Partners will receive the complete Rellm Enterprise suite with advanced reinsurance capabilities:
-
-1. **Unlimited Reinsurance Administration:** Full support for GlobalRe's 450+ treaty relationships and 8,000+ annual facultative placements with scalability to 1,000+ treaties and 50,000+ facultative certificates.
-
-2. **White-Label Platform:** Complete branding customization:
-   - Custom domains (portal.globalrepartners.com, cedents.globalrepartners.com, brokers.globalrepartners.com)
-   - Branded portals for cedents, brokers, and retrocessionaires
-   - Multi-language interface (English, Spanish, French, German, Mandarin, Japanese, Portuguese, Dutch, Italian, Korean, Arabic, Russian)
-   - Customized reporting templates and market presentations
-
-3. **Advanced AI-Driven Analytics:** Enterprise-grade reinsurance analytics:
-   - Predictive risk modeling across all lines of business
-   - Treaty portfolio optimization and capital allocation
-   - Retrocessional optimization and protection tower design
-   - Pricing analytics with market cycle intelligence
-   - Loss development and IBNR prediction
-   - Ultimate loss forecasting with confidence intervals
-   - Reserve adequacy modeling
-   - Commutation opportunity identification
-
-4. **Comprehensive Risk Assessment Module:** State-of-the-art risk evaluation:
-   - Cedent financial strength analysis with early warning indicators
-   - Portfolio exposure aggregation across all treaties
-   - Clash analysis and accumulation monitoring
-   - Geographic concentration heat maps
-   - Industry and line of business diversification metrics
-   - Emerging risk identification (cyber, climate, pandemic)
-   - Counterparty credit risk assessment
-   - Retrocessional credit risk monitoring
-
-5. **Catastrophe Modeling Integration:** Best-in-class CAT modeling:
-   - Integration with all major vendors (RMS, AIR, CoreLogic, KCC)
-   - Multi-peril catastrophe analysis
-   - Probable maximum loss (PML) calculations at all return periods
-   - Exceedance probability curves and tail value-at-risk
-   - Climate change scenario modeling
-   - Secondary uncertainty and model blending
-   - Real-time CAT event tracking and loss estimation
-   - Pre-CAT exposure management and post-CAT claims projection
-
-6. **Treaty Administration:** Complete treaty lifecycle management:
-   - Treaty structuring and quota share optimization
-   - Excess of loss layer optimization
-   - Sliding scale commission calculation
-   - Loss corridor and aggregate deductible tracking
-   - Reinstatement premium automation
-   - Cash call processing and premium allocation
-   - Loss reserve bordereaux processing
-   - Treaty accounting and reconciliation
-   - Multi-year contract administration
-
-7. **Facultative Reinsurance Platform:** Comprehensive fac management:
-   - Digital submission intake from brokers and cedents
-   - AI-powered underwriting decision support
-   - Automated risk grading and pricing recommendations
-   - Peer pricing comparison and market intelligence
-   - Quote generation with terms and conditions
-   - Binder and certificate issuance
-   - Premium and claims tracking by certificate
-   - Portfolio monitoring and aggregation
-
-8. **Customizable Dashboard:** Enterprise-grade analytics:
-   - Real-time portfolio performance metrics
-   - Combined ratio tracking by treaty, cedent, line of business, geography
-   - Premium volume and growth analytics
-   - Claims development and loss ratio trending
-   - Reserve adequacy indicators
-   - Capital utilization and ROE analysis
-   - Market share and competitive positioning
-   - Broker and cedent relationship metrics
-
-9. **Regulatory Compliance Tools:** Global compliance support:
-   - Multi-jurisdiction regulatory reporting (US, EU, UK, Asia-Pacific, Latin America)
-   - Solvency II compliance for European operations
-   - IFRS 17 reporting and analytics
-   - US statutory accounting (SAP)
-   - Tax reporting and withholding management
-   - Sanctions screening (OFAC, UN, EU)
-   - Anti-money laundering (AML) monitoring
-   - Audit trail and documentation repository
-
-10. **Client and Broker Portals:** Stakeholder engagement platforms:
-    - Cedent portal for submissions, bordereaux, reports, and analytics
-    - Broker portal for quote requests, binding, and commissions
-    - Retrocessionaire portal for downstream placements
-    - Real-time data sharing and document exchange
-    - Secure messaging and collaboration tools
-    - Mobile app access for on-the-go access
-    - Customized views by relationship
-
-11. **Complete API Access:** Unlimited API integration:
-    - Real-time integration with GlobalRe's core systems
-    - Accounting system integration (SAP, Oracle)
-    - Data warehouse synchronization
-    - Catastrophe modeling platform connectivity
-    - Broker trading platforms (Ebix, Sequel)
-    - Lloyd's platform integration (Whitespace, PPL)
-    - Industry data providers (AM Best, S&P, Moody's)
-    - Economic and market data feeds
-
-12. **Advanced Retrocessional Management:** Retro optimization:
-    - Retrocessional program structuring
-    - Protection tower analytics and gap analysis
-    - Retro market intelligence and pricing
-    - Counterparty diversification optimization
-    - Credit risk monitoring
-    - Collateral management
-    - Retro recovery tracking
-
-13. **Climate Risk Analytics:** Forward-looking climate modeling:
-    - IPCC climate scenario analysis (RCP 2.6, 4.5, 8.5)
-    - Transition risk assessment
-    - Physical risk modeling for perils (hurricane, wildfire, flood, drought)
-    - Sea level rise impact analysis
-    - Temperature trend incorporation
-    - Climate-adjusted pricing recommendations
-    - Stranded asset identification
-    - Green reinsurance opportunities
+본 계약에는 상호 120일의 갱신 통지 기간이 포함됩니다. GlobalRe Partners는 최우대 고객 가격 보장과 모든 신규 재보험 기능에 대한 우선 접근권을 받습니다. 계약은 재해 모델링 및 기후 리스크 분석 분야의 공동 혁신 이니셔티브 조항과 함께 12개월 또는 24개월 단위로 연장될 수 있습니다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to comprehensive Enterprise-level support for GlobalRe Partners:
+GlobalRe Partners는 고급 재보험 기능을 갖춘 완전한 Rellm Enterprise 스위트를 제공받습니다.
 
-1. **Dedicated Success Team:**
-   - Executive sponsor (CEO-level) with quarterly strategic reviews
-   - Dedicated Senior Vice President of Customer Success with bi-weekly engagement
-   - Technical Account Manager for platform optimization
-   - Solutions Architect team (2 FTE) for strategic initiatives
-   - Catastrophe modeling specialist for analytics support
-   - Quarterly executive business reviews with C-suite participation from both organizations
+1. **무제한 재보험 관리:** GlobalRe의 450건 이상의 특약 관계와 연간 8,000건 이상의 임의 재보험 배정을 완벽히 지원하며, 특약 1,000건 이상, 임의 재보험 증권 50,000건 이상까지 확장 가능합니다.
 
-2. **24/7/365 Premium Support:**
-   - Guaranteed 10-minute response for P1 critical issues (during catastrophe events: 5 minutes)
-   - 30-minute response for P2 high-priority issues
-   - 2-hour response for P3 standard issues
-   - Dedicated support team of 10+ specialists familiar with GlobalRe's operations
-   - Named support engineers for each major functional area
-   - Private collaboration channels (Slack, Microsoft Teams) with direct engineering access
-   - Quarterly on-site support visits (minimum 8 per year, plus CAT event visits)
+2. **화이트라벨 플랫폼:** 완전한 브랜딩 커스터마이징:
+   - 맞춤형 도메인(portal.globalrepartners.com, cedents.globalrepartners.com, brokers.globalrepartners.com)
+   - 원수사, 중개인, 재재보험사를 위한 브랜디드 포털
+   - 다국어 인터페이스(영어, 스페인어, 프랑스어, 독일어, 중국어(만다린), 일본어, 포르투갈어, 네덜란드어, 이탈리아어, 한국어, 아랍어, 러시아어)
+   - 맞춤형 보고서 템플릿 및 시장 발표 자료
 
-3. **Comprehensive Implementation:**
-   - 18-month phased implementation program with 5 major releases
-   - Dedicated program management office (PMO) with weekly steering committee meetings
-   - Migration of 450+ treaty relationships and historical data (10 years)
-   - Integration with 8,000+ facultative certificates
-   - Training for 200+ GlobalRe staff across underwriting, actuarial, accounting, IT
-   - Regional training sessions (North America, Europe, Asia)
-   - Parallel processing with legacy systems for 6 months
-   - Go-live support with 16-week on-site Insurellm team presence (8-12 people)
+3. **고급 AI 기반 분석:** 엔터프라이즈급 재보험 분석:
+   - 모든 비즈니스 라인에 걸친 예측 리스크 모델링
+   - 특약 포트폴리오 최적화 및 자본 배분
+   - 재재보험 최적화 및 프로텍션 타워 설계
+   - 시장 사이클 인텔리전스를 갖춘 가격 분석
+   - 손해 진전(loss development) 및 IBNR 예측
+   - 신뢰구간을 포함한 최종 손해액 예측
+   - 준비금 적정성 모델링
+   - 커뮤테이션(commutation) 기회 식별
 
-4. **Training and Enablement:**
-   - Comprehensive role-based training (underwriters, actuaries, accountants, claim handlers, IT, executives)
-   - Executive education on AI in reinsurance and emerging risk
-   - Actuarial training on predictive modeling and machine learning
-   - Catastrophe modeling workshop series
-   - Train-the-trainer certification for GlobalRe's learning team
-   - Annual user conference attendance (12 attendees, all expenses paid including travel)
-   - Monthly advanced training webinars on new features
-   - Unlimited online learning platform access with 150+ courses
-   - Custom training content for GlobalRe-specific processes
+4. **종합 리스크 평가 모듈:** 최첨단 리스크 평가:
+   - 조기 경보 지표를 포함한 원수사 재무 건전성 분석
+   - 모든 특약에 걸친 포트폴리오 익스포저 집계
+   - 클래시(clash) 분석 및 누적 리스크 모니터링
+   - 지역별 집중도 히트맵
+   - 산업 및 비즈니스 라인 다변화 지표
+   - 신흥 리스크 식별(사이버, 기후, 팬데믹)
+   - 거래상대방 신용 리스크 평가
+   - 재재보험 신용 리스크 모니터링
 
-5. **Custom Development:**
-   - 4,000 hours annually of custom development included
-   - Dedicated development team (6 developers, 2 QA, 1 PM) for GlobalRe-specific features
-   - Priority feature requests with guaranteed product roadmap inclusion
-   - Early access to beta features 120 days before general release
-   - Joint innovation projects in climate risk, AI underwriting, blockchain
-   - Co-development of industry-leading capabilities
-   - Input into 5-year product strategy and vision
+5. **재해 모델링 통합:** 업계 최고 수준의 재해(CAT) 모델링:
+   - 모든 주요 벤더(RMS, AIR, CoreLogic, KCC)와의 통합
+   - 다중 재해 유형 분석
+   - 모든 재현주기에 대한 최대추정손해액(PML) 산출
+   - 초과확률 곡선 및 테일 밸류앳리스크(tail VaR)
+   - 기후 변화 시나리오 모델링
+   - 2차 불확실성 및 모델 블렌딩
+   - 실시간 재해 이벤트 추적 및 손해 추정
+   - 재해 발생 전 익스포저 관리 및 재해 발생 후 청구 예측
 
-6. **Integration Services:**
-   - Enterprise integration with GlobalRe's complex ecosystem:
-     - SAP ERP for finance and accounting
-     - Socotra reinsurance administration platform
-     - RMS RiskLink catastrophe modeling
+6. **특약 관리:** 완전한 특약 생애주기 관리:
+   - 특약 구조화 및 비례 재보험(quota share) 최적화
+   - 초과손해액 재보험(excess of loss) 레이어 최적화
+   - 슬라이딩 스케일 수수료 계산
+   - 로스 코리더 및 누적 공제 추적
+   - 재보험 복원보험료 자동화
+   - 캐시콜(cash call) 처리 및 보험료 배분
+   - 손해 준비금 보더로(bordereaux) 처리
+   - 특약 회계 및 대사(reconciliation)
+   - 다년 계약 관리
+
+7. **임의 재보험 플랫폼:** 종합적인 임의 재보험(fac) 관리:
+   - 중개인 및 원수사로부터의 디지털 접수
+   - AI 기반 언더라이팅 의사결정 지원
+   - 자동화된 리스크 등급화 및 가격 권고
+   - 동종 가격 비교 및 시장 인텔리전스
+   - 조건이 포함된 견적 생성
+   - 바인더 및 증권 발급
+   - 증권별 보험료 및 청구 추적
+   - 포트폴리오 모니터링 및 집계
+
+8. **맞춤형 대시보드:** 엔터프라이즈급 분석:
+   - 실시간 포트폴리오 성과 지표
+   - 특약, 원수사, 비즈니스 라인, 지역별 합산비율 추적
+   - 보험료 물량 및 성장 분석
+   - 청구 진전 및 손해율 추이
+   - 준비금 적정성 지표
+   - 자본 활용도 및 자기자본이익률(ROE) 분석
+   - 시장 점유율 및 경쟁 포지셔닝
+   - 중개인 및 원수사 관계 지표
+
+9. **규제 준수 도구:** 글로벌 규제 준수 지원:
+   - 다중 관할권 규제 보고(미국, EU, 영국, 아시아태평양, 라틴아메리카)
+   - 유럽 사업을 위한 솔벤시 II 준수
+   - IFRS 17 보고 및 분석
+   - 미국 법정회계기준(SAP)
+   - 세무 보고 및 원천징수 관리
+   - 제재 심사(OFAC, UN, EU)
+   - 자금세탁방지(AML) 모니터링
+   - 감사 추적 및 문서 저장소
+
+10. **고객 및 중개인 포털:** 이해관계자 참여 플랫폼:
+    - 제출, 보더로, 보고서, 분석을 위한 원수사 포털
+    - 견적 요청, 바인딩, 수수료를 위한 중개인 포털
+    - 후속 배정을 위한 재재보험사 포털
+    - 실시간 데이터 공유 및 문서 교환
+    - 보안 메시징 및 협업 도구
+    - 모바일 앱을 통한 이동 중 접근
+    - 관계별 맞춤형 화면 구성
+
+11. **완전한 API 접근:** 무제한 API 통합:
+    - GlobalRe의 핵심 시스템과의 실시간 통합
+    - 회계 시스템 통합(SAP, Oracle)
+    - 데이터 웨어하우스 동기화
+    - 재해 모델링 플랫폼 연동
+    - 중개인 거래 플랫폼(Ebix, Sequel)
+    - 로이즈 플랫폼 통합(Whitespace, PPL)
+    - 업계 데이터 제공업체(AM Best, S&P, Moody's)
+    - 경제 및 시장 데이터 피드
+
+12. **고급 재재보험 관리:** 재재보험 최적화:
+    - 재재보험 프로그램 구조화
+    - 프로텍션 타워 분석 및 갭 분석
+    - 재재보험 시장 인텔리전스 및 가격 책정
+    - 거래상대방 다변화 최적화
+    - 신용 리스크 모니터링
+    - 담보 관리
+    - 재재보험 회수 추적
+
+13. **기후 리스크 분석:** 미래 지향적 기후 모델링:
+    - IPCC 기후 시나리오 분석(RCP 2.6, 4.5, 8.5)
+    - 전환 리스크 평가
+    - 재해 유형별(허리케인, 산불, 홍수, 가뭄) 물리적 리스크 모델링
+    - 해수면 상승 영향 분석
+    - 기온 추세 반영
+    - 기후 조정 가격 권고
+    - 좌초 자산 식별
+    - 그린 재보험 기회
+
+---
+
+## 지원
+
+Insurellm은 GlobalRe Partners에 대해 종합적인 Enterprise 수준의 지원을 제공하기로 합니다.
+
+1. **전담 고객성공팀:**
+   - 분기별 전략 검토를 진행하는 임원 스폰서(CEO급)
+   - 격주 소통을 담당하는 전담 고객성공 수석 부사장(SVP)
+   - 플랫폼 최적화를 담당하는 기술 계정 관리자(TAM)
+   - 전략적 이니셔티브를 위한 솔루션 아키텍트 팀(정규직 환산 2명)
+   - 분석 지원을 위한 재해 모델링 전문가
+   - 양사 C레벨 임원이 참여하는 분기별 경영진 비즈니스 리뷰
+
+2. **연중무휴 24시간 프리미엄 지원:**
+   - P1 긴급 사안에 대해 10분 이내 응답 보장(재해 이벤트 발생 시: 5분)
+   - P2 고우선순위 사안에 대해 30분 이내 응답
+   - P3 표준 사안에 대해 2시간 이내 응답
+   - GlobalRe 운영에 정통한 10명 이상의 전담 지원 전문가팀
+   - 각 주요 기능 영역별 지정 지원 엔지니어
+   - 엔지니어링 팀과 직접 연결되는 비공개 협업 채널(Slack, Microsoft Teams)
+   - 분기별 현장 지원 방문(연 최소 8회, 재해 이벤트 발생 시 추가 방문)
+
+3. **종합적인 구축 지원:**
+   - 5회의 주요 릴리스로 구성된 18개월 단계적 구축 프로그램
+   - 주간 운영위원회 회의를 진행하는 전담 프로젝트 관리 사무국(PMO)
+   - 450건 이상의 특약 관계 및 10년간 이력 데이터 마이그레이션
+   - 8,000건 이상의 임의 재보험 증권 통합
+   - 언더라이팅, 계리, 회계, IT 전반에 걸친 GlobalRe 직원 200명 이상 교육
+   - 지역별 교육 세션(북미, 유럽, 아시아)
+   - 6개월간 레거시 시스템과의 병행 처리
+   - 16주간 Insurellm 현장 팀 상주(8~12명)를 통한 오픈 지원
+
+4. **교육 및 역량 강화:**
+   - 역할별 종합 교육(언더라이터, 계리사, 회계 담당자, 클레임 처리자, IT, 경영진)
+   - 재보험 및 신흥 리스크 분야 AI에 관한 임원 교육
+   - 예측 모델링 및 머신러닝에 관한 계리 교육
+   - 재해 모델링 워크숍 시리즈
+   - GlobalRe 교육팀을 위한 트레이너 양성 인증 과정
+   - 연례 사용자 컨퍼런스 참석(12명, 출장 등 모든 비용 지원)
+   - 신규 기능에 관한 월간 고급 교육 웨비나
+   - 150개 이상 강좌를 갖춘 온라인 학습 플랫폼 무제한 이용
+   - GlobalRe 전용 프로세스를 위한 맞춤형 교육 콘텐츠
+
+5. **맞춤형 개발:**
+   - 연간 4,000시간의 맞춤형 개발 포함
+   - GlobalRe 전용 기능을 위한 전담 개발팀(개발자 6명, QA 2명, PM 1명)
+   - 제품 로드맵 반영을 보장하는 우선 기능 요청
+   - 정식 출시 120일 전 베타 기능 우선 이용
+   - 기후 리스크, AI 언더라이팅, 블록체인 분야 공동 혁신 프로젝트
+   - 업계 선도 기능의 공동 개발
+   - 5개년 제품 전략 및 비전에 대한 의견 반영
+
+6. **통합 서비스:**
+   - GlobalRe의 복잡한 생태계와의 엔터프라이즈 통합:
+     - 재무 및 회계를 위한 SAP ERP
+     - Socotra 재보험 관리 플랫폼
+     - RMS RiskLink 재해 모델링
      - AIR Touchstone
      - Moody's RMS LifeRisks
-     - Sequel broker trading platform
-     - Lloyd's Whitespace and PPL
-     - ACORD messaging standards
-     - SWIFT for payments
-     - Data warehouse on Snowflake
-     - Tableau and PowerBI for analytics
-   - Dedicated integration team (3 FTE integration engineers)
-   - Monthly integration health assessments
-   - Performance optimization and load testing
-   - API governance and versioning support
+     - Sequel 중개인 거래 플랫폼
+     - Lloyd's Whitespace 및 PPL
+     - ACORD 메시징 표준
+     - 결제를 위한 SWIFT
+     - Snowflake 기반 데이터 웨어하우스
+     - 분석을 위한 Tableau 및 PowerBI
+   - 전담 통합팀(정규직 환산 3명의 통합 엔지니어)
+   - 월간 통합 상태 점검
+   - 성능 최적화 및 부하 테스트
+   - API 거버넌스 및 버전 관리 지원
 
-7. **Analytics and Reporting:**
-   - Custom dashboard development (unlimited)
-   - Real-time operational dashboards for underwriting, claims, accounting
-   - Executive dashboards with strategic KPIs
-   - Automated reporting suite (daily, weekly, monthly, quarterly, annual)
-   - Regulatory reporting templates for all jurisdictions
-   - Ad-hoc analytics support (unlimited requests with 24-hour SLA for standard, 4-hour for urgent)
-   - Industry benchmarking against top 50 global reinsurers
-   - Catastrophe exposure and PML reporting
-   - Predictive analytics and scenario modeling consultation (bi-weekly sessions)
-   - Embedded actuarial and data science team support
+7. **분석 및 보고:**
+   - 맞춤형 대시보드 개발(무제한)
+   - 언더라이팅, 클레임, 회계를 위한 실시간 운영 대시보드
+   - 전략적 핵심성과지표(KPI)를 포함한 경영진 대시보드
+   - 자동화된 보고 스위트(일간, 주간, 월간, 분기, 연간)
+   - 모든 관할권을 위한 규제 보고 템플릿
+   - 임시 분석 지원(무제한 요청, 표준 24시간 SLA, 긴급 4시간 SLA)
+   - 세계 상위 50대 재보험사 대비 업계 벤치마킹
+   - 재해 익스포저 및 PML 보고
+   - 예측 분석 및 시나리오 모델링 컨설팅(격주 세션)
+   - 내장형 계리 및 데이터 사이언스 팀 지원
 
-8. **Catastrophe Response:**
-   - Dedicated CAT war room activation during major events
-   - Real-time loss estimation and exposure reporting
-   - Claims projections and reserve recommendations
-   - Cedent outreach and data collection coordination
-   - Retrocessional recovery tracking
-   - Post-CAT analysis and lessons learned
-   - Annual CAT preparedness exercises and disaster recovery testing
+8. **재해 대응:**
+   - 대형 재해 발생 시 전담 CAT 워룸(war room) 가동
+   - 실시간 손해 추정 및 익스포저 보고
+   - 청구 예측 및 준비금 권고
+   - 원수사 아웃리치 및 데이터 수집 조율
+   - 재재보험 회수 추적
+   - 재해 발생 후 분석 및 교훈 정리
+   - 연례 재해 대비 훈련 및 재해복구 테스트
 
-9. **Regulatory and Compliance Support:**
-   - Quarterly compliance reviews for all operating jurisdictions
-   - Annual regulatory update briefings
-   - Solvency II and IFRS 17 implementation support
-   - Audit preparation and documentation assistance
-   - Regulatory examination support
-   - Industry association engagement (IAIS, NAIC, EIOPA)
+9. **규제 및 컴플라이언스 지원:**
+   - 모든 운영 관할권에 대한 분기별 컴플라이언스 검토
+   - 연례 규제 업데이트 브리핑
+   - 솔벤시 II 및 IFRS 17 도입 지원
+   - 감사 준비 및 문서화 지원
+   - 규제 조사 대응 지원
+   - 업계 단체 참여(IAIS, NAIC, EIOPA)
 
-10. **Continuous Improvement:**
-    - Monthly process optimization sessions
-    - Quarterly efficiency audits with detailed ROI analysis
-    - Best practice sharing from global reinsurance market
-    - Innovation lab partnership for emerging technologies:
-      - Advanced AI and machine learning
-      - Blockchain for smart contracts
-      - Climate science and forward-looking modeling
-      - Cyber risk quantification
-      - Pandemic and systemic risk modeling
-    - Joint research publications and thought leadership
-    - Speaking opportunities at major industry conferences (Monte Carlo Rendez-Vous, Baden-Baden, SIRC)
-    - Participation in industry working groups and standard-setting bodies
+10. **지속적 개선:**
+    - 월간 프로세스 최적화 세션
+    - 상세 ROI 분석이 포함된 분기별 효율성 감사
+    - 글로벌 재보험 시장의 모범 사례 공유
+    - 신흥 기술을 위한 혁신 랩 파트너십:
+      - 고급 AI 및 머신러닝
+      - 스마트 계약을 위한 블록체인
+      - 기후 과학 및 미래 예측 모델링
+      - 사이버 리스크 정량화
+      - 팬데믹 및 시스템 리스크 모델링
+    - 공동 연구 발간 및 사고 리더십
+    - 주요 업계 컨퍼런스(Monte Carlo Rendez-Vous, Baden-Baden, SIRC) 발표 기회
+    - 업계 워킹그룹 및 표준 제정 기구 참여
 
 ---
 
-**Signatures:**
+**서명:**
 
 _________________________________
 **Jennifer Rodriguez**
-**Title**: Chief Executive Officer
+**직위**: Chief Executive Officer
 **Insurellm, Inc.**
-**Date**: April 28, 2025
+**날짜**: 2025년 4월 28일
 
 _________________________________
 **Sir Charles Pemberton**
-**Title**: Group Chief Executive Officer
+**직위**: Group Chief Executive Officer
 **GlobalRe Partners International, Ltd.**
-**Date**: April 28, 2025
+**날짜**: 2025년 4월 28일
 
 ---
 
-This agreement establishes GlobalRe Partners as Insurellm's flagship enterprise reinsurance partner, representing the most comprehensive and strategic partnership in Insurellm's history. This collaboration will drive innovation in reinsurance technology, catastrophe modeling, climate risk analytics, and AI-powered underwriting, setting new standards for the global reinsurance industry. This contract supersedes all prior agreements and communications.
+본 계약은 GlobalRe Partners를 Insurellm의 대표 엔터프라이즈 재보험 파트너로 확립하며, 이는 Insurellm 역사상 가장 포괄적이고 전략적인 파트너십에 해당합니다. 본 협력관계는 재보험 기술, 재해 모델링, 기후 리스크 분석, AI 기반 언더라이팅 분야의 혁신을 이끌어 글로벌 재보험 산업의 새로운 표준을 제시할 것입니다. 본 계약은 이전의 모든 계약 및 협의를 대체합니다.

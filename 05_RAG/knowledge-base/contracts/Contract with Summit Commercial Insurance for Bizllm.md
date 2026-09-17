@@ -1,81 +1,81 @@
-# Contract with Summit Commercial Insurance for Bizllm
+# Summit Commercial Insurance와 Bizllm에 관한 계약
 
-**Contract Date:** March 15, 2025
-**Contract Number:** BZ-2025-0091
-**Parties:**
+**계약일:** 2025년 3월 15일
+**계약 번호:** BZ-2025-0091
+**계약 당사자:**
 - Insurellm, Inc.
 - Summit Commercial Insurance, LLC
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide Summit Commercial Insurance with access to the Bizllm platform, enabling comprehensive commercial insurance underwriting and policy administration across multiple lines including general liability, professional liability, and property coverage.
+1. **제공 범위:** Insurellm은 Summit Commercial Insurance에 Bizllm 플랫폼 이용 권한을 제공하기로 합의하며, 이를 통해 일반배상책임, 전문직배상책임, 재산 보장을 포함한 여러 영역에 걸친 종합적인 상업보험 언더라이팅 및 계약 관리가 가능해진다.
 
-2. **Duration:** This agreement is effective for a period of 18 months from the contract date, after which it will automatically renew unless terminated by either party with a written 45-day notice.
+2. **기간:** 본 계약은 계약일로부터 18개월간 유효하며, 이후 어느 한쪽 당사자가 45일 전 서면 통지로 해지하지 않는 한 자동 갱신된다.
 
-3. **Payment:** Summit Commercial Insurance shall pay a monthly fee of $6,000, due by the 1st of every month for the Business Tier package.
+3. **결제:** Summit Commercial Insurance는 Business Tier 패키지에 대해 매월 1일까지 $6,000의 월 요금을 납부해야 한다.
 
-4. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary information, trade secrets, and customer data disclosed during the execution of this contract.
+4. **비밀유지:** 양 당사자는 본 계약 이행 중 공개되는 독점 정보, 영업 비밀, 고객 데이터에 대해 엄격한 기밀을 유지하는 데 동의한다.
 
-5. **Liability:** Insurellm's liability under this agreement shall be limited to direct damages and shall not exceed the total fees paid by Summit Commercial Insurance in the last 12 months prior to the date of the claim.
+5. **책임:** 본 계약에 따른 Insurellm의 책임은 직접 손해로 제한되며, 청구일 직전 12개월간 Summit Commercial Insurance가 지급한 총 수수료를 초과하지 않는다.
 
-6. **Data Security:** Insurellm commits to maintaining industry-standard encryption and security protocols to protect all client data processed through the Bizllm platform.
-
----
-
-## Renewal
-
-Unless either party provides a written notice of termination at least 45 days prior to the expiration of the contract term, this agreement will automatically renew for an additional 18-month term under the same terms and conditions, subject to pricing adjustments communicated at least 90 days in advance.
+6. **데이터 보안:** Insurellm은 Bizllm 플랫폼을 통해 처리되는 모든 고객 데이터를 보호하기 위해 업계 표준의 암호화 및 보안 프로토콜을 유지할 것을 약속한다.
 
 ---
 
-## Features
+## 갱신
 
-Summit Commercial Insurance will receive the following features with Bizllm Business Tier:
-
-1. **Multi-Line Underwriting Engine:** Comprehensive underwriting platform supporting general liability, professional liability, property, and workers' compensation insurance products.
-
-2. **Business Intelligence Integration:** Automated data gathering from business registries, financial databases, and industry reports for streamlined underwriting.
-
-3. **Commercial Property Evaluation:** Advanced property risk modeling incorporating location data, building characteristics, and catastrophe modeling.
-
-4. **Workers' Compensation Optimization:** Integrated tools analyzing payroll data, industry classifications, and claims history for accurate pricing.
-
-5. **Portfolio Management Dashboard:** Analytics providing line-of-business performance, loss ratios, and renewal rates insights.
-
-6. **Agent and Broker Portal:** Dedicated portals enabling distribution partners to quote, bind, and service policies efficiently.
+어느 한쪽 당사자가 계약 기간 만료 최소 45일 전에 해지 서면 통지를 하지 않는 한, 본 계약은 동일한 조건으로 추가 18개월 기간으로 자동 갱신되며, 이 경우 가격 조정 사항은 최소 90일 전에 통지된다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to providing comprehensive support to Summit Commercial Insurance, which includes:
+Summit Commercial Insurance는 Bizllm Business Tier와 함께 다음 기능을 제공받는다.
 
-1. **Onboarding:** A 3-week intensive training program for up to 15 Summit Commercial staff members to ensure effective use of Bizllm, including hands-on workshops and certification.
+1. **다중 영역 언더라이팅 엔진:** 일반배상책임, 전문직배상책임, 재산, 산재보험 상품을 지원하는 종합 언더라이팅 플랫폼.
 
-2. **Dedicated Support Team:** A dedicated account manager and technical support team available Monday-Friday 7 AM to 7 PM EST, with emergency support available 24/7.
+2. **비즈니스 인텔리전스 연동:** 간소화된 언더라이팅을 위한 기업 등록 데이터베이스, 금융 데이터베이스, 업계 보고서로부터의 자동 데이터 수집.
 
-3. **Regular Updates:** Insurellm will provide quarterly platform updates and enhancements, including new features, security improvements, and regulatory compliance updates.
+3. **상업용 재산 평가:** 위치 데이터, 건물 특성, 재해 모델링을 결합한 고급 재산 위험 모델링.
 
-4. **Integration Assistance:** Technical support for integrating Bizllm with Summit's existing policy administration and claims management systems.
+4. **산재보험 최적화:** 급여 데이터, 업종 분류, 청구 이력을 분석하여 정확한 가격 산정을 지원하는 통합 도구.
 
-5. **Performance Reviews:** Quarterly business reviews to assess platform utilization, identify optimization opportunities, and discuss strategic initiatives.
+5. **포트폴리오 관리 대시보드:** 사업 부문별 성과, 손해율, 갱신율에 대한 인사이트를 제공하는 분석 기능.
+
+6. **대리점 및 브로커 포털:** 유통 파트너가 효율적으로 견적, 계약 체결, 서비스 제공을 수행할 수 있는 전용 포털.
 
 ---
 
-**Signatures:**
+## 지원
+
+Insurellm은 Summit Commercial Insurance에 다음을 포함한 종합적인 지원을 제공하기로 약속한다.
+
+1. **온보딩:** 실습 워크숍과 인증을 포함하여, Summit Commercial 직원 최대 15명을 대상으로 Bizllm의 효과적인 활용을 위한 3주간의 집중 교육 프로그램.
+
+2. **전담 지원팀:** 월~금요일 오전 7시~오후 7시(미 동부 시간)에 이용 가능한 전담 계정 관리자 및 기술 지원팀, 그리고 24/7 긴급 지원.
+
+3. **정기 업데이트:** Insurellm은 신규 기능, 보안 개선, 규제 준수 업데이트를 포함한 분기별 플랫폼 업데이트와 개선 사항을 제공한다.
+
+4. **연동 지원:** Bizllm과 Summit의 기존 계약 관리 및 청구 관리 시스템을 연동하기 위한 기술 지원.
+
+5. **성과 리뷰:** 플랫폼 활용도를 평가하고, 최적화 기회를 파악하며, 전략적 이니셔티브를 논의하기 위한 분기별 비즈니스 리뷰.
+
+---
+
+**서명:**
 
 _________________________________
 **Michael Torres**
-**Title**: Chief Revenue Officer
+**직책**: Chief Revenue Officer
 **Insurellm, Inc.**
 
 _________________________________
 **Patricia Lawson**
-**Title**: Vice President of Operations
+**직책**: Vice President of Operations
 **Summit Commercial Insurance, LLC**
 
 ---
 
-This agreement represents the complete understanding of both parties regarding the use of the Bizllm product and supersedes any prior agreements or communications.
+본 계약은 Bizllm 제품 이용과 관련한 양 당사자의 완전한 합의 내용을 나타내며, 이전의 모든 계약이나 통신을 대체한다.

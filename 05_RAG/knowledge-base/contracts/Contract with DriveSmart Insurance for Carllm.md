@@ -1,198 +1,198 @@
-# Contract with DriveSmart Insurance for Carllm
+# DriveSmart Insurance와 Carllm 계약
 
-**Contract Date:** March 20, 2025
-**Contract Number:** CR-2025-E-0078
-**Parties:**
+**계약일:** 2025년 3월 20일
+**계약 번호:** CR-2025-E-0078
+**계약 당사자:**
 - Insurellm, Inc.
 - DriveSmart Insurance Corp.
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Coverage:** Insurellm agrees to provide DriveSmart Insurance with enterprise access to the Carllm platform, including white-label capabilities, unlimited user licenses, dedicated infrastructure, and full API access for their multi-state auto insurance operations.
+1. **적용 범위:** Insurellm은 DriveSmart Insurance의 다주(多州) 자동차보험 운영을 위해 화이트라벨 기능, 무제한 사용자 라이선스, 전용 인프라, 전체 API 접근 권한을 포함하는 Carllm 플랫폼에 대한 엔터프라이즈 이용 권한을 제공하기로 합의합니다.
 
-2. **Duration:** This agreement is effective for a period of 36 months from the contract date.
+2. **기간:** 본 계약은 계약일로부터 36개월간 유효합니다.
 
-3. **Payment:** DriveSmart Insurance shall pay custom Enterprise Tier pricing of $18,000 per month for the first 12 months, $19,500 per month for months 13-24, and $21,000 per month for months 25-36, totaling $702,000 over the contract term.
+3. **결제:** DriveSmart Insurance는 최초 12개월간 월 $18,000, 13~24개월차 월 $19,500, 25~36개월차 월 $21,000의 맞춤형 Enterprise Tier 가격을 지불하며, 계약 기간 총액은 $702,000입니다.
 
-4. **Policy Volume**: Enterprise Tier supports unlimited policies. DriveSmart currently has 85,000 active auto policies across 8 states.
+4. **계약 물량**: Enterprise Tier는 무제한 계약을 지원합니다. DriveSmart는 현재 8개 주에서 85,000건의 활성 자동차보험 계약을 보유하고 있습니다.
 
-5. **Service Level Agreement:** Insurellm guarantees 99.9% platform uptime measured monthly, with 8% monthly credit for each 0.1% below target, maximum 40% monthly credit.
+5. **서비스 수준 계약:** Insurellm은 월 단위로 측정되는 99.9%의 플랫폼 가동률을 보장하며, 목표치를 0.1% 하회할 때마다 월 8%의 크레딧을 제공하고, 최대 월 40%까지 크레딧을 제공합니다.
 
-6. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary algorithms, driver data, pricing models, and business strategies.
+6. **기밀 유지:** 양 당사자는 독점 알고리즘, 운전자 데이터, 가격 모델, 사업 전략에 대해 엄격한 기밀을 유지하기로 합의합니다.
 
-7. **Data Security:** Insurellm maintains SOC 2 Type II compliance, annual penetration testing, and comprehensive cyber insurance coverage.
-
----
-
-## Renewal
-
-This agreement includes a 90-day mutual renewal notice period. DriveSmart receives most-favored-customer pricing guarantees ensuring competitive rates at renewal. Contract may be extended in 12 or 24-month increments.
+7. **데이터 보안:** Insurellm은 SOC 2 Type II 준수, 연간 침투 테스트, 포괄적인 사이버보험 보장을 유지합니다.
 
 ---
 
-## Features
+## 갱신
 
-DriveSmart Insurance will receive the complete Carllm Enterprise suite:
-
-1. **Unlimited Policy Administration:** Full support for DriveSmart's 85,000+ policies with scalability to 500,000+ policies.
-
-2. **White-Label Platform:** Complete customization:
-   - Custom domains (quote.drivesmartinsurance.com, portal.drivesmartinsurance.com)
-   - Branded mobile apps for iOS and Android
-   - Customized marketing materials and quote tools
-   - Co-branded agent portals
-
-3. **Advanced AI Risk Assessment:** Enterprise-grade risk analysis:
-   - Real-time driver behavior analysis from telematics devices
-   - Vehicle condition assessment from VIN decoding and maintenance records
-   - Claims history analysis across all carriers (LexisNexis, CLUE)
-   - Credit-based insurance scoring
-   - Geographic risk modeling with granular loss costs
-   - Multi-car and multi-driver household optimization
-   - Commercial auto risk assessment capabilities
-
-4. **Instant Quoting Engine:** High-performance quoting:
-   - Sub-3-second quote generation
-   - Real-time rate optimization across 50+ rating factors
-   - Competitive intelligence with market positioning
-   - Dynamic pricing based on demand and capacity
-   - Multi-product bundling discounts (auto + home)
-   - A/B testing capabilities for pricing strategies
-
-5. **Customizable Coverage Plans:** Flexible product configuration:
-   - State-specific coverage options (all 8 operating states)
-   - Usage-based insurance (UBI) programs
-   - Pay-per-mile options
-   - Rideshare and delivery driver coverage
-   - Classic and collector car programs
-   - SR-22 and high-risk driver programs
-
-6. **Advanced Fraud Detection:** Comprehensive fraud prevention:
-   - Application fraud detection (identity verification, address validation)
-   - Claims fraud analytics with pattern recognition
-   - Agent fraud monitoring
-   - Staged accident detection
-   - Social network analysis for fraud rings
-   - Integration with NICB and SIU databases
-
-7. **Customer Insights Dashboard:** Deep analytics:
-   - Real-time policy metrics and KPIs
-   - Retention and churn analysis
-   - Loss ratio tracking by segment
-   - Agent performance analytics
-   - Marketing campaign ROI measurement
-   - Customer lifetime value prediction
-
-8. **Telematics Integration:** Complete telematics platform:
-   - Device-agnostic integration (OBD-II dongles, smartphone apps, embedded)
-   - Real-time driver behavior scoring
-   - Trip-level data analysis (hard braking, acceleration, cornering, speeding)
-   - Mileage verification for low-mileage discounts
-   - Accident detection and emergency response
-   - Driver coaching and feedback programs
-   - Gamification and safe driving rewards
-
-9. **Complete API Access:** Unlimited API calls:
-   - Integration with DriveSmart's core systems
-   - Agent management system connectivity
-   - Third-party data providers (LexisNexis, Verisk, Experian)
-   - DMV and MVR integrations
-   - Payment processing systems
-   - Document management platforms
-   - Marketing automation tools
-
-10. **Multi-State Operations:** Comprehensive state support:
-    - State-specific forms and endorsements
-    - Regulatory compliance monitoring
-    - Rate filing management
-    - Multi-state agent licensing tracking
-    - Surplus lines support where needed
+본 계약은 90일의 상호 갱신 통지 기간을 포함합니다. DriveSmart는 갱신 시 경쟁력 있는 요율을 보장하는 최혜 고객 가격 보장을 받습니다. 계약은 12개월 또는 24개월 단위로 연장될 수 있습니다.
 
 ---
 
-## Support
+## 기능
 
-Insurellm commits to comprehensive Enterprise-level support for DriveSmart Insurance:
+DriveSmart Insurance는 다음과 같은 완전한 Carllm Enterprise 스위트를 이용하게 됩니다:
 
-1. **Dedicated Success Team:**
-   - Named VP-level executive sponsor with quarterly reviews
-   - Senior Customer Success Manager with weekly check-ins
-   - Technical Account Manager for optimization
-   - Solutions Architect for strategic initiatives
-   - Quarterly executive business reviews with ROI analysis
+1. **무제한 계약 관리:** DriveSmart의 85,000건 이상의 계약을 완전히 지원하며 500,000건 이상까지 확장 가능합니다.
 
-2. **24/7/365 Support:**
-   - 30-minute response time for P1 critical issues
-   - 2-hour response for P2 high-priority issues
-   - 4-hour response for P3 standard issues
-   - Dedicated support hotline with no phone tree
-   - Private Slack channel with engineering team
-   - Quarterly on-site visits (minimum 4 per year)
+2. **화이트라벨 플랫폼:** 완전한 맞춤화:
+   - 맞춤형 도메인(quote.drivesmartinsurance.com, portal.drivesmartinsurance.com)
+   - iOS 및 Android용 브랜드 모바일 앱
+   - 맞춤형 마케팅 자료 및 견적 도구
+   - 공동 브랜드 에이전트 포털
 
-3. **Implementation:**
-   - 6-month phased implementation
-   - Dedicated project manager
-   - Migration of 85,000 policies from legacy system
-   - Training for 75+ staff and 200+ agents
-   - Parallel processing for 60 days
-   - Go-live support (4 weeks on-site)
+3. **고급 AI 위험 평가:** 엔터프라이즈급 위험 분석:
+   - 텔레매틱스 기기를 통한 실시간 운전자 행동 분석
+   - VIN 디코딩 및 정비 기록을 통한 차량 상태 평가
+   - 전체 보험사 대상 청구 이력 분석(LexisNexis, CLUE)
+   - 신용 기반 보험 스코어링
+   - 세밀한 손실 비용을 반영한 지리적 위험 모델링
+   - 다차량·다운전자 가구 최적화
+   - 상업용 자동차 위험 평가 기능
 
-4. **Training and Enablement:**
-   - Role-based training for all users
-   - Train-the-trainer program
-   - Annual user conference attendance (5 attendees)
-   - Monthly training webinars
-   - Unlimited online learning access
-   - Custom training materials
+4. **즉시 견적 엔진:** 고성능 견적 처리:
+   - 3초 이내 견적 생성
+   - 50개 이상의 요율 산정 요소에 대한 실시간 요율 최적화
+   - 시장 포지셔닝을 반영한 경쟁 인텔리전스
+   - 수요와 용량에 기반한 동적 가격 책정
+   - 다상품 결합 할인(자동차 + 주택)
+   - 가격 전략을 위한 A/B 테스트 기능
 
-5. **Custom Development:**
-   - 800 hours annually of custom development
-   - Priority feature requests on product roadmap
-   - Beta access to new features 60 days early
-   - Co-development opportunities
+5. **맞춤형 보장 플랜:** 유연한 상품 구성:
+   - 주별 맞춤 보장 옵션(운영 중인 8개 주 전체)
+   - 사용량 기반 보험(UBI) 프로그램
+   - 마일당 요금제(Pay-per-mile) 옵션
+   - 라이드셰어 및 배달 운전자 보장
+   - 클래식 및 수집용 차량 프로그램
+   - SR-22 및 고위험 운전자 프로그램
 
-6. **Integration Services:**
-   - Integration with DriveSmart's systems:
-     - Duck Creek policy administration
-     - Applied Epic agency management
+6. **고급 사기 탐지:** 포괄적인 사기 방지:
+   - 신청 사기 탐지(신원 확인, 주소 검증)
+   - 패턴 인식을 활용한 청구 사기 분석
+   - 에이전트 사기 모니터링
+   - 위장 사고 탐지
+   - 사기 조직 파악을 위한 소셜 네트워크 분석
+   - NICB 및 SIU 데이터베이스 연동
+
+7. **고객 인사이트 대시보드:** 심층 분석:
+   - 실시간 계약 지표 및 KPI
+   - 유지율 및 이탈률 분석
+   - 세그먼트별 손해율 추적
+   - 에이전트 성과 분석
+   - 마케팅 캠페인 ROI 측정
+   - 고객 생애 가치 예측
+
+8. **텔레매틱스 연동:** 완전한 텔레매틱스 플랫폼:
+   - 기기 종류에 구애받지 않는 연동(OBD-II 동글, 스마트폰 앱, 내장형)
+   - 실시간 운전자 행동 스코어링
+   - 주행 단위 데이터 분석(급제동, 급가속, 급코너링, 과속)
+   - 저마일리지 할인을 위한 마일리지 검증
+   - 사고 감지 및 긴급 대응
+   - 운전자 코칭 및 피드백 프로그램
+   - 게임화 및 안전 운전 보상
+
+9. **완전한 API 접근:** 무제한 API 호출:
+   - DriveSmart의 핵심 시스템과의 연동
+   - 에이전트 관리 시스템 연동
+   - 제3자 데이터 제공업체(LexisNexis, Verisk, Experian)
+   - DMV 및 MVR 연동
+   - 결제 처리 시스템
+   - 문서 관리 플랫폼
+   - 마케팅 자동화 도구
+
+10. **다주 운영:** 포괄적인 주별 지원:
+    - 주별 맞춤 양식 및 배서
+    - 규제 준수 모니터링
+    - 요율 신고 관리
+    - 다주 에이전트 면허 추적
+    - 필요 시 초과보상선(surplus lines) 지원
+
+---
+
+## 지원
+
+Insurellm은 DriveSmart Insurance에 포괄적인 Enterprise 수준의 지원을 약속합니다:
+
+1. **전담 성공팀:**
+   - 분기별 리뷰를 진행하는 VP급 임원 스폰서
+   - 주간 점검을 진행하는 시니어 고객성공 매니저
+   - 최적화를 위한 기술 계정 매니저
+   - 전략적 이니셔티브를 위한 솔루션 아키텍트
+   - ROI 분석을 포함한 분기별 임원 비즈니스 리뷰
+
+2. **24/7/365 지원:**
+   - P1(긴급) 문제에 대한 30분 응답 시간
+   - P2(우선순위 높음) 문제에 대한 2시간 응답
+   - P3(표준) 문제에 대한 4시간 응답
+   - 전화 연결 대기 없는 전담 지원 핫라인
+   - 엔지니어링팀과의 전용 Slack 채널
+   - 분기별 현장 방문(연 최소 4회)
+
+3. **구축:**
+   - 6개월 단계적 구축
+   - 전담 프로젝트 매니저
+   - 레거시 시스템으로부터 85,000건의 계약 마이그레이션
+   - 75명 이상의 직원 및 200명 이상의 에이전트 대상 교육
+   - 60일간의 병행 처리
+   - 전환(go-live) 지원(4주간 현장 지원)
+
+4. **교육 및 역량 강화:**
+   - 모든 사용자 대상 직무별 교육
+   - 강사 양성(train-the-trainer) 프로그램
+   - 연례 사용자 컨퍼런스 참석(5명)
+   - 월간 교육 웨비나
+   - 무제한 온라인 학습 이용
+   - 맞춤형 교육 자료
+
+5. **맞춤 개발:**
+   - 연간 800시간의 맞춤 개발
+   - 제품 로드맵 내 우선순위 기능 요청
+   - 신규 기능 60일 조기 베타 접근
+   - 공동 개발 기회
+
+6. **연동 서비스:**
+   - DriveSmart의 시스템과의 연동:
+     - Duck Creek 계약 관리
+     - Applied Epic 대리점 관리
      - Guidewire ClaimCenter
-     - Telematics providers (Arity, Cambridge Mobile Telematics)
-     - Payment processors
+     - 텔레매틱스 제공업체(Arity, Cambridge Mobile Telematics)
+     - 결제 처리업체
      - Salesforce CRM
-   - Dedicated integration specialist
-   - Quarterly integration reviews
+   - 전담 연동 전문가
+   - 분기별 연동 리뷰
 
-7. **Analytics and Reporting:**
-   - Custom dashboard development (up to 15 dashboards)
-   - Automated daily, weekly, monthly reporting
-   - Ad-hoc analytics support (20 requests/month)
-   - Industry benchmarking
-   - Predictive modeling consultation
+7. **분석 및 리포팅:**
+   - 맞춤형 대시보드 개발(최대 15개)
+   - 자동 일간·주간·월간 리포팅
+   - 임시 분석 지원(월 20건)
+   - 업계 벤치마킹
+   - 예측 모델링 컨설팅
 
-8. **Continuous Improvement:**
-   - Quarterly optimization workshops
-   - Annual efficiency audits
-   - Best practice sharing
-   - Innovation lab for emerging tech (AI, IoT, connected cars)
+8. **지속적 개선:**
+   - 분기별 최적화 워크숍
+   - 연간 효율성 감사
+   - 모범 사례 공유
+   - AI, IoT, 커넥티드카 등 신기술을 위한 이노베이션 랩
 
 ---
 
-**Signatures:**
+**서명:**
 
 _________________________________
 **Jennifer Rodriguez**
-**Title**: Chief Executive Officer
+**직책**: Chief Executive Officer
 **Insurellm, Inc.**
-**Date**: March 20, 2025
+**날짜**: 2025년 3월 20일
 
 _________________________________
 **Steven Brooks**
-**Title**: President & Chief Operating Officer
+**직책**: President & Chief Operating Officer
 **DriveSmart Insurance Corp.**
-**Date**: March 20, 2025
+**날짜**: 2025년 3월 20일
 
 ---
 
-This agreement establishes DriveSmart Insurance as a premier enterprise partner leveraging Carllm's advanced AI and telematics capabilities to transform auto insurance operations. This contract supersedes all prior agreements.
+본 계약은 DriveSmart Insurance를 Carllm의 첨단 AI 및 텔레매틱스 기능을 활용하여 자동차보험 운영을 혁신하는 최상위 엔터프라이즈 파트너로 자리매김하게 합니다. 본 계약은 이전의 모든 계약을 대체합니다.

@@ -1,50 +1,50 @@
 # Samantha Greene
 
-## Summary
-- **Date of Birth:** October 14, 1990
-- **Job Title:** HR Generalist
-- **Location:** Denver, Colorado
-- **Current Salary:** $70,000
+## 요약
+- **생년월일:** 1990년 10월 14일
+- **직책:** HR Generalist
+- **근무지:** 콜로라도주 덴버
+- **현재 연봉:** $70,000
 
-## Insurellm Career Progression
-- **2020** - Joined Insurellm as a HR Coordinator
-  - Responsibilities included assisting with recruitment processes and managing employee onboarding.
-- **2021** - Promoted to HR Generalist
-  - Transitioned to a role with expanded responsibilities, including handling employee relations and benefits administration.
-- **2022** - Completed the HR Leadership Development Program
-  - Enhanced skills in conflict resolution and strategic planning.
-- **2023** - Actively involved in initiating the company’s Diversity and Inclusion programs.
-  - Samantha Greene played a key role in launching mentorship initiatives and employee resource groups.
+## Insurellm 경력 진행
+- **2020년** - Insurellm에 HR Coordinator로 입사
+  - 채용 프로세스 지원 및 직원 온보딩 관리 업무를 담당.
+- **2021년** - HR Generalist로 승진
+  - 직원 관계 관리 및 복리후생 운영을 포함한 확장된 역할로 전환.
+- **2022년** - HR Leadership Development Program 이수
+  - 갈등 해결 및 전략 기획 역량을 강화함.
+- **2023년** - 회사의 다양성 및 포용성(Diversity and Inclusion) 프로그램 출범에 적극 참여.
+  - Samantha Greene은 멘토십 이니셔티브와 직원 리소스 그룹 출범에서 핵심적인 역할을 수행함.
 
-## Annual Performance History
-- **2020:** Exceeds Expectations  
-  Samantha Greene demonstrated exceptional organizational skills and contributed to a streamlined onboarding process, earning commendations from senior leadership.
+## 연간 성과 이력
+- **2020년:** 기대 초과
+  Samantha Greene은 뛰어난 조직력을 보여주었고 온보딩 프로세스를 간소화하는 데 기여하여 경영진으로부터 칭찬을 받음.
 
-- **2021:** Meets Expectations  
-  While proficient in her new role, Samantha Greene struggled with time management during peak recruitment seasons, resulting in occasional missed deadlines. 
+- **2021년:** 기대 충족
+  새로운 역할에 능숙했지만, Samantha Greene은 채용 성수기 동안 시간 관리에 어려움을 겪어 간헐적으로 마감을 놓치는 경우가 있었음.
 
-- **2022:** Below Expectations  
-  Samantha Greene faced challenges in balancing employee relations issues, thereby impacting her performance. Gaps in communication and follow-up led to a push for additional training.
+- **2022년:** 기대 미달
+  Samantha Greene은 직원 관계 문제의 균형을 맞추는 데 어려움을 겪어 성과에 영향을 미침. 커뮤니케이션과 후속 조치의 공백으로 추가 교육이 필요하다는 의견이 제기됨.
 
-- **2023:** Meets Expectations  
-  After attending workshops focused on conflict resolution, Samantha Greene successfully improved her handling of employee grievances, though minor issues still arose in managing multitasking within projects.
+- **2023년:** 기대 충족
+  갈등 해결에 초점을 맞춘 워크숍에 참석한 이후, Samantha Greene은 직원 고충 처리 능력을 성공적으로 개선했으나, 프로젝트 내 멀티태스킹 관리에서는 사소한 문제가 여전히 발생함.
 
-## Compensation History
-- **2020:** Base Salary - $55,000  
-  The entry-level salary matched industry standards for HR Coordinators with limited experience.
+## 보상 이력
+- **2020년:** 기본급 - $55,000
+  경력이 적은 HR Coordinator에 대한 업계 표준에 부합하는 입문 수준의 연봉.
 
-- **2021:** Base Salary - $65,000  
-  Following her promotion, Samantha Greene received a raise commensurate with her new responsibilities.
+- **2021년:** 기본급 - $65,000
+  승진에 따라 새로운 책임에 걸맞은 인상을 받음.
 
-- **2022:** Base Salary - $65,000  
-  No increase as a result of performance concerns; however, Samantha Greene continued to receive positive feedback for her participation in diversity initiatives.
+- **2022년:** 기본급 - $65,000
+  성과 우려로 인해 인상 없음. 다만 다양성 이니셔티브 참여에 대해서는 계속해서 긍정적인 피드백을 받음.
 
-- **2023:** Base Salary - $70,000  
-  Recognized for substantial improvement in employee relations management and contributions to company culture, leading to a well-deserved increase.
+- **2023년:** 기본급 - $70,000
+  직원 관계 관리에서의 상당한 개선과 회사 문화에 대한 기여를 인정받아 합당한 인상이 이루어짐.
 
-## Other HR Notes
-- Samantha Greene has expressed interest in pursuing an HR certification (SHRM-CP) to further her career growth within Insurellm. 
-- Participated in Insurellm's employee wellness program, promoting mental health resources among staff.
-- Actively volunteers with local nonprofits and encourages staff involvement in community outreach programs, enhancing Insurellm's corporate social responsibility initiatives. 
+## 기타 HR 메모
+- Samantha Greene은 Insurellm 내에서의 경력 성장을 위해 HR 자격증(SHRM-CP) 취득에 관심을 표명함.
+- Insurellm의 직원 웰니스 프로그램에 참여하여 직원들의 정신 건강 자원 활용을 장려함.
+- 지역 비영리 단체에서 적극적으로 봉사활동을 하며 직원들의 지역사회 봉사 참여를 독려하여 Insurellm의 기업의 사회적 책임(CSR) 활동에 기여함.
 
-Samantha Greene is a valuable asset to Insurellm, continuously working on professional development and contributing to a supportive workplace culture.
+Samantha Greene은 지속적으로 전문성 개발에 힘쓰고 지원적인 업무 문화 조성에 기여하는 Insurellm의 소중한 자산임.

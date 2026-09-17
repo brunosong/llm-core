@@ -1,101 +1,101 @@
-# Contract with Atlantic Risk Solutions for Bizllm
+# Atlantic Risk Solutions와 Bizllm 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Agreement Effective Date**: This contract is effective as of January 15, 2025.
-2. **Duration**: This agreement will remain in effect for a term of 12 months, concluding on January 14, 2026.
-3. **Subscription Type**: Atlantic Risk Solutions agrees to subscribe to the **Professional Tier** of Bizllm, at a cost of $12,000/month, totaling $144,000 for the duration of this contract.
-4. **Payment Terms**: Payments are due on the 10th of each month via ACH transfer. Late payments will incur a penalty of 1.5% per month and may result in service suspension after 15 days delinquency.
-5. **User Licenses**: Contract includes 35 named user licenses. Additional users may be added at $180/month per license.
-6. **Termination Clause**: Either party may terminate this agreement with 45 days' written notice. Early termination requires payment of 50% of remaining contract value.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement will automatically renew for an additional 12-month term unless either party provides written notice of non-renewal at least 45 days before the expiration date.
-2. **Price Protection**: Pricing increases capped at 8% annually for the first two renewal periods, providing Atlantic Risk Solutions with budget predictability.
-3. **Volume Discounts**: If Atlantic Risk Solutions expands to Enterprise tier during renewal, they receive a 15% discount on the difference for the first renewal year.
+1. **계약 발효일**: 본 계약은 2025년 1월 15일부터 발효됩니다.
+2. **기간**: 본 계약은 12개월간 유효하며, 2026년 1월 14일에 종료됩니다.
+3. **구독 유형**: Atlantic Risk Solutions는 Bizllm의 **Professional Tier**를 월 $12,000에 구독하기로 합의하며, 본 계약 기간 동안 총 $144,000를 지불합니다.
+4. **결제 조건**: 결제는 매월 10일까지 ACH 이체로 이루어집니다. 연체 시 월 1.5%의 위약금이 부과되며, 15일 연체 시 서비스가 중단될 수 있습니다.
+5. **사용자 라이선스**: 계약에는 지정 사용자 라이선스 35개가 포함됩니다. 추가 사용자는 라이선스당 월 $180에 추가할 수 있습니다.
+6. **해지 조항**: 어느 한쪽 당사자든 45일 전 서면 통지로 본 계약을 해지할 수 있습니다. 조기 해지 시 잔여 계약 가치의 50%를 지불해야 합니다.
 
 ---
 
-## Features
+## 갱신
 
-1. **Access to Professional Tier Features**: Atlantic Risk Solutions will have access to all Professional Tier features, including:
-   - Multi-Line Underwriting Engine supporting general liability, professional liability, property, workers' compensation, and cyber insurance
-   - Business Intelligence Integration with automated data gathering from 50+ data sources
-   - Cyber Risk Assessment module with security posture evaluation
-   - Workers' Compensation Optimization with payroll integration and class code analysis
-   - Commercial Property Evaluation with catastrophe modeling
-   - Professional Liability Specialization for E&O coverage
-   - Portfolio Management Dashboard with loss ratio tracking and geographic analysis
-   - Agent and Broker Portal supporting up to 500 distribution partners
-   - Claims Management Integration with reserve recommendation engine
-
-2. **Industry-Specific Templates**: Pre-configured underwriting templates for:
-   - Technology companies and software-as-a-service (SaaS) businesses
-   - Professional services firms (consulting, accounting, legal)
-   - Healthcare providers and medical practices
-   - Contractors and construction trades
-   - Restaurants and hospitality businesses
-
-3. **Advanced Reporting**: Monthly automated reports including:
-   - New business pipeline and conversion rates
-   - Renewal retention analysis
-   - Loss ratio trending by line of business
-   - Agent performance scorecards
-   - Competitive market positioning insights
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 만료일 최소 45일 전에 갱신 거절을 서면으로 통지하지 않는 한 추가 12개월 단위로 자동 갱신됩니다.
+2. **가격 보호**: 최초 두 번의 갱신 기간 동안 가격 인상폭은 연간 8%로 제한되어, Atlantic Risk Solutions에 예산 예측 가능성을 제공합니다.
+3. **물량 할인**: Atlantic Risk Solutions가 갱신 시 Enterprise Tier로 확장할 경우, 첫 갱신 연도에 차액에 대해 15% 할인을 받습니다.
 
 ---
 
-## Support
+## 기능
 
-1. **Technical Support**: Atlantic Risk Solutions will receive priority technical support from Insurellm for any issues arising from the Bizllm product:
-   - Dedicated support phone line and email
-   - Response time: 4 hours for critical issues, 12 hours for standard requests
-   - Access to technical support Monday-Friday 7 AM - 8 PM EST
+1. **Professional Tier 기능 이용**: Atlantic Risk Solutions는 다음을 포함한 모든 Professional Tier 기능을 이용할 수 있습니다:
+   - 일반배상책임, 전문직배상책임, 재산, 산재보험, 사이버보험을 지원하는 다종목 인수심사 엔진
+   - 50개 이상의 데이터 소스에서 자동 수집하는 비즈니스 인텔리전스 연동
+   - 보안 태세 평가를 포함한 사이버 리스크 평가 모듈
+   - 급여 연동 및 직종 코드 분석을 포함한 산재보험 최적화
+   - 재해 모델링을 포함한 상업용 재산 평가
+   - E&O(전문직 배상책임) 보장을 위한 전문직배상책임 특화 기능
+   - 손해율 추적 및 지역 분석을 포함한 포트폴리오 관리 대시보드
+   - 최대 500개 유통 파트너를 지원하는 대리점 및 중개사 포털
+   - 준비금 산정 추천 엔진을 포함한 청구 관리 연동
 
-2. **Training**: Insurellm will provide comprehensive training program:
-   - Initial onboarding for up to 15 staff members (20 hours total training)
-   - Bi-monthly webinars on platform updates and best practices
-   - Access to on-demand video library and knowledge base
-   - Annual refresher training session
+2. **업종별 템플릿**: 다음 업종에 대한 사전 구성된 인수심사 템플릿:
+   - 기술 기업 및 SaaS(서비스형 소프트웨어) 기업
+   - 전문 서비스업체(컨설팅, 회계, 법률)
+   - 의료 제공자 및 병의원
+   - 시공업체 및 건설업
+   - 레스토랑 및 숙박업
 
-3. **Updates and Maintenance**:
-   - Quarterly platform updates with new features and security enhancements
-   - Monthly minor updates and bug fixes
-   - Maintenance windows: Sunday 1 AM - 5 AM EST
-   - 48-hour advance notice for all scheduled maintenance
-
-4. **Account Management**:
-   - Assigned account manager with quarterly business review meetings
-   - Annual strategic planning session to align platform usage with business goals
-   - Priority access to new beta features
-
-5. **Integration Support**: Technical assistance for integrating Bizllm with:
-   - Atlantic's existing agency management system (Applied Epic)
-   - Commercial lines rating platforms
-   - Third-party data providers (Dun & Bradstreet, Experian, Verisk)
-   - Email marketing platforms for agent communications
+3. **고급 리포팅**: 다음을 포함하는 월간 자동 보고서:
+   - 신규 영업 파이프라인 및 전환율
+   - 갱신 유지율 분석
+   - 사업 라인별 손해율 추이
+   - 대리점 성과 스코어카드
+   - 경쟁 시장 포지셔닝 인사이트
 
 ---
 
-**Signatures:**
+## 지원
+
+1. **기술 지원**: Atlantic Risk Solutions는 Bizllm 제품과 관련된 모든 문제에 대해 Insurellm으로부터 우선 기술 지원을 받습니다:
+   - 전담 지원 전화 및 이메일
+   - 응답 시간: 긴급 문제 4시간, 일반 요청 12시간
+   - 월-금 오전 7시~오후 8시(동부표준시) 기술 지원 이용 가능
+
+2. **교육**: Insurellm은 포괄적인 교육 프로그램을 제공합니다:
+   - 최대 15명 직원 대상 초기 온보딩(총 20시간 교육)
+   - 플랫폼 업데이트 및 모범 사례에 관한 격월 웨비나
+   - 온디맨드 동영상 라이브러리 및 지식베이스 이용
+   - 연간 리프레셔 교육 세션
+
+3. **업데이트 및 유지보수**:
+   - 신규 기능 및 보안 개선을 포함한 분기별 플랫폼 업데이트
+   - 월간 소규모 업데이트 및 버그 수정
+   - 유지보수 시간: 일요일 오전 1시~오전 5시(동부표준시)
+   - 모든 예정된 유지보수에 대해 48시간 전 사전 통지
+
+4. **계정 관리**:
+   - 분기별 비즈니스 리뷰 미팅을 진행하는 지정 계정 매니저
+   - 플랫폼 활용을 비즈니스 목표에 맞추기 위한 연간 전략 기획 세션
+   - 신규 베타 기능에 대한 우선 접근권
+
+5. **연동 지원**: Bizllm을 다음과 연동하기 위한 기술 지원:
+   - Atlantic의 기존 대리점 관리 시스템(Applied Epic)
+   - 상업보험 요율 산정 플랫폼
+   - 제3자 데이터 제공업체(Dun & Bradstreet, Experian, Verisk)
+   - 대리점 커뮤니케이션용 이메일 마케팅 플랫폼
+
+---
+
+**서명:**
 
 _________________________________
 **Michael Torres**
-**Title**: Chief Revenue Officer
+**직책**: Chief Revenue Officer
 **Insurellm, Inc.**
-**Date**: January 15, 2025
+**날짜**: 2025년 1월 15일
 
 _________________________________
 **Diana Marquez**
-**Title**: Senior Vice President, Commercial Lines
+**직책**: Senior Vice President, Commercial Lines
 **Atlantic Risk Solutions**
-**Date**: January 15, 2025
+**날짜**: 2025년 1월 15일
 
 ---
 
-*This contract establishes a professional partnership between Insurellm and Atlantic Risk Solutions, enabling Atlantic to leverage cutting-edge AI technology for commercial insurance underwriting and administration.*
+*본 계약은 Insurellm과 Atlantic Risk Solutions 간의 전문적인 파트너십을 수립하여, Atlantic이 상업보험 인수심사 및 관리 업무에 최첨단 AI 기술을 활용할 수 있도록 합니다.*

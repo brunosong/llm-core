@@ -1,38 +1,38 @@
-# HR Record
+# HR 기록
 
 # Jordan K. Bishop
 
-## Summary
-- **Date of Birth:** March 15, 1990
-- **Job Title:** Frontend Software Engineer
-- **Location:** Austin, Texas
-- **Current Salary:** $92,000
+## 요약
+- **생년월일:** 1990년 3월 15일
+- **직책:** 프론트엔드 소프트웨어 엔지니어 (Frontend Software Engineer)
+- **근무지:** 텍사스주 오스틴
+- **현재 연봉:** $92,000
 
-## Insurellm Career Progression
-- **June 2018:** Hired as a Frontend Software Engineer.
-- **August 2019:** Promoted to Senior Frontend Software Engineer due to outstanding contributions to the Insurellm web application redesign project.
-- **March 2021:** Led a cross-functional team for the launch of Insurellm's customer portal, enhancing user experience and engagement.
-- **January 2022:** Transitioned to a mentorship role, where Jordan K. Bishop began training junior engineers, which affected the focus on personal projects.
-- **August 2023:** Returned to core development tasks but faced challenges adapting to new frameworks, leading to performance reviews reflecting a need for improvement.
+## Insurellm 경력 이력
+- **2018년 6월:** 프론트엔드 소프트웨어 엔지니어로 입사
+- **2019년 8월:** Insurellm 웹 애플리케이션 리디자인 프로젝트에 대한 뛰어난 기여로 선임 프론트엔드 소프트웨어 엔지니어(Senior Frontend Software Engineer)로 승진
+- **2021년 3월:** Insurellm 고객 포털 출시를 위한 교차 기능 팀을 이끌며 사용자 경험과 참여도를 향상시킴
+- **2022년 1월:** 멘토링 역할로 전환하여 주니어 엔지니어 교육을 시작했으며, 이로 인해 개인 프로젝트에 대한 집중도가 영향을 받음
+- **2023년 8월:** 핵심 개발 업무로 복귀했으나 새로운 프레임워크 적응에 어려움을 겪어 개선이 필요하다는 평가를 받음
 
-## Annual Performance History
-- **2019:** Exceeds Expectations - Continuously delivered high-quality code and participated actively in team meetings.
-- **2020:** Meets Expectations - Jordan K. Bishop maintained steady performance but faced challenges due to a higher workload from multiple projects.
-- **2021:** Exceeds Expectations - Recognized for leadership during the customer portal project; received the “Innovation Award” for creative problem-solving.
-- **2022:** Meets Expectations - While mentoring others, the shift in focus led to fewer contributions to new features, marking a decrease in performance.
-- **2023:** Needs Improvement - Transitioning back to development has resulted in difficulties with recent technologies, prompting a performance improvement plan.
+## 연간 성과 이력
+- **2019년:** 기대 이상 - 지속적으로 고품질 코드를 전달하고 팀 회의에 적극적으로 참여
+- **2020년:** 기대 충족 - Jordan K. Bishop은 꾸준한 성과를 유지했으나 여러 프로젝트로 인한 높은 업무량으로 어려움을 겪음
+- **2021년:** 기대 이상 - 고객 포털 프로젝트에서의 리더십을 인정받아 "혁신상(Innovation Award)"을 수상함
+- **2022년:** 기대 충족 - 타인을 멘토링하는 동안 신규 기능에 대한 기여가 줄어들며 성과가 다소 감소함
+- **2023년:** 개선 필요 - 개발 업무로 복귀하는 과정에서 최근 기술 적응에 어려움을 겪어 성과 개선 계획(PIP)이 시작됨
 
-## Compensation History
-- **June 2018:** Starting Salary - $85,000
-- **June 2019:** Salary Increase - $95,000 (Promotion to Senior Engineer)
-- **June 2021:** Salary Increase - $105,000 with bonus for project leadership.
-- **June 2022:** Salary Freeze due to company budget adjustments.
-- **June 2023:** Salary Adjustment - $92,000 after performance review; adjustments made in consideration of recent struggles with adaptation.
+## 보상 이력
+- **2018년 6월:** 초임 - $85,000
+- **2019년 6월:** 급여 인상 - $95,000 (선임 엔지니어 승진)
+- **2021년 6월:** 급여 인상 - $105,000, 프로젝트 리더십에 대한 보너스 포함
+- **2022년 6월:** 회사 예산 조정으로 인한 급여 동결
+- **2023년 6월:** 급여 조정 - $92,000, 성과 평가 후 조정; 최근의 적응 어려움을 고려한 조정
 
-## Other HR Notes
-- Jordan K. Bishop has been an integral part of club initiatives, including the Insurellm Code Reviews and Feedback Group, providing peer support.
-- Active participant in the company's Diversity and Inclusion committee, promoting a positive work culture.
-- Jordan has expressed interest in professional development courses, particularly those focused on modern web technologies, which are being considered for sponsorship by Insurellm.
-- Engaged in a 6-month performance improvement plan as of August 2023, focusing on skill development and consistent performance monitoring. 
+## 기타 인사 노트
+- Jordan K. Bishop은 Insurellm 코드 리뷰 및 피드백 그룹 등 사내 이니셔티브에서 동료 지원을 제공하며 핵심적인 역할을 해옴
+- 다양성 및 포용성 위원회의 적극적인 참여자로서 긍정적인 업무 문화를 조성함
+- Jordan은 현대적인 웹 기술에 초점을 맞춘 전문성 개발 과정에 관심을 표명했으며, Insurellm의 후원이 검토되고 있음
+- 2023년 8월부터 6개월간의 성과 개선 계획(PIP)에 참여하여 스킬 개발 및 지속적인 성과 모니터링에 집중하고 있음
 
-Jordan K. Bishop is a valued member of the Insurellm family, exhibiting a commitment to growth and development despite recent challenges.
+Jordan K. Bishop은 최근의 어려움에도 불구하고 성장과 발전에 대한 의지를 보이는 Insurellm의 소중한 구성원입니다.

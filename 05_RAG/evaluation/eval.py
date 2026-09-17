@@ -10,39 +10,39 @@ from implementation.answer import answer_question, fetch_context
 
 load_dotenv(override=True)
 
-MODEL = "gpt-4.1-nano"
+MODEL = "gemini/gemini-3.1-flash-lite"
 db_name = "vector_db"
 
 
 class RetrievalEval(BaseModel):
-    """Evaluation metrics for retrieval performance."""
+    """검색(retrieval) 성능에 대한 평가 지표."""
 
-    mrr: float = Field(description="Mean Reciprocal Rank - average across all keywords")
-    ndcg: float = Field(description="Normalized Discounted Cumulative Gain (binary relevance)")
-    keywords_found: int = Field(description="Number of keywords found in top-k results")
-    total_keywords: int = Field(description="Total number of keywords to find")
-    keyword_coverage: float = Field(description="Percentage of keywords found")
+    mrr: float = Field(description="평균 역순위(Mean Reciprocal Rank) - 모든 키워드에 대한 평균")
+    ndcg: float = Field(description="정규화 할인 누적 이익(Normalized Discounted Cumulative Gain, 이진 관련성)")
+    keywords_found: int = Field(description="상위 k개 결과에서 발견된 키워드 수")
+    total_keywords: int = Field(description="찾아야 할 전체 키워드 수")
+    keyword_coverage: float = Field(description="발견된 키워드의 비율(%)")
 
 
 class AnswerEval(BaseModel):
-    """LLM-as-a-judge evaluation of answer quality."""
+    """LLM을 판사로 사용한(LLM-as-a-judge) 답변 품질 평가."""
 
     feedback: str = Field(
-        description="Concise feedback on the answer quality, comparing it to the reference answer and evaluating based on the retrieved context"
+        description="참조 답변과 비교하고 검색된 컨텍스트를 바탕으로 평가한, 답변 품질에 대한 간결한 피드백"
     )
     accuracy: float = Field(
-        description="How factually correct is the answer compared to the reference answer? 1 (wrong. any wrong answer must score 1) to 5 (ideal - perfectly accurate). An acceptable answer would score 3."
+        description="참조 답변과 비교했을 때 사실적으로 얼마나 정확한가? 1(오답. 틀린 답은 반드시 1점) ~ 5(이상적 - 완벽하게 정확함). 허용 가능한 답변은 3점."
     )
     completeness: float = Field(
-        description="How complete is the answer in addressing all aspects of the question? 1 (very poor - missing key information) to 5 (ideal - all the information from the reference answer is provided completely). Only answer 5 if ALL information from the reference answer is included."
+        description="질문의 모든 측면을 다루는 데 있어 답변이 얼마나 완전한가? 1(매우 부족 - 핵심 정보 누락) ~ 5(이상적 - 참조 답변의 모든 정보가 완전하게 제공됨). 참조 답변의 모든 정보가 포함된 경우에만 5점."
     )
     relevance: float = Field(
-        description="How relevant is the answer to the specific question asked? 1 (very poor - off-topic) to 5 (ideal - directly addresses question and gives no additional information). Only answer 5 if the answer is completely relevant to the question and gives no additional information."
+        description="답변이 질문에 얼마나 관련성이 있는가? 1(매우 부족 - 주제에서 벗어남) ~ 5(이상적 - 질문에 직접 답하고 불필요한 추가 정보 없음). 질문과 완전히 관련이 있고 불필요한 추가 정보가 없을 때만 5점."
     )
 
 
 def calculate_mrr(keyword: str, retrieved_docs: list) -> float:
-    """Calculate reciprocal rank for a single keyword (case-insensitive)."""
+    """키워드 하나에 대한 역순위(reciprocal rank)를 계산 (대소문자 구분 안 함)."""
     keyword_lower = keyword.lower()
     for rank, doc in enumerate(retrieved_docs, start=1):
         if keyword_lower in doc.page_content.lower():
@@ -51,18 +51,18 @@ def calculate_mrr(keyword: str, retrieved_docs: list) -> float:
 
 
 def calculate_dcg(relevances: list[int], k: int) -> float:
-    """Calculate Discounted Cumulative Gain."""
+    """할인 누적 이익(Discounted Cumulative Gain)을 계산."""
     dcg = 0.0
     for i in range(min(k, len(relevances))):
-        dcg += relevances[i] / math.log2(i + 2)  # i+2 because rank starts at 1
+        dcg += relevances[i] / math.log2(i + 2)  # 순위는 1부터 시작하므로 i+2
     return dcg
 
 
 def calculate_ndcg(keyword: str, retrieved_docs: list, k: int = 10) -> float:
-    """Calculate nDCG for a single keyword (binary relevance, case-insensitive)."""
+    """키워드 하나에 대한 nDCG를 계산 (이진 관련성, 대소문자 구분 안 함)."""
     keyword_lower = keyword.lower()
 
-    # Binary relevance: 1 if keyword found, 0 otherwise
+    # 이진 관련성: 키워드를 찾으면 1, 아니면 0
     relevances = [
         1 if keyword_lower in doc.page_content.lower() else 0 for doc in retrieved_docs[:k]
     ]
@@ -70,7 +70,7 @@ def calculate_ndcg(keyword: str, retrieved_docs: list, k: int = 10) -> float:
     # DCG
     dcg = calculate_dcg(relevances, k)
 
-    # Ideal DCG (best case: keyword in first position)
+    # 이상적인 DCG (최선의 경우: 키워드가 첫 번째 위치에 있는 경우)
     ideal_relevances = sorted(relevances, reverse=True)
     idcg = calculate_dcg(ideal_relevances, k)
 
@@ -79,27 +79,27 @@ def calculate_ndcg(keyword: str, retrieved_docs: list, k: int = 10) -> float:
 
 def evaluate_retrieval(test: TestQuestion, k: int = 10) -> RetrievalEval:
     """
-    Evaluate retrieval performance for a test question.
+    테스트 질문에 대한 검색 성능을 평가.
 
     Args:
-        test: TestQuestion object containing question and keywords
-        k: Number of top documents to retrieve (default 10)
+        test: 질문과 키워드를 담고 있는 TestQuestion 객체
+        k: 검색할 상위 문서 개수 (기본값 10)
 
     Returns:
-        RetrievalEval object with MRR, nDCG, and keyword coverage metrics
+        MRR, nDCG, 키워드 커버리지 지표를 담은 RetrievalEval 객체
     """
-    # Retrieve documents using shared answer module
+    # 공통 answer 모듈을 사용해 문서를 검색
     retrieved_docs = fetch_context(test.question)
 
-    # Calculate MRR (average across all keywords)
+    # MRR 계산 (모든 키워드에 대한 평균)
     mrr_scores = [calculate_mrr(keyword, retrieved_docs) for keyword in test.keywords]
     avg_mrr = sum(mrr_scores) / len(mrr_scores) if mrr_scores else 0.0
 
-    # Calculate nDCG (average across all keywords)
+    # nDCG 계산 (모든 키워드에 대한 평균)
     ndcg_scores = [calculate_ndcg(keyword, retrieved_docs, k) for keyword in test.keywords]
     avg_ndcg = sum(ndcg_scores) / len(ndcg_scores) if ndcg_scores else 0.0
 
-    # Calculate keyword coverage
+    # 키워드 커버리지 계산
     keywords_found = sum(1 for score in mrr_scores if score > 0)
     total_keywords = len(test.keywords)
     keyword_coverage = (keywords_found / total_keywords * 100) if total_keywords > 0 else 0.0
@@ -115,44 +115,44 @@ def evaluate_retrieval(test: TestQuestion, k: int = 10) -> RetrievalEval:
 
 def evaluate_answer(test: TestQuestion) -> tuple[AnswerEval, str, list]:
     """
-    Evaluate answer quality using LLM-as-a-judge (async).
+    LLM을 판사로 사용해(LLM-as-a-judge) 답변 품질을 평가 (비동기).
 
     Args:
-        test: TestQuestion object containing question and reference answer
+        test: 질문과 참조 답변을 담고 있는 TestQuestion 객체
 
     Returns:
-        Tuple of (AnswerEval object, generated_answer string, retrieved_docs list)
+        (AnswerEval 객체, 생성된 답변 문자열, 검색된 문서 리스트)의 튜플
     """
-    # Get RAG response using shared answer module
+    # 공통 answer 모듈을 사용해 RAG 응답을 가져옴
     generated_answer, retrieved_docs = answer_question(test.question)
 
-    # LLM judge prompt
+    # LLM 판사 프롬프트
     judge_messages = [
         {
             "role": "system",
-            "content": "You are an expert evaluator assessing the quality of answers. Evaluate the generated answer by comparing it to the reference answer. Only give 5/5 scores for perfect answers.",
+            "content": "당신은 답변의 품질을 평가하는 전문 평가자입니다. 생성된 답변을 참조 답변과 비교하여 평가하세요. 완벽한 답변에만 5/5점을 주세요.",
         },
         {
             "role": "user",
-            "content": f"""Question:
+            "content": f"""질문:
 {test.question}
 
-Generated Answer:
+생성된 답변:
 {generated_answer}
 
-Reference Answer:
+참조 답변:
 {test.reference_answer}
 
-Please evaluate the generated answer on three dimensions:
-1. Accuracy: How factually correct is it compared to the reference answer? Only give 5/5 scores for perfect answers.
-2. Completeness: How thoroughly does it address all aspects of the question, covering all the information from the reference answer?
-3. Relevance: How well does it directly answer the specific question asked, giving no additional information?
+다음 세 가지 기준으로 생성된 답변을 평가해 주세요:
+1. 정확성(Accuracy): 참조 답변과 비교했을 때 사실적으로 얼마나 정확한가? 완벽한 답변에만 5/5점을 주세요.
+2. 완전성(Completeness): 질문의 모든 측면을 다루면서 참조 답변의 모든 정보를 얼마나 충실히 담고 있는가?
+3. 관련성(Relevance): 불필요한 추가 정보 없이 질문에 얼마나 직접적으로 답하는가?
 
-Provide detailed feedback and scores from 1 (very poor) to 5 (ideal) for each dimension. If the answer is wrong, then the accuracy score must be 1.""",
+각 기준에 대해 1(매우 부족)~5(이상적) 점수와 상세한 피드백을 제공하세요. 답이 틀렸다면 정확성 점수는 반드시 1점이어야 합니다.""",
         },
     ]
 
-    # Call LLM judge with structured outputs (async)
+    # 구조화된 출력으로 LLM 판사를 호출 (비동기)
     judge_response = completion(model=MODEL, messages=judge_messages, response_format=AnswerEval)
 
     answer_eval = AnswerEval.model_validate_json(judge_response.choices[0].message.content)
@@ -161,7 +161,7 @@ Provide detailed feedback and scores from 1 (very poor) to 5 (ideal) for each di
 
 
 def evaluate_all_retrieval():
-    """Evaluate all retrieval tests."""
+    """모든 검색 테스트를 평가."""
     tests = load_tests()
     total_tests = len(tests)
     for index, test in enumerate(tests):
@@ -171,7 +171,7 @@ def evaluate_all_retrieval():
 
 
 def evaluate_all_answers():
-    """Evaluate all answers to tests using batched async execution."""
+    """배치 비동기 실행으로 모든 테스트에 대한 답변을 평가."""
     tests = load_tests()
     total_tests = len(tests)
     for index, test in enumerate(tests):
@@ -181,64 +181,64 @@ def evaluate_all_answers():
 
 
 def run_cli_evaluation(test_number: int):
-    """Run evaluation for a specific test (async helper for CLI)."""
-    # Load tests
+    """특정 테스트에 대한 평가를 실행 (CLI용 비동기 헬퍼)."""
+    # 테스트 로드
     tests = load_tests("tests.jsonl")
 
     if test_number < 0 or test_number >= len(tests):
-        print(f"Error: test_row_number must be between 0 and {len(tests) - 1}")
+        print(f"오류: test_row_number는 0과 {len(tests) - 1} 사이여야 합니다")
         sys.exit(1)
 
-    # Get the test
+    # 테스트 가져오기
     test = tests[test_number]
 
-    # Print test info
+    # 테스트 정보 출력
     print(f"\n{'=' * 80}")
-    print(f"Test #{test_number}")
+    print(f"테스트 #{test_number}")
     print(f"{'=' * 80}")
-    print(f"Question: {test.question}")
-    print(f"Keywords: {test.keywords}")
-    print(f"Category: {test.category}")
-    print(f"Reference Answer: {test.reference_answer}")
+    print(f"질문: {test.question}")
+    print(f"키워드: {test.keywords}")
+    print(f"카테고리: {test.category}")
+    print(f"참조 답변: {test.reference_answer}")
 
-    # Retrieval Evaluation
+    # 검색 평가
     print(f"\n{'=' * 80}")
-    print("Retrieval Evaluation")
+    print("검색 평가")
     print(f"{'=' * 80}")
 
     retrieval_result = evaluate_retrieval(test)
 
     print(f"MRR: {retrieval_result.mrr:.4f}")
     print(f"nDCG: {retrieval_result.ndcg:.4f}")
-    print(f"Keywords Found: {retrieval_result.keywords_found}/{retrieval_result.total_keywords}")
-    print(f"Keyword Coverage: {retrieval_result.keyword_coverage:.1f}%")
+    print(f"키워드 발견: {retrieval_result.keywords_found}/{retrieval_result.total_keywords}")
+    print(f"키워드 커버리지: {retrieval_result.keyword_coverage:.1f}%")
 
-    # Answer Evaluation
+    # 답변 평가
     print(f"\n{'=' * 80}")
-    print("Answer Evaluation")
+    print("답변 평가")
     print(f"{'=' * 80}")
 
     answer_result, generated_answer, retrieved_docs = evaluate_answer(test)
 
-    print(f"\nGenerated Answer:\n{generated_answer}")
-    print(f"\nFeedback:\n{answer_result.feedback}")
-    print("\nScores:")
-    print(f"  Accuracy: {answer_result.accuracy:.2f}/5")
-    print(f"  Completeness: {answer_result.completeness:.2f}/5")
-    print(f"  Relevance: {answer_result.relevance:.2f}/5")
+    print(f"\n생성된 답변:\n{generated_answer}")
+    print(f"\n피드백:\n{answer_result.feedback}")
+    print("\n점수:")
+    print(f"  정확성: {answer_result.accuracy:.2f}/5")
+    print(f"  완전성: {answer_result.completeness:.2f}/5")
+    print(f"  관련성: {answer_result.relevance:.2f}/5")
     print(f"\n{'=' * 80}\n")
 
 
 def main():
-    """CLI to evaluate a specific test by row number."""
+    """행 번호로 특정 테스트를 평가하는 CLI."""
     if len(sys.argv) != 2:
-        print("Usage: uv run eval.py <test_row_number>")
+        print("사용법: uv run eval.py <test_row_number>")
         sys.exit(1)
 
     try:
         test_number = int(sys.argv[1])
     except ValueError:
-        print("Error: test_row_number must be an integer")
+        print("오류: test_row_number는 정수여야 합니다")
         sys.exit(1)
 
     run_cli_evaluation(test_number)

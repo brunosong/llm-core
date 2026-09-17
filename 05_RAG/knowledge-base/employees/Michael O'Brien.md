@@ -1,63 +1,63 @@
-# HR Record
+# HR 기록
 
 # Michael O'Brien
 
-## Summary
-- **Date of Birth:** May 20, 1984
-- **Job Title:** Account Executive
-- **Location:** Chicago, Illinois
-- **Current Salary:** $95,000
+## 요약
+- **생년월일:** 1984년 5월 20일
+- **직책:** 어카운트 이그제큐티브 (Account Executive)
+- **근무지:** 일리노이주 시카고
+- **현재 연봉:** $95,000
 
-## Insurellm Career Progression
-- **January 2017 - Present:** Account Executive
-  - Manages enterprise sales for Midwest territory
-  - Focuses on reinsurance and large insurance carrier accounts
-  - Generated $8.2M in new business over past 3 years
-  - Maintains book of business worth $12M ARR
+## Insurellm 경력 이력
+- **2017년 1월 - 현재:** 어카운트 이그제큐티브
+  - 중서부 지역의 엔터프라이즈 영업 관리
+  - 재보험 및 대형 보험사 계정에 집중
+  - 지난 3년간 $8.2M의 신규 매출 창출
+  - $12M ARR 규모의 고객 포트폴리오 관리
 
-- **June 2014 - December 2016:** Senior Sales Representative at InsureTech Partners
-  - Sold insurance software solutions to mid-market companies
-  - Consistently exceeded quota by 30-50%
+- **2014년 6월 - 2016년 12월:** InsureTech Partners 선임 영업 담당자 (Senior Sales Representative)
+  - 중견 기업 대상 보험 소프트웨어 솔루션 판매
+  - 목표를 지속적으로 30-50% 초과 달성
 
-- **August 2010 - May 2014:** Sales Representative at Business Solutions Inc.
-  - B2B software sales for various industries
-  - Developed foundational sales skills and territory management
+- **2010년 8월 - 2014년 5월:** Business Solutions Inc. 영업 담당자 (Sales Representative)
+  - 다양한 업종 대상 B2B 소프트웨어 영업
+  - 영업 기본기와 지역 관리 역량 개발
 
-## Annual Performance History
-- **2023:** Rating: 3.4/5
-  *Meets expectations but below peak performance. Hit 92% of quota. Faced headwinds in reinsurance market. Need to diversify pipeline.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 3.4/5
+  *기대치는 충족하나 최고 성과에는 미치지 못함. 목표의 92% 달성. 재보험 시장에서 역풍에 직면. 파이프라인 다각화 필요.*
 
-- **2022:** Rating: 3.8/5
-  *Good performance with solid quota attainment at 105%. Some key deals slipped to next quarter affecting timing.*
+- **2022년:** 평가 등급: 3.8/5
+  *105%의 견고한 목표 달성률을 보인 좋은 성과. 일부 핵심 딜이 다음 분기로 넘어가며 타이밍에 영향을 줌.*
 
-- **2021:** Rating: 4.5/5
-  *Excellent year. Exceeded quota at 142%. Closed two major enterprise deals. Strong relationship building.*
+- **2021년:** 평가 등급: 4.5/5
+  *뛰어난 한 해. 목표의 142%를 초과 달성. 대형 엔터프라이즈 딜 2건을 성사시킴. 강력한 관계 구축.*
 
-- **2020:** Rating: 3.6/5
-  *Challenging year with pandemic impact. Hit 88% of quota but showed resilience and adapted to virtual selling.*
+- **2020년:** 평가 등급: 3.6/5
+  *팬데믹 영향으로 어려운 한 해. 목표의 88%를 달성했으나 회복력을 보이며 비대면 영업에 적응.*
 
-- **2019:** Rating: 4.2/5
-  *Strong performance at 125% quota attainment. Expanded territory successfully.*
+- **2019년:** 평가 등급: 4.2/5
+  *목표의 125% 달성률을 보인 우수한 성과. 성공적으로 담당 지역을 확장.*
 
-- **2018:** Rating: 4.0/5
-  *Solid year with 110% quota achievement. Building strong pipeline in new territory.*
+- **2018년:** 평가 등급: 4.0/5
+  *110%의 목표 달성을 이룬 견고한 한 해. 새로운 지역에서 강력한 파이프라인 구축.*
 
-- **2017:** Rating: 3.5/5
-  *Good onboarding year. Learning curve with insurance industry specifics but showed promise.*
+- **2017년:** 평가 등급: 3.5/5
+  *순조로운 온보딩 해. 보험 업계 특성에 대한 학습 곡선이 있었으나 잠재력을 보임.*
 
-## Compensation History
-- **2023:** Base Salary: $95,000 + Commission: $48,000
-- **2022:** Base Salary: $92,000 + Commission: $62,000
-- **2021:** Base Salary: $88,000 + Commission: $88,000
-- **2020:** Base Salary: $85,000 + Commission: $42,000
-- **2019:** Base Salary: $82,000 + Commission: $68,000
-- **2018:** Base Salary: $78,000 + Commission: $58,000
-- **2017:** Base Salary: $75,000 + Commission: $35,000
+## 보상 이력
+- **2023년:** 기본급: $95,000 + 커미션: $48,000
+- **2022년:** 기본급: $92,000 + 커미션: $62,000
+- **2021년:** 기본급: $88,000 + 커미션: $88,000
+- **2020년:** 기본급: $85,000 + 커미션: $42,000
+- **2019년:** 기본급: $82,000 + 커미션: $68,000
+- **2018년:** 기본급: $78,000 + 커미션: $58,000
+- **2017년:** 기본급: $75,000 + 커미션: $35,000
 
-## Other HR Notes
-- **Education:** BA in Business from University of Illinois
-- **Awards:** Sales Excellence Award 2021, President's Club member 2019, 2021
-- **Pipeline Management:** Currently working to rebuild pipeline after softer 2023. Manager providing additional support and marketing resources.
-- **Skills:** Strong at enterprise relationship building and complex deal negotiation. Experienced with long sales cycles.
-- **Development Focus:** Working on account-based selling strategies and leveraging social selling techniques
-- **Feedback:** Seasoned sales professional with deep industry knowledge. Performs best with large strategic deals. Needs to maintain consistent prospecting discipline.
+## 기타 인사 노트
+- **학력:** 일리노이 대학교 경영학 학사
+- **수상:** 2021년 Sales Excellence Award 수상, 2019년, 2021년 President's Club 멤버
+- **파이프라인 관리:** 부진했던 2023년 이후 파이프라인 재구축을 위해 노력 중. 매니저가 추가 지원 및 마케팅 리소스 제공
+- **역량:** 엔터프라이즈 관계 구축 및 복잡한 딜 협상에 강점. 긴 영업 사이클 경험 보유
+- **개발 초점:** 계정 기반 영업 전략과 소셜 셀링 기법 활용 방안을 익히는 중
+- **피드백:** 깊은 업계 지식을 갖춘 노련한 영업 전문가. 대형 전략 딜에서 최고의 성과를 발휘함. 일관된 잠재고객 발굴 규율을 유지할 필요가 있음

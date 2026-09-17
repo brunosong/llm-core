@@ -1,73 +1,73 @@
-# Contract with FastTrack Insurance Services for Claimllm
+# FastTrack Insurance Services와 Claimllm 계약
 
-**Contract Date:** May 10, 2025
-**Contract Number:** CL-2025-0234
-
----
-
-## Terms
-
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and FastTrack Insurance Services ("Client") on May 10, 2025.
-
-2. **License Grant**: Insurellm grants FastTrack Insurance Services a non-exclusive, non-transferable license to use the Claimllm Advanced Tier platform.
-
-3. **Payment Terms**: FastTrack Insurance Services agrees to make monthly payments of $9,500 for the duration of this 18-month contract, totaling $171,000. Payments due on the 1st of each month.
-
-4. **Claims Volume**: Advanced Tier supports up to 25,000 claims annually. FastTrack projects 22,000 claims in year 1.
-
-5. **Confidentiality**: Both parties shall maintain confidentiality regarding each other's proprietary information for the contract duration plus 5 years post-termination.
-
-## Renewal
-
-1. **Automatic Renewal**: This contract automatically renews for successive 12-month terms unless either party provides written notice of non-renewal at least 45 days prior to expiration.
-
-2. **Pricing Review**: Renewal pricing will be discussed 60 days prior to term end. Price increases limited to 8% annually.
-
-## Features
-
-1. **Included Features**: FastTrack Insurance Services will have access to Claimllm Advanced Tier features:
-   - Intelligent FNOL Processing with multi-channel intake
-   - Automated Triage and Routing with ML algorithms
-   - Computer Vision Damage Assessment for auto and property claims
-   - Predictive Fraud Detection with network analysis
-   - Smart Document Processing with OCR and NLP
-   - Dynamic Reserve Setting with AI-powered modeling
-   - Vendor Management Platform for 150+ vendors
-   - Payment Automation with multi-party splits
-   - Claimant Communication Hub (SMS, email, app)
-   - Advanced Analytics and reporting dashboards
-
-2. **Integration Capabilities**: API integration with FastTrack's existing claims systems (Guidewire, Duck Creek compatibility).
-
-3. **Mobile Access**: Full-featured mobile app for adjusters in the field with offline capability.
-
-## Support
-
-1. **Customer Support**: Insurellm will provide priority support to FastTrack Insurance Services:
-   - Dedicated support team available Monday-Saturday 6 AM - 8 PM EST
-   - Emergency support 24/7 for critical issues
-   - Response time: 3 hours for critical, 8 hours for standard
-
-2. **Training**: Comprehensive training program:
-   - 3-week implementation with dedicated project manager
-   - Training for up to 30 claims staff members
-   - Quarterly refresher webinars
-   - Online knowledge base access
-
-3. **System Updates**: Regular platform enhancements pushed monthly with advance notification. Maintenance windows on Sundays 12 AM - 4 AM EST.
+**계약일:** 2025년 5월 10일
+**계약 번호:** CL-2025-0234
 
 ---
 
-**Signatures:**
+## 계약 조건
+
+1. **계약 당사자**: 본 계약은 2025년 5월 10일 Insurellm, Inc.("공급자")와 FastTrack Insurance Services("고객") 간에 체결됩니다.
+
+2. **라이선스 부여**: Insurellm은 FastTrack Insurance Services에게 Claimllm Advanced Tier 플랫폼을 사용할 수 있는 비독점적이고 양도 불가능한 라이선스를 부여합니다.
+
+3. **결제 조건**: FastTrack Insurance Services는 본 18개월 계약 기간 동안 매월 $9,500를 지불하며, 총 지불 금액은 $171,000입니다. 결제는 매월 1일까지 이루어집니다.
+
+4. **청구 물량**: Advanced Tier는 연간 최대 25,000건의 청구를 지원합니다. FastTrack은 1년차에 22,000건의 청구를 예상하고 있습니다.
+
+5. **기밀 유지**: 양 당사자는 계약 기간 및 계약 종료 후 5년간 상대방의 독점 정보에 관한 기밀을 유지해야 합니다.
+
+## 갱신
+
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 만료일 최소 45일 전에 서면으로 갱신 거절을 통지하지 않는 한 12개월 단위로 자동 갱신됩니다.
+
+2. **가격 검토**: 갱신 가격은 계약 종료 60일 전에 논의됩니다. 가격 인상은 연간 8%로 제한됩니다.
+
+## 기능
+
+1. **포함된 기능**: FastTrack Insurance Services는 다음과 같은 Claimllm Advanced Tier 기능을 이용할 수 있습니다:
+   - 다채널 접수를 지원하는 지능형 사고 최초 접수(FNOL) 처리
+   - 머신러닝 알고리즘을 활용한 자동 분류 및 배정
+   - 자동차 및 재산 청구를 위한 컴퓨터 비전 손상 평가
+   - 네트워크 분석을 활용한 예측적 사기 탐지
+   - OCR 및 NLP를 활용한 스마트 문서 처리
+   - AI 기반 모델링을 활용한 동적 준비금 설정
+   - 150개 이상의 벤더를 위한 벤더 관리 플랫폼
+   - 다자간 분할이 가능한 결제 자동화
+   - 청구인 커뮤니케이션 허브(SMS, 이메일, 앱)
+   - 고급 분석 및 리포팅 대시보드
+
+2. **연동 기능**: FastTrack의 기존 청구 시스템(Guidewire, Duck Creek 호환)과의 API 연동.
+
+3. **모바일 접근**: 오프라인 기능을 갖춘 현장 조사관용 완전 기능형 모바일 앱.
+
+## 지원
+
+1. **고객 지원**: Insurellm은 FastTrack Insurance Services에 다음과 같은 우선 지원을 제공합니다:
+   - 월-토 오전 6시~오후 8시(동부표준시) 전담 지원팀 운영
+   - 중대한 문제에 대한 24시간 연중무휴 긴급 지원
+   - 응답 시간: 긴급 3시간, 표준 8시간
+
+2. **교육**: 포괄적인 교육 프로그램:
+   - 전담 프로젝트 매니저와 함께하는 3주간의 도입 과정
+   - 최대 30명의 청구 담당 직원 대상 교육
+   - 분기별 리프레셔 웨비나
+   - 온라인 지식베이스 이용
+
+3. **시스템 업데이트**: 사전 통지와 함께 매월 정기적인 플랫폼 개선이 이루어집니다. 유지보수 시간은 일요일 오전 12시~오전 4시(동부표준시)입니다.
+
+---
+
+**서명:**
 
 **Insurellm, Inc.**
 Sarah Chen, VP of Sales
-Date: May 10, 2025
+날짜: 2025년 5월 10일
 
 **FastTrack Insurance Services**
 Rebecca Martinez, COO
-Date: May 10, 2025
+날짜: 2025년 5월 10일
 
 ---
 
-This contract represents the agreement between Insurellm and FastTrack Insurance Services for streamlined, AI-powered claims processing operations.
+본 계약은 원활한 AI 기반 청구 처리 운영을 위한 Insurellm과 FastTrack Insurance Services 간의 합의를 나타냅니다.

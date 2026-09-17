@@ -1,62 +1,62 @@
-# Product Summary
+# 제품 요약
 
 # Claimllm
 
-## Summary
+## 요약
 
-Claimllm is Insurellm's revolutionary claims processing platform that transforms the claims experience for insurers, adjusters, and policyholders. Powered by advanced AI, machine learning, and computer vision, Claimllm automates claims handling across all insurance lines—from first notice of loss through final settlement. By dramatically reducing processing time, improving accuracy, and enhancing fraud detection, Claimllm enables insurers to deliver exceptional claims service while significantly reducing operational costs. The platform seamlessly integrates with existing policy administration and core systems to create a unified insurance ecosystem.
+Claimllm은 보험사, 손해사정사, 계약자 모두를 위한 청구 경험을 혁신하는 Insurellm의 획기적인 보험금 청구 처리 플랫폼입니다. 고급 AI, 머신러닝, 컴퓨터 비전을 기반으로 하는 Claimllm은 최초 사고 접수(FNOL)부터 최종 합의에 이르기까지 모든 보험 분야에 걸쳐 청구 처리를 자동화합니다. 처리 시간을 대폭 단축하고 정확성을 높이며 부정 청구 탐지 능력을 강화함으로써, Claimllm은 보험사가 운영 비용을 크게 절감하면서도 뛰어난 청구 서비스를 제공할 수 있게 합니다. 이 플랫폼은 기존의 계약 관리 시스템 및 핵심 시스템과 매끄럽게 통합되어 통합된 보험 생태계를 구축합니다.
 
-## Features
+## 기능
 
-### 1. Intelligent FNOL Processing
-Claimllm's AI-powered first notice of loss intake captures claim details through multiple channels including mobile apps, web portals, phone integrations, and chatbots. Natural language processing extracts key information automatically, creating structured claim files without manual data entry.
+### 1. 지능형 FNOL 처리
+Claimllm의 AI 기반 최초 사고 접수 기능은 모바일 앱, 웹 포털, 전화 연동, 챗봇 등 다양한 채널을 통해 청구 세부 정보를 수집합니다. 자연어 처리 기술이 핵심 정보를 자동으로 추출하여 수작업 데이터 입력 없이 구조화된 청구 파일을 생성합니다.
 
-### 2. Automated Triage and Routing
-Machine learning algorithms instantly assess claim severity, complexity, and fraud potential to route claims to appropriate handlers. Simple claims enter straight-through processing while complex cases receive immediate adjuster assignment with pre-populated investigation guidance.
+### 2. 자동 심사 배정 및 라우팅
+머신러닝 알고리즘이 청구의 심각도, 복잡성, 부정 가능성을 즉시 평가하여 적절한 담당자에게 배정합니다. 단순한 청구는 자동 처리로 이어지고, 복잡한 사례는 사전에 준비된 조사 가이드와 함께 즉시 손해사정사에게 배정됩니다.
 
-### 3. Computer Vision Damage Assessment
-Advanced image recognition technology analyzes photos and videos of damaged property or vehicles to estimate repair costs accurately. The system identifies damage types, measures extent, and generates preliminary estimates in minutes rather than days.
+### 3. 컴퓨터 비전 기반 손상 평가
+고급 이미지 인식 기술이 손상된 재산이나 차량의 사진과 영상을 분석하여 수리 비용을 정확하게 추정합니다. 시스템은 손상 유형을 식별하고 정도를 측정하여 며칠이 아닌 몇 분 만에 예비 견적을 생성합니다.
 
-### 4. Predictive Fraud Detection
-Sophisticated fraud analytics evaluate claims against historical patterns, network analysis, and anomaly detection to flag suspicious claims for investigation. The system learns continuously from confirmed fraud cases to improve detection accuracy.
+### 4. 예측형 부정 청구 탐지
+정교한 부정 청구 분석 기능이 과거 패턴, 네트워크 분석, 이상 탐지를 기반으로 청구를 평가하여 조사가 필요한 의심스러운 청구를 표시합니다. 시스템은 확인된 부정 청구 사례로부터 지속적으로 학습하여 탐지 정확도를 향상시킵니다.
 
-### 5. Smart Document Processing
-Optical character recognition and natural language processing automatically extract information from medical records, police reports, repair estimates, and supporting documentation. The system validates information against policy terms and flags discrepancies for review.
+### 5. 스마트 문서 처리
+광학 문자 인식(OCR)과 자연어 처리 기술이 의료 기록, 경찰 보고서, 수리 견적서, 관련 증빙 서류에서 정보를 자동으로 추출합니다. 시스템은 보험 약관 조건과 정보를 대조 검증하고 불일치 사항을 검토 대상으로 표시합니다.
 
-### 6. Dynamic Reserve Setting
-AI-powered predictive modeling analyzes claim characteristics, historical outcomes, and current case details to recommend accurate reserves. Automated reserve adjustments occur as new information becomes available, ensuring financial accuracy.
+### 6. 동적 준비금 설정
+AI 기반 예측 모델링이 청구 특성, 과거 결과, 현재 사건 세부 정보를 분석하여 정확한 준비금을 제안합니다. 새로운 정보가 확보되는 대로 자동으로 준비금이 조정되어 재무 정확성이 유지됩니다.
 
-### 7. Vendor Management Platform
-Integrated tools coordinate with repair shops, medical providers, lawyers, and other service providers. Automated assignment based on location, capacity, and performance metrics ensures efficient vendor utilization and quality outcomes.
+### 7. 벤더 관리 플랫폼
+통합 도구가 정비소, 의료 기관, 변호사 및 기타 서비스 제공업체와의 협업을 조율합니다. 위치, 처리 용량, 성과 지표에 기반한 자동 배정을 통해 효율적인 벤더 활용과 우수한 결과를 보장합니다.
 
-### 8. Payment Automation
-Straight-through payment processing for approved claims includes direct deposit, digital payments, and traditional check issuance. Multi-party payment splitting handles complex scenarios involving mortgagees, lessors, and medical providers.
+### 8. 지급 자동화
+승인된 청구에 대한 자동 지급 처리에는 계좌 이체, 디지털 결제, 전통적인 수표 발행이 포함됩니다. 다자간 지급 분할 기능은 담보권자, 리스회사, 의료 기관이 관련된 복잡한 시나리오를 처리합니다.
 
-### 9. Claimant Communication Hub
-Omnichannel communication tools keep claimants informed via their preferred method—text, email, app notifications, or phone. Automated status updates reduce incoming inquiries while improving customer satisfaction.
+### 9. 청구인 커뮤니케이션 허브
+옴니채널 커뮤니케이션 도구를 통해 청구인이 선호하는 방식(문자, 이메일, 앱 알림, 전화)으로 정보를 받을 수 있습니다. 자동화된 상태 업데이트는 문의 건수를 줄이는 동시에 고객 만족도를 향상시킵니다.
 
-### 10. Analytics and Reporting
-Comprehensive dashboards track key metrics including cycle time, loss ratios, settlement patterns, and customer satisfaction. Predictive analytics identify process bottlenecks and opportunities for improvement.
+### 10. 분석 및 리포팅
+종합 대시보드는 처리 소요 시간, 손해율, 합의 패턴, 고객 만족도 등 핵심 지표를 추적합니다. 예측 분석은 프로세스 병목 지점과 개선 기회를 식별합니다.
 
-## Pricing
+## 가격
 
-Claimllm offers flexible pricing models to accommodate insurers of all sizes:
+Claimllm은 모든 규모의 보험사를 위한 유연한 가격 모델을 제공합니다.
 
-- **Core Tier:** $4,500/month for smaller insurers processing up to 5,000 claims annually, including essential automation features and standard integrations.
-- **Advanced Tier:** $9,500/month for mid-sized insurers handling up to 25,000 claims annually, adding computer vision, predictive analytics, and expanded vendor management.
-- **Enterprise Tier:** Custom pricing for high-volume insurers requiring unlimited claim capacity, full API access, dedicated infrastructure, advanced fraud analytics, and white-label capabilities.
+- **코어 티어:** 연간 최대 5,000건의 청구를 처리하는 소규모 보험사를 위한 월 $4,500 요금제로, 필수 자동화 기능과 표준 통합을 포함합니다.
+- **어드밴스드 티어:** 연간 최대 25,000건의 청구를 처리하는 중견 보험사를 위한 월 $9,500 요금제로, 컴퓨터 비전, 예측 분석, 확장된 벤더 관리 기능이 추가됩니다.
+- **엔터프라이즈 티어:** 무제한 청구 처리 용량, 전체 API 접근, 전용 인프라, 고급 부정 청구 분석, 화이트라벨 기능이 필요한 대량 처리 보험사를 위한 맞춤형 가격입니다.
 
-All tiers include comprehensive implementation, claims staff training, and continuous platform enhancements.
+모든 티어에는 종합적인 구축 지원, 청구 담당 직원 교육, 지속적인 플랫폼 개선이 포함됩니다.
 
-## Roadmap
+## 로드맵
 
-Claimllm's ambitious development roadmap includes:
+Claimllm의 야심찬 개발 로드맵은 다음과 같습니다.
 
-- **Q1 2025:** Launch of Claimllm version 1.0 with core claims processing automation, FNOL capture, and basic fraud detection.
-- **Q3 2025:** Introduction of advanced computer vision capabilities for property and auto damage assessment with repair cost estimation.
-- **Q1 2026:** Release of predictive litigation analytics identifying claims likely to involve attorneys and recommending settlement strategies.
-- **Q3 2026:** Launch of blockchain-based subrogation network enabling automated inter-carrier claim recovery and settlement.
-- **Q1 2027:** Introduction of real-time settlement negotiation AI that optimizes settlement amounts based on claim details and historical outcomes.
-- **Q3 2027:** Expansion into catastrophe claims management with disaster response coordination and large-loss handling capabilities.
+- **2025년 1분기:** 핵심 청구 처리 자동화, FNOL 접수, 기본 부정 청구 탐지 기능을 갖춘 Claimllm 버전 1.0 출시.
+- **2025년 3분기:** 재산 및 자동차 손상 평가와 수리 비용 추정을 위한 고급 컴퓨터 비전 기능 도입.
+- **2026년 1분기:** 변호사 개입 가능성이 높은 청구를 식별하고 합의 전략을 제안하는 예측형 소송 분석 기능 출시.
+- **2026년 3분기:** 보험사 간 자동화된 구상권 청구 회수 및 합의를 가능하게 하는 블록체인 기반 구상권 네트워크 출시.
+- **2027년 1분기:** 청구 세부 정보와 과거 결과를 기반으로 합의 금액을 최적화하는 실시간 합의 협상 AI 도입.
+- **2027년 3분기:** 재난 대응 조율 및 대형 손실 처리 기능을 갖춘 재해 청구 관리 분야로 확장.
 
-Claimllm represents the future of insurance claims—faster, smarter, and more customer-centric. Transform your claims operation and deliver the service your policyholders deserve!
+Claimllm은 더 빠르고, 더 스마트하며, 더 고객 중심적인 보험 청구의 미래를 대변합니다. 청구 운영을 혁신하고 계약자가 마땅히 받아야 할 서비스를 제공하세요!

@@ -1,43 +1,43 @@
-# Contract with Belvedere Insurance for Markellm
+# Belvedere Insurance와 Markellm 계약
 
-## Terms
-This Contract ("Agreement") is made and entered into as of [Date] by and between Insurellm, Inc., a corporation registered in the United States, ("Provider") and Belvedere Insurance, ("Client"). 
+## 계약 조건
+본 계약("계약서")은 [Date]자로 미국에 등록된 법인인 Insurellm, Inc.("공급자")와 Belvedere Insurance("고객") 간에 체결됩니다.
 
-1. **Service Commencement**: The services described herein will commence on [Start Date].
-2. **Contract Duration**: This Agreement shall remain in effect for a period of 1 year from the Commencement Date, unless terminated earlier in accordance with the termination clause of this Agreement.
-3. **Fees**: Client agrees to pay a Basic Listing Fee of $199/month for accessing the Markellm platform along with a performance-based pricing of $25 per lead generated.
-4. **Payment Terms**: Payments shall be made monthly, in advance, with invoices issued on the 1st of each month, payable within 15 days of receipt.
+1. **서비스 개시**: 본 계약에 명시된 서비스는 [Start Date]에 개시됩니다.
+2. **계약 기간**: 본 계약은 본 계약서의 해지 조항에 따라 조기 해지되지 않는 한 개시일로부터 1년간 유효합니다.
+3. **수수료**: 고객은 Markellm 플랫폼 이용을 위한 기본 등록 수수료로 월 $199를 지불하며, 이와 함께 생성된 리드 1건당 $25의 성과 기반 요금을 지불하기로 합의합니다.
+4. **결제 조건**: 결제는 매월 선불로 이루어지며, 매월 1일에 청구서가 발행되고 수령 후 15일 이내에 지불해야 합니다.
 
-## Renewal
-1. **Renewal Terms**: This Agreement may be renewed for additional one-year terms upon mutual written consent of both parties no later than 30 days before the end of the current term.
-2. **Fee Adjustments**: Any changes to the fees or terms will be communicated in writing at least 60 days prior to the renewal date.
+## 갱신
+1. **갱신 조건**: 본 계약은 양 당사자가 현재 계약 기간 종료 최소 30일 전에 서면으로 상호 합의하는 경우 추가 1년 단위로 갱신될 수 있습니다.
+2. **수수료 조정**: 수수료 또는 조건의 변경 사항은 갱신일 최소 60일 전에 서면으로 통지됩니다.
 
-## Features
-1. **AI-Powered Matching**: Belvedere Insurance will benefit from Markellm's AI-powered matching, ensuring the best-fit customers are identified and connected.
-2. **Real-Time Quotes**: Access to real-time quotes will enhance the customer acquisition process, facilitating timely and informed decision-making.
-3. **Data Insights**: Client shall have access to Markellm's analytics dashboard, allowing insights into consumer behavior and market trends.
-4. **Customization Options**: Belvedere Insurance can leverage optional premium features and analytics upon payment of an additional $9.99/month.
-5. **Customer Support**: Insurellm will provide dedicated support to Belvedere Insurance, ensuring any issues or queries are promptly addressed.
+## 기능
+1. **AI 기반 매칭**: Belvedere Insurance는 Markellm의 AI 기반 매칭을 통해 최적의 고객을 식별하고 연결받는 혜택을 누릴 수 있습니다.
+2. **실시간 견적**: 실시간 견적 이용을 통해 고객 확보 과정이 개선되어, 시의적절하고 정보에 입각한 의사결정이 가능해집니다.
+3. **데이터 인사이트**: 고객은 Markellm의 분석 대시보드에 접근하여 소비자 행동 및 시장 트렌드에 대한 인사이트를 얻을 수 있습니다.
+4. **맞춤화 옵션**: Belvedere Insurance는 월 $9.99를 추가로 지불하면 선택적인 프리미엄 기능 및 분석 기능을 이용할 수 있습니다.
+5. **고객 지원**: Insurellm은 Belvedere Insurance에 전담 지원을 제공하여 모든 문제나 문의사항이 신속하게 처리되도록 합니다.
 
-## Support
-1. **Technical Support**: Technical support will be available from 9 AM to 7 PM EST, Monday through Friday via email and phone.
-2. **Response Times**: Insurellm agrees to respond to all support queries within 24 business hours. Emergency support will be prioritized throughout the contract period.
-3. **Training**: Insurellm will offer a comprehensive training session for the Client’s staff upon beginning the service to ensure effective utilization of the features.
+## 지원
+1. **기술 지원**: 기술 지원은 월요일부터 금요일 오전 9시~오후 7시(동부표준시)에 이메일 및 전화로 이용할 수 있습니다.
+2. **응답 시간**: Insurellm은 모든 지원 문의에 대해 24영업시간 이내에 응답하기로 합의합니다. 긴급 지원은 계약 기간 내내 우선적으로 처리됩니다.
+3. **교육**: Insurellm은 서비스 개시 시 고객의 직원이 기능을 효과적으로 활용할 수 있도록 포괄적인 교육 세션을 제공합니다.
 
-## Acceptance
-By signing below, the parties agree to the terms of this Agreement.
+## 수락
+아래 서명함으로써, 양 당사자는 본 계약서의 조건에 동의합니다.
 
-**Insurellm, Inc.**  
-Signature: ______________________  
-Name: [Authorized Signatory]  
-Title: [Title]  
-Date: ______________________  
+**Insurellm, Inc.**
+서명: ______________________
+이름: [서명권자]
+직책: [직책]
+날짜: ______________________
 
-**Belvedere Insurance**  
-Signature: ______________________  
-Name: [Authorized Signatory]  
-Title: [Title]  
-Date: ______________________  
+**Belvedere Insurance**
+서명: ______________________
+이름: [서명권자]
+직책: [직책]
+날짜: ______________________
 
---- 
-This synthetic contract document outlines a fictional agreement between Insurellm and a fictional insurance client, Belvedere Insurance, which engages with the Markellm platform. The contract contains creative yet realistic terms for potential use in training and development in insurance technology scenarios.
+---
+본 가상 계약 문서는 Insurellm과 가상의 보험 고객사인 Belvedere Insurance 간의 가상 계약을 설명하며, Belvedere Insurance는 Markellm 플랫폼을 이용합니다. 본 계약서는 보험 기술 시나리오의 교육 및 개발 목적으로 활용될 수 있는, 창의적이면서도 현실적인 조건을 담고 있습니다.

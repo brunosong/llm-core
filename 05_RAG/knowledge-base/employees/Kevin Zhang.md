@@ -1,51 +1,51 @@
-# HR Record
+# HR 기록
 
 # Kevin Zhang
 
-## Summary
-- **Date of Birth:** March 27, 1990
-- **Job Title:** Mobile Developer
-- **Location:** San Francisco, California
-- **Current Salary:** $128,000
+## 요약
+- **생년월일:** 1990년 3월 27일
+- **직책:** 모바일 개발자 (Mobile Developer)
+- **근무지:** 캘리포니아주 샌프란시스코
+- **현재 연봉:** $128,000
 
-## Insurellm Career Progression
-- **May 2020 - Present:** Mobile Developer
-  - Leads iOS development for Marketllm consumer mobile app
-  - Built Android version achieving 4.6 star rating on Play Store
-  - Implemented push notification system increasing user engagement by 42%
-  - Manages mobile release cycles and app store submissions
+## Insurellm 경력 이력
+- **2020년 5월 - 현재:** 모바일 개발자
+  - Marketllm 소비자 모바일 앱의 iOS 개발 주도
+  - Android 버전을 개발하여 Play Store에서 4.6점 평점 달성
+  - 푸시 알림 시스템을 구현하여 사용자 참여도 42% 향상
+  - 모바일 릴리스 주기 및 앱스토어 제출 관리
 
-- **February 2018 - April 2020:** iOS Developer at AppWorks Studio
-  - Developed consumer mobile applications for various clients
-  - Specialized in Swift and iOS frameworks
+- **2018년 2월 - 2020년 4월:** AppWorks Studio iOS 개발자
+  - 다양한 클라이언트를 위한 소비자 모바일 애플리케이션 개발
+  - Swift 및 iOS 프레임워크 전문
 
-- **July 2015 - January 2018:** Junior Mobile Developer at StartupTech
-  - Built mobile features for social networking app
-  - Learned iOS and Android development fundamentals
+- **2015년 7월 - 2018년 1월:** StartupTech 주니어 모바일 개발자
+  - 소셜 네트워킹 앱의 모바일 기능 개발
+  - iOS 및 Android 개발 기초 학습
 
-## Annual Performance History
-- **2023:** Rating: 4.6/5
-  *Excellent performance. Successfully launched Android app on time and under budget. Strong technical leadership.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 4.6/5
+  *뛰어난 성과. Android 앱을 제때, 예산 내에서 성공적으로 출시. 강력한 기술 리더십.*
 
-- **2022:** Rating: 4.4/5
-  *Exceeded expectations with major iOS app redesign. Improved app performance and user retention significantly.*
+- **2022년:** 평가 등급: 4.4/5
+  *주요 iOS 앱 리디자인으로 기대치를 초과 달성. 앱 성능과 사용자 유지율을 크게 향상.*
 
-- **2021:** Rating: 4.2/5
-  *Strong performance. Delivered all planned features and maintained high app quality standards.*
+- **2021년:** 평가 등급: 4.2/5
+  *우수한 성과. 계획된 모든 기능을 전달하고 높은 앱 품질 기준을 유지.*
 
-- **2020:** Rating: 4.0/5
-  *Good first year at Insurellm. Quick to learn insurance domain and contribute meaningfully to mobile strategy.*
+- **2020년:** 평가 등급: 4.0/5
+  *Insurellm에서의 좋은 첫 해. 보험 도메인을 빠르게 습득하고 모바일 전략에 의미 있게 기여.*
 
-## Compensation History
-- **2023:** Base Salary: $128,000 + Bonus: $16,000
-- **2022:** Base Salary: $120,000 + Bonus: $14,000
-- **2021:** Base Salary: $112,000 + Bonus: $12,000
-- **2020:** Base Salary: $105,000 + Bonus: $8,000
+## 보상 이력
+- **2023년:** 기본급: $128,000 + 보너스: $16,000
+- **2022년:** 기본급: $120,000 + 보너스: $14,000
+- **2021년:** 기본급: $112,000 + 보너스: $12,000
+- **2020년:** 기본급: $105,000 + 보너스: $8,000
 
-## Other HR Notes
-- **Education:** BS in Computer Science from UC Berkeley
-- **Skills:** Expert in Swift, Kotlin, React Native, mobile UI/UX patterns, App Store optimization
-- **Recognition:** Mobile Innovation Award 2023 for Android app launch
-- **Open Source:** Active contributor to mobile development open-source projects
-- **Speaking:** Presented at Mobile DevCon 2023 on cross-platform development strategies
-- **Feedback:** Highly skilled mobile developer with excellent product sense. Takes ownership of mobile platform and drives continuous improvement. Strong mentor to other developers.
+## 기타 인사 노트
+- **학력:** UC 버클리 컴퓨터공학 학사
+- **역량:** Swift, Kotlin, React Native, 모바일 UI/UX 패턴, App Store 최적화에 전문성 보유
+- **수상:** Android 앱 출시로 2023년 Mobile Innovation Award 수상
+- **오픈소스:** 모바일 개발 오픈소스 프로젝트에 적극적으로 기여
+- **강연:** 2023년 Mobile DevCon에서 크로스 플랫폼 개발 전략에 대해 발표
+- **피드백:** 뛰어난 제품 감각을 갖춘 매우 숙련된 모바일 개발자. 모바일 플랫폼에 대한 주인의식을 가지고 지속적인 개선을 추진함. 다른 개발자들의 든든한 멘토

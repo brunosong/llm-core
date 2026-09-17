@@ -1,100 +1,100 @@
-# Contract with Heritage Life Assurance for Lifellm
+# Heritage Life Assurance와 Lifellm 계약
 
-**Contract Date:** February 12, 2025
-**Contract Number:** LF-2025-0045
-
----
-
-## Terms
-
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and Heritage Life Assurance ("Client").
-
-2. **Scope of Services**: Provider agrees to deliver Lifellm Growth Tier, including AI-powered underwriting, predictive risk modeling, digital health integration, and policy management capabilities.
-
-3. **Payment Terms**: Client shall pay $7,500 per month for 18 months. Total contract value: $135,000. Payments due on the 1st via ACH.
-
-4. **Policy Volume**: Growth Tier supports up to 10,000 active policies. Heritage currently administers 6,200 policies.
-
-5. **Contract Duration**: 18 months commencing February 12, 2025 and ending August 11, 2026.
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement automatically renews for 12-month terms unless either party provides 45-day written notice of non-renewal.
-
-2. **Renewal Pricing**: Pricing adjustments communicated 75 days prior to renewal, capped at 8% annual increase.
-
-## Features
-
-1. **AI-Powered Underwriting**: Heritage Life Assurance will benefit from:
-   - Accelerated underwriting with 65% instant decisions
-   - Medical record analysis and risk scoring
-   - Mortality prediction models
-   - Automated decisioning for face amounts up to $750,000
-
-2. **Predictive Risk Modeling**: Advanced analytics considering:
-   - Comprehensive medical histories
-   - Prescription drug databases
-   - Lifestyle and occupation factors
-   - Family history and genetic markers
-   - Predictive health trajectories
-
-3. **Digital Health Integration**:
-   - Wearable device connections (Fitbit, Apple Watch)
-   - Health app integrations
-   - Wellness program platform
-   - Premium discount automation
-   - Activity tracking and rewards
-
-4. **Automated Policy Management**:
-   - Digital policy issuance
-   - Beneficiary updates and management
-   - Premium billing integration
-   - Policy conversion processing
-   - Lapse and reinstatement automation
-
-5. **Customer Portal**: Policyholder self-service including:
-   - 24/7 policy access
-   - Digital insurance cards
-   - Claims submission
-   - Premium payment processing
-   - Coverage updates
-
-6. **Advanced Reporting**:
-   - Application conversion analytics
-   - Underwriting productivity metrics
-   - Policy persistency reporting
-   - Agent performance dashboards
-
-## Support
-
-1. **Technical Support**: Heritage will receive priority support:
-   - Monday-Friday 7 AM - 7 PM EST
-   - Email, phone, and chat support
-   - 8-hour response time for critical issues
-   - Online knowledge base
-
-2. **Training**: Training program includes:
-   - 3-week implementation
-   - Training for up to 15 staff members (25 hours)
-   - Quarterly webinars on platform updates
-   - Online training library access
-
-3. **Updates**: Monthly platform enhancements and security patches. Maintenance windows: Sunday 1 AM - 5 AM EST.
-
-4. **Account Management**: Named customer success manager with quarterly business reviews.
+**계약일:** 2025년 2월 12일
+**계약 번호:** LF-2025-0045
 
 ---
 
-**Signatures:**
+## 계약 조건
+
+1. **계약 당사자**: 본 계약은 Insurellm, Inc.("제공자")와 Heritage Life Assurance("고객") 간에 체결됩니다.
+
+2. **서비스 범위**: 제공자는 AI 기반 언더라이팅, 예측 리스크 모델링, 디지털 건강 통합, 보험증권 관리 기능을 포함한 Lifellm Growth Tier를 제공하기로 합니다.
+
+3. **결제 조건**: 고객은 18개월간 월 $7,500을 지불합니다. 총 계약 금액: $135,000. 결제는 ACH를 통해 매월 1일에 이루어져야 합니다.
+
+4. **보험증권 물량**: Growth Tier는 최대 10,000건의 활성 보험증권을 지원합니다. Heritage는 현재 6,200건의 보험증권을 관리하고 있습니다.
+
+5. **계약 기간**: 2025년 2월 12일부터 2026년 8월 11일까지 18개월간.
+
+## 갱신
+
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 갱신 거부에 대해 45일 서면 통지를 하지 않는 한 12개월 단위로 자동 갱신됩니다.
+
+2. **갱신 가격**: 가격 조정은 갱신 75일 전에 통지되며, 연간 인상률은 8%로 상한선이 설정됩니다.
+
+## 기능
+
+1. **AI 기반 언더라이팅**: Heritage Life Assurance는 다음의 혜택을 받습니다.
+   - 65%의 즉시 결정률을 보이는 가속화된 언더라이팅
+   - 의료 기록 분석 및 리스크 점수 산정
+   - 사망률 예측 모델
+   - 최대 $750,000 보장금액에 대한 자동화된 의사결정
+
+2. **예측 리스크 모델링**: 다음을 고려하는 고급 분석:
+   - 종합적인 의료 이력
+   - 처방약 데이터베이스
+   - 라이프스타일 및 직업 요인
+   - 가족력 및 유전적 지표
+   - 예측 건강 궤적
+
+3. **디지털 건강 통합**:
+   - 웨어러블 기기 연동(Fitbit, Apple Watch)
+   - 건강 앱 통합
+   - 웰니스 프로그램 플랫폼
+   - 보험료 할인 자동화
+   - 활동 추적 및 리워드
+
+4. **자동화된 보험증권 관리**:
+   - 디지털 보험증권 발급
+   - 수익자 정보 업데이트 및 관리
+   - 보험료 청구 연동
+   - 보험증권 전환 처리
+   - 실효 및 부활 자동화
+
+5. **고객 포털**: 다음을 포함한 보험계약자 셀프서비스:
+   - 연중무휴 24시간 보험증권 접근
+   - 디지털 보험증서
+   - 청구 제출
+   - 보험료 결제 처리
+   - 보장 내용 업데이트
+
+6. **고급 보고**:
+   - 신청 전환 분석
+   - 언더라이팅 생산성 지표
+   - 보험증권 유지율 보고
+   - 대리인 성과 대시보드
+
+## 지원
+
+1. **기술 지원**: Heritage는 우선 지원을 받습니다.
+   - 월요일~금요일 미 동부시간 오전 7시 ~ 오후 7시
+   - 이메일, 전화, 채팅 지원
+   - 긴급 사안 8시간 응답 시간
+   - 온라인 지식 베이스
+
+2. **교육**: 교육 프로그램에는 다음이 포함됩니다.
+   - 3주간 구축
+   - 최대 15명의 직원 대상 교육(25시간)
+   - 플랫폼 업데이트에 관한 분기별 웨비나
+   - 온라인 교육 라이브러리 이용
+
+3. **업데이트**: 월간 플랫폼 개선 및 보안 패치. 유지보수 시간: 미 동부시간 일요일 오전 1시 ~ 오전 5시.
+
+4. **계정 관리**: 분기별 비즈니스 리뷰를 진행하는 지정 고객성공 관리자.
+
+---
+
+**서명:**
 
 **Insurellm, Inc.**
 Michael Torres, Chief Revenue Officer
-Date: February 12, 2025
+날짜: 2025년 2월 12일
 
 **Heritage Life Assurance**
 Melissa Zhang, VP of Operations
-Date: February 12, 2025
+날짜: 2025년 2월 12일
 
 ---
 
-This contract enables Heritage Life Assurance to leverage Lifellm's AI technology for modernized life insurance underwriting and administration.
+본 계약은 Heritage Life Assurance가 Lifellm의 AI 기술을 활용하여 생명보험 언더라이팅과 관리 업무를 현대화할 수 있도록 합니다.

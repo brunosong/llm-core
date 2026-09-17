@@ -1,53 +1,53 @@
-# Contract with Apex Reinsurance for Rellm: AI-Powered Enterprise Reinsurance Solution
+# Apex Reinsurance와 Rellm: AI 기반 엔터프라이즈 재보험 솔루션 계약
 
-## Terms
+## 계약 조건
 
-1. **Parties Involved**: This contract (“Agreement”) is entered into between Insurellm, Inc. (“Provider”) and Apex Reinsurance (“Client”) on this [Date].
+1. **계약 당사자**: 본 계약("계약서")은 Insurellm, Inc.("공급자")와 Apex Reinsurance("고객") 간에 [Date]자로 체결됩니다.
 
-2. **Scope of Services**: Provider agrees to deliver the Rellm solution, which includes AI-driven analytics, seamless integrations, risk assessment modules, customizable dashboards, regulatory compliance tools, and client and broker portals as described in the product summary.
+2. **서비스 범위**: 공급자는 제품 요약서에 기술된 바와 같이 AI 기반 분석, 원활한 연동, 위험 평가 모듈, 맞춤형 대시보드, 규제 준수 도구, 고객 및 중개사 포털을 포함하는 Rellm 솔루션을 제공하기로 합의합니다.
 
-3. **Payment Terms**: Client shall pay the Provider the sum of $10,000 per month for the duration of this agreement. Payments are due on the first day of each month and will be processed via electronic funds transfer.
+3. **결제 조건**: 고객은 본 계약 기간 동안 공급자에게 매월 $10,000를 지불합니다. 결제는 매월 1일에 예정되어 있으며 전자자금이체(EFT)로 처리됩니다.
 
-4. **Contract Duration**: This Agreement shall commence on [Start Date] and shall remain in effect for a period of twelve (12) months unless terminated earlier in accordance with the terms set forth herein.
+4. **계약 기간**: 본 계약은 [Start Date]에 시작하여 본 계약서에 명시된 조건에 따라 조기 종료되지 않는 한 12개월간 유효합니다.
 
-## Renewal
+## 갱신
 
-1. **Automatic Renewal**: This Agreement will automatically renew for successive one-year terms unless either party provides a written notice of intent to terminate at least thirty (30) days prior to the expiration of the current term.
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 현재 계약 기간 만료 최소 30일 전에 종료 의사를 서면으로 통지하지 않는 한 1년 단위로 자동 갱신됩니다.
 
-2. **Renewal Pricing**: Upon renewal, the pricing may be subject to adjustment by the Provider. The Provider will give a minimum of sixty (60) days’ notice of any changes in pricing.
+2. **갱신 가격**: 갱신 시 공급자가 가격을 조정할 수 있습니다. 공급자는 가격 변경에 대해 최소 60일 전에 통지합니다.
 
-## Features
+## 기능
 
-1. **AI-Driven Analytics**: The Rellm platform will utilize AI algorithms to provide predictive insights into risk exposures, allowing the Client to make informed decisions with real-time data analysis.
+1. **AI 기반 분석**: Rellm 플랫폼은 AI 알고리즘을 활용하여 위험 노출에 대한 예측 인사이트를 제공하며, 이를 통해 고객은 실시간 데이터 분석을 바탕으로 정보에 입각한 의사결정을 내릴 수 있습니다.
 
-2. **Seamless Integrations**: The architecture of Rellm allows for easy integration with existing systems used by the Client, including policy management and claims processing.
+2. **원활한 연동**: Rellm의 아키텍처는 고객이 사용 중인 계약 관리 및 청구 처리 시스템 등 기존 시스템과의 손쉬운 연동을 지원합니다.
 
-3. **Customizable Dashboard**: The dashboard will be tailored to display metrics specific to the Client's operational needs, enhancing productivity and facilitating more efficient data access.
+3. **맞춤형 대시보드**: 대시보드는 고객의 운영 요구에 특화된 지표를 표시하도록 맞춤 구성되어, 생산성을 높이고 더 효율적인 데이터 접근을 가능하게 합니다.
 
-4. **Regulatory Compliance**: The solution will include compliance tracking features to assist the Client in maintaining adherence to relevant regulations.
+4. **규제 준수**: 본 솔루션은 고객이 관련 규정을 준수할 수 있도록 지원하는 컴플라이언스 추적 기능을 포함합니다.
 
-5. **Dedicated Client Portal**: A portal for the Client will facilitate real-time communication and document sharing, ensuring seamless collaboration throughout the partnership.
+5. **전용 고객 포털**: 고객 전용 포털을 통해 실시간 커뮤니케이션과 문서 공유가 가능하며, 파트너십 전반에 걸쳐 원활한 협업을 보장합니다.
 
-## Support
+## 지원
 
-1. **Technical Support**: Provider shall offer dedicated technical support to the Client via phone, email, and a ticketing system during business hours (Monday to Friday, 9 AM to 5 PM EST).
+1. **기술 지원**: 공급자는 영업일(월요일~금요일, 오전 9시~오후 5시 동부표준시) 동안 전화, 이메일, 티켓 시스템을 통해 고객에게 전담 기술 지원을 제공합니다.
 
-2. **Training and Onboarding**: Provider will deliver comprehensive onboarding training for up to ten (10) members of the Client's staff to ensure effective use of the Rellm solution.
+2. **교육 및 온보딩**: 공급자는 Rellm 솔루션을 효과적으로 활용할 수 있도록 고객 직원 최대 10명을 대상으로 포괄적인 온보딩 교육을 실시합니다.
 
-3. **Updates and Maintenance**: Provider is responsible for providing updates to the Rellm platform to improve functionality and security, at no additional cost to the Client.
+3. **업데이트 및 유지보수**: 공급자는 추가 비용 없이 Rellm 플랫폼의 기능성과 보안을 개선하기 위한 업데이트를 제공할 책임이 있습니다.
 
-4. **Escalation Protocol**: Issues that cannot be resolved at the first level of support will be escalated to the senior support team, ensuring that critical concerns are addressed promptly.
+4. **에스컬레이션 절차**: 1차 지원 단계에서 해결되지 않은 문제는 시니어 지원팀으로 상향 전달되어 중대한 사안이 신속하게 처리되도록 합니다.
 
 ---
 
-**Acceptance of Terms**: By signing below, both parties agree to the Terms, Renewal, Features, and Support outlined in this Agreement.
+**계약 조건 수락**: 아래 서명함으로써 양 당사자는 본 계약서에 명시된 계약 조건, 갱신, 기능, 지원 사항에 동의합니다.
 
-**Insurellm, Inc.**  
-_____________________________  
-Authorized Signature   
-Date: ___________________  
+**Insurellm, Inc.**
+_____________________________
+서명권자 서명
+날짜: ___________________
 
-**Apex Reinsurance**  
-_____________________________  
-Authorized Signature  
-Date: ___________________
+**Apex Reinsurance**
+_____________________________
+서명권자 서명
+날짜: ___________________

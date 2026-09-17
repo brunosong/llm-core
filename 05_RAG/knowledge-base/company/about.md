@@ -1,16 +1,16 @@
-# About Insurellm
+# Insurellm 소개
 
-Insurellm was founded by Avery Lancaster in 2015 as an insurance tech startup designed to disrupt an industry in need of innovative products. Its first product was Markellm, the marketplace connecting consumers with insurance providers.
+Insurellm은 혁신적인 제품을 필요로 하는 업계에 변화를 일으키기 위한 보험 기술 스타트업으로서 2015년 Avery Lancaster에 의해 설립되었습니다. 첫 번째 제품은 소비자와 보험사를 연결하는 마켓플레이스인 Markellm이었습니다.
 
-The company experienced rapid growth in its first five years, expanding its product portfolio to include Carllm (auto insurance portal), Homellm (home insurance portal), and Rellm (enterprise reinsurance platform). By 2020, Insurellm had reached a peak of 200 employees with 12 offices across the US.
+회사는 설립 후 첫 5년 동안 빠르게 성장하며 제품 포트폴리오를 확장하여 Carllm(자동차 보험 포털), Homellm(주택 보험 포털), Rellm(기업용 재보험 플랫폼)을 추가했습니다. 2020년까지 Insurellm은 미국 전역 12개 사무소에 200명의 직원을 두는 정점에 도달했습니다.
 
-However, the company underwent a strategic restructuring in 2022-2023 to focus on profitability and sustainable growth. This included consolidating office locations, implementing a remote-first strategy, and streamlining operations. As of 2025, Insurellm operates with a lean, highly efficient team of 32 employees who have built a portfolio of 32 active contracts spanning all eight product lines. The company maintains its San Francisco headquarters along with small satellite offices in key markets including New York, Austin, Chicago, and Denver.
+그러나 회사는 수익성과 지속 가능한 성장에 집중하기 위해 2022~2023년에 전략적 구조조정을 단행했습니다. 여기에는 사무소 위치 통합, 원격 근무 우선 전략 도입, 운영 간소화가 포함되었습니다. 2025년 현재 Insurellm은 32명의 정예 인력으로 구성된 효율적인 팀을 운영하고 있으며, 8개 전 제품 라인에 걸쳐 32건의 활성 계약으로 이루어진 포트폴리오를 구축했습니다. 회사는 샌프란시스코 본사와 함께 뉴욕, 오스틴, 시카고, 덴버 등 주요 시장에 소규모 위성 사무소를 유지하고 있습니다.
 
-Since the restructuring, Insurellm has continued to innovate, expanding its product suite to eight comprehensive platforms. The company added Lifellm (life insurance), Healthllm (health insurance), Bizllm (commercial insurance), and Claimllm (claims processing) to serve the full spectrum of insurance needs. This strategic expansion has been highly successful, with strong adoption across all new products:
+구조조정 이후에도 Insurellm은 혁신을 지속하여 제품군을 8개의 종합 플랫폼으로 확장했습니다. 회사는 보험 수요의 전 영역을 아우르기 위해 Lifellm(생명보험), Healthllm(건강보험), Bizllm(기업보험), Claimllm(보험금 청구 처리)을 추가했습니다. 이러한 전략적 확장은 모든 신규 제품에서 강력한 채택률을 보이며 매우 성공적이었습니다.
 
-- **Bizllm** quickly gained traction with 7 commercial insurance contracts, including regional carriers and national commercial groups
-- **Claimllm** signed 7 contracts ranging from independent adjusting firms to enterprise claims networks
-- **Lifellm** secured 6 life insurance clients from small regional providers to major national carriers
-- **Healthllm** won 6 health plan contracts including regional insurers and multi-state healthcare alliances
+- **Bizllm**은 지역 보험사와 전국 규모의 기업보험 그룹을 포함하여 7건의 기업보험 계약을 신속하게 확보했습니다
+- **Claimllm**은 독립 손해사정 회사부터 대기업 청구 네트워크에 이르기까지 7건의 계약을 체결했습니다
+- **Lifellm**은 소규모 지역 보험사부터 대형 전국 보험사에 이르기까지 6개의 생명보험 고객사를 확보했습니다
+- **Healthllm**은 지역 보험사와 다주(多州) 의료 얼라이언스를 포함하여 6건의 건강보험 계약을 수주했습니다
 
-Combined with continued growth in the original product lines (Carllm, Homellm, Markellm, and Rellm), Insurellm now serves clients ranging from regional insurers to global reinsurance partners, demonstrating the company's ability to compete across the entire insurance value chain.
+기존 제품 라인(Carllm, Homellm, Markellm, Rellm)의 지속적인 성장과 더불어, Insurellm은 이제 지역 보험사부터 글로벌 재보험 파트너에 이르기까지 다양한 고객을 대상으로 서비스를 제공하고 있으며, 이는 보험 가치사슬 전반에서 경쟁할 수 있는 회사의 역량을 보여줍니다.

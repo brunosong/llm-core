@@ -1,34 +1,34 @@
-# Contract with GreenField Holdings for Markellm
+# GreenField Holdings와 Markellm 계약
 
-**Effective Date:** November 15, 2023  
-**Contract Duration:** 12 months  
+**발효일:** 2023년 11월 15일  
+**계약 기간:** 12개월  
 
-## Terms
-1. **Parties to the Agreement**: This contract is entered into between Insurellm, hereafter referred to as "Provider," and GreenField Holdings, hereafter referred to as "Client."
-2. **Scope of Services**: Provider agrees to grant the Client access to the Markellm platform, enabling GreenField Holdings to connect with potential insurance customers through the AI-powered marketplace.
-3. **Compliance**: Both parties agree to adhere to applicable laws and regulations that govern information security and consumer data protection.
+## 계약 조건
+1. **계약 당사자**: 본 계약은 이하 "제공자"라 칭하는 Insurellm과 이하 "고객"이라 칭하는 GreenField Holdings 간에 체결됩니다.
+2. **서비스 범위**: 제공자는 고객에게 Markellm 플랫폼 이용 권한을 부여하여, GreenField Holdings가 AI 기반 마켓플레이스를 통해 잠재 보험 고객과 연결될 수 있도록 하는 데 동의합니다.
+3. **컴플라이언스**: 양 당사자는 정보 보안 및 소비자 데이터 보호를 규율하는 관련 법률 및 규정을 준수하는 데 동의합니다.
 
-## Renewal
-1. **Automatic Renewal**: This contract will automatically renew for sequential one-year terms unless either party provides a written notice of non-renewal at least 30 days prior to the expiration of the current term.
-2. **Annual Review**: Upon renewal, both parties may review and negotiate the terms, including any modifications to pricing based on performance metrics outlined in Section 4.
+## 갱신
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 현재 계약 기간 만료 최소 30일 전에 갱신 거부에 대한 서면 통지를 하지 않는 한 순차적으로 1년 단위로 자동 갱신됩니다.
+2. **연간 검토**: 갱신 시 양 당사자는 제4조에 명시된 성과 지표를 바탕으로 가격 조정을 포함한 계약 조건을 검토하고 협의할 수 있습니다.
 
-## Features
-1. **AI-Powered Matching**: Access to advanced algorithms that connect GreenField Holdings with tailored insurance leads.
-2. **Real-Time Quotes**: Ability to provide customers with instant quotes from multiple insurance providers, facilitating faster decision-making processes.
-3. **Customized Recommendations**: Utilization of customizable consumer profiles to enhance marketing strategies and optimize customer engagement.
-4. **Data Insights**: Access to analytics dashboards for real-time insights into market trends and consumer behavior, helping GreenField Holdings refine their product offerings.
+## 기능
+1. **AI 기반 매칭**: GreenField Holdings를 맞춤형 보험 리드와 연결하는 고급 알고리즘을 이용할 수 있습니다.
+2. **실시간 견적**: 여러 보험사로부터 즉시 견적을 제공하여 고객의 의사결정 과정을 신속화할 수 있는 기능입니다.
+3. **맞춤형 추천**: 맞춤화 가능한 소비자 프로필을 활용하여 마케팅 전략을 강화하고 고객 참여를 최적화합니다.
+4. **데이터 인사이트**: 시장 동향 및 소비자 행동에 대한 실시간 인사이트를 제공하는 분석 대시보드를 이용하여 GreenField Holdings가 상품 제공을 개선할 수 있도록 지원합니다.
 
-## Support
-1. **Customer Support Access**: The Client will have access to dedicated support through phone and email during normal business hours to address any inquiries or technical issues.
-2. **Training and Resources**: Provider will offer onboarding training resources to ensure GreenField Holdings can effectively utilize the Markellm platform.
-3. **Performance Reviews**: Quarterly performance reviews will be conducted to analyze platform effectiveness, customer acquisition rates, and marketing strategies, ensuring both parties are aligned on objectives.
+## 지원
+1. **고객 지원 접근**: 고객은 정상 영업시간 동안 전화 및 이메일을 통한 전담 지원을 이용하여 문의사항이나 기술적 문제를 해결할 수 있습니다.
+2. **교육 및 자료**: 제공자는 GreenField Holdings가 Markellm 플랫폼을 효과적으로 활용할 수 있도록 온보딩 교육 자료를 제공합니다.
+3. **성과 검토**: 플랫폼 효과성, 고객 획득률, 마케팅 전략을 분석하기 위한 분기별 성과 검토가 실시되며, 이를 통해 양 당사자가 목표에 대해 일치된 이해를 갖도록 합니다.
 
-## Pricing
-- **Basic Listing Fee**: GreenField Holdings agrees to pay a monthly fee of $199 for a featured listing on the Markellm platform.
-- **Performance-Based Pricing**: An additional fee of $25 per acquired customer lead will be charged, reflecting successful connections made through the Markellm platform.
+## 가격
+- **기본 등록 수수료**: GreenField Holdings는 Markellm 플랫폼에서의 추천 등록을 위해 월 $199의 수수료를 지불하는 데 동의합니다.
+- **성과 기반 가격**: Markellm 플랫폼을 통해 성사된 연결에 대해 획득 고객 리드 1건당 $25의 추가 수수료가 부과됩니다.
 
-**Signatures:**  
+**서명:**  
 _________________________                           _________________________  
-**[Name], Title**                                   **[Name], Title**  
+**[성명], 직위**                                   **[성명], 직위**  
 Insurellm                                           GreenField Holdings  
-**Date:** ____________                             **Date:** ____________
+**날짜:** ____________                             **날짜:** ____________

@@ -1,70 +1,70 @@
-# HR Record
+# HR 기록
 
 # James Wilson
 
-## Summary
-- **Date of Birth:** April 5, 1978
-- **Job Title:** Chief Technology Officer (CTO)
-- **Location:** San Francisco, California
-- **Current Salary:** $285,000
+## 요약
+- **생년월일:** 1978년 4월 5일
+- **직책:** 최고기술책임자 (CTO)
+- **근무지:** 캘리포니아주 샌프란시스코
+- **현재 연봉:** $285,000
 
-## Insurellm Career Progression
-- **January 2017 - Present:** Chief Technology Officer
-  - Reports directly to CEO, member of executive leadership team
-  - Oversees all technology strategy and engineering operations
-  - Manages 85-person engineering, product, and data organization
-  - Led company through major platform modernization and cloud migration
-  - Drove adoption of AI/ML capabilities across product suite
+## Insurellm 경력 이력
+- **2017년 1월 - 현재:** 최고기술책임자 (Chief Technology Officer)
+  - CEO에게 직접 보고하며 경영진 리더십 팀의 일원
+  - 전사 기술 전략 및 엔지니어링 운영 총괄
+  - 85명 규모의 엔지니어링, 프로덕트, 데이터 조직 관리
+  - 대규모 플랫폼 현대화 및 클라우드 마이그레이션을 주도하여 회사를 이끎
+  - 제품군 전반에 걸친 AI/ML 역량 도입을 추진
 
-- **March 2012 - December 2016:** VP of Engineering at TechScale Inc.
-  - Built and scaled engineering organization from 15 to 60 engineers
-  - Led product development for B2B SaaS platform
-  - Drove technical strategy and architecture decisions
+- **2012년 3월 - 2016년 12월:** TechScale Inc. VP of Engineering
+  - 엔지니어링 조직을 15명에서 60명 규모로 구축 및 확장
+  - B2B SaaS 플랫폼의 제품 개발 주도
+  - 기술 전략 및 아키텍처 의사결정 주도
 
-- **June 2008 - February 2012:** Senior Engineering Manager at CloudSoft Corp.
-  - Managed multiple engineering teams
-  - Delivered major platform features and infrastructure improvements
+- **2008년 6월 - 2012년 2월:** CloudSoft Corp. 선임 엔지니어링 매니저 (Senior Engineering Manager)
+  - 다수의 엔지니어링 팀 관리
+  - 주요 플랫폼 기능 및 인프라 개선 사항 전달
 
-- **August 2003 - May 2008:** Software Architect at Enterprise Systems Inc.
-  - Designed large-scale distributed systems
-  - Led technical architecture for critical business applications
+- **2003년 8월 - 2008년 5월:** Enterprise Systems Inc. 소프트웨어 아키텍트 (Software Architect)
+  - 대규모 분산 시스템 설계
+  - 핵심 비즈니스 애플리케이션의 기술 아키텍처 주도
 
-## Annual Performance History
-- **2023:** Rating: 4.9/5
-  *Outstanding performance. Successfully led AI transformation initiative. Exceptional strategic leadership and team building. Key driver of company growth.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 4.9/5
+  *뛰어난 성과. AI 전환 이니셔티브를 성공적으로 주도. 탁월한 전략적 리더십과 팀 빌딩. 회사 성장의 핵심 동력.*
 
-- **2022:** Rating: 4.7/5
-  *Exceeded expectations. Strong execution on platform modernization. Improved engineering productivity and velocity significantly.*
+- **2022년:** 평가 등급: 4.7/5
+  *기대치 초과 달성. 플랫폼 현대화에서 강력한 실행력 발휘. 엔지니어링 생산성과 속도를 크게 향상.*
 
-- **2021:** Rating: 4.6/5
-  *Excellent performance navigating remote transition. Built strong engineering culture and maintained high delivery standards.*
+- **2021년:** 평가 등급: 4.6/5
+  *원격 근무 전환을 성공적으로 이끈 우수한 성과. 강력한 엔지니어링 문화를 구축하고 높은 전달 기준을 유지.*
 
-- **2020:** Rating: 4.4/5
-  *Strong performance during challenging year. Successfully pivoted technology strategy for remote-first world.*
+- **2020년:** 평가 등급: 4.4/5
+  *어려운 한 해 동안 강력한 성과를 보임. 원격 우선 환경에 맞춰 기술 전략을 성공적으로 전환.*
 
-- **2019:** Rating: 4.8/5
-  *Exceptional leadership. Scaled engineering organization effectively while maintaining quality and culture.*
+- **2019년:** 평가 등급: 4.8/5
+  *탁월한 리더십. 품질과 문화를 유지하면서 엔지니어링 조직을 효과적으로 확장.*
 
-- **2018:** Rating: 4.5/5
-  *Excellent year with successful cloud migration. Strong technical vision and execution.*
+- **2018년:** 평가 등급: 4.5/5
+  *클라우드 마이그레이션을 성공적으로 완수한 훌륭한 해. 강력한 기술 비전과 실행력.*
 
-- **2017:** Rating: 4.3/5
-  *Strong start as CTO. Quickly assessed technical landscape and began strategic improvements.*
+- **2017년:** 평가 등급: 4.3/5
+  *CTO로서 순조로운 출발. 기술 현황을 신속히 파악하고 전략적 개선을 시작.*
 
-## Compensation History
-- **2023:** Base Salary: $285,000 + Bonus: $125,000 + Equity refresh
-- **2022:** Base Salary: $270,000 + Bonus: $110,000 + Equity refresh
-- **2021:** Base Salary: $255,000 + Bonus: $100,000
-- **2020:** Base Salary: $240,000 + Bonus: $85,000
-- **2019:** Base Salary: $225,000 + Bonus: $95,000
-- **2018:** Base Salary: $210,000 + Bonus: $80,000
-- **2017:** Base Salary: $195,000 + Bonus: $70,000 + Significant equity grant
+## 보상 이력
+- **2023년:** 기본급: $285,000 + 보너스: $125,000 + 주식 보상 갱신
+- **2022년:** 기본급: $270,000 + 보너스: $110,000 + 주식 보상 갱신
+- **2021년:** 기본급: $255,000 + 보너스: $100,000
+- **2020년:** 기본급: $240,000 + 보너스: $85,000
+- **2019년:** 기본급: $225,000 + 보너스: $95,000
+- **2018년:** 기본급: $210,000 + 보너스: $80,000
+- **2017년:** 기본급: $195,000 + 보너스: $70,000 + 상당한 규모의 주식 보상 지급
 
-## Other HR Notes
-- **Education:** MS in Computer Science from MIT, BS in Computer Engineering from Stanford University
-- **Board Participation:** Serves on technical advisory board for two InsurTech startups
-- **Industry Recognition:** Named to InsureTech 100 list (2021, 2022, 2023), speaker at major technology conferences
-- **Patents:** 5 patents in distributed systems and insurance technology
-- **Leadership:** Known for building high-performing teams and fostering innovation culture. Strong mentor to technical leaders.
-- **Strategic Impact:** Transformed Insurellm's technology from legacy systems to modern cloud-native architecture. Key architect of AI strategy.
-- **Feedback:** Visionary technology leader with exceptional strategic thinking and execution capabilities. Trusted partner to CEO and board. Critical to company's technical success and future growth.
+## 기타 인사 노트
+- **학력:** MIT 컴퓨터공학 석사, 스탠퍼드 대학교 컴퓨터공학 학사
+- **이사회 활동:** 두 InsurTech 스타트업의 기술 자문위원회 위원으로 활동
+- **업계 인정:** InsureTech 100 리스트 선정 (2021, 2022, 2023), 주요 기술 컨퍼런스 연사
+- **특허:** 분산 시스템 및 보험 기술 분야 특허 5건 보유
+- **리더십:** 고성과 팀 구축과 혁신 문화 조성으로 정평이 나 있음. 기술 리더들의 든든한 멘토
+- **전략적 영향력:** Insurellm의 기술을 레거시 시스템에서 현대적인 클라우드 네이티브 아키텍처로 전환시킴. AI 전략의 핵심 설계자
+- **피드백:** 탁월한 전략적 사고와 실행 능력을 갖춘 비전 있는 기술 리더. CEO와 이사회의 신뢰받는 파트너. 회사의 기술적 성공과 미래 성장에 결정적인 역할

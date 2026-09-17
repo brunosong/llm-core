@@ -1,50 +1,50 @@
-# HR Record
+# HR 기록
 
 # Sarah Williams
 
-## Summary
-- **Date of Birth:** November 3, 1994
-- **Job Title:** UX Designer
-- **Location:** Remote (Based in Portland, Oregon)
-- **Current Salary:** $95,000
+## 요약
+- **생년월일:** 1994년 11월 3일
+- **직책:** UX Designer
+- **근무지:** 원격 근무 (오리건주 포틀랜드 기반)
+- **현재 연봉:** $95,000
 
-## Insurellm Career Progression
-- **January 2022 - Present:** UX Designer
-  - Leads design for Homellm home insurance portal
-  - Conducted comprehensive user research resulting in 35% improvement in user satisfaction scores
-  - Collaborates with product and engineering teams on feature design
+## Insurellm 경력 진행
+- **2022년 1월 - 현재:** UX Designer
+  - 홈 보험 포털인 Homellm의 디자인을 이끔
+  - 종합적인 사용자 리서치를 수행하여 사용자 만족도 점수를 35% 향상시킴
+  - 기능 디자인과 관련하여 프로덕트 및 엔지니어링 팀과 협업
 
-- **June 2020 - December 2021:** Junior UX Designer
-  - Supported senior designers on Marketllm marketplace redesign
-  - Created wireframes, prototypes, and user flow diagrams
-  - Participated in user testing and feedback sessions
+- **2020년 6월 - 2021년 12월:** Junior UX Designer
+  - Marketllm 마켓플레이스 리디자인에서 시니어 디자이너를 지원
+  - 와이어프레임, 프로토타입, 사용자 흐름도 제작
+  - 사용자 테스트 및 피드백 세션에 참여
 
-- **August 2018 - May 2020:** UI/UX Designer at StartupHub Inc.
-  - Designed mobile and web interfaces for various startup clients
-  - Worked closely with developers to implement design systems
+- **2018년 8월 - 2020년 5월:** StartupHub Inc., UI/UX Designer
+  - 다양한 스타트업 고객사를 위한 모바일 및 웹 인터페이스 디자인
+  - 디자인 시스템 구현을 위해 개발자와 긴밀히 협업
 
-## Annual Performance History
-- **2023:** Rating: 4.4/5
-  *Strong design contributions with excellent user research skills. Led successful Homellm redesign project.*
+## 연간 성과 이력
+- **2023년:** 평점 4.4/5
+  *뛰어난 사용자 리서치 역량을 바탕으로 한 강력한 디자인 기여. 성공적인 Homellm 리디자인 프로젝트를 이끔.*
 
-- **2022:** Rating: 4.0/5
-  *Good first year as UX Designer. Showed initiative and creativity, though sometimes needed guidance on complex projects.*
+- **2022년:** 평점 4.0/5
+  *UX Designer로서의 좋은 첫해. 주도성과 창의성을 보였으나 복잡한 프로젝트에서는 때때로 지도가 필요했음.*
 
-- **2021:** Rating: 3.6/5
-  *Adequate performance but struggled with time management on multiple concurrent projects. Improved by year end.*
+- **2021년:** 평점 3.6/5
+  *적절한 성과였으나 여러 프로젝트를 동시에 진행하며 시간 관리에 어려움을 겪음. 연말까지 개선됨.*
 
-- **2020:** Rating: 4.2/5
-  *Solid performance as Junior Designer. Quick to learn Insurellm's design system and processes.*
+- **2020년:** 평점 4.2/5
+  *Junior Designer로서 우수한 성과. Insurellm의 디자인 시스템과 프로세스를 빠르게 습득함.*
 
-## Compensation History
-- **2023:** Base Salary: $95,000 + Bonus: $8,000
-- **2022:** Base Salary: $88,000 + Bonus: $6,000
-- **2021:** Base Salary: $78,000 + Bonus: $3,000
-- **2020:** Base Salary: $70,000
+## 보상 이력
+- **2023년:** 기본급 $95,000 + 보너스 $8,000
+- **2022년:** 기본급 $88,000 + 보너스 $6,000
+- **2021년:** 기본급 $78,000 + 보너스 $3,000
+- **2020년:** 기본급 $70,000
 
-## Other HR Notes
-- **Education:** BFA in Graphic Design from Rhode Island School of Design
-- **Skills:** Expert in Figma, Sketch, Adobe Creative Suite. Proficient in HTML/CSS for design prototyping.
-- **Professional Development:** Completed UX Research Certification from Nielsen Norman Group (2023). Regularly attends design conferences.
-- **Portfolio:** Maintains active design portfolio showcasing Insurellm work (approved for external sharing).
-- **Feedback:** Creative thinker with strong empathy for users. Works well remotely and maintains excellent communication with distributed teams.
+## 기타 HR 메모
+- **학력:** Rhode Island School of Design 그래픽 디자인 학사(BFA)
+- **역량:** Figma, Sketch, Adobe Creative Suite에 전문성 보유. 디자인 프로토타이핑을 위한 HTML/CSS에 능숙.
+- **전문성 개발:** Nielsen Norman Group의 UX Research 인증 과정 이수(2023). 디자인 컨퍼런스에 정기적으로 참석.
+- **포트폴리오:** Insurellm 관련 작업을 소개하는 활발한 디자인 포트폴리오를 유지 중(외부 공유 승인됨).
+- **피드백:** 사용자에 대한 강한 공감 능력을 갖춘 창의적인 사고자. 원격 근무에서도 뛰어난 성과를 내며 분산된 팀과 훌륭한 커뮤니케이션을 유지함.

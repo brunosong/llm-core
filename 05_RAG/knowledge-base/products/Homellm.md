@@ -1,45 +1,45 @@
-# Product Summary
+# 제품 요약
 
 # Homellm
 
-## Summary
-Homellm is an innovative home insurance product developed by Insurellm that leverages advanced AI technology to revolutionize the way insurance providers offer coverage to homeowners. Designed for both B2B and B2C segments, Homellm empowers insurers to provide personalized, data-driven policies, enhancing customer experience while minimizing risk and operational costs. By integrating seamlessly with existing systems, Homellm helps insurance companies streamline their processes and stay competitive in the ever-evolving insurance industry.
+## 요약
+Homellm은 보험사가 주택 소유자에게 보장을 제공하는 방식을 혁신하기 위해 Insurellm이 개발한, 고급 AI 기술을 활용한 혁신적인 주택 보험 상품입니다. B2B와 B2C 세그먼트 모두를 위해 설계된 Homellm은 보험사가 개인 맞춤화된 데이터 기반 보험 상품을 제공할 수 있도록 지원함으로써 고객 경험을 향상시키는 동시에 리스크와 운영 비용을 최소화합니다. 기존 시스템과의 매끄러운 통합을 통해 Homellm은 보험사가 프로세스를 간소화하고 끊임없이 변화하는 보험 산업에서 경쟁력을 유지할 수 있도록 돕습니다.
 
-## Features
-### 1. AI-Powered Risk Assessment
-Homellm utilizes sophisticated AI algorithms to analyze vast datasets, allowing insurance companies to assess risks accurately. This feature provides real-time insights for underwriting decisions, enabling insurers to tailor policies to individual customer needs.
+## 기능
+### 1. AI 기반 리스크 평가
+Homellm은 정교한 AI 알고리즘을 활용하여 방대한 데이터셋을 분석함으로써 보험사가 리스크를 정확하게 평가할 수 있도록 지원합니다. 이 기능은 언더라이팅 의사결정을 위한 실시간 인사이트를 제공하여 보험사가 개별 고객의 니즈에 맞춘 상품을 설계할 수 있게 합니다.
 
-### 2. Dynamic Pricing Model
-With Homellm's innovative dynamic pricing model, insurance providers can offer flexible premiums based on real-time risk evaluations and historical data. This adaptability ensures that customers pay a fair price that accurately reflects their unique risk profile.
+### 2. 동적 가격 책정 모델
+Homellm의 혁신적인 동적 가격 책정 모델을 통해 보험사는 실시간 리스크 평가와 과거 데이터를 기반으로 유연한 보험료를 제공할 수 있습니다. 이러한 적응성은 고객이 자신의 고유한 리스크 프로필을 정확히 반영하는 공정한 가격을 지불하도록 보장합니다.
 
-### 3. Instant Claim Processing
-The AI-driven claims management system in Homellm automates the entire claims process, reducing processing time from weeks to hours. Insurers can resolve claims quickly and efficiently, leading to enhanced customer satisfaction.
+### 3. 즉시 청구 처리
+Homellm의 AI 기반 청구 관리 시스템은 청구 프로세스 전체를 자동화하여 처리 시간을 몇 주에서 몇 시간으로 단축합니다. 보험사는 신속하고 효율적으로 청구를 처리하여 고객 만족도를 높일 수 있습니다.
 
-### 4. Predictive Maintenance Alerts
-Homellm incorporates predictive analytics to advise homeowners on potential risks and maintenance needs. By preventing issues before they arise, this feature helps customers minimize hazards, lowering the likelihood of claims.
+### 4. 예측형 유지보수 알림
+Homellm은 예측 분석 기능을 통합하여 주택 소유자에게 잠재적인 리스크와 유지보수 필요 사항을 안내합니다. 문제가 발생하기 전에 예방함으로써 이 기능은 고객이 위험 요소를 최소화하여 청구 발생 가능성을 낮출 수 있도록 돕습니다.
 
-### 5. Multi-Channel Integration
-Homellm seamlessly integrates into existing insurance platforms, providing a centralized hub for managing customer policies and claims. Insurance providers can easily access customer data, allowing for improved service delivery across various channels.
+### 5. 멀티채널 통합
+Homellm은 기존 보험 플랫폼과 매끄럽게 통합되어 고객 계약 및 청구를 관리하는 중앙 허브를 제공합니다. 보험사는 고객 데이터에 쉽게 접근할 수 있어 다양한 채널에서 서비스 제공을 개선할 수 있습니다.
 
-### 6. Customer Portal
-A user-friendly online portal and mobile application enables customers to manage their policies, submit claims, and view coverage details 24/7. Homellm prioritizes transparency and ease of use, helping insurers foster trust and long-term relationships with their customers.
+### 6. 고객 포털
+사용하기 쉬운 온라인 포털과 모바일 애플리케이션을 통해 고객은 24시간 언제든지 계약을 관리하고, 청구를 제출하며, 보장 세부 정보를 확인할 수 있습니다. Homellm은 투명성과 사용 편의성을 최우선으로 하여 보험사가 고객과의 신뢰와 장기적인 관계를 구축할 수 있도록 돕습니다.
 
-## Pricing
-At Insurellm, we believe in providing value without compromising quality. The pricing for Homellm is structured based on the size of the insurance provider and the level of customization required. 
+## 가격
+Insurellm은 품질을 타협하지 않으면서도 가치를 제공한다는 믿음을 가지고 있습니다. Homellm의 가격은 보험사의 규모와 필요한 맞춤화 수준에 따라 구성됩니다.
 
-- **Basic Tier:** Starting at $5,000/month for small insurers with basic integration features.
-- **Standard Tier:** Starting at $10,000/month for medium-sized insurers including advanced analytics and reporting tools.
-- **Enterprise Tier:** Custom pricing for large insurance companies that require full customization, dedicated support, and additional features, such as enterprise-grade security and compliance.
+- **베이직 티어:** 기본적인 통합 기능을 갖춘 소규모 보험사를 위한 월 $5,000부터 시작합니다.
+- **스탠다드 티어:** 고급 분석 및 리포팅 도구를 포함한 중견 보험사를 위한 월 $10,000부터 시작합니다.
+- **엔터프라이즈 티어:** 완전한 맞춤화, 전담 지원, 그리고 엔터프라이즈급 보안 및 규정 준수와 같은 추가 기능이 필요한 대형 보험사를 위한 맞춤형 가격입니다.
 
-All tiers include a comprehensive training program and ongoing updates to ensure optimal performance.
+모든 티어에는 종합적인 교육 프로그램과 최적의 성능을 보장하기 위한 지속적인 업데이트가 포함됩니다.
 
-## Roadmap
-The development roadmap for Homellm includes the following key milestones:
+## 로드맵
+Homellm의 개발 로드맵에는 다음과 같은 주요 마일스톤이 포함됩니다.
 
-- **Q1 2024:** Launch of Homellm version 1.0, featuring core functionalities and integrations.
-- **Q3 2024:** Introduction of enhanced analytics capabilities, including visualization tools and advanced reporting features.
-- **Q1 2025:** Release of Homellm version 2.0, with expanded predictive maintenance alerts and automated underwriting processes.
-- **Q3 2025:** Establish partnerships with IoT device manufacturers to provide integrated solutions for proactive risk management.
-- **Q1 2026:** Ongoing improvements based on user feedback and industry trends, ensuring that Homellm remains at the forefront of home insurance technology. 
+- **2024년 1분기:** 핵심 기능과 통합을 갖춘 Homellm 버전 1.0 출시.
+- **2024년 3분기:** 시각화 도구와 고급 리포팅 기능을 포함한 향상된 분석 기능 도입.
+- **2025년 1분기:** 확장된 예측형 유지보수 알림과 자동화된 언더라이팅 프로세스를 갖춘 Homellm 버전 2.0 출시.
+- **2025년 3분기:** 사전 예방적 리스크 관리를 위한 통합 솔루션 제공을 위해 IoT 기기 제조사와 파트너십 구축.
+- **2026년 1분기:** 사용자 피드백과 업계 트렌드를 반영한 지속적인 개선을 통해 Homellm이 주택 보험 기술의 최전선을 유지하도록 함.
 
-With Homellm, Insurellm is committed to transforming the landscape of home insurance, ensuring both innovation and reliability for all insurance providers and their customers. Explore the future of home insurance today with Homellm!
+Homellm을 통해 Insurellm은 모든 보험사와 고객을 위한 혁신과 신뢰성을 동시에 보장하며 주택 보험 산업의 지형을 변화시키는 데 전념하고 있습니다. Homellm과 함께 오늘 주택 보험의 미래를 경험해 보세요!

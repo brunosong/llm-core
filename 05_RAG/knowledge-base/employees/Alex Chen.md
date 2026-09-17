@@ -1,47 +1,47 @@
-# HR Record
+# 인사 기록
 
 # Alex Chen
 
-## Summary
-- **Date of Birth:** March 15, 1990
-- **Job Title:** Backend Software Engineer
-- **Location:** San Francisco, California
-- **Current Salary:** $115,000  
+## 요약
+- **생년월일:** 1990년 3월 15일
+- **직책:** 백엔드 소프트웨어 엔지니어 (Backend Software Engineer)
+- **근무지:** 캘리포니아 주 샌프란시스코
+- **현재 연봉:** $115,000  
 
-## Insurellm Career Progression
-- **April 2020:** Joined Insurellm as a Junior Backend Developer. Focused on building APIs to enhance customer data security.
-- **October 2021:** Promoted to Backend Software Engineer. Took on leadership for a key project developing a microservices architecture to support the company's growing platform.
-- **March 2023:** Awarded the title of Senior Backend Software Engineer due to exemplary performance in scaling backend services, reducing downtime by 30% over six months.
+## Insurellm 경력 진행
+- **2020년 4월:** Insurellm에 주니어 백엔드 개발자로 입사. 고객 데이터 보안을 강화하는 API 구축에 주력함.
+- **2021년 10월:** 백엔드 소프트웨어 엔지니어로 승진. 회사의 성장하는 플랫폼을 지원하기 위한 마이크로서비스 아키텍처 개발 핵심 프로젝트의 리더십을 맡음.
+- **2023년 3월:** 백엔드 서비스 확장에서 모범적인 성과를 인정받아 시니어 백엔드 소프트웨어 엔지니어 타이틀을 수여받음. 6개월간 다운타임을 30% 감소시킴.
 
-## Annual Performance History
-- **2020:**  
-  - Completed onboarding successfully.  
-  - Met expectations in delivering project milestones.  
-  - Received positive feedback from the team leads.
+## 연간 성과 이력
+- **2020년:**  
+  - 온보딩을 성공적으로 완료.  
+  - 프로젝트 마일스톤 달성에서 기대치를 충족.  
+  - 팀 리더들로부터 긍정적인 피드백을 받음.
 
-- **2021:**  
-  - Achieved a 95% success rate in project delivery timelines.  
-  - Awarded "Rising Star" at the annual company gala for outstanding contributions.  
+- **2021년:**  
+  - 프로젝트 납기 준수율 95%를 달성.  
+  - 뛰어난 기여를 인정받아 연례 회사 갈라에서 "라이징 스타(Rising Star)"상을 수상.  
 
-- **2022:**  
-  - Exceeded goals by optimizing existing backend code, improving system performance by 25%.  
-  - Conducted training sessions for junior developers, fostering knowledge sharing.  
+- **2022년:**  
+  - 기존 백엔드 코드를 최적화하여 목표를 초과 달성, 시스템 성능을 25% 개선.  
+  - 주니어 개발자를 위한 교육 세션을 진행하여 지식 공유를 촉진.  
 
-- **2023:**  
-  - Led a major overhaul of the API internal architecture, enhancing security protocols.  
-  - Contributed to the company’s transition to a cloud-based infrastructure.  
-  - Received an overall performance rating of 4.8/5.
+- **2023년:**  
+  - API 내부 아키텍처의 대대적인 개편을 주도하여 보안 프로토콜을 강화.  
+  - 회사의 클라우드 기반 인프라 전환에 기여.  
+  - 종합 성과 평점 4.8/5를 받음.
 
-## Compensation History
-- **2020:** Base Salary: $80,000  
-- **2021:** Base Salary Increase to $90,000; Received a performance bonus of $5,000.  
-- **2022:** Base Salary Increase to $100,000; Performance bonus of $7,500 due to exceptional project outcomes.  
-- **2023:** Base Salary Increase to $115,000; Performance bonus of $10,000 for leading pivotal projects.
+## 보상 이력
+- **2020년:** 기본급 $80,000  
+- **2021년:** 기본급 $90,000로 인상; 성과 보너스 $5,000 수령.  
+- **2022년:** 기본급 $100,000로 인상; 뛰어난 프로젝트 성과로 성과 보너스 $7,500 수령.  
+- **2023년:** 기본급 $115,000로 인상; 핵심 프로젝트 주도에 대한 성과 보너스 $10,000 수령.
 
-## Other HR Notes
-- Participates regularly in Insurellm's Diversity & Inclusion initiatives, championing tech accessibility for underrepresented communities.
-- Completed several certifications in cloud architecture and DevOps, contributing to professional growth.
-- Plans for a professional development course in AI and machine learning to further enhance backend capabilities in Insurellm's offerings.
-- Acknowledged for volunteer efforts in local tech meetups, bringing seasoned engineers to mentor aspiring coders.  
+## 기타 인사 참고사항
+- Insurellm의 다양성 및 포용성(Diversity & Inclusion) 이니셔티브에 정기적으로 참여하며, 소외된 커뮤니티를 위한 기술 접근성을 옹호함.
+- 클라우드 아키텍처 및 DevOps 관련 여러 자격증을 취득하여 전문적 성장에 기여함.
+- Insurellm의 제품군에서 백엔드 역량을 더욱 강화하기 위해 AI 및 머신러닝 관련 전문 개발 과정을 계획 중.
+- 지역 기술 밋업에서의 자원봉사 활동을 인정받아, 경험 많은 엔지니어들을 초빙해 신진 개발자들을 멘토링함.  
 
-Alex Chen continues to be a vital asset at Insurellm, contributing significantly to innovative backend solutions that help shape the future of insurance technology.
+Alex Chen은 Insurellm의 핵심 자산으로서 보험 기술의 미래를 형성하는 데 도움을 주는 혁신적인 백엔드 솔루션에 크게 기여하고 있다.

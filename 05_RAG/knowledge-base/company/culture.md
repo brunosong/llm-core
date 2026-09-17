@@ -1,37 +1,37 @@
-# Insurellm Culture
+# Insurellm의 문화
 
-## Vision Statement
-To revolutionize the insurance industry through innovative technology that makes insurance accessible, transparent, and effortless for everyone.
+## 비전 선언문
+모두를 위해 보험을 더 접근하기 쉽고, 투명하며, 수월하게 만드는 혁신적인 기술을 통해 보험 산업에 혁명을 일으킨다.
 
-## Mission Statement
-We empower insurance providers and consumers with cutting-edge software solutions that streamline processes, enhance customer experiences, and drive meaningful connections in the insurance marketplace. By combining deep industry expertise with technological innovation, we're building the future of insurance.
+## 미션 선언문
+우리는 프로세스를 간소화하고, 고객 경험을 향상시키며, 보험 마켓플레이스 안에서 의미 있는 연결을 이끌어내는 최첨단 소프트웨어 솔루션으로 보험사와 소비자 모두에게 힘을 실어줍니다. 깊이 있는 업계 전문성과 기술 혁신을 결합함으로써, 우리는 보험의 미래를 만들어가고 있습니다.
 
-## Core Values
+## 핵심 가치
 
-### Innovation First
-We challenge the status quo and embrace creative problem-solving. Our team is encouraged to experiment, take calculated risks, and push the boundaries of what's possible in insurance technology. We believe that breakthrough solutions come from curiosity, collaboration, and a willingness to learn from both successes and failures.
+### 혁신 우선
+우리는 현상 유지에 도전하며 창의적인 문제 해결을 받아들입니다. 우리 팀은 실험하고, 계산된 위험을 감수하며, 보험 기술 분야에서 가능한 것의 한계를 넓혀가도록 장려받습니다. 우리는 획기적인 솔루션이 호기심, 협업, 그리고 성공과 실패 모두에서 배우려는 의지에서 비롯된다고 믿습니다.
 
-### Customer Obsession
-Our clients' success is our success. We deeply understand our customers' needs and work tirelessly to exceed their expectations. Every product decision, every feature, and every interaction is guided by a commitment to delivering exceptional value and building lasting partnerships.
+### 고객에 대한 집착
+고객의 성공이 곧 우리의 성공입니다. 우리는 고객의 니즈를 깊이 이해하고 그들의 기대를 뛰어넘기 위해 끊임없이 노력합니다. 모든 제품 결정, 모든 기능, 모든 상호작용은 뛰어난 가치를 제공하고 오래 지속되는 파트너십을 구축하겠다는 다짐에 따라 이루어집니다.
 
-### Integrity & Transparency
-We operate with honesty and openness in everything we do. From our products to our internal operations, we believe that trust is earned through consistent ethical behavior, clear communication, and accountability at all levels of the organization.
+### 진실성과 투명성
+우리는 모든 일에 있어 정직함과 개방성을 바탕으로 일합니다. 제품에서부터 내부 운영에 이르기까지, 우리는 신뢰가 조직 전 단계에서의 일관된 윤리적 행동, 명확한 소통, 그리고 책임감을 통해 얻어진다고 믿습니다.
 
-### Collaborative Excellence
-We achieve more together. We foster a culture where diverse perspectives are valued, knowledge is shared freely, and every team member is empowered to contribute their unique talents. We celebrate collective wins and support each other through challenges.
+### 협업을 통한 탁월함
+우리는 함께할 때 더 많은 것을 이룹니다. 우리는 다양한 관점이 존중되고, 지식이 자유롭게 공유되며, 모든 팀원이 자신만의 고유한 재능을 발휘할 수 있도록 힘을 실어주는 문화를 조성합니다. 우리는 함께 이룬 승리를 축하하고 어려움을 함께 극복해 나갑니다.
 
-## Employer Value Proposition
+## 고용 가치 제안(Employer Value Proposition)
 
-**Build the Future of Insurance Technology with Elite Talent**
+**최정예 인재와 함께 보험 기술의 미래를 만들어갑니다**
 
-At Insurellm, you'll join an elite team of 32 exceptional professionals transforming a traditional industry with cutting-edge technology. After our strategic restructuring in 2022-2023, we evolved from a 200-person startup to a lean, high-performing organization where every person makes a significant impact. With 32 active contracts across all eight product lines—from regional insurers to global reinsurance partners—each team member directly influences technology used by thousands of insurance professionals and millions of consumers. We offer:
+Insurellm에서 여러분은 최첨단 기술로 전통 산업을 변화시키는 32명의 뛰어난 전문가로 이루어진 정예 팀에 합류하게 됩니다. 2022~2023년의 전략적 구조조정 이후, 우리는 200명 규모의 스타트업에서 모든 구성원이 큰 영향력을 발휘하는 효율적이고 높은 성과를 내는 조직으로 진화했습니다. 지역 보험사부터 글로벌 재보험 파트너에 이르기까지 8개 전 제품 라인에 걸친 32건의 활성 계약과 함께, 각 팀원은 수천 명의 보험 전문가와 수백만 명의 소비자가 사용하는 기술에 직접적인 영향을 미칩니다. 우리가 제공하는 것은 다음과 같습니다.
 
-- **Meaningful Impact**: Your work directly shapes products powering 32 active insurance operations, from commercial carriers to health plans to global reinsurance firms
-- **Growth & Development**: Comprehensive professional development programs, mentorship opportunities, and clear career progression paths
-- **Innovation Freedom**: Access to the latest technologies and the autonomy to experiment with new ideas
-- **Work-Life Harmony**: Flexible working arrangements, generous PTO, and a culture that respects personal time
-- **Competitive Rewards**: Market-leading compensation, equity participation, comprehensive benefits, and performance bonuses
-- **Inclusive Environment**: A diverse team where every voice matters and different perspectives drive better solutions
-- **Purpose-Driven Mission**: Be part of making insurance more accessible and fair for everyone
+- **의미 있는 영향력**: 여러분의 업무는 기업 보험사부터 건강보험사, 글로벌 재보험사에 이르기까지 32건의 활성 보험 운영을 지탱하는 제품을 직접적으로 만들어갑니다
+- **성장과 발전**: 종합적인 전문성 개발 프로그램, 멘토링 기회, 명확한 커리어 성장 경로
+- **혁신의 자유**: 최신 기술에 대한 접근과 새로운 아이디어를 실험할 수 있는 자율성
+- **일과 삶의 조화**: 유연한 근무 형태, 넉넉한 유급휴가(PTO), 그리고 개인 시간을 존중하는 문화
+- **경쟁력 있는 보상**: 업계를 선도하는 보상, 지분 참여, 종합적인 복리후생, 성과 보너스
+- **포용적인 환경**: 모든 목소리가 중요하고 다양한 관점이 더 나은 솔루션을 이끌어내는 다양성을 갖춘 팀
+- **목적 중심의 미션**: 모두를 위해 보험을 더 접근하기 쉽고 공정하게 만드는 일에 동참
 
-Join us in disrupting an industry and building technology that matters.
+산업을 혁신하고 중요한 의미를 지닌 기술을 만드는 여정에 함께해 주세요.

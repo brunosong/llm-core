@@ -1,35 +1,35 @@
-# HR Record
+# HR 기록
 
 # Jordan Blake
 
-## Summary
-- **Date of Birth:** March 15, 1993
-- **Job Title:** Sales Development Representative (SDR)
-- **Location:** Austin, Texas
-- **Current Salary:** $65,000  
+## 요약
+- **생년월일:** 1993년 3월 15일
+- **직책:** 영업개발담당자 (Sales Development Representative, SDR)
+- **근무지:** 텍사스주 오스틴
+- **현재 연봉:** $65,000
 
-## Insurellm Career Progression
-- **2021-06:** Joined Insurellm as an Entry-Level SDR  
-- **2022-02:** Promoted to Junior SDR after exceeding quarterly targets by 25%  
-- **2022-12:** Recognized as SDR of the Month for three consecutive months  
-- **2023-05:** Participated in the Insurellm Leadership Training Program  
+## Insurellm 경력 이력
+- **2021년 6월:** Insurellm에 엔트리 레벨 SDR로 입사
+- **2022년 2월:** 분기 목표를 25% 초과 달성하여 주니어 SDR로 승진
+- **2022년 12월:** 3개월 연속 이달의 SDR로 선정
+- **2023년 5월:** Insurellm 리더십 트레이닝 프로그램 참여
 
-## Annual Performance History
-- **2021:** First year at Insurellm; achieved 90% of monthly targets.  
-  - **Feedback:** Strong potential shown in lead generation; needs improvement in follow-up techniques.  
-- **2022:** Achieved 120% of targets; pioneered outreach strategies that increased customer engagement.  
-  - **Feedback:** Jordan's innovative approach contributed significantly to team success; recommended for leadership training.  
-- **2023:** Set to exceed annual targets by 30% in Q3; initiated successful partnerships that broadened market reach.  
-  - **Feedback:** Exceptional communicator; exemplifies the values of Insurellm and promotes team collaboration.
+## 연간 성과 이력
+- **2021년:** Insurellm에서의 첫 해; 월간 목표의 90% 달성
+  - **피드백:** 리드 발굴에서 강한 잠재력을 보임; 후속 조치 기법에서 개선 필요
+- **2022년:** 목표의 120% 달성; 고객 참여도를 높인 아웃리치 전략을 개척
+  - **피드백:** Jordan의 혁신적인 접근 방식이 팀의 성공에 크게 기여함; 리더십 트레이닝 추천 대상
+- **2023년:** 3분기 기준 연간 목표를 30% 초과 달성할 예정; 시장 확대로 이어진 성공적인 파트너십 체결
+  - **피드백:** 탁월한 커뮤니케이터; Insurellm의 가치를 잘 구현하고 팀 협업을 촉진함
 
-## Compensation History
-- **2021-06:** Starting Salary: $50,000  
-- **2022-04:** Merit-based increase: $55,000 (based on performance review)  
-- **2023-06:** Performance bonus awarded: $5,000 (for exceeding goals as recognized in annual review)  
-- **2023-09:** Salary adjustment due to promotion to Senior SDR: $65,000  
+## 보상 이력
+- **2021년 6월:** 초임: $50,000
+- **2022년 4월:** 성과 기반 인상: $55,000 (성과 평가에 근거)
+- **2023년 6월:** 성과 보너스 지급: $5,000 (연례 평가에서 목표 초과 달성으로 인정)
+- **2023년 9월:** Senior SDR 승진에 따른 급여 조정: $65,000
 
-## Other HR Notes
-- Jordan has shown an interest in continuing education, actively participating in company-sponsored sales webinars.  
-- Notable for involvement in the Insurellm volunteer program, assisting local charity events related to financial literacy.  
-- Employee wellness advocate, consistently promotes team bonding activities and stress-relief workshops.  
-- Plans to enroll in a course for advanced sales strategies in Q4 2023, aiming to further enhance his skills at Insurellm.
+## 기타 인사 노트
+- Jordan은 지속적인 교육에 관심을 보이며 회사가 후원하는 영업 웨비나에 적극적으로 참여함
+- Insurellm 자원봉사 프로그램에 참여하여 금융 이해력 관련 지역 자선 행사를 지원한 것으로 주목받음
+- 직원 복지 옹호자로서 팀 유대 활동과 스트레스 해소 워크숍을 꾸준히 장려함
+- 2023년 4분기에 고급 영업 전략 과정에 등록할 계획이며, Insurellm에서 자신의 역량을 더욱 향상시키는 것을 목표로 함

@@ -1,55 +1,55 @@
-# HR Record
+# 인사 기록
 
 # Carlos Rodriguez
 
-## Summary
-- **Date of Birth:** October 12, 1989
-- **Job Title:** Solutions Engineer
-- **Location:** Remote (Based in Miami, Florida)
-- **Current Salary:** $125,000
+## 요약
+- **생년월일:** 1989년 10월 12일
+- **직책:** 솔루션 엔지니어 (Solutions Engineer)
+- **근무지:** 원격 근무 (플로리다 주 마이애미 기반)
+- **현재 연봉:** $125,000
 
-## Insurellm Career Progression
-- **June 2019 - Present:** Solutions Engineer
-  - Provides technical expertise during enterprise sales cycles
-  - Conducts product demonstrations and proof-of-concept implementations
-  - Works closely with sales team to close complex deals
-  - Supports post-sale technical implementation and integration
+## Insurellm 경력 진행
+- **2019년 6월 - 현재:** 솔루션 엔지니어
+  - 엔터프라이즈 영업 과정에서 기술 전문성을 제공
+  - 제품 데모 및 개념 증명(proof-of-concept) 구현을 수행
+  - 영업팀과 긴밀히 협력하여 복잡한 거래를 성사시킴
+  - 판매 후 기술 구현 및 통합을 지원
 
-- **March 2017 - May 2019:** Senior Support Engineer at CloudTech Solutions
-  - Led technical support team for enterprise SaaS platform
-  - Handled escalated technical issues and customer implementations
+- **2017년 3월 - 2019년 5월:** CloudTech Solutions 시니어 지원 엔지니어
+  - 엔터프라이즈 SaaS 플랫폼의 기술 지원팀을 이끎
+  - 에스컬레이션된 기술 문제 및 고객 구현 업무를 처리
 
-- **January 2015 - February 2017:** Application Developer at FinTech Systems
-  - Developed financial software applications
-  - Worked with Java, Python, and SQL technologies
+- **2015년 1월 - 2017년 2월:** FinTech Systems 애플리케이션 개발자
+  - 금융 소프트웨어 애플리케이션을 개발
+  - Java, Python, SQL 기술을 활용하여 업무 수행
 
-## Annual Performance History
-- **2023:** Rating: 4.9/5
-  *Outstanding performance. Instrumental in closing $3M in new business. Excellent technical presentations and client relationships.*
+## 연간 성과 이력
+- **2023년:** 평점: 4.9/5
+  *탁월한 성과. 300만 달러 규모의 신규 계약 체결에 결정적인 역할을 함. 뛰어난 기술 프레젠테이션과 고객 관계 관리.*
 
-- **2022:** Rating: 4.6/5
-  *Exceeded expectations. Strong technical demos that significantly influenced win rates. Great collaboration with sales team.*
+- **2022년:** 평점: 4.6/5
+  *기대치 초과. 수주율에 큰 영향을 미친 강력한 기술 데모를 선보임. 영업팀과의 뛰어난 협업.*
 
-- **2021:** Rating: 4.4/5
-  *Solid performance with good sales support. Needed to improve documentation of technical solutions.*
+- **2021년:** 평점: 4.4/5
+  *영업 지원 측면에서 견실한 성과. 기술 솔루션 관련 문서화 개선이 필요했음.*
 
-- **2020:** Rating: 3.9/5
-  *Good performance during challenging remote transition. Some gaps in product knowledge addressed through training.*
+- **2020년:** 평점: 3.9/5
+  *어려운 원격 전환기 동안 양호한 성과를 보임. 제품 지식의 일부 공백을 교육을 통해 보완함.*
 
-- **2019:** Rating: 4.1/5
-  *Strong start as Solutions Engineer. Quick learner with excellent technical communication skills.*
+- **2019년:** 평점: 4.1/5
+  *솔루션 엔지니어로서의 훌륭한 시작. 빠른 학습 능력과 뛰어난 기술 커뮤니케이션 역량을 보유.*
 
-## Compensation History
-- **2023:** Base Salary: $125,000 + Bonus: $22,000
-- **2022:** Base Salary: $118,000 + Bonus: $18,000
-- **2021:** Base Salary: $110,000 + Bonus: $14,000
-- **2020:** Base Salary: $102,000 + Bonus: $10,000
-- **2019:** Base Salary: $95,000 + Bonus: $8,000
+## 보상 이력
+- **2023년:** 기본급: $125,000 + 보너스: $22,000
+- **2022년:** 기본급: $118,000 + 보너스: $18,000
+- **2021년:** 기본급: $110,000 + 보너스: $14,000
+- **2020년:** 기본급: $102,000 + 보너스: $10,000
+- **2019년:** 기본급: $95,000 + 보너스: $8,000
 
-## Other HR Notes
-- **Education:** MS in Computer Science from University of Florida
-- **Certifications:** AWS Solutions Architect Professional, Salesforce Certified Technical Architect
-- **Languages:** Fluent in English and Spanish, frequently supports Latin American clients
-- **Recognition:** Solutions Engineer of the Year 2023
-- **Skills:** Expert in API integrations, cloud architecture, and technical sales. Strong presenter with ability to explain complex concepts to non-technical audiences.
-- **Feedback:** Top performer who combines deep technical knowledge with excellent sales acumen. Natural leader who mentors junior SEs.
+## 기타 인사 참고사항
+- **학력:** 플로리다 대학교(University of Florida) 컴퓨터공학 석사
+- **자격증:** AWS Solutions Architect Professional, Salesforce Certified Technical Architect
+- **언어:** 영어와 스페인어에 능통하며 라틴아메리카 고객을 자주 지원함
+- **수상:** 2023년 올해의 솔루션 엔지니어(Solutions Engineer of the Year)
+- **역량:** API 통합, 클라우드 아키텍처, 기술 영업 분야의 전문가. 복잡한 개념을 비기술적 청중에게 설명하는 능력을 갖춘 뛰어난 발표자.
+- **피드백:** 깊은 기술 지식과 뛰어난 영업 감각을 겸비한 최고 성과자. 주니어 솔루션 엔지니어들을 멘토링하는 타고난 리더.

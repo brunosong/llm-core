@@ -1,54 +1,54 @@
-# HR Record
+# HR 기록
 
 # Maxine Thompson
 
-## Summary
-- **Date of Birth:** January 15, 1991
-- **Job Title:** Data Engineer
-- **Location:** Austin, Texas
-- **Current Salary:** $120,000  
+## 요약
+- **생년월일:** 1991년 1월 15일
+- **직책:** 데이터 엔지니어 (Data Engineer)
+- **근무지:** 텍사스주 오스틴
+- **현재 연봉:** $120,000
 
-## Insurellm Career Progression
-- **January 2017 - October 2018**: **Junior Data Engineer**  
-  * Maxine joined Insurellm as a Junior Data Engineer, focusing primarily on ETL processes and data integration tasks. She quickly learned Insurellm's data architecture, collaborating with other team members to streamline data workflows.  
-- **November 2018 - December 2020**: **Data Engineer**  
-  * In her new role, Maxine expanded her responsibilities to include designing comprehensive data models and improving data quality measures. Though she excelled in technical skills, communication issues with non-technical teams led to some project delays.  
-- **January 2021 - Present**: **Senior Data Engineer**  
-  * Maxine was promoted to Senior Data Engineer after successfully leading a pivotal project that improved data retrieval times by 30%. She now mentors junior engineers and is involved in strategic data initiatives, solidifying her position as a valued asset at Insurellm. She was recognized as Insurellm Innovator of the year in 2023, receiving the prestigious IIOTY 2023 award.  
+## Insurellm 경력 이력
+- **2017년 1월 - 2018년 10월**: **주니어 데이터 엔지니어 (Junior Data Engineer)**
+  * Maxine은 Insurellm에 주니어 데이터 엔지니어로 입사하여 주로 ETL 프로세스와 데이터 통합 작업에 집중했습니다. Insurellm의 데이터 아키텍처를 빠르게 습득했으며, 다른 팀원들과 협력하여 데이터 워크플로우를 간소화했습니다.
+- **2018년 11월 - 2020년 12월**: **데이터 엔지니어 (Data Engineer)**
+  * 새로운 역할에서 Maxine은 종합적인 데이터 모델 설계와 데이터 품질 개선 작업으로 책임 범위를 확장했습니다. 기술 역량 면에서는 뛰어났지만, 비기술 팀과의 소통 문제로 일부 프로젝트 지연이 발생했습니다.
+- **2021년 1월 - 현재**: **선임 데이터 엔지니어 (Senior Data Engineer)**
+  * Maxine은 데이터 조회 시간을 30% 개선한 핵심 프로젝트를 성공적으로 이끈 후 선임 데이터 엔지니어로 승진했습니다. 현재는 주니어 엔지니어들을 멘토링하며 전략적 데이터 이니셔티브에 참여하여 Insurellm의 소중한 인재로서의 입지를 굳히고 있습니다. 2023년에는 Insurellm Innovator of the year로 선정되어 권위 있는 IIOTY 2023 상을 수상했습니다.
 
-## Annual Performance History
-- **2017**: *Meets Expectations*  
-  Maxine showed potential in her role but struggled with initial project deadlines. Her adaptability and willingness to learn made positive impacts on her team.  
+## 연간 성과 이력
+- **2017년**: *기대 충족*
+  Maxine은 자신의 역할에서 잠재력을 보였지만 초기 프로젝트 마감일을 지키는 데 어려움을 겪었습니다. 그녀의 적응력과 배우려는 의지는 팀에 긍정적인 영향을 미쳤습니다.
 
-- **2018**: *Exceeds Expectations*  
-  Maxine improved significantly, becoming a reliable team member with strong problem-solving skills. She took on leadership in a project that automated data entry processes.  
+- **2018년**: *기대 이상*
+  Maxine은 크게 발전하여 강력한 문제 해결 능력을 갖춘 신뢰할 수 있는 팀원이 되었습니다. 데이터 입력 프로세스를 자동화한 프로젝트에서 리더십을 발휘했습니다.
 
-- **2019**: *Needs Improvement*  
-  During this year, difficult personal circumstances affected Maxine's performance. She missed key deadlines and had several communication issues with stakeholders.  
+- **2019년**: *개선 필요*
+  이 해에는 어려운 개인 사정이 Maxine의 성과에 영향을 미쳤습니다. 주요 마감일을 놓쳤고 이해관계자들과 여러 소통 문제를 겪었습니다.
 
-- **2020**: *Meets Expectations*  
-  Maxine focused on regaining her footing and excelling with technical skills. She was stable, though not standout, in her contributions. Feedback indicated a need for more proactivity.  
+- **2020년**: *기대 충족*
+  Maxine은 다시 자리를 잡고 기술 역량에서 뛰어난 성과를 내는 데 집중했습니다. 두드러지지는 않았지만 안정적으로 기여했습니다. 피드백에 따르면 더 많은 주도성이 필요했습니다.
 
-- **2021**: *Exceeds Expectations*  
-  Maxine spearheaded the transition to a new data warehousing solution, significantly enhancing Insurellm’s data analytics capabilities. This major achievement bolstered her reputation within the company.  
+- **2021년**: *기대 이상*
+  Maxine은 새로운 데이터 웨어하우징 솔루션으로의 전환을 주도하여 Insurellm의 데이터 분석 역량을 크게 향상시켰습니다. 이 중요한 성과는 회사 내에서 그녀의 평판을 높였습니다.
 
-- **2022**: *Outstanding*  
-  Maxine continued her upward trajectory, successfully implementing machine learning algorithms to predict customer behavior, which was well-received by the leadership team and improved client satisfaction.  
+- **2022년**: *우수*
+  Maxine은 상승세를 이어가며 고객 행동을 예측하는 머신러닝 알고리즘을 성공적으로 구현했고, 이는 경영진으로부터 좋은 평가를 받았으며 고객 만족도를 향상시켰습니다.
 
-- **2023**: *Exceeds Expectations*  
-  Maxine has taken on mentoring responsibilities and is leading a cross-functional team for data governance initiatives, showcasing her leadership and solidifying her role at Insurellm.  
+- **2023년**: *기대 이상*
+  Maxine은 멘토링 책임을 맡았으며 데이터 거버넌스 이니셔티브를 위한 교차 기능 팀을 이끌며 리더십을 보여주고 Insurellm에서의 입지를 확고히 하고 있습니다.
 
-## Compensation History
-- **2017**: $70,000 (Junior Data Engineer)  
-- **2018**: $75,000 (Junior Data Engineer)  
-- **2019**: $80,000 (Data Engineer)  
-- **2020**: $84,000 (Data Engineer)  
-- **2021**: $95,000 (Senior Data Engineer)  
-- **2022**: $110,000 (Senior Data Engineer)  
-- **2023**: $120,000 (Senior Data Engineer)  
+## 보상 이력
+- **2017년**: $70,000 (주니어 데이터 엔지니어)
+- **2018년**: $75,000 (주니어 데이터 엔지니어)
+- **2019년**: $80,000 (데이터 엔지니어)
+- **2020년**: $84,000 (데이터 엔지니어)
+- **2021년**: $95,000 (선임 데이터 엔지니어)
+- **2022년**: $110,000 (선임 데이터 엔지니어)
+- **2023년**: $120,000 (선임 데이터 엔지니어)
 
-## Other HR Notes
-- Maxine participated in various company-sponsored trainings related to big data technologies and cloud infrastructure.  
-- She was recognized for her contributions with the prestigious Insurellm IIOTY Innovator Award in 2023.  
-- Maxine is currently involved in the women-in-tech initiative and participates in mentorship programs to guide junior employees.  
-- Future development areas include improving her stakeholder communication skills to ensure smoother project transitions and collaboration.  
+## 기타 인사 노트
+- Maxine은 빅데이터 기술 및 클라우드 인프라 관련 다양한 회사 후원 교육에 참여했습니다.
+- 2023년 권위 있는 Insurellm IIOTY Innovator Award를 수상하며 그녀의 기여를 인정받았습니다.
+- Maxine은 현재 여성 IT 인재 지원 이니셔티브에 참여하고 있으며 주니어 직원들을 지도하는 멘토십 프로그램에도 참여하고 있습니다.
+- 향후 개발 영역으로는 프로젝트 전환과 협업을 원활하게 하기 위한 이해관계자 커뮤니케이션 능력 개선이 있습니다.

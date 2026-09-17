@@ -1,60 +1,60 @@
-# HR Record
+# HR 기록
 
 # Priya Sharma
 
-## Summary
-- **Date of Birth:** January 8, 1986
-- **Job Title:** Senior Data Scientist
-- **Location:** San Francisco, California
-- **Current Salary:** $145,000
+## 요약
+- **생년월일:** 1986년 1월 8일
+- **직책:** Senior Data Scientist
+- **근무지:** 캘리포니아주 샌프란시스코
+- **현재 연봉:** $145,000
 
-## Insurellm Career Progression
-- **March 2018 - Present:** Senior Data Scientist
-  - Leads machine learning initiatives for risk prediction models
-  - Built recommendation engine for Marketllm increasing conversion by 28%
-  - Mentors team of 3 junior data scientists
-  - Published 2 research papers on insurance ML applications
+## Insurellm 경력 진행
+- **2018년 3월 - 현재:** Senior Data Scientist
+  - 위험 예측 모델을 위한 머신러닝 이니셔티브를 이끔
+  - Marketllm용 추천 엔진을 구축하여 전환율을 28% 향상시킴
+  - 주니어 데이터 과학자 3명으로 구성된 팀을 멘토링
+  - 보험 ML 응용 관련 연구 논문 2편 발표
 
-- **June 2015 - February 2018:** Data Scientist at FinML Analytics
-  - Developed predictive models for financial services clients
-  - Specialized in customer churn prediction and fraud detection
+- **2015년 6월 - 2018년 2월:** FinML Analytics, Data Scientist
+  - 금융 서비스 고객사를 위한 예측 모델 개발
+  - 고객 이탈 예측 및 사기 탐지 전문
 
-- **August 2012 - May 2015:** Research Scientist at UC Berkeley AI Lab
-  - Conducted research in machine learning and natural language processing
-  - Published 5 peer-reviewed papers
+- **2012년 8월 - 2015년 5월:** UC Berkeley AI Lab, Research Scientist
+  - 머신러닝 및 자연어 처리 연구 수행
+  - 동료 심사 논문 5편 발표
 
-## Annual Performance History
-- **2023:** Rating: 4.9/5
-  *Exceptional performance. Led breakthrough AI-driven underwriting project. Excellent technical leadership and mentorship.*
+## 연간 성과 이력
+- **2023년:** 평점 4.9/5
+  *탁월한 성과. 획기적인 AI 기반 언더라이팅 프로젝트를 이끔. 뛰어난 기술 리더십과 멘토링.*
 
-- **2022:** Rating: 4.7/5
-  *Outstanding work on risk prediction models. Strong collaboration with product team and technical innovation.*
+- **2022년:** 평점 4.7/5
+  *위험 예측 모델에서 뛰어난 성과. 프로덕트 팀과의 강력한 협업과 기술 혁신.*
 
-- **2021:** Rating: 4.5/5
-  *Exceeded expectations with successful launch of recommendation engine. Effective mentor to junior team members.*
+- **2021년:** 평점 4.5/5
+  *추천 엔진의 성공적인 출시로 기대치를 초과 달성. 주니어 팀원들에게 효과적인 멘토 역할 수행.*
 
-- **2020:** Rating: 4.3/5
-  *Strong performance despite remote transition challenges. Maintained high-quality model development.*
+- **2020년:** 평점 4.3/5
+  *원격 전환의 어려움에도 불구하고 우수한 성과. 높은 품질의 모델 개발을 유지함.*
 
-- **2019:** Rating: 4.6/5
-  *Excellent contributions to fraud detection systems. Recognized for thought leadership in ML applications.*
+- **2019년:** 평점 4.6/5
+  *사기 탐지 시스템에 훌륭한 기여. ML 응용 분야의 사고 리더십을 인정받음.*
 
-- **2018:** Rating: 4.2/5
-  *Solid first year. Quick to understand insurance domain and apply ML expertise effectively.*
+- **2018년:** 평점 4.2/5
+  *견실한 첫해. 보험 도메인을 빠르게 이해하고 ML 전문성을 효과적으로 적용함.*
 
-## Compensation History
-- **2023:** Base Salary: $145,000 + Bonus: $25,000
-- **2022:** Base Salary: $138,000 + Bonus: $22,000
-- **2021:** Base Salary: $130,000 + Bonus: $20,000
-- **2020:** Base Salary: $122,000 + Bonus: $18,000
-- **2019:** Base Salary: $115,000 + Bonus: $15,000
-- **2018:** Base Salary: $108,000 + Bonus: $12,000
+## 보상 이력
+- **2023년:** 기본급 $145,000 + 보너스 $25,000
+- **2022년:** 기본급 $138,000 + 보너스 $22,000
+- **2021년:** 기본급 $130,000 + 보너스 $20,000
+- **2020년:** 기본급 $122,000 + 보너스 $18,000
+- **2019년:** 기본급 $115,000 + 보너스 $15,000
+- **2018년:** 기본급 $108,000 + 보너스 $12,000
 
-## Other HR Notes
-- **Education:** PhD in Computer Science (Machine Learning) from Stanford University
-- **Publications:** 7+ peer-reviewed papers in ML conferences and journals
-- **Speaking:** Regular speaker at ML and InsurTech conferences. Represented Insurellm at 4 major conferences in 2023.
-- **Patents:** Co-inventor on 2 pending patents for insurance ML applications
-- **Recognition:** Data Science Excellence Award 2023, featured in InsureTech Innovation Magazine
-- **Skills:** Expert in Python, TensorFlow, PyTorch, scikit-learn, SQL, and cloud ML platforms
-- **Feedback:** World-class technical talent with strong business acumen. Natural leader who elevates entire team. Key retention priority.
+## 기타 HR 메모
+- **학력:** Stanford University 컴퓨터공학(머신러닝) 박사(PhD)
+- **논문:** ML 학회 및 저널에 동료 심사 논문 7편 이상 발표
+- **강연:** ML 및 InsurTech 컨퍼런스의 단골 연사. 2023년 4개 주요 컨퍼런스에서 Insurellm을 대표하여 발표.
+- **특허:** 보험 ML 응용 관련 출원 중인 특허 2건의 공동 발명자
+- **수상:** 2023년 Data Science Excellence Award 수상, InsureTech Innovation Magazine에 소개됨
+- **역량:** Python, TensorFlow, PyTorch, scikit-learn, SQL, 클라우드 ML 플랫폼에 전문성 보유
+- **피드백:** 뛰어난 비즈니스 감각을 갖춘 세계적 수준의 기술 인재. 팀 전체를 끌어올리는 타고난 리더. 핵심 리텐션 우선 대상.

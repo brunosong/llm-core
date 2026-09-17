@@ -1,121 +1,121 @@
-# Contract with Guardian Life Partners for Lifellm
+# Guardian Life Partners와 Lifellm 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Agreement Effective Date**: This contract is effective as of March 1, 2025.
-2. **Duration**: This agreement will remain in effect for a term of 24 months, concluding on February 28, 2027.
-3. **Subscription Type**: Guardian Life Partners agrees to subscribe to the **Growth Tier** of Lifellm, at a cost of $7,500/month, totaling $180,000 for the duration of this contract.
-4. **Policy Capacity**: Growth Tier supports up to 10,000 active policies with underwriting for 3,000 new applications annually.
-5. **Payment Terms**: Payments are due on the 1st of each month via ACH transfer. Late payments incur a 1.5% monthly penalty.
-6. **User Licenses**: Contract includes 25 named user licenses (underwriters, administrators, agents). Additional licenses: $120/month per user.
-7. **Termination Clause**: Either party may terminate with 60 days' written notice. Early termination before month 12 requires payment of 30% of remaining contract value.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement will automatically renew for an additional 24-month term unless either party provides written notice of non-renewal at least 60 days before expiration.
-2. **Price Protection**: Pricing increases capped at 7% annually for first two renewals.
-3. **Enterprise Upgrade**: If Guardian upgrades to Enterprise tier at renewal, receives 12% discount on incremental cost for first renewal period.
+1. **계약 발효일**: 본 계약은 2025년 3월 1일부로 발효됩니다.
+2. **계약 기간**: 본 계약은 24개월간 유효하며, 2027년 2월 28일에 종료됩니다.
+3. **구독 유형**: Guardian Life Partners는 Lifellm의 **Growth Tier**를 구독하는 데 동의하며, 비용은 월 $7,500이고 계약 기간 전체 총액은 $180,000입니다.
+4. **보험증권 처리 용량**: Growth Tier는 최대 10,000건의 활성 보험증권과 연간 3,000건의 신규 신청 언더라이팅을 지원합니다.
+5. **결제 조건**: 결제는 ACH 계좌이체를 통해 매월 1일에 이루어져야 합니다. 연체 시 월 1.5%의 연체료가 부과됩니다.
+6. **사용자 라이선스**: 본 계약에는 25명의 지정 사용자 라이선스(언더라이터, 관리자, 대리인)가 포함됩니다. 추가 라이선스: 사용자당 월 $120.
+7. **해지 조항**: 양 당사자는 60일 서면 통지로 계약을 해지할 수 있습니다. 12개월차 이전 조기 해지 시 잔여 계약 가치의 30%를 지불해야 합니다.
 
 ---
 
-## Features
+## 갱신
 
-1. **Access to Growth Tier Features**: Guardian Life Partners will have comprehensive access to:
-   - AI-Powered Underwriting with accelerated decision-making (60% of applications instant decision)
-   - Predictive Risk Modeling with machine learning mortality analysis
-   - **Digital Health Integration** with wearables and health tracking apps (Fitbit, Apple Health, Garmin)
-   - Automated Policy Management with full policy lifecycle support
-   - Smart Document Processing with medical record analysis
-   - Customer Portal with policyholder self-service
-   - Compliance Automation across all 50 states
-   - **Advanced Reporting** with predictive analytics
-
-2. **Digital Health Features:**
-   - Wearable device integration for wellness programs
-   - Activity tracking and health score calculation
-   - Premium discount automation based on health behaviors
-   - Wellness challenge campaigns
-   - Health goal tracking and rewards management
-
-3. **Advanced Underwriting:**
-   - Automated underwriting for face amounts up to $500,000
-   - Accelerated underwriting (no medical exam) for qualified applicants
-   - Predictive models trained on 10M+ life insurance applications
-   - Risk stratification and pricing optimization
-   - Decline rescue recommendations
-
-4. **Agent Portal:**
-   - Agent-facing tools for 200+ independent agents
-   - Real-time application status tracking
-   - Commission calculation and reporting
-   - E-application with digital signature
-   - Marketing materials and quote tools
+1. **자동 갱신**: 본 계약은 만료 최소 60일 전에 어느 한쪽 당사자가 갱신 거부에 대한 서면 통지를 하지 않는 한 추가 24개월 기간으로 자동 갱신됩니다.
+2. **가격 보호**: 최초 2회의 갱신에 대해서는 가격 인상률이 연 7%로 상한선이 설정됩니다.
+3. **Enterprise 업그레이드**: Guardian이 갱신 시점에 Enterprise Tier로 업그레이드할 경우, 첫 갱신 기간의 증분 비용에 대해 12% 할인을 받습니다.
 
 ---
 
-## Support
+## 기능
 
-1. **Technical Support**: Guardian Life Partners will receive enhanced support:
-   - Priority support line Monday-Friday 7 AM - 8 PM EST
-   - Email and chat support with 6-hour response time for critical issues
-   - Dedicated support engineer for complex integrations
-   - 24/7 emergency hotline for system outages
+1. **Growth Tier 기능 이용**: Guardian Life Partners는 다음에 대한 포괄적인 접근 권한을 갖습니다.
+   - 가속화된 의사결정을 지원하는 AI 기반 언더라이팅(신청 건의 60%가 즉시 결정)
+   - 머신러닝 기반 사망률 분석을 활용한 예측 리스크 모델링
+   - 웨어러블 및 건강 추적 앱(Fitbit, Apple Health, Garmin)과의 **디지털 건강 통합**
+   - 전체 보험증권 생애주기를 지원하는 자동화된 보험증권 관리
+   - 의료 기록 분석을 포함한 스마트 문서 처리
+   - 보험계약자 셀프서비스를 위한 고객 포털
+   - 50개 주 전역에 걸친 컴플라이언스 자동화
+   - 예측 분석을 포함한 **고급 보고**
 
-2. **Training**: Comprehensive training program:
-   - Initial onboarding (4 weeks) for up to 20 staff members (40 hours total)
-   - Role-specific training: underwriters, administrators, IT, agents
-   - Quarterly product update webinars
-   - Annual certification program for underwriters
-   - Access to online learning platform with 30+ courses
-   - Train-the-trainer program for agent network
+2. **디지털 건강 기능:**
+   - 웰니스 프로그램을 위한 웨어러블 기기 통합
+   - 활동 추적 및 건강 점수 산정
+   - 건강 행동에 기반한 보험료 할인 자동화
+   - 웰니스 챌린지 캠페인
+   - 건강 목표 추적 및 리워드 관리
 
-3. **Updates and Maintenance**:
-   - Monthly platform updates with new features
-   - Bi-weekly security enhancements
-   - Maintenance windows: Saturday 11 PM - Sunday 3 AM EST
-   - 72-hour advance notice for major updates
-   - Dedicated staging environment for testing updates
+3. **고급 언더라이팅:**
+   - 최대 $500,000 보장금액에 대한 자동화된 언더라이팅
+   - 자격을 갖춘 신청자를 위한 가속화된 언더라이팅(무진단)
+   - 1,000만 건 이상의 생명보험 신청 데이터로 훈련된 예측 모델
+   - 리스크 계층화 및 가격 최적화
+   - 거절 구제(decline rescue) 권고
 
-4. **Account Management**:
-   - Named Customer Success Manager with bi-weekly check-ins
-   - Quarterly business reviews with metrics analysis
-   - Annual strategic planning session
-   - Direct escalation path to Director of Customer Success
-   - Industry benchmarking reports
-
-5. **Integration Support**: Technical assistance for integrating Lifellm with:
-   - Guardian's policy administration system (iPipeline, VPAS, or custom)
-   - Agent management system (Salesforce, Applied Systems)
-   - Medical data providers (MIB, Milliman IntelliScript, ExamOne)
-   - Payment processing and billing systems
-   - CRM and marketing automation platforms
-
-6. **Wellness Program Support:**
-   - Assistance designing wellness initiatives
-   - Health program configuration and gamification
-   - Marketing templates for wellness campaigns
-   - Best practices from other carriers' successful programs
+4. **대리인 포털:**
+   - 200명 이상의 독립 대리인을 위한 대리인용 도구
+   - 실시간 신청 현황 추적
+   - 수수료 산정 및 보고
+   - 디지털 서명을 포함한 전자 신청서
+   - 마케팅 자료 및 견적 도구
 
 ---
 
-**Signatures:**
+## 지원
+
+1. **기술 지원**: Guardian Life Partners는 다음과 같은 향상된 지원을 받습니다.
+   - 월요일~금요일 미 동부시간 오전 7시 ~ 오후 8시 우선 지원 회선
+   - 긴급 사안에 대해 6시간 응답 시간을 갖춘 이메일 및 채팅 지원
+   - 복잡한 통합 작업을 위한 전담 지원 엔지니어
+   - 시스템 장애 발생 시 연중무휴 24시간 긴급 핫라인
+
+2. **교육**: 종합적인 교육 프로그램:
+   - 최대 20명의 직원을 대상으로 하는 초기 온보딩(4주, 총 40시간)
+   - 언더라이터, 관리자, IT, 대리인 대상 역할별 교육
+   - 분기별 제품 업데이트 웨비나
+   - 언더라이터를 위한 연간 인증 프로그램
+   - 30개 이상 강좌를 갖춘 온라인 학습 플랫폼 이용
+   - 대리인 네트워크를 위한 트레이너 양성 프로그램
+
+3. **업데이트 및 유지보수**:
+   - 신규 기능이 포함된 월간 플랫폼 업데이트
+   - 격주 보안 개선
+   - 유지보수 시간: 토요일 오후 11시 ~ 일요일 오전 3시(미 동부시간)
+   - 주요 업데이트에 대한 72시간 사전 통지
+   - 업데이트 테스트를 위한 전용 스테이징 환경
+
+4. **계정 관리**:
+   - 격주 점검을 진행하는 지정 고객성공 관리자(CSM)
+   - 지표 분석이 포함된 분기별 비즈니스 리뷰
+   - 연례 전략 기획 세션
+   - 고객성공 이사(Director)로의 직접 에스컬레이션 경로
+   - 업계 벤치마킹 보고서
+
+5. **통합 지원**: Lifellm을 다음과 통합하기 위한 기술 지원:
+   - Guardian의 계약관리시스템(iPipeline, VPAS, 또는 맞춤형 시스템)
+   - 대리인 관리 시스템(Salesforce, Applied Systems)
+   - 의료 데이터 제공업체(MIB, Milliman IntelliScript, ExamOne)
+   - 결제 처리 및 청구 시스템
+   - CRM 및 마케팅 자동화 플랫폼
+
+6. **웰니스 프로그램 지원:**
+   - 웰니스 이니셔티브 설계 지원
+   - 건강 프로그램 구성 및 게임화(gamification)
+   - 웰니스 캠페인을 위한 마케팅 템플릿
+   - 타 보험사의 성공적인 프로그램 모범 사례
+
+---
+
+**서명:**
 
 _________________________________
 **Michael Torres**
-**Title**: Chief Revenue Officer
+**직위**: Chief Revenue Officer
 **Insurellm, Inc.**
-**Date**: March 1, 2025
+**날짜**: 2025년 3월 1일
 
 _________________________________
 **Jonathan Park**
-**Title**: President & CEO
+**직위**: President & CEO
 **Guardian Life Partners**
-**Date**: March 1, 2025
+**날짜**: 2025년 3월 1일
 
 ---
 
-*This contract establishes Guardian Life Partners as a strategic partner leveraging Lifellm's advanced AI underwriting and digital health integration to modernize life insurance operations.*
+*본 계약은 Guardian Life Partners를 Lifellm의 고급 AI 언더라이팅 및 디지털 건강 통합을 활용하여 생명보험 업무를 현대화하는 전략적 파트너로 확립합니다.*

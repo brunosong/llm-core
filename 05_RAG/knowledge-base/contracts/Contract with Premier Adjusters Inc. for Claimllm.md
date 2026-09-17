@@ -1,123 +1,123 @@
-# Contract with Premier Adjusters Inc. for Claimllm
+# Premier Adjusters Inc.와 Claimllm에 관한 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Agreement Effective Date**: This contract is effective as of February 15, 2025.
-2. **Duration**: This agreement will remain in effect for a term of 24 months, concluding on February 14, 2027.
-3. **Subscription Type**: Premier Adjusters Inc. agrees to subscribe to the **Advanced Tier** of Claimllm, at a cost of $9,500/month, totaling $228,000 for the duration of this contract.
-4. **Claims Volume**: Advanced Tier supports up to 25,000 claims annually. Current baseline estimate: 18,000 claims/year.
-5. **Payment Terms**: Payments are due on the 5th of each month via wire transfer. Late payments will incur a penalty of 1.8% per month.
-6. **Performance Guarantees**: Insurellm guarantees average FNOL-to-assignment time of less than 2 hours, and fraud detection accuracy of 85%+ on confirmed fraud cases.
-7. **Termination Clause**: Either party may terminate this agreement with 60 days' written notice. No early termination fees after 12 months.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement will automatically renew for an additional 24-month term unless either party provides written notice of non-renewal at least 60 days before expiration.
-2. **Pricing Adjustments**: Renewal pricing subject to annual CPI adjustment, maximum 7% increase.
-3. **Tier Flexibility**: Premier may move to Enterprise tier at renewal or annually with 45 days' notice and prorated adjustment.
+1. **계약 발효일**: 본 계약은 2025년 2월 15일부터 효력을 갖는다.
+2. **기간**: 본 계약은 24개월간 유효하며, 2027년 2월 14일에 종료된다.
+3. **구독 유형**: Premier Adjusters Inc.는 Claimllm의 **Advanced Tier**를 구독하는 데 동의하며, 월 $9,500의 비용으로 계약 기간 전체 총 $228,000이 청구된다.
+4. **청구 처리 건수**: Advanced Tier는 연간 최대 25,000건의 청구를 지원한다. 현재 기준 예상치는 연간 18,000건이다.
+5. **결제 조건**: 결제는 매월 5일에 전신 송금으로 이루어져야 한다. 연체 시 월 1.8%의 위약금이 부과된다.
+6. **성과 보증**: Insurellm은 평균 사고 최초 통지(FNOL)에서 배정까지 소요 시간을 2시간 미만으로, 확정된 사기 사건에 대한 사기 탐지 정확도를 85% 이상으로 보증한다.
+7. **해지 조항**: 양 당사자는 60일 전 서면 통지를 통해 본 계약을 해지할 수 있다. 12개월 경과 후에는 조기 해지 수수료가 부과되지 않는다.
 
 ---
 
-## Features
+## 갱신
 
-1. **Access to Advanced Tier Features**: Premier Adjusters Inc. will have access to comprehensive claims automation:
-   - Intelligent FNOL Processing across all communication channels
-   - Automated Triage and Routing with ML-based severity assessment
-   - **Computer Vision Damage Assessment** with photo/video analysis and automated repair cost estimation
-   - **Predictive Fraud Detection** with network analysis and anomaly detection
-   - Smart Document Processing with OCR, NLP, and auto-extraction from medical records, police reports, and estimates
-   - Dynamic Reserve Setting with AI-powered predictive modeling
-   - Vendor Management Platform with automated assignment and performance tracking
-   - Payment Automation for approved claims with multi-party splitting
-   - Claimant Communication Hub with omnichannel messaging
-   - **Advanced Analytics** with predictive cycle time modeling and settlement optimization
-
-2. **Computer Vision Capabilities:**
-   - Automated vehicle damage assessment from photos (dents, scratches, structural damage)
-   - Property damage evaluation (roof, siding, interior damage)
-   - Severity scoring and repair cost estimation
-   - Parts identification and replacement recommendations
-   - Integration with estimating systems (CCC, Mitchell, Audatex)
-
-3. **Fraud Analytics:**
-   - Social network analysis to identify claim rings
-   - Geospatial anomaly detection
-   - Behavioral pattern matching against known fraud indicators
-   - Third-party data enrichment (public records, social media)
-   - Predictive fraud scoring with explanation rationale
-
-4. **Vendor Network:**
-   - Support for 200+ preferred vendors (repair shops, medical providers, attorneys)
-   - Automated work assignment based on location, capacity, and quality scores
-   - Real-time vendor availability and scheduling
-   - Vendor performance dashboards and scorecards
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 만료 최소 60일 전에 서면으로 갱신하지 않겠다는 통지를 하지 않는 한, 추가 24개월 기간으로 자동 갱신된다.
+2. **가격 조정**: 갱신 가격은 연간 소비자물가지수(CPI) 조정에 따르며, 최대 인상률은 7%이다.
+3. **등급 유연성**: Premier는 갱신 시점 또는 매년 45일 전 통지와 함께 일할 계산된 조정을 거쳐 Enterprise 등급으로 전환할 수 있다.
 
 ---
 
-## Support
+## 기능
 
-1. **Technical Support**: Premier Adjusters Inc. will receive priority advanced support:
-   - Dedicated technical support team
-   - 24/7 emergency hotline for critical system issues
-   - Response time: 2 hours critical, 6 hours high priority, 12 hours standard
-   - Dedicated Slack channel for real-time communication
+1. **Advanced Tier 기능 이용**: Premier Adjusters Inc.는 종합적인 청구 자동화 기능을 이용할 수 있다.
+   - 모든 커뮤니케이션 채널에 걸친 지능형 FNOL(사고 최초 통지) 처리
+   - 머신러닝 기반 심각도 평가를 활용한 자동 분류 및 배정
+   - **컴퓨터 비전 손상 평가**: 사진/영상 분석 및 자동 수리 비용 산정
+   - **예측형 사기 탐지**: 네트워크 분석 및 이상 탐지
+   - 의료 기록, 경찰 보고서, 견적서에서 OCR, NLP, 자동 추출을 활용한 스마트 문서 처리
+   - AI 기반 예측 모델링을 활용한 동적 준비금 설정
+   - 자동 배정 및 성과 추적이 가능한 벤더 관리 플랫폼
+   - 다자간 분할이 가능한 승인된 청구 결제 자동화
+   - 옴니채널 메시징을 지원하는 청구인 커뮤니케이션 허브
+   - **고급 분석**: 예측형 처리 시간 모델링 및 정산 최적화
 
-2. **Training**: Comprehensive training program:
-   - 4-week implementation with on-site support (first 2 weeks)
-   - Training for up to 40 staff members (adjusters, supervisors, IT)
-   - Role-specific training tracks (FNOL specialists, senior adjusters, fraud investigators)
-   - Monthly advanced training webinars on new features
-   - Annual adjuster certification program
-   - Access to online training portal with 50+ courses
+2. **컴퓨터 비전 기능:**
+   - 사진을 통한 자동 차량 손상 평가(찌그러짐, 긁힘, 구조적 손상)
+   - 재산 손상 평가(지붕, 외장재, 실내 손상)
+   - 심각도 점수화 및 수리 비용 산정
+   - 부품 식별 및 교체 권장
+   - 견적 시스템과의 연동(CCC, Mitchell, Audatex)
 
-3. **Updates and Maintenance**:
-   - Monthly platform updates with new features
-   - Bi-weekly security patches and improvements
-   - Maintenance windows: Saturday 11 PM - Sunday 4 AM EST
-   - 72-hour advance notice for major updates
-   - Option to delay non-critical updates by up to 30 days
+3. **사기 분석:**
+   - 청구 조직망 식별을 위한 소셜 네트워크 분석
+   - 지리공간 이상 탐지
+   - 알려진 사기 지표와의 행동 패턴 매칭
+   - 제3자 데이터 보강(공공 기록, 소셜 미디어)
+   - 근거 설명을 포함한 예측형 사기 점수화
 
-4. **Account Management**:
-   - Named Customer Success Manager with weekly check-ins (first 90 days), then bi-weekly
-   - Quarterly executive business reviews with metrics analysis
-   - Annual strategic planning session
-   - Direct escalation path to VP of Customer Success
+4. **벤더 네트워크:**
+   - 200개 이상의 우선 벤더(수리 공장, 의료 제공자, 변호사) 지원
+   - 위치, 처리 능력, 품질 점수를 기반으로 한 자동 업무 배정
+   - 실시간 벤더 가용성 및 일정 관리
+   - 벤더 성과 대시보드 및 스코어카드
 
-5. **Integration Services**:
-   - Integration with Premier's core systems:
+---
+
+## 지원
+
+1. **기술 지원**: Premier Adjusters Inc.는 우선적인 고급 지원을 받는다.
+   - 전담 기술 지원팀
+   - 중대한 시스템 문제에 대한 24/7 긴급 핫라인
+   - 응답 시간: 긴급 2시간, 우선 6시간, 표준 12시간
+   - 실시간 커뮤니케이션을 위한 전용 Slack 채널
+
+2. **교육**: 종합 교육 프로그램:
+   - 초기 2주간 현장 지원을 포함한 4주간의 도입 과정
+   - 최대 40명의 직원(손해사정사, 감독자, IT 담당자) 교육
+   - 역할별 맞춤 교육 트랙(FNOL 전문가, 선임 손해사정사, 사기 조사관)
+   - 신규 기능에 관한 월간 고급 교육 웨비나
+   - 연간 손해사정사 인증 프로그램
+   - 50개 이상의 강좌를 갖춘 온라인 교육 포털 이용
+
+3. **업데이트 및 유지보수**:
+   - 신규 기능이 포함된 월간 플랫폼 업데이트
+   - 격주 보안 패치 및 개선
+   - 유지보수 시간대: 토요일 오후 11시 ~ 일요일 오전 4시(미 동부 시간)
+   - 주요 업데이트에 대한 72시간 사전 통지
+   - 중요도가 낮은 업데이트는 최대 30일까지 연기 가능
+
+4. **계정 관리**:
+   - 전담 고객 성공 관리자 배정, 최초 90일간 주간 점검 이후 격주 점검
+   - 지표 분석을 포함한 분기별 경영진 비즈니스 리뷰
+   - 연간 전략 기획 세션
+   - 고객 성공 부문 부사장(VP)으로의 직접적인 에스컬레이션 경로
+
+5. **연동 서비스**:
+   - Premier의 핵심 시스템과의 연동:
      - Guidewire ClaimCenter
      - Salesforce CRM
-     - DocuSign for settlement documents
-     - Payment processing systems (CheckFree, AvidXchange)
-   - Custom API development (up to 100 hours included)
-   - Ongoing integration support and optimization
+     - 정산 문서용 DocuSign
+     - 결제 처리 시스템(CheckFree, AvidXchange)
+   - 맞춤형 API 개발(최대 100시간 포함)
+   - 지속적인 연동 지원 및 최적화
 
-6. **Data and Analytics:**
-   - Custom dashboard development (up to 5 dashboards)
-   - Monthly data exports in preferred format
-   - Benchmark comparisons against industry standards
-   - Predictive analytics consultation sessions
+6. **데이터 및 분석:**
+   - 맞춤형 대시보드 개발(최대 5개)
+   - 선호하는 형식으로 매월 데이터 내보내기
+   - 업계 표준 대비 벤치마크 비교
+   - 예측 분석 컨설팅 세션
 
 ---
 
-**Signatures:**
+**서명:**
 
 _________________________________
 **Sarah Chen**
-**Title**: Vice President of Sales
+**직책**: Vice President of Sales
 **Insurellm, Inc.**
-**Date**: February 15, 2025
+**날짜**: 2025년 2월 15일
 
 _________________________________
 **David Kowalski**
-**Title**: President & CEO
+**직책**: President & CEO
 **Premier Adjusters Inc.**
-**Date**: February 15, 2025
+**날짜**: 2025년 2월 15일
 
 ---
 
-*This contract establishes Premier Adjusters Inc. as a strategic partner of Insurellm, leveraging advanced AI-powered claims technology to deliver superior service to their clients while optimizing operational efficiency.*
+*본 계약은 Premier Adjusters Inc.를 Insurellm의 전략적 파트너로 확립하며, 고급 AI 기반 청구 기술을 활용하여 운영 효율성을 최적화하는 동시에 고객에게 우수한 서비스를 제공하는 것을 목표로 한다.*

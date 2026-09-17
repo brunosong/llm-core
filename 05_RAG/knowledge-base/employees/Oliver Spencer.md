@@ -1,37 +1,37 @@
-# HR Record
+# HR 기록
 
 # Oliver Spencer
 
-## Summary
-- **Date of Birth**: May 14, 1990
-- **Job Title**: Backend Software Engineer
-- **Location**: Austin, Texas
-- **Current Salary**: $125,000  
+## 요약
+- **생년월일**: 1990년 5월 14일
+- **직책**: Backend Software Engineer
+- **근무지**: 텍사스주 오스틴
+- **현재 연봉**: $125,000
 
-## Insurellm Career Progression
-- **March 2018**: Joined Insurellm as a Backend Developer I, focusing on API development for customer management systems.
-- **July 2019**: Promoted to Backend Developer II after successfully leading a team project to revamp the claims processing system, reducing response time by 30%.
-- **June 2021**: Transitioned to Backend Software Engineer with a broader role in architecture and system design, collaborating closely with the DevOps team.
-- **September 2022**: Assigned as the lead engineer for the new "Innovate" initiative, aimed at integrating AI-driven solutions into existing products.
-- **January 2023**: Awarded a mentorship role to guide new hires in backend technology and best practices within Insurellm.
+## Insurellm 경력 진행
+- **2018년 3월**: Insurellm에 Backend Developer I로 입사, 고객 관리 시스템을 위한 API 개발에 주력.
+- **2019년 7월**: 청구 처리 시스템 개편 팀 프로젝트를 성공적으로 이끌어 응답 시간을 30% 단축시킨 공로로 Backend Developer II로 승진.
+- **2021년 6월**: DevOps 팀과 긴밀히 협력하며 아키텍처 및 시스템 설계를 아우르는 더 폭넓은 역할인 Backend Software Engineer로 전환.
+- **2022년 9월**: 기존 제품에 AI 기반 솔루션을 통합하는 신규 "Innovate" 이니셔티브의 리드 엔지니어로 배정.
+- **2023년 1월**: Insurellm 내 백엔드 기술 및 모범 사례 관련 신규 입사자 멘토링 역할 부여받음.
 
-## Annual Performance History
-- **2018**: **3/5** - Adaptable team player but still learning to take initiative.
-- **2019**: **4/5** - Demonstrated strong problem-solving skills, outstanding contribution on the claims project.
-- **2020**: **2/5** - Struggled with time management; fell behind on deadlines during a high-traffic release period.
-- **2021**: **4/5** - Made a significant turnaround with organized work habits and successful project management.
-- **2022**: **5/5** - Exceptional performance during the "Innovate" initiative, showcasing leadership and creativity.
-- **2023**: **3/5** - Maintaining steady work; expectations for innovation not fully met, leading to discussions about goals.
+## 연간 성과 이력
+- **2018년**: **3/5** - 적응력이 좋은 팀 플레이어이나 주도성 발휘는 아직 학습 중.
+- **2019년**: **4/5** - 뛰어난 문제 해결 능력을 보여줌. 청구 프로젝트에서 탁월한 기여.
+- **2020년**: **2/5** - 시간 관리에 어려움을 겪었으며 트래픽이 많은 릴리스 시기에 마감을 지키지 못함.
+- **2021년**: **4/5** - 체계적인 업무 습관과 성공적인 프로젝트 관리로 큰 반전을 이룸.
+- **2022년**: **5/5** - "Innovate" 이니셔티브에서 리더십과 창의성을 발휘하며 뛰어난 성과를 보임.
+- **2023년**: **3/5** - 꾸준한 업무 수행 중이나 혁신에 대한 기대치를 충분히 충족하지 못해 목표에 관한 논의로 이어짐.
 
-## Compensation History
-- **March 2018**: Initial salary of $80,000.
-- **July 2019**: Salary increased to $90,000 post-promotion.
-- **June 2021**: Salary raised to $105,000 after role transition.
-- **September 2022**: Salary adjustment to $120,000 due to increased responsibilities and performance.
-- **January 2023**: Revised salary of $125,000 in recognition of mentorship role.
+## 보상 이력
+- **2018년 3월**: 초기 연봉 $80,000.
+- **2019년 7월**: 승진 후 연봉 $90,000로 인상.
+- **2021년 6월**: 역할 전환 후 연봉 $105,000로 인상.
+- **2022년 9월**: 책임 증가 및 성과를 인정받아 연봉 $120,000로 조정.
+- **2023년 1월**: 멘토링 역할을 인정받아 연봉 $125,000로 개정.
 
-## Other HR Notes
-- Oliver enjoys a strong rapport with team members and is known for organizing regular team-building activities.
-- Participated in Insurellm’s Hackathon in 2022, where he led a project that won “Best Overall Solution.” 
-- Pursuing AWS Certified Solutions Architect certification to enhance cloud skillset.
-- Has expressed interest in further leadership opportunities within Insurellm and may consider project management roles in the future.
+## 기타 HR 메모
+- Oliver는 팀원들과 좋은 관계를 유지하며 정기적으로 팀 빌딩 활동을 주최하는 것으로 알려져 있음.
+- 2022년 Insurellm 해커톤에 참가하여 "최우수 종합 솔루션"을 수상한 프로젝트를 이끔.
+- 클라우드 역량 강화를 위해 AWS Certified Solutions Architect 자격증 취득을 준비 중.
+- Insurellm 내에서 추가적인 리더십 기회에 관심을 표명했으며 향후 프로젝트 매니지먼트 역할을 고려할 수 있음.

@@ -1,47 +1,47 @@
-# HR Record
+# 인사 기록
 
 # David Kim
 
-## Summary
-- **Date of Birth:** September 22, 1992
-- **Job Title:** DevOps Engineer
-- **Location:** New York, New York
-- **Current Salary:** $118,000
+## 요약
+- **생년월일:** 1992년 9월 22일
+- **직책:** DevOps 엔지니어 (DevOps Engineer)
+- **근무지:** 뉴욕 주 뉴욕
+- **현재 연봉:** $118,000
 
-## Insurellm Career Progression
-- **August 2021 - Present:** DevOps Engineer
-  - Manages AWS infrastructure for all Insurellm products
-  - Implemented CI/CD pipelines reducing deployment time by 60%
-  - Led migration to Kubernetes, improving system scalability and reliability
+## Insurellm 경력 진행
+- **2021년 8월 - 현재:** DevOps 엔지니어
+  - 모든 Insurellm 제품의 AWS 인프라를 관리
+  - CI/CD 파이프라인을 구축하여 배포 시간을 60% 단축
+  - Kubernetes 마이그레이션을 주도하여 시스템 확장성과 안정성을 개선
 
-- **March 2019 - July 2021:** Junior DevOps Engineer
-  - Assisted with infrastructure monitoring and incident response
-  - Automated manual deployment processes using Jenkins and Terraform
-  - Supported senior engineers in cloud infrastructure management
+- **2019년 3월 - 2021년 7월:** 주니어 DevOps 엔지니어
+  - 인프라 모니터링 및 장애 대응을 지원
+  - Jenkins와 Terraform을 활용해 수동 배포 프로세스를 자동화
+  - 클라우드 인프라 관리에서 시니어 엔지니어들을 보조
 
-- **June 2017 - February 2019:** Systems Administrator at CloudFirst Solutions
-  - Maintained Linux servers and network infrastructure
-  - Provided technical support for cloud-based services
+- **2017년 6월 - 2019년 2월:** CloudFirst Solutions 시스템 관리자
+  - 리눅스 서버 및 네트워크 인프라를 유지 관리
+  - 클라우드 기반 서비스에 대한 기술 지원을 제공
 
-## Annual Performance History
-- **2023:** Rating: 4.5/5
-  *Strong performance with excellent infrastructure improvements. Successfully led Kubernetes migration with minimal downtime.*
+## 연간 성과 이력
+- **2023년:** 평점: 4.5/5
+  *뛰어난 인프라 개선을 이룬 강력한 성과. 최소한의 다운타임으로 Kubernetes 마이그레이션을 성공적으로 주도함.*
 
-- **2022:** Rating: 3.5/5
-  *Adequate performance but struggled with on-call responsibilities. Improved response times after additional training.*
+- **2022년:** 평점: 3.5/5
+  *적절한 성과였으나 온콜(on-call) 업무에서 어려움을 겪음. 추가 교육 이후 응답 시간이 개선됨.*
 
-- **2021:** Rating: 4.0/5
-  *Solid first year as DevOps Engineer. Quick learner who adapted well to increased responsibilities.*
+- **2021년:** 평점: 4.0/5
+  *DevOps 엔지니어로서의 견실한 첫 해. 늘어난 책임에 잘 적응한 빠른 학습자.*
 
-## Compensation History
-- **2023:** Base Salary: $118,000 + Bonus: $12,000
-- **2022:** Base Salary: $108,000 + Bonus: $8,000
-- **2021:** Base Salary: $100,000 + Bonus: $5,000
-- **2020:** Base Salary: $85,000 + Bonus: $4,000
-- **2019:** Base Salary: $75,000
+## 보상 이력
+- **2023년:** 기본급: $118,000 + 보너스: $12,000
+- **2022년:** 기본급: $108,000 + 보너스: $8,000
+- **2021년:** 기본급: $100,000 + 보너스: $5,000
+- **2020년:** 기본급: $85,000 + 보너스: $4,000
+- **2019년:** 기본급: $75,000
 
-## Other HR Notes
-- **Certifications:** AWS Certified Solutions Architect (2022), Certified Kubernetes Administrator (2023)
-- **Training:** Completed advanced Docker and container orchestration courses. Currently pursuing AWS DevOps Professional certification.
-- **On-Call Rotation:** Participates in weekly on-call rotation for production systems.
-- **Feedback:** Technically strong with excellent problem-solving abilities. Working on improving communication with non-technical stakeholders.
+## 기타 인사 참고사항
+- **자격증:** AWS Certified Solutions Architect (2022년), Certified Kubernetes Administrator (2023년)
+- **교육:** 고급 Docker 및 컨테이너 오케스트레이션 과정을 이수함. 현재 AWS DevOps Professional 자격증을 준비 중.
+- **온콜 로테이션:** 프로덕션 시스템에 대한 주간 온콜 로테이션에 참여.
+- **피드백:** 뛰어난 문제 해결 능력을 갖춘 기술적으로 강한 인재. 비기술 이해관계자와의 커뮤니케이션 개선을 위해 노력 중.

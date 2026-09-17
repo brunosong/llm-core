@@ -1,48 +1,48 @@
-# Contract with Stellar Insurance Co. for Rellm
+# Stellar Insurance Co.와 Rellm에 관한 계약
 
-## Terms
-This contract is made between **Insurellm**, located at 123 Innovation Lane, San Francisco, CA, and **Stellar Insurance Co.**, located at 456 Galaxy Road, Chicago, IL. The effective date of this agreement is **January 1, 2024**. 
+## 계약 조건
+본 계약은 캘리포니아주 샌프란시스코 123 Innovation Lane에 소재한 **Insurellm**과 일리노이주 시카고 456 Galaxy Road에 소재한 **Stellar Insurance Co.** 간에 체결된다. 본 계약의 발효일은 **2024년 1월 1일**이다.
 
-### Duration
-The initial term of this agreement shall be for **12 months**, commencing from the effective date. The contract will automatically renew for successive **12-month periods** unless either party provides written notice of non-renewal at least **30 days** prior to the expiration of the current term.
+### 기간
+본 계약의 최초 기간은 발효일로부터 **12개월**로 하며, 어느 한쪽 당사자가 현재 계약 기간 만료 최소 **30일** 전에 갱신하지 않겠다는 서면 통지를 하지 않는 한, 연속되는 **12개월** 단위로 자동 갱신된다.
 
-### Payment Terms
-Stellar Insurance Co. agrees to pay Insurellm a monthly subscription fee of **$10,000** for the **Professional Plan** of the Rellm product. Payments are due on the **1st of each month**.
+### 결제 조건
+Stellar Insurance Co.는 Rellm 제품의 **Professional Plan**에 대해 Insurellm에 월 **$10,000**의 구독료를 지급하는 데 동의한다. 결제는 **매월 1일**까지 이루어져야 한다.
 
-### Termination
-Either party may terminate this agreement with a **30-day written notice**. In the event of a material breach, the non-breaching party may terminate immediately, provided a written notice is given.
+### 해지
+양 당사자는 **30일 서면 통지**를 통해 본 계약을 해지할 수 있다. 중대한 위반이 발생한 경우, 위반하지 않은 당사자는 서면 통지를 조건으로 즉시 계약을 해지할 수 있다.
 
-## Renewal
-This contract will renew automatically for additional 12-month terms unless written notice is provided by either party 30 days prior to the renewal date. Upon renewal, pricing may be adjusted based on agreed-upon inflation adjustments or additional services requested by Stellar Insurance Co.
+## 갱신
+본 계약은 어느 한쪽 당사자가 갱신일 30일 전에 서면 통지를 하지 않는 한 추가 12개월 기간으로 자동 갱신된다. 갱신 시 가격은 합의된 인플레이션 조정분이나 Stellar Insurance Co.가 요청한 추가 서비스에 따라 조정될 수 있다.
 
-## Features
-Stellar Insurance Co. will receive access to the following features of the Rellm product:
+## 기능
+Stellar Insurance Co.는 Rellm 제품의 다음 기능을 이용할 수 있다.
 
-- **AI-Driven Analytics**: Predictive insights into risk exposures tailored for the reinsurance industry.
-- **Seamless Integrations**: Compatibility with existing systems for policy management and claims processing.
-- **Risk Assessment Module**: Comprehensive evaluation of risk profiles using advanced modeling techniques.
-- **Customizable Dashboard**: Tailored user interface presenting relevant metrics and performance indicators.
-- **Regulatory Compliance Tools**: Features to ensure adherence to local and international regulations.
-- **Client and Broker Portals**: Dedicated portals for enhanced communication and document sharing.
+- **AI 기반 분석**: 재보험 업계에 특화된 위험 노출에 대한 예측형 인사이트.
+- **원활한 연동**: 계약 관리 및 청구 처리를 위한 기존 시스템과의 호환성.
+- **위험 평가 모듈**: 고급 모델링 기법을 활용한 위험 프로필의 종합적 평가.
+- **맞춤형 대시보드**: 관련 지표와 성과 지표를 제시하는 맞춤형 사용자 인터페이스.
+- **규제 준수 도구**: 지역 및 국제 규정 준수를 보장하는 기능.
+- **고객 및 브로커 포털**: 원활한 소통과 문서 공유를 위한 전용 포털.
 
-## Support
-Insurellm provides Stellar Insurance Co. with the following support services:
+## 지원
+Insurellm은 Stellar Insurance Co.에 다음과 같은 지원 서비스를 제공한다.
 
-- **24/7 Technical Support**: Access to dedicated support representatives via phone and online chat.
-- **Quarterly Account Review**: Meetings to discuss performance metrics and uncover additional needs.
-- **Training Sessions**: Initial orientation and ongoing training opportunities to maximize the effectiveness of Rellm usage.
-- **Updates and Upgrades**: Regular software updates and enhancements are included as part of the subscription.
+- **24/7 기술 지원**: 전화 및 온라인 채팅을 통한 전담 지원 담당자 이용.
+- **분기별 계정 리뷰**: 성과 지표를 논의하고 추가 요구 사항을 파악하기 위한 미팅.
+- **교육 세션**: Rellm 활용 효과를 극대화하기 위한 초기 오리엔테이션 및 지속적인 교육 기회.
+- **업데이트 및 업그레이드**: 정기적인 소프트웨어 업데이트 및 개선 사항이 구독에 포함된다.
 
-Stellar Insurance Co. acknowledges receipt of the Rellm product summary and agrees to the terms set forth above. By signing below, both parties confirm their acceptance of this contract.
+Stellar Insurance Co.는 Rellm 제품 요약서를 수령하였음을 확인하며, 상기 조건에 동의한다. 아래 서명함으로써 양 당사자는 본 계약에 대한 수락을 확인한다.
 
-**For Insurellm**  
-______________________________  
-[Signature]  
-[Name, Title]  
-[Date]  
+**Insurellm 측**
+______________________________
+[서명]
+[성명, 직책]
+[날짜]
 
-**For Stellar Insurance Co.**  
-______________________________  
-[Signature]  
-[Name, Title]  
-[Date]
+**Stellar Insurance Co. 측**
+______________________________
+[서명]
+[성명, 직책]
+[날짜]

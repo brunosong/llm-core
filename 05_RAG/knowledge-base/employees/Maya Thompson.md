@@ -1,46 +1,46 @@
-# HR Record
+# HR 기록
 
 # Maya Thompson
 
-## Summary
-- **Date of Birth:** June 14, 1993
-- **Job Title:** Data Engineer
-- **Location:** New York, New York
-- **Current Salary:** $110,000
+## 요약
+- **생년월일:** 1993년 6월 14일
+- **직책:** 데이터 엔지니어 (Data Engineer)
+- **근무지:** 뉴욕주 뉴욕
+- **현재 연봉:** $110,000
 
-## Insurellm Career Progression
-- **March 2021 - Present:** Data Engineer
-  - Builds and maintains data pipelines for all Insurellm products
-  - Manages data warehouse infrastructure on Snowflake
-  - Optimized ETL processes reducing processing time by 45%
-  - Collaborates with data science and analytics teams
+## Insurellm 경력 이력
+- **2021년 3월 - 현재:** 데이터 엔지니어
+  - 모든 Insurellm 제품을 위한 데이터 파이프라인 구축 및 유지보수
+  - Snowflake 기반 데이터 웨어하우스 인프라 관리
+  - ETL 프로세스를 최적화하여 처리 시간 45% 단축
+  - 데이터 사이언스 및 분석 팀과 협업
 
-- **July 2019 - February 2021:** Junior Data Engineer at DataFlow Systems
-  - Developed ETL pipelines for enterprise data integration
-  - Worked with Airflow, Python, and SQL
+- **2019년 7월 - 2021년 2월:** DataFlow Systems 주니어 데이터 엔지니어
+  - 엔터프라이즈 데이터 통합을 위한 ETL 파이프라인 개발
+  - Airflow, Python, SQL을 활용한 업무 수행
 
-- **June 2017 - June 2019:** Data Analyst at Analytics Corp.
-  - Analyzed business data and created reports
-  - Transitioned from analysis to engineering role
+- **2017년 6월 - 2019년 6월:** Analytics Corp. 데이터 분석가 (Data Analyst)
+  - 비즈니스 데이터 분석 및 보고서 작성
+  - 분석 직무에서 엔지니어링 직무로 전환
 
-## Annual Performance History
-- **2023:** Rating: 4.3/5
-  *Strong performance. Delivered critical data infrastructure improvements. Good collaboration with stakeholders.*
+## 연간 성과 이력
+- **2023년:** 평가 등급: 4.3/5
+  *우수한 성과. 핵심 데이터 인프라 개선 사항을 전달. 이해관계자와의 좋은 협업.*
 
-- **2022:** Rating: 4.5/5
-  *Excellent performance. Led successful migration to Snowflake. Strong technical expertise and project management.*
+- **2022년:** 평가 등급: 4.5/5
+  *뛰어난 성과. Snowflake로의 성공적인 마이그레이션을 주도. 강력한 기술 전문성과 프로젝트 관리 능력.*
 
-- **2021:** Rating: 4.0/5
-  *Good first year at Insurellm. Quickly ramped up on data infrastructure and delivered reliable pipelines.*
+- **2021년:** 평가 등급: 4.0/5
+  *Insurellm에서의 좋은 첫 해. 데이터 인프라를 빠르게 습득하고 안정적인 파이프라인을 전달.*
 
-## Compensation History
-- **2023:** Base Salary: $110,000 + Bonus: $12,000
-- **2022:** Base Salary: $102,000 + Bonus: $14,000
-- **2021:** Base Salary: $95,000 + Bonus: $8,000
+## 보상 이력
+- **2023년:** 기본급: $110,000 + 보너스: $12,000
+- **2022년:** 기본급: $102,000 + 보너스: $14,000
+- **2021년:** 기본급: $95,000 + 보너스: $8,000
 
-## Other HR Notes
-- **Education:** MS in Data Science from Columbia University, BS in Mathematics from University of Michigan
-- **Skills:** Expert in Python, SQL, Airflow, dbt, Snowflake, AWS data services
-- **Certifications:** AWS Certified Data Analytics, Snowflake SnowPro Core
-- **Professional Development:** Regularly attends data engineering conferences and contributes to tech blog
-- **Feedback:** Strong technical contributor with excellent data architecture skills. Reliable and detail-oriented. Good communicator who translates technical concepts for non-technical stakeholders.
+## 기타 인사 노트
+- **학력:** 컬럼비아 대학교 데이터 사이언스 석사, 미시간 대학교 수학 학사
+- **역량:** Python, SQL, Airflow, dbt, Snowflake, AWS 데이터 서비스에 전문성 보유
+- **자격증:** AWS Certified Data Analytics, Snowflake SnowPro Core
+- **전문성 개발:** 데이터 엔지니어링 컨퍼런스에 정기적으로 참석하고 기술 블로그에 기고
+- **피드백:** 뛰어난 데이터 아키텍처 역량을 갖춘 강력한 기술 기여자. 신뢰할 수 있고 꼼꼼함. 비기술 이해관계자에게 기술 개념을 잘 전달하는 훌륭한 커뮤니케이터

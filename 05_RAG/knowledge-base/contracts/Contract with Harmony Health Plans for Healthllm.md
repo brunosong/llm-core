@@ -1,152 +1,152 @@
-# Contract with Harmony Health Plans for Healthllm
+# Harmony Health Plans와 Healthllm 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Agreement Effective Date**: This contract is effective as of January 25, 2025.
-2. **Duration**: This agreement will remain in effect for a term of 24 months, concluding on January 24, 2027.
-3. **Subscription Type**: Harmony Health Plans agrees to subscribe to the **Professional Tier** of Healthllm, at a cost of $15,000/month, totaling $360,000 for the duration of this contract.
-4. **Member Coverage**: Professional Tier supports up to 50,000 covered members. Harmony currently covers 38,000 members across 3 states.
-5. **Payment Terms**: Payments are due on the 5th of each month via wire transfer. Late payments incur a 2% monthly penalty.
-6. **User Licenses**: Contract includes 60 named user licenses. Additional licenses available at $150/month per user.
-7. **Termination Clause**: Either party may terminate with 90 days' written notice. Early termination after month 12 has no penalty; before month 12 requires 25% of remaining contract value.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This agreement will automatically renew for an additional 24-month term unless either party provides written notice of non-renewal at least 90 days before expiration.
-2. **Price Protection**: Pricing increases capped at 6% annually for first two renewal periods.
-3. **Volume Discounts**: If member count exceeds 75,000 at renewal, Harmony receives 10% discount on incremental cost.
+1. **계약 발효일**: 본 계약은 2025년 1월 25일부로 발효됩니다.
+2. **계약 기간**: 본 계약은 24개월간 유효하며, 2027년 1월 24일에 종료됩니다.
+3. **구독 유형**: Harmony Health Plans는 Healthllm의 **Professional Tier**를 구독하는 데 동의하며, 비용은 월 $15,000이고 계약 기간 전체 총액은 $360,000입니다.
+4. **가입자 보장 범위**: Professional Tier는 최대 50,000명의 가입자를 지원합니다. Harmony는 현재 3개 주에 걸쳐 38,000명의 가입자를 보장하고 있습니다.
+5. **결제 조건**: 결제는 전신 송금(wire transfer)을 통해 매월 5일에 이루어져야 합니다. 연체 시 월 2%의 연체료가 부과됩니다.
+6. **사용자 라이선스**: 본 계약에는 60명의 지정 사용자 라이선스가 포함됩니다. 추가 라이선스는 사용자당 월 $150에 이용할 수 있습니다.
+7. **해지 조항**: 양 당사자는 90일 서면 통지로 계약을 해지할 수 있습니다. 12개월차 이후 조기 해지에는 위약금이 없으며, 12개월차 이전에는 잔여 계약 가치의 25%가 부과됩니다.
 
 ---
 
-## Features
+## 갱신
 
-1. **Access to Professional Tier Features**: Harmony Health Plans will have comprehensive access to:
-   - Intelligent Plan Design with AI-powered optimization
-   - Real-Time Eligibility Verification with provider network integration
-   - AI-Driven Claims Adjudication with automated processing
-   - **Predictive Healthcare Analytics** for population health management
-   - Provider Network Management with contract optimization
-   - Member Engagement Platform with mobile-first design
-   - **Advanced Medication Management** with PBM integration
-   - Regulatory Compliance Engine with ACA and state mandate tracking
-   - **Enhanced Analytics** with predictive modeling
-
-2. **Predictive Healthcare Analytics:**
-   - High-risk member identification for care management
-   - Disease progression modeling (diabetes, hypertension, CHF)
-   - Hospital readmission prediction
-   - Emergency department overutilization alerts
-   - Care gap identification for quality measures (HEDIS)
-   - Preventive care intervention recommendations
-   - Cost trend forecasting and budget planning
-
-3. **Advanced Medication Management:**
-   - Complete formulary management and tier optimization
-   - Prior authorization automation with clinical criteria
-   - Step therapy enforcement
-   - Medication adherence scoring and intervention triggers
-   - Drug interaction checking with severity classification
-   - Generic substitution recommendations with savings calculations
-   - Specialty pharmacy management
-   - Medication therapy management (MTM) program support
-
-4. **Value-Based Care Tools:**
-   - ACO (Accountable Care Organization) performance tracking
-   - Shared savings calculation
-   - Quality measure monitoring (HEDIS, STAR ratings)
-   - Provider pay-for-performance scorecards
-   - Risk adjustment and HCC coding support
-
-5. **Care Management Platform:**
-   - Case management workflows for high-cost members
-   - Disease management program support
-   - Care coordinator tools and dashboards
-   - Member outreach campaign management
-   - Social determinants of health (SDOH) screening
+1. **자동 갱신**: 본 계약은 만료 최소 90일 전에 어느 한쪽 당사자가 갱신 거부에 대한 서면 통지를 하지 않는 한 추가 24개월 기간으로 자동 갱신됩니다.
+2. **가격 보호**: 최초 2회의 갱신 기간에 대해서는 가격 인상률이 연 6%로 상한선이 설정됩니다.
+3. **물량 할인**: 갱신 시점에 가입자 수가 75,000명을 초과할 경우, Harmony는 증분 비용에 대해 10% 할인을 받습니다.
 
 ---
 
-## Support
+## 기능
 
-1. **Technical Support**: Harmony Health Plans will receive priority support:
-   - Dedicated support team available 24/7 for critical issues
-   - Standard support Monday-Saturday 6 AM - 9 PM EST
-   - Response time: 4 hours for critical, 8 hours for high priority, 24 hours for standard
-   - Named technical support engineer familiar with Harmony's environment
-   - Private support portal with ticket tracking
+1. **Professional Tier 기능 이용**: Harmony Health Plans는 다음에 대한 포괄적인 접근 권한을 갖습니다.
+   - AI 기반 최적화를 적용한 지능형 플랜 설계
+   - 의료 제공자 네트워크 연동을 통한 실시간 자격 검증
+   - 자동화된 처리를 갖춘 AI 기반 청구 판정
+   - 인구집단 건강 관리를 위한 **예측 헬스케어 분석**
+   - 계약 최적화를 갖춘 의료 제공자 네트워크 관리
+   - 모바일 우선 설계를 적용한 가입자 참여 플랫폼
+   - PBM 연동을 갖춘 **고급 약제 관리**
+   - ACA 및 주 정부 의무사항 추적을 갖춘 규제 준수 엔진
+   - 예측 모델링을 갖춘 **향상된 분석**
 
-2. **Training**: Comprehensive training program:
-   - 6-week implementation with dedicated project manager
-   - Training for up to 40 staff members (60 hours total training)
-   - Role-specific tracks: claims processors, case managers, provider relations, IT, executives
-   - Quarterly advanced training webinars
-   - Annual refresher certification program
-   - Unlimited access to online learning platform with 75+ courses
-   - Custom training materials for Harmony's specific workflows
+2. **예측 헬스케어 분석:**
+   - 케어 관리를 위한 고위험 가입자 식별
+   - 질병 진행 모델링(당뇨병, 고혈압, 울혈성심부전)
+   - 병원 재입원 예측
+   - 응급실 과다 이용 알림
+   - 품질 지표(HEDIS)를 위한 케어 공백 식별
+   - 예방적 케어 개입 권고
+   - 비용 추세 예측 및 예산 계획
 
-3. **Updates and Maintenance**:
-   - Monthly platform updates with new features and enhancements
-   - Bi-weekly security patches and bug fixes
-   - Regulatory updates as healthcare laws change (ACA, state mandates)
-   - Maintenance windows: Saturday 10 PM - Sunday 3 AM EST
-   - 96-hour advance notice for major updates
-   - Staging environment for testing updates before production
+3. **고급 약제 관리:**
+   - 완전한 처방집(formulary) 관리 및 등급 최적화
+   - 임상 기준을 적용한 사전승인 자동화
+   - 스텝 테라피 시행
+   - 복약 순응도 평가 및 개입 트리거
+   - 심각도 분류를 갖춘 약물 상호작용 확인
+   - 절감액 산정을 포함한 제네릭 대체 권고
+   - 전문의약품(specialty pharmacy) 관리
+   - 약물치료관리(MTM) 프로그램 지원
 
-4. **Account Management**:
-   - Named Senior Customer Success Manager with bi-weekly check-ins
-   - Quarterly executive business reviews with ROI analysis
-   - Annual strategic planning session with product roadmap preview
-   - Direct escalation path to VP of Customer Success
-   - Industry benchmarking reports comparing Harmony to similar plans
+4. **가치 기반 케어 도구:**
+   - ACO(책임의료조직) 성과 추적
+   - 공유 절감액 산정
+   - 품질 지표 모니터링(HEDIS, STAR 등급)
+   - 의료 제공자 성과 연동 지불(pay-for-performance) 스코어카드
+   - 리스크 조정 및 HCC 코딩 지원
 
-5. **Integration Support**: Comprehensive integration assistance:
-   - Integration with Harmony's core systems:
-     - HealthRules policy administration system
-     - Provider credentialing platform
+5. **케어 관리 플랫폼:**
+   - 고비용 가입자를 위한 사례관리 워크플로우
+   - 질병관리 프로그램 지원
+   - 케어 코디네이터 도구 및 대시보드
+   - 가입자 아웃리치 캠페인 관리
+   - 건강의 사회적 결정요인(SDOH) 스크리닝
+
+---
+
+## 지원
+
+1. **기술 지원**: Harmony Health Plans는 우선 지원을 받습니다.
+   - 긴급 사안에 대해 연중무휴 24시간 이용 가능한 전담 지원팀
+   - 표준 지원: 월요일~토요일 미 동부시간 오전 6시 ~ 오후 9시
+   - 응답 시간: 긴급 4시간, 고우선순위 8시간, 표준 24시간
+   - Harmony의 환경에 정통한 지정 기술 지원 엔지니어
+   - 티켓 추적이 가능한 비공개 지원 포털
+
+2. **교육**: 종합적인 교육 프로그램:
+   - 전담 프로젝트 관리자가 참여하는 6주간 구축
+   - 최대 40명의 직원 대상 교육(총 60시간)
+   - 역할별 트랙: 청구 처리자, 사례관리자, 의료 제공자 관계, IT, 경영진
+   - 분기별 고급 교육 웨비나
+   - 연례 리프레셔 인증 프로그램
+   - 75개 이상 강좌를 갖춘 온라인 학습 플랫폼 무제한 이용
+   - Harmony의 특정 워크플로우를 위한 맞춤형 교육 자료
+
+3. **업데이트 및 유지보수**:
+   - 신규 기능 및 개선 사항이 포함된 월간 플랫폼 업데이트
+   - 격주 보안 패치 및 버그 수정
+   - 의료법 변경(ACA, 주 정부 의무사항)에 따른 규제 업데이트
+   - 유지보수 시간: 토요일 오후 10시 ~ 일요일 오전 3시(미 동부시간)
+   - 주요 업데이트에 대한 96시간 사전 통지
+   - 프로덕션 적용 전 업데이트 테스트를 위한 스테이징 환경
+
+4. **계정 관리**:
+   - 격주 점검을 진행하는 지정 수석 고객성공 관리자
+   - ROI 분석이 포함된 분기별 경영진 비즈니스 리뷰
+   - 제품 로드맵 미리보기를 포함한 연례 전략 기획 세션
+   - 고객성공 부사장(VP)으로의 직접 에스컬레이션 경로
+   - Harmony를 유사 플랜과 비교하는 업계 벤치마킹 보고서
+
+5. **통합 지원**: 종합적인 통합 지원:
+   - Harmony의 핵심 시스템과의 통합:
+     - HealthRules 계약관리시스템
+     - 의료 제공자 자격 심사 플랫폼
      - Express Scripts PBM
-     - Availity clearinghouse for claims
-     - Member portal and mobile app
+     - 청구용 Availity 클리어링하우스
+     - 가입자 포털 및 모바일 앱
      - Salesforce CRM
-   - Dedicated integration specialist (30% FTE allocation)
-   - Quarterly integration health checks and optimization
-   - API monitoring and performance tuning
+   - 전담 통합 전문가(정규직 환산 30% 배정)
+   - 분기별 통합 상태 점검 및 최적화
+   - API 모니터링 및 성능 튜닝
 
-6. **Analytics and Reporting:**
-   - Custom dashboard development (up to 10 dashboards)
-   - Automated reporting suite (daily, weekly, monthly, quarterly)
-   - Ad-hoc analytics requests (up to 15 per month)
-   - Predictive modeling consultation (monthly sessions)
-   - Benchmark reports against regional health plans
-   - Data export capabilities in multiple formats
+6. **분석 및 보고:**
+   - 맞춤형 대시보드 개발(최대 10개)
+   - 자동화된 보고 스위트(일간, 주간, 월간, 분기)
+   - 임시 분석 요청(월 최대 15건)
+   - 예측 모델링 컨설팅(월간 세션)
+   - 지역 의료 플랜 대비 벤치마크 보고서
+   - 다양한 형식의 데이터 내보내기 기능
 
-7. **Compliance and Regulatory Support:**
-   - Quarterly compliance reviews
-   - Annual HIPAA security risk assessment
-   - ACA reporting assistance (1094/1095 forms, MLR reporting)
-   - State filing support for form and rate approvals
-   - Quality measure calculation support (HEDIS, STAR)
-   - Audit preparation and documentation assistance
+7. **컴플라이언스 및 규제 지원:**
+   - 분기별 컴플라이언스 검토
+   - 연례 HIPAA 보안 리스크 평가
+   - ACA 보고 지원(1094/1095 서식, MLR 보고)
+   - 서식 및 요율 승인을 위한 주 정부 신고 지원
+   - 품질 지표 산정 지원(HEDIS, STAR)
+   - 감사 준비 및 문서화 지원
 
 ---
 
-**Signatures:**
+**서명:**
 
 _________________________________
 **Sarah Chen**
-**Title**: Vice President of Sales
+**직위**: Vice President of Sales
 **Insurellm, Inc.**
-**Date**: January 25, 2025
+**날짜**: 2025년 1월 25일
 
 _________________________________
 **Dr. Karen Phillips**
-**Title**: President & Chief Executive Officer
+**직위**: President & Chief Executive Officer
 **Harmony Health Plans**
-**Date**: January 25, 2025
+**날짜**: 2025년 1월 25일
 
 ---
 
-*This contract establishes Harmony Health Plans as a strategic partner leveraging Healthllm's advanced AI and predictive analytics to improve member outcomes while managing costs effectively.*
+*본 계약은 Harmony Health Plans를 Healthllm의 고급 AI 및 예측 분석을 활용하여 비용을 효과적으로 관리하면서 가입자 성과를 개선하는 전략적 파트너로 확립합니다.*

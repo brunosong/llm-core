@@ -1,73 +1,73 @@
-# Contract with Greenstone Insurance for Homellm
+# Greenstone Insurance와 Homellm 계약
 
 ---
 
-## Terms
+## 계약 조건
 
-1. **Parties**: This Contract ("Agreement") is entered into on this day, [Insert Date], between Insurellm ("Provider"), located at [Provider Address], and Greenstone Insurance ("Customer"), located at [Customer Address].
+1. **당사자**: 본 계약("Agreement")은 [날짜 입력]일에 Insurellm("제공자"), 소재지 [제공자 주소]와 Greenstone Insurance("고객"), 소재지 [고객 주소] 간에 체결됩니다.
 
-2. **Services Provided**: Provider agrees to deliver the Homellm product, which includes AI-powered risk assessment, dynamic pricing model, instant claim processing, predictive maintenance alerts, multi-channel integration, and access to a customer portal as specified in the provided Product Summary.
+2. **제공 서비스**: 제공자는 제공된 제품 요약서에 명시된 바와 같이, AI 기반 리스크 평가, 동적 가격 책정 모델, 즉시 청구 처리, 예측 유지보수 알림, 다채널 통합, 그리고 고객 포털 이용을 포함하는 Homellm 제품을 제공하는 데 동의합니다.
 
-3. **Contract Duration**: This Agreement shall commence on [Insert Start Date] and continue for a period of [Insert Duration, e.g., 12 months] unless terminated earlier as per the provisions herein.
+3. **계약 기간**: 본 계약은 [시작일 입력]일부로 개시되며, 본 계약에 명시된 조항에 따라 조기 해지되지 않는 한 [기간 입력, 예: 12개월]간 지속됩니다.
 
-4. **Payment Terms**: 
-   - The Customer shall pay an amount of $10,000 per month for the Standard Tier of the Homellm service.
-   - Payments are due within 30 days of invoicing.
+4. **결제 조건**: 
+   - 고객은 Homellm 서비스의 Standard Tier에 대해 월 $10,000의 금액을 지불합니다.
+   - 결제는 청구서 발행일로부터 30일 이내에 이루어져야 합니다.
 
-5. **Customization**: Any additional customization requests outside the standard offerings will require a separate agreement and associated costs.
-
----
-
-## Renewal
-
-1. **Automatic Renewal**: This Agreement will automatically renew for additional one-year terms unless either party provides written notice of termination at least 60 days prior to the end of the current term.
-
-2. **Renewal Terms Review**: Prior to each renewal, the Provider and Customer will review the terms and pricing. Adjustments may be made based on the current features and market conditions.
+5. **커스터마이징**: 표준 제공 범위를 벗어나는 추가 커스터마이징 요청은 별도의 계약 및 이에 따른 비용이 필요합니다.
 
 ---
 
-## Features
+## 갱신
 
-- **AI-Powered Risk Assessment**: Customer will have access to enhanced risk evaluation tools, allowing for personalized underwriting based on real-time data analysis.
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 현재 계약 기간 종료 최소 60일 전에 해지에 대한 서면 통지를 하지 않는 한 추가 1년 단위로 자동 갱신됩니다.
+
+2. **갱신 조건 검토**: 각 갱신에 앞서 제공자와 고객은 계약 조건 및 가격을 검토합니다. 현재의 기능 및 시장 상황에 따라 조정이 이루어질 수 있습니다.
+
+---
+
+## 기능
+
+- **AI 기반 리스크 평가**: 고객은 실시간 데이터 분석을 기반으로 한 맞춤형 언더라이팅을 가능하게 하는 향상된 리스크 평가 도구를 이용할 수 있습니다.
   
-- **Dynamic Pricing Model**: The Customer can leverage flexible premiums adjusted according to customer risk profiles.
+- **동적 가격 책정 모델**: 고객은 고객 리스크 프로필에 따라 조정되는 유연한 보험료를 활용할 수 있습니다.
 
-- **Instant Claim Processing**: Claims submitted by the Customer's clients will be processed through an automated system, with most claims resolved within hours.
+- **즉시 청구 처리**: 고객의 클라이언트가 제출한 청구는 자동화된 시스템을 통해 처리되며, 대부분의 청구는 수 시간 내에 해결됩니다.
 
-- **Predictive Maintenance Alerts**: The Customer will receive alerts regarding potential maintenance needs for insured properties, enhancing client satisfaction and reducing claims.
+- **예측 유지보수 알림**: 고객은 보험 대상 부동산의 잠재적 유지보수 필요사항에 대한 알림을 받아 고객 만족도를 높이고 청구를 줄일 수 있습니다.
 
-- **Multi-Channel Integration**: Homellm will integrate with the Customer's existing platforms to create seamless service delivery.
+- **다채널 통합**: Homellm은 고객의 기존 플랫폼과 통합되어 원활한 서비스 제공을 실현합니다.
 
-- **Customer Portal**: A dedicated portal will be provided, allowing the Customer's clients to manage their accounts 24/7.
+- **고객 포털**: 고객의 클라이언트가 24시간 언제든지 자신의 계정을 관리할 수 있는 전용 포털이 제공됩니다.
 
 ---
 
-## Support
+## 지원
 
-1. **Training**: Provider will offer a comprehensive training program at the start of the term to ensure the Customer's staff can effectively use the Homellm product.
+1. **교육**: 제공자는 고객의 직원이 Homellm 제품을 효과적으로 사용할 수 있도록 계약 시작 시점에 종합적인 교육 프로그램을 제공합니다.
 
-2. **Ongoing Support**: The Provider will supply ongoing technical support via email and phone during business hours (9 am - 5 pm EST) throughout the contract duration.
+2. **지속적 지원**: 제공자는 계약 기간 동안 영업시간(미 동부시간 오전 9시 ~ 오후 5시) 동안 이메일 및 전화를 통한 지속적인 기술 지원을 제공합니다.
 
-3. **Updates and Improvements**: Customer will receive all software updates and feature enhancements as they become available, without additional charge.
-
---- 
-
-**AGREEMENT SIGNATURES**
-
-By signing below, the parties acknowledge their acceptance of the terms of this Agreement.
-
-**For Insurellm:**
-
-______________________________  
-[Name], [Title]  
-Date: ______________________
-
-**For Greenstone Insurance:**
-
-______________________________  
-[Name], [Title]  
-Date: ______________________
+3. **업데이트 및 개선**: 고객은 추가 비용 없이 이용 가능한 모든 소프트웨어 업데이트 및 기능 개선 사항을 제공받습니다.
 
 --- 
 
-*This contract is intended for illustrative purposes only and does not constitute a real legal document.*
+**계약 서명**
+
+아래 서명함으로써 양 당사자는 본 계약의 조건에 동의함을 인정합니다.
+
+**Insurellm 측:**
+
+______________________________  
+[성명], [직위]  
+날짜: ______________________
+
+**Greenstone Insurance 측:**
+
+______________________________  
+[성명], [직위]  
+날짜: ______________________
+
+--- 
+
+*본 계약은 예시 목적으로만 작성된 것이며 실제 법적 문서를 구성하지 않습니다.*

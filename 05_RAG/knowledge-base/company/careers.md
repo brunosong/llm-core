@@ -1,139 +1,139 @@
-# Careers at Insurellm
+# Insurellm 채용 정보
 
-## Why Join Insurellm?
+## 왜 Insurellm에 합류해야 할까요?
 
-At Insurellm, we're not just building software—we're revolutionizing an entire industry. Since our founding in 2015, we've evolved from a high-growth startup to a lean, profitable company with 32 highly talented employees managing 32 active contracts across all eight of our product lines.
+Insurellm에서 우리는 단순히 소프트웨어를 만드는 것이 아니라 산업 전체를 혁신하고 있습니다. 2015년 창립 이래, 우리는 고성장 스타트업에서 8개 전 제품 라인에 걸쳐 32건의 활성 계약을 관리하는, 뛰어난 역량을 갖춘 32명의 직원으로 이루어진 효율적이고 수익성 있는 회사로 진화했습니다.
 
-After reaching 200 employees in 2020, we strategically restructured in 2022-2023 to focus on sustainable growth, operational excellence, and building a world-class remote-first culture. Today, we're a tight-knit team of exceptional professionals who deliver outsized impact through automation, AI, and strategic focus on high-value enterprise clients—from regional insurers to global reinsurance partners.
+2020년 200명의 직원 규모에 도달한 이후, 우리는 지속 가능한 성장, 운영 우수성, 그리고 세계적 수준의 원격 근무 우선 문화 구축에 집중하기 위해 2022~2023년에 전략적으로 조직을 재편했습니다. 오늘날 우리는 자동화, AI, 그리고 지역 보험사부터 글로벌 재보험 파트너에 이르는 고부가가치 기업 고객에 대한 전략적 집중을 통해 큰 성과를 만들어내는, 결속력 강한 우수한 전문가 팀입니다.
 
-### Our Culture
+### 우리의 문화
 
-We live by our core values every day:
-- **Innovation First**: We encourage experimentation and creative problem-solving
-- **Customer Obsession**: Your work directly impacts 32 active client operations spanning the entire insurance value chain
-- **Integrity & Transparency**: We build trust through ethical behavior and open communication
-- **Collaborative Excellence**: Diverse perspectives and teamwork drive our success
+우리는 매일 핵심 가치를 실천합니다.
+- **혁신 우선**: 우리는 실험과 창의적인 문제 해결을 장려합니다
+- **고객에 대한 집착**: 여러분의 업무는 보험 가치사슬 전반에 걸친 32건의 활성 고객 운영에 직접적인 영향을 미칩니다
+- **진실성과 투명성**: 우리는 윤리적인 행동과 열린 소통을 통해 신뢰를 구축합니다
+- **협업을 통한 탁월함**: 다양한 관점과 팀워크가 우리의 성공을 이끕니다
 
-### What We Offer
+### 우리가 제공하는 것
 
-- Competitive compensation with equity participation
-- Comprehensive health, dental, and vision insurance
-- Flexible working arrangements and generous PTO
-- Professional development programs and mentorship
-- Clear career progression paths
-- Latest technologies and tools
-- Inclusive, diverse work environment
+- 지분 참여를 포함한 경쟁력 있는 보상
+- 종합적인 건강, 치과, 시력 보험
+- 유연한 근무 형태와 넉넉한 유급휴가(PTO)
+- 전문성 개발 프로그램과 멘토링
+- 명확한 커리어 성장 경로
+- 최신 기술과 도구
+- 포용적이고 다양성을 존중하는 근무 환경
 
-## Current Opportunities
+## 현재 채용 중인 포지션
 
-### Engineering
+### 엔지니어링
 
-**Senior Full Stack Engineer** - San Francisco, CA
-- Lead development of next-generation insurance platform features
-- Work with React, Node.js, Python, and cloud technologies
-- Mentor junior engineers and drive technical decisions
-- 5+ years experience required
+**시니어 풀스택 엔지니어** - 캘리포니아주 샌프란시스코
+- 차세대 보험 플랫폼 기능 개발 주도
+- React, Node.js, Python 및 클라우드 기술 활용
+- 주니어 엔지니어 멘토링 및 기술적 의사결정 주도
+- 5년 이상의 경력 필요
 
-**Backend Software Engineer** - San Francisco, CA / Austin, TX
-- Build scalable microservices and APIs
-- Optimize system performance and reliability
-- Collaborate with product and design teams
-- 3+ years experience with Java, Python, or Go
+**백엔드 소프트웨어 엔지니어** - 캘리포니아주 샌프란시스코 / 텍사스주 오스틴
+- 확장 가능한 마이크로서비스 및 API 구축
+- 시스템 성능 및 안정성 최적화
+- 제품 및 디자인 팀과 협업
+- Java, Python 또는 Go 관련 3년 이상의 경력
 
-**Frontend Developer** - Remote
-- Create intuitive user interfaces for our insurance platforms
-- Work with modern frameworks (React, Vue, or Angular)
-- Ensure accessibility and responsive design
-- 2+ years experience required
+**프론트엔드 개발자** - 원격 근무
+- 보험 플랫폼을 위한 직관적인 사용자 인터페이스 제작
+- 최신 프레임워크(React, Vue 또는 Angular) 활용
+- 접근성 및 반응형 디자인 보장
+- 2년 이상의 경력 필요
 
-**DevOps Engineer** - New York, NY
-- Manage cloud infrastructure (AWS/GCP)
-- Implement CI/CD pipelines and automation
-- Monitor system performance and security
-- 3+ years experience in DevOps/SRE
+**데브옵스 엔지니어** - 뉴욕주 뉴욕
+- 클라우드 인프라(AWS/GCP) 관리
+- CI/CD 파이프라인 및 자동화 구현
+- 시스템 성능 및 보안 모니터링
+- 데브옵스/SRE 관련 3년 이상의 경력
 
-**Mobile Developer (iOS/Android)** - San Francisco, CA
-- Build native mobile applications for our marketplace
-- Create seamless user experiences
-- Integrate with backend APIs
-- 3+ years mobile development experience
+**모바일 개발자(iOS/Android)** - 캘리포니아주 샌프란시스코
+- 마켓플레이스를 위한 네이티브 모바일 애플리케이션 구축
+- 매끄러운 사용자 경험 제작
+- 백엔드 API와의 연동
+- 3년 이상의 모바일 개발 경력
 
-### Data & Analytics
+### 데이터 및 분석
 
-**Senior Data Scientist** - San Francisco, CA / New York, NY
-- Develop predictive models for insurance risk assessment
-- Build recommendation systems for our marketplace
-- Lead data-driven product initiatives
-- PhD or MS in related field preferred, 4+ years experience
+**시니어 데이터 사이언티스트** - 캘리포니아주 샌프란시스코 / 뉴욕주 뉴욕
+- 보험 위험 평가를 위한 예측 모델 개발
+- 마켓플레이스를 위한 추천 시스템 구축
+- 데이터 기반 제품 이니셔티브 주도
+- 관련 분야 박사 또는 석사 학위 우대, 4년 이상의 경력
 
-**Data Engineer** - Austin, TX
-- Design and maintain data pipelines
-- Build data warehousing solutions
-- Optimize data infrastructure for scale
-- 3+ years experience with SQL, Python, and ETL tools
+**데이터 엔지니어** - 텍사스주 오스틴
+- 데이터 파이프라인 설계 및 유지 관리
+- 데이터 웨어하우징 솔루션 구축
+- 확장을 위한 데이터 인프라 최적화
+- SQL, Python 및 ETL 도구 관련 3년 이상의 경력
 
-**Business Intelligence Analyst** - Chicago, IL
-- Create dashboards and reports for stakeholders
-- Analyze business metrics and trends
-- Support data-driven decision making
-- 2+ years experience with BI tools (Tableau, Looker, etc.)
+**비즈니스 인텔리전스 애널리스트** - 일리노이주 시카고
+- 이해관계자를 위한 대시보드 및 보고서 작성
+- 비즈니스 지표 및 트렌드 분석
+- 데이터 기반 의사결정 지원
+- BI 도구(Tableau, Looker 등) 관련 2년 이상의 경력
 
-### Product & Design
+### 제품 및 디자인
 
-**Product Manager** - San Francisco, CA
-- Define product roadmap and strategy
-- Work closely with engineering and design teams
-- Gather customer insights and market research
-- 3+ years product management experience in B2B SaaS
+**프로덕트 매니저** - 캘리포니아주 샌프란시스코
+- 제품 로드맵 및 전략 수립
+- 엔지니어링 및 디자인 팀과의 긴밀한 협업
+- 고객 인사이트 및 시장 조사 수집
+- B2B SaaS 분야 3년 이상의 제품 관리 경력
 
-**UX/UI Designer** - Remote
-- Design user experiences for our insurance platforms
-- Conduct user research and usability testing
-- Create design systems and prototypes
-- 3+ years design experience, insurance/fintech preferred
+**UX/UI 디자이너** - 원격 근무
+- 보험 플랫폼을 위한 사용자 경험 설계
+- 사용자 조사 및 사용성 테스트 수행
+- 디자인 시스템 및 프로토타입 제작
+- 3년 이상의 디자인 경력, 보험/핀테크 분야 우대
 
-### Sales & Customer Success
+### 영업 및 고객 성공
 
-**Account Executive** - New York, NY / Chicago, IL / Austin, TX
-- Manage B2B sales cycle for enterprise clients
-- Build relationships with insurance companies
-- Exceed revenue targets and grow territory
-- 3+ years B2B sales experience, SaaS preferred
+**계정 임원(Account Executive)** - 뉴욕주 뉴욕 / 일리노이주 시카고 / 텍사스주 오스틴
+- 기업 고객을 위한 B2B 영업 사이클 관리
+- 보험사와의 관계 구축
+- 매출 목표 초과 달성 및 영업 지역 확대
+- 3년 이상의 B2B 영업 경력, SaaS 경력 우대
 
-**Sales Development Representative** - Austin, TX / Remote
-- Generate qualified leads for sales team
-- Conduct outreach to prospective clients
-- Research and identify target accounts
-- 1+ years SDR/BDR experience preferred
+**영업 개발 담당자(SDR)** - 텍사스주 오스틴 / 원격 근무
+- 영업팀을 위한 잠재 고객 발굴
+- 잠재 고객 대상 아웃리치 수행
+- 타깃 계정 조사 및 발굴
+- 1년 이상의 SDR/BDR 경력 우대
 
-**Customer Success Manager** - San Francisco, CA / New York, NY
-- Ensure client satisfaction and retention
-- Drive product adoption and expansion
-- Serve as trusted advisor to clients
-- 2+ years customer success experience in SaaS
+**고객 성공 매니저** - 캘리포니아주 샌프란시스코 / 뉴욕주 뉴욕
+- 고객 만족 및 유지율 확보
+- 제품 채택 및 확장 주도
+- 고객에게 신뢰받는 조언자 역할 수행
+- SaaS 분야 2년 이상의 고객 성공 경력
 
-**Solutions Engineer** - Remote
-- Provide technical expertise during sales process
-- Conduct product demonstrations and POCs
-- Support implementation and integration
-- 3+ years technical pre-sales experience
+**솔루션 엔지니어** - 원격 근무
+- 영업 과정에서 기술 전문성 제공
+- 제품 데모 및 개념 증명(POC) 수행
+- 구현 및 통합 지원
+- 3년 이상의 기술 프리세일즈 경력
 
-### Operations & Support
+### 운영 및 지원
 
-**Technical Support Specialist** - Remote
-- Provide tier 2/3 technical support to clients
-- Troubleshoot platform issues
-- Create documentation and knowledge base articles
-- 2+ years technical support experience
+**기술 지원 전문가** - 원격 근무
+- 고객 대상 2/3단계 기술 지원 제공
+- 플랫폼 문제 해결
+- 문서 및 지식베이스 문서 작성
+- 2년 이상의 기술 지원 경력
 
-**HR Business Partner** - San Francisco, CA
-- Partner with leadership on people strategy
-- Support talent development and retention
-- Drive culture and engagement initiatives
-- 4+ years HR experience, tech industry preferred
+**HR 비즈니스 파트너** - 캘리포니아주 샌프란시스코
+- 인재 전략에 대해 경영진과 협업
+- 인재 개발 및 유지 지원
+- 문화 및 몰입도 증진 이니셔티브 주도
+- 4년 이상의 HR 경력, 기술 업계 우대
 
-## How to Apply
+## 지원 방법
 
-Visit our careers portal at careers.insurellm.com or send your resume to jobs@insurellm.com. Please include the position title in your subject line.
+채용 포털 careers.insurellm.com을 방문하시거나 이력서를 jobs@insurellm.com으로 보내주세요. 제목란에 지원하시는 직무명을 기재해 주시기 바랍니다.
 
-Insurellm is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Insurellm은 기회 균등 고용주입니다. 우리는 다양성을 존중하며 모든 직원을 위한 포용적인 환경 조성에 힘쓰고 있습니다.

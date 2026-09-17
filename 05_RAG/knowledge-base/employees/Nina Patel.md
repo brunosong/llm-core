@@ -1,54 +1,54 @@
-# HR Record
+# HR 기록
 
 # Nina Patel
 
-## Summary
-- **Date of Birth:** July 25, 1991
-- **Job Title:** Business Intelligence Analyst
-- **Location:** Chicago, Illinois
-- **Current Salary:** $82,000
+## 요약
+- **생년월일:** 1991년 7월 25일
+- **직책:** Business Intelligence Analyst
+- **근무지:** 일리노이주 시카고
+- **현재 연봉:** $82,000
 
-## Insurellm Career Progression
-- **February 2021 - Present:** Business Intelligence Analyst
-  - Builds dashboards and reports using Tableau and Looker for executive team
-  - Analyzes business metrics across all product lines
-  - Partners with sales and marketing teams on data-driven insights
+## Insurellm 경력 진행
+- **2021년 2월 - 현재:** Business Intelligence Analyst
+  - 경영진을 위해 Tableau와 Looker를 활용한 대시보드와 리포트 구축
+  - 전 제품 라인의 비즈니스 지표 분석
+  - 영업 및 마케팅 팀과 협력하여 데이터 기반 인사이트 제공
 
-- **August 2019 - January 2021:** Junior BI Analyst
-  - Created SQL queries and basic reports for business stakeholders
-  - Supported senior analysts with data extraction and validation
-  - Maintained existing dashboards and fixed data quality issues
+- **2019년 8월 - 2021년 1월:** Junior BI Analyst
+  - 비즈니스 이해관계자를 위한 SQL 쿼리 작성 및 기본 리포트 제작
+  - 데이터 추출 및 검증 업무로 시니어 애널리스트 지원
+  - 기존 대시보드 유지관리 및 데이터 품질 문제 해결
 
-- **May 2017 - July 2019:** Data Analyst at RetailMetrics Inc.
-  - Analyzed retail sales data and customer behavior patterns
-  - Built Excel-based reporting tools for operations team
+- **2017년 5월 - 2019년 7월:** RetailMetrics Inc., Data Analyst
+  - 소매 판매 데이터 및 고객 행동 패턴 분석
+  - 운영팀을 위한 Excel 기반 리포팅 도구 구축
 
-## Annual Performance History
-- **2023:** Rating: 3.5/5
-  *Meets expectations but has room for growth. Delivered all required reports but showed limited proactivity in identifying new insights.*
+## 연간 성과 이력
+- **2023년:** 평점 3.5/5
+  *기대치는 충족하나 성장 여지가 있음. 요구된 리포트는 모두 제출했으나 새로운 인사이트 발굴에는 다소 소극적이었음.*
 
-- **2022:** Rating: 3.2/5
-  *Below expectations. Struggled with complex SQL queries and missed several deadlines. Enrolled in advanced analytics training.*
+- **2022년:** 평점 3.2/5
+  *기대치 미달. 복잡한 SQL 쿼리 작성에 어려움을 겪었고 몇몇 마감을 지키지 못함. 고급 분석 교육 과정에 등록함.*
 
-- **2021:** Rating: 3.8/5
-  *Solid performance in first year as BI Analyst. Demonstrated good grasp of business metrics and stakeholder communication.*
+- **2021년:** 평점 3.8/5
+  *BI Analyst로서의 첫해 견실한 성과. 비즈니스 지표에 대한 이해와 이해관계자 커뮤니케이션 능력을 보여줌.*
 
-- **2020:** Rating: 4.0/5
-  *Strong performance as Junior Analyst. Showed initiative and eagerness to learn new tools.*
+- **2020년:** 평점 4.0/5
+  *Junior Analyst로서 우수한 성과. 주도성과 새로운 도구를 배우려는 의지를 보임.*
 
-- **2019:** Rating: 3.9/5
-  *Good onboarding year. Quick to adapt to Insurellm's data systems.*
+- **2019년:** 평점 3.9/5
+  *온보딩 첫해 양호한 성과. Insurellm의 데이터 시스템에 빠르게 적응함.*
 
-## Compensation History
-- **2023:** Base Salary: $82,000 + Bonus: $4,000
-- **2022:** Base Salary: $78,000 + Bonus: $2,000
-- **2021:** Base Salary: $75,000 + Bonus: $5,000
-- **2020:** Base Salary: $65,000 + Bonus: $3,000
-- **2019:** Base Salary: $60,000
+## 보상 이력
+- **2023년:** 기본급 $82,000 + 보너스 $4,000
+- **2022년:** 기본급 $78,000 + 보너스 $2,000
+- **2021년:** 기본급 $75,000 + 보너스 $5,000
+- **2020년:** 기본급 $65,000 + 보너스 $3,000
+- **2019년:** 기본급 $60,000
 
-## Other HR Notes
-- **Education:** BS in Statistics from University of Illinois at Chicago
-- **Skills:** Proficient in SQL, Tableau, Looker, Excel. Learning Python for advanced analytics.
-- **Development Areas:** Needs to improve proactive problem-solving and complex analytical thinking. Working with mentor to develop these skills.
-- **Training:** Completed Advanced SQL course (2022), enrolled in Data Science fundamentals program (2023)
-- **Feedback:** Reliable team member with strong attention to detail. Works well on defined projects but needs guidance on ambiguous problems.
+## 기타 HR 메모
+- **학력:** University of Illinois at Chicago 통계학 학사(BS)
+- **역량:** SQL, Tableau, Looker, Excel에 능숙함. 고급 분석을 위해 Python 학습 중.
+- **개선 영역:** 주도적인 문제 해결 능력과 복잡한 분석적 사고력 향상 필요. 멘토와 함께 이러한 역량 개발 중.
+- **교육 이수:** 고급 SQL 과정 이수(2022), 데이터 사이언스 기초 프로그램 등록(2023)
+- **피드백:** 세심함이 돋보이는 신뢰할 수 있는 팀원. 명확히 정의된 프로젝트에서는 잘 수행하나 모호한 문제에는 지도가 필요함.

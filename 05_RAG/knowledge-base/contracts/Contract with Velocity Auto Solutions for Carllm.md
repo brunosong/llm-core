@@ -1,52 +1,52 @@
-# Contract with Velocity Auto Solutions for Carllm
+# Velocity Auto Solutions와 Carllm에 관한 계약
 
-**Contract Date:** October 1, 2023  
-**Contract Number:** C-12345-2023  
-**Client:** Velocity Auto Solutions  
-**Product:** Carllm Auto Insurance Solution  
-
----
-
-## Terms
-
-1. **Duration**: This contract is effective for a period of 12 months from the contract date.  
-2. **Payment Schedule**: Velocity Auto Solutions agrees to pay Insurellm the total fee associated with the selected subscription tier on a monthly basis, beginning on the contract date.  
-3. **Confidentiality**: Both parties agree to keep all proprietary information confidential and not to disclose it to any third parties without written consent.  
-4. **Intellectual Property**: All components of Carllm and any related technology are the property of Insurellm, and license is granted to Velocity Auto Solutions for internal use only.  
-
-## Renewal
-
-1. **Automatic Renewal**: This contract will automatically renew for successive 12-month periods unless either party provides written notice at least 30 days prior to the end of the initial term or any renewal term.  
-2. **Rate Adjustment**: Subscription pricing may be subject to adjustment, with Insurellm providing a 60-day advance notice of any changes prior to renewal.  
-
-## Features
-
-1. **Included Features**:  
-   - AI-Powered Risk Assessment  
-   - Instant Quoting and Customizable Coverage Plans  
-   - Fraud Detection Systems  
-   - Customer Insights Dashboard  
-   - Automated Customer Support  
-
-2. **Feature Enhancements**: Velocity Auto Solutions will receive updates to the Carllm product as outlined in the Insurellm 2025-2026 Roadmap, including mobile integration and telematics-based pricing enhancements.
-
-## Support
-
-1. **Customer Support**: Velocity Auto Solutions will have access to Insurellm’s customer support team via email or chatbot, available 24/7.  
-2. **Technical Maintenance**: Regular maintenance and updates to the Carllm platform will be conducted by Insurellm, with any downtime communicated in advance.  
-3. **Training & Resources**: Initial training sessions will be provided for Velocity Auto Solutions’ staff to ensure effective use of the Carllm suite. Regular resources and documentation will be made available online.
+**계약일:** 2023년 10월 1일
+**계약 번호:** C-12345-2023
+**고객:** Velocity Auto Solutions
+**제품:** Carllm Auto Insurance Solution
 
 ---
 
-**Accepted and Agreed:**  
-**For Velocity Auto Solutions**  
-Signature: _____________________  
-Name: John Doe  
-Title: CEO  
-Date: _____________________  
+## 계약 조건
 
-**For Insurellm**  
-Signature: _____________________  
-Name: Jane Smith  
-Title: VP of Sales  
-Date: _____________________
+1. **기간**: 본 계약은 계약일로부터 12개월간 유효하다.
+2. **결제 일정**: Velocity Auto Solutions는 계약일로부터 매월 선택한 구독 등급에 해당하는 총 요금을 Insurellm에 지급하는 데 동의한다.
+3. **비밀유지**: 양 당사자는 모든 독점 정보의 기밀을 유지하며, 서면 동의 없이 제3자에게 공개하지 않는 데 동의한다.
+4. **지적재산권**: Carllm의 모든 구성 요소 및 관련 기술은 Insurellm의 자산이며, Velocity Auto Solutions에는 내부 사용만을 위한 라이선스가 부여된다.
+
+## 갱신
+
+1. **자동 갱신**: 본 계약은 어느 한쪽 당사자가 최초 기간 또는 갱신 기간 종료 최소 30일 전에 서면 통지를 하지 않는 한, 연속되는 12개월 단위로 자동 갱신된다.
+2. **요율 조정**: 구독 가격은 조정될 수 있으며, Insurellm은 갱신 전 변경 사항에 대해 60일 전 사전 통지를 제공한다.
+
+## 기능
+
+1. **포함된 기능**:
+   - AI 기반 위험 평가
+   - 즉시 견적 및 맞춤형 보장 플랜
+   - 사기 탐지 시스템
+   - 고객 인사이트 대시보드
+   - 자동 고객 지원
+
+2. **기능 개선**: Velocity Auto Solutions는 Insurellm의 2025-2026년 로드맵에 명시된 바와 같이, 모바일 연동 및 텔레매틱스 기반 가격 산정 개선을 포함한 Carllm 제품 업데이트를 제공받는다.
+
+## 지원
+
+1. **고객 지원**: Velocity Auto Solutions는 이메일 또는 챗봇을 통해 24/7 이용 가능한 Insurellm 고객 지원팀에 접근할 수 있다.
+2. **기술 유지보수**: Carllm 플랫폼의 정기 유지보수 및 업데이트는 Insurellm이 수행하며, 서비스 중단이 있을 경우 사전에 공지된다.
+3. **교육 및 자료**: Velocity Auto Solutions 직원의 효과적인 Carllm 활용을 위한 초기 교육 세션이 제공된다. 정기적인 자료와 문서는 온라인으로 제공된다.
+
+---
+
+**승인 및 합의:**
+**Velocity Auto Solutions 측**
+서명: _____________________
+성명: John Doe
+직책: CEO
+날짜: _____________________
+
+**Insurellm 측**
+서명: _____________________
+성명: Jane Smith
+직책: VP of Sales
+날짜: _____________________

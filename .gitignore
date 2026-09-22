@@ -176,5 +176,5 @@ products_vectorstore/
 .gradio
 /.gradio
 
-
+preprocessed_db
 *.db
